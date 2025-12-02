@@ -1,6 +1,234 @@
 [
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_AX_74_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f1263a765238b77d2a20",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0176e9ab53935e67224e",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/cb9908b8aef9e9fcf6aba39b1d2b468e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_C",
+    "reference": "ALT_CYCLONE_A_AX_74_C",
+    "id": "7ZWXYBSYAP8708P18JDGQDRE9H",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/aa1d30595ec52ae9275dc6f33264b500.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/e1940b7ca871407f6a3c97036c4ccb52.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/cb9908b8aef9e9fcf6aba39b1d2b468e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/c0bb25bfccd65480d88b538cbfa73924.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/366bc8782723cd52b131723fcdfb1fbf.jpg"
+    },
+    "name": "Lucan, Léviathan Affamé",
+    "elements": {
+      "MAIN_COST": "5",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "[Gigantesque].  {J} Vous pouvez défausser autant de cartes que vous le voulez de votre Réserve pour me donner autant de boosts."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-10-C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_AX_74_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b6953ac4e8b1e7f8c810",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7e38baa09bdf96682a41",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/080c258883be0dde8550159988f79eb4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_R1",
+    "reference": "ALT_CYCLONE_A_AX_74_R1",
+    "id": "5DY66F8FW795MT5FJBERV1MD3C",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/080c258883be0dde8550159988f79eb4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/df18079a9c01e224ef260d89fd67a193.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/57633edf8a1962496b90762d39cc9462.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/a35ae64654675deafa647e7db91d15ff.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/3e296a4a711636321275bc73a107a737.jpg"
+    },
+    "name": "Lucan, Léviathan Affamé",
+    "elements": {
+      "MAIN_COST": "5",
+      "RECALL_COST": "#5#",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "[Gigantesque], #[Coriace 1].#  {J} Vous pouvez #sacrifier# autant de #Permanents# que vous le voulez pour me donner autant de boosts."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-10-R-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_YZ_73_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/43aeaa16e053b7fed5e5",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e29aef8e80b159788dac",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/4d78d9a06b737297887b5b6cf35da429.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_R2",
+    "reference": "ALT_CYCLONE_A_YZ_73_R2",
+    "id": "3WYJBW6CQ49NM9Y4HX878CVMVT",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/4efe00009d719615d9864093bd305f56.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/9eaba529af5b1a4363e1e794112e18a0.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/bde750c9819f656880f63686a9f47967.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/d961710debdf4f34cb83a79c94c011ac.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/4d78d9a06b737297887b5b6cf35da429.jpg"
+    },
+    "name": "Alelo, Léviathan Énigmatique",
+    "elements": {
+      "MAIN_COST": "#4#",
+      "RECALL_COST": "#4#",
+      "OCEAN_POWER": "#1#",
+      "FOREST_POWER": "#1#",
+      "MOUNTAIN_POWER": "#1#",
+      "MAIN_EFFECT": "[Gigantesque].  Je suis aussi considéré comme un #Permanent d'Expédition,# même quand je ne suis pas en jeu."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-100-F-FR"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_AX_31_C",
     "@type": "Card",
     "cardType": {
@@ -3953,7 +4181,7 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_AX_74_C",
+    "@id": "/cards/ALT_CYCLONE_A_BR_77_C",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -3965,7 +4193,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f1263a765238b77d2a20",
+        "@id": "/.well-known/genid/a2950a659d08798dd29a",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -3980,204 +4208,205 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/0176e9ab53935e67224e",
+      "@id": "/.well-known/genid/ea8b81f3dfc79df74293",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/cb9908b8aef9e9fcf6aba39b1d2b468e.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/efc2a3b3b2e9eb79cfb7e8f7e45d3911.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_C",
-    "reference": "ALT_CYCLONE_A_AX_74_C",
-    "id": "7ZWXYBSYAP8708P18JDGQDRE9H",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_C",
+    "reference": "ALT_CYCLONE_A_BR_77_C",
+    "id": "0MWSSDHSCA9WD8048F0AQVWEY2",
     "mainFaction": {
-      "@id": "/factions/AX",
+      "@id": "/factions/BR",
       "@type": "Faction",
-      "reference": "AX",
-      "color": "#8c432a",
-      "id": "01GE7AC9XBG707G19F03A95TH1",
-      "name": "Axiom"
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
     },
     "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/aa1d30595ec52ae9275dc6f33264b500.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/e1940b7ca871407f6a3c97036c4ccb52.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/cb9908b8aef9e9fcf6aba39b1d2b468e.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/c0bb25bfccd65480d88b538cbfa73924.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/366bc8782723cd52b131723fcdfb1fbf.jpg"
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/efc2a3b3b2e9eb79cfb7e8f7e45d3911.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/59734394ed216a93b95924ae165e7f52.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/4df16df4a61703e981daf92640518623.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/8e7f7b9e0fb551f49272e5513c7b7380.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/5d7939392b823d3d7031246ca7e8b5d0.jpg"
     },
-    "name": "Lucan, Léviathan Affamé",
+    "name": "Halua, Léviathan Déchaîné",
     "elements": {
-      "MAIN_COST": "5",
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque Personnage gagne [[Fugace]]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-31-C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_BR_77_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c0bc1207ce7c1fb19c8d",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d706dd783a4abfb092e1",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/75f474d2794a3eaececd87db7fbd61e7.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_R1",
+    "reference": "ALT_CYCLONE_A_BR_77_R1",
+    "id": "3EGQC8SE1J8HMBQQ6MSX73JDPB",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/4a9d4e417e7b30fbf11d14500d9066c6.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/534c45fba1744851212a4bffd56ed403.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/24868dca5081038630520af130ab8413.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/fbc526e040a8cdefe86a2f46e5c643d2.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/75f474d2794a3eaececd87db7fbd61e7.jpg"
+    },
+    "name": "Halua, Léviathan Déchaîné",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque #autre# Personnage gagne [[Fugace]].",
+      "ECHO_EFFECT": "#{D} : Piochez une carte.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-31-R-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_LY_74_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b76102444c3447abae8b",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/beb7db151c5d01f90b56",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/6d15f91cd8155e87ef00627618006cab.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_4618bac2d03091fb6f229961e2c732a0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_98caf3e1233dd476e64dbe1a29872224",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_d62a64bec6cf2f55dba497b12111bd49"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_R2",
+    "reference": "ALT_CYCLONE_A_LY_74_R2",
+    "id": "4RKV9FYWP59FT9HJ1N51P8JRB5",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/7b814b7c5d90352095252fb0850eed2c.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/32b30299035d01688d9edc51f7609d0f.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/4736e74063b0bc724b46fc650016eceb.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/4dada8f5b4560a2befd4cd4da961295e.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/6d15f91cd8155e87ef00627618006cab.jpg"
+    },
+    "name": "Koï, Léviathan Espiègle",
+    "elements": {
+      "MAIN_COST": "4",
       "RECALL_COST": "4",
-      "OCEAN_POWER": "2",
-      "FOREST_POWER": "2",
-      "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "[Gigantesque].  {J} Vous pouvez défausser autant de cartes que vous le voulez de votre Réserve pour me donner autant de boosts."
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantesque]."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-10-C-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_AX_74_R1",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/b6953ac4e8b1e7f8c810",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/7e38baa09bdf96682a41",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/080c258883be0dde8550159988f79eb4.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_R1",
-    "reference": "ALT_CYCLONE_A_AX_74_R1",
-    "id": "5DY66F8FW795MT5FJBERV1MD3C",
-    "mainFaction": {
-      "@id": "/factions/AX",
-      "@type": "Faction",
-      "reference": "AX",
-      "color": "#8c432a",
-      "id": "01GE7AC9XBG707G19F03A95TH1",
-      "name": "Axiom"
-    },
-    "allImagePath": {
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/080c258883be0dde8550159988f79eb4.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/df18079a9c01e224ef260d89fd67a193.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/57633edf8a1962496b90762d39cc9462.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/a35ae64654675deafa647e7db91d15ff.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/3e296a4a711636321275bc73a107a737.jpg"
-    },
-    "name": "Lucan, Léviathan Affamé",
-    "elements": {
-      "MAIN_COST": "5",
-      "RECALL_COST": "#5#",
-      "OCEAN_POWER": "2",
-      "FOREST_POWER": "2",
-      "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "[Gigantesque], #[Coriace 1].#  {J} Vous pouvez #sacrifier# autant de #Permanents# que vous le voulez pour me donner autant de boosts."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-10-R-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_YZ_73_R2",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/43aeaa16e053b7fed5e5",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/e29aef8e80b159788dac",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/4d78d9a06b737297887b5b6cf35da429.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_R2",
-    "reference": "ALT_CYCLONE_A_YZ_73_R2",
-    "id": "3WYJBW6CQ49NM9Y4HX878CVMVT",
-    "mainFaction": {
-      "@id": "/factions/AX",
-      "@type": "Faction",
-      "reference": "AX",
-      "color": "#8c432a",
-      "id": "01GE7AC9XBG707G19F03A95TH1",
-      "name": "Axiom"
-    },
-    "allImagePath": {
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/4efe00009d719615d9864093bd305f56.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/9eaba529af5b1a4363e1e794112e18a0.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/bde750c9819f656880f63686a9f47967.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/d961710debdf4f34cb83a79c94c011ac.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/4d78d9a06b737297887b5b6cf35da429.jpg"
-    },
-    "name": "Alelo, Léviathan Énigmatique",
-    "elements": {
-      "MAIN_COST": "#4#",
-      "RECALL_COST": "#4#",
-      "OCEAN_POWER": "#1#",
-      "FOREST_POWER": "#1#",
-      "MOUNTAIN_POWER": "#1#",
-      "MAIN_EFFECT": "[Gigantesque].  Je suis aussi considéré comme un #Permanent d'Expédition,# même quand je ne suis pas en jeu."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-100-F-FR"
+    "collectorNumber": "SKY-47-F-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -8174,7 +8403,7 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_BR_77_C",
+    "@id": "/cards/ALT_CYCLONE_A_AX_74_R2",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -8186,7 +8415,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a2950a659d08798dd29a",
+        "@id": "/.well-known/genid/c739d0c60594e2f0c0ce",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -8201,166 +8430,89 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/ea8b81f3dfc79df74293",
+      "@id": "/.well-known/genid/cdaacbf13dce574de1c0",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/91b18f2417ba56e996c12ab270fade21.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_R2",
+    "reference": "ALT_CYCLONE_A_AX_74_R2",
+    "id": "79W0W70CXS9AW8AB8333HABNQV",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/f4a69bf1a9b6b6877e57a4f473a11913.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/383444d08371e9d777045dd090c0f63e.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/12de8fbddbb21bdf54148cda57932929.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/f8db7a4ca5246fbf2f06da0bb244b637.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/91b18f2417ba56e996c12ab270fade21.jpg"
+    },
+    "name": "Lucan, Léviathan Affamé",
+    "elements": {
+      "MAIN_COST": "5",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "[Gigantesque].  {J} Vous pouvez défausser autant de cartes que vous le voulez de votre Réserve pour me donner autant de boosts."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-10-F-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_LY_74_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7bf95322e420460cd3a5",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/43f80783b513f0a7e42d",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/efc2a3b3b2e9eb79cfb7e8f7e45d3911.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_C",
-    "reference": "ALT_CYCLONE_A_BR_77_C",
-    "id": "0MWSSDHSCA9WD8048F0AQVWEY2",
-    "mainFaction": {
-      "@id": "/factions/BR",
-      "@type": "Faction",
-      "reference": "BR",
-      "color": "#c32637",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
-      "name": "Bravos"
-    },
-    "allImagePath": {
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/efc2a3b3b2e9eb79cfb7e8f7e45d3911.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/59734394ed216a93b95924ae165e7f52.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/4df16df4a61703e981daf92640518623.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/8e7f7b9e0fb551f49272e5513c7b7380.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/5d7939392b823d3d7031246ca7e8b5d0.jpg"
-    },
-    "name": "Halua, Léviathan Déchaîné",
-    "elements": {
-      "MAIN_COST": "7",
-      "RECALL_COST": "7",
-      "OCEAN_POWER": "5",
-      "FOREST_POWER": "5",
-      "MOUNTAIN_POWER": "5",
-      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque Personnage gagne [[Fugace]]."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-31-C-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_BR_77_R1",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/c0bc1207ce7c1fb19c8d",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/d706dd783a4abfb092e1",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/75f474d2794a3eaececd87db7fbd61e7.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_R1",
-    "reference": "ALT_CYCLONE_A_BR_77_R1",
-    "id": "3EGQC8SE1J8HMBQQ6MSX73JDPB",
-    "mainFaction": {
-      "@id": "/factions/BR",
-      "@type": "Faction",
-      "reference": "BR",
-      "color": "#c32637",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
-      "name": "Bravos"
-    },
-    "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/4a9d4e417e7b30fbf11d14500d9066c6.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/534c45fba1744851212a4bffd56ed403.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/24868dca5081038630520af130ab8413.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/fbc526e040a8cdefe86a2f46e5c643d2.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/75f474d2794a3eaececd87db7fbd61e7.jpg"
-    },
-    "name": "Halua, Léviathan Déchaîné",
-    "elements": {
-      "MAIN_COST": "7",
-      "RECALL_COST": "7",
-      "OCEAN_POWER": "5",
-      "FOREST_POWER": "5",
-      "MOUNTAIN_POWER": "5",
-      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque #autre# Personnage gagne [[Fugace]].",
-      "ECHO_EFFECT": "#{D} : Piochez une carte.#"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-31-R-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_LY_74_R2",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/b76102444c3447abae8b",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/beb7db151c5d01f90b56",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/6d15f91cd8155e87ef00627618006cab.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/025a8c958e3cfd3ca3841e0acb710f1c.jpg",
     "assets": {
       "WEB": [
         "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_4618bac2d03091fb6f229961e2c732a0",
@@ -8369,23 +8521,23 @@
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_R2",
-    "reference": "ALT_CYCLONE_A_LY_74_R2",
-    "id": "4RKV9FYWP59FT9HJ1N51P8JRB5",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_C",
+    "reference": "ALT_CYCLONE_A_LY_74_C",
+    "id": "4VT5GDZHDE9PE9WS8JPQJTEHP9",
     "mainFaction": {
-      "@id": "/factions/BR",
+      "@id": "/factions/LY",
       "@type": "Faction",
-      "reference": "BR",
-      "color": "#c32637",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
-      "name": "Bravos"
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
     },
     "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/7b814b7c5d90352095252fb0850eed2c.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/32b30299035d01688d9edc51f7609d0f.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/4736e74063b0bc724b46fc650016eceb.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/4dada8f5b4560a2befd4cd4da961295e.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/6d15f91cd8155e87ef00627618006cab.jpg"
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/025a8c958e3cfd3ca3841e0acb710f1c.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/4a1d1929f58b21eaa35061037dc771ee.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/15f10fce9915e72470dc6b506eea20a2.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/476b11f959ac43c43fab5a6718ee58f0.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/17beaceb2e6654532c74aa6fa32ddfbd.jpg"
     },
     "name": "Koï, Léviathan Espiègle",
     "elements": {
@@ -8399,7 +8551,83 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-47-F-FR"
+    "collectorNumber": "SKY-47-C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_LY_74_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d134dd76eec52f98da9c",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c47bfc219a425d05d963",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/4dbcadeff8f955b4ad6de287080e86e8.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_4618bac2d03091fb6f229961e2c732a0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_98caf3e1233dd476e64dbe1a29872224",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_d62a64bec6cf2f55dba497b12111bd49"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_R1",
+    "reference": "ALT_CYCLONE_A_LY_74_R1",
+    "id": "53MM2ZNBN68K0VM4H2R6T1NP9E",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/e8a2f1555dd6ed9943c28f4240806bbb.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/18c561a80c42f9f5cf302a888c5d1607.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/4dbcadeff8f955b4ad6de287080e86e8.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/2c49e2090ecf8878ff5af877ec3ce361.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/2408aa870ffa54e71fa7af04f2d5fafb.jpg"
+    },
+    "name": "Koï, Léviathan Espiègle",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "[Gigantesque].  #{H} Si aucune de mes Expéditions n'est en {M}, piochez une carte.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-47-R-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -12261,7 +12489,7 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_AX_74_R2",
+    "@id": "/cards/ALT_CYCLONE_A_BR_77_R2",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -12273,7 +12501,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c739d0c60594e2f0c0ce",
+        "@id": "/.well-known/genid/ac4fab9765cf9ac875a8",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -12288,56 +12516,57 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/cdaacbf13dce574de1c0",
+      "@id": "/.well-known/genid/ab260823174610ff85e6",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/91b18f2417ba56e996c12ab270fade21.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/b39f15e5ba81428ca318bf20847b0b25.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_R2",
-    "reference": "ALT_CYCLONE_A_AX_74_R2",
-    "id": "79W0W70CXS9AW8AB8333HABNQV",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_R2",
+    "reference": "ALT_CYCLONE_A_BR_77_R2",
+    "id": "3JSQ8XQBD88VHB37D7FFK5BBPV",
     "mainFaction": {
-      "@id": "/factions/LY",
+      "@id": "/factions/MU",
       "@type": "Faction",
-      "reference": "LY",
-      "color": "#cf4171",
-      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
-      "name": "Lyra"
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
     },
     "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/f4a69bf1a9b6b6877e57a4f473a11913.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/383444d08371e9d777045dd090c0f63e.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/12de8fbddbb21bdf54148cda57932929.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/f8db7a4ca5246fbf2f06da0bb244b637.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/91b18f2417ba56e996c12ab270fade21.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/c37d50e941d410ea5ed327e3b6274d21.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/6a91a0663aca29faee564f8fe72ed304.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/e63dda0de3e801bfdd9e4673aa1e27a8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/02816b3296be5bc85c9875bd9e8ba38b.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/b39f15e5ba81428ca318bf20847b0b25.jpg"
     },
-    "name": "Lucan, Léviathan Affamé",
+    "name": "Halua, Léviathan Déchaîné",
     "elements": {
-      "MAIN_COST": "5",
-      "RECALL_COST": "4",
-      "OCEAN_POWER": "2",
-      "FOREST_POWER": "2",
-      "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "[Gigantesque].  {J} Vous pouvez défausser autant de cartes que vous le voulez de votre Réserve pour me donner autant de boosts."
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque #autre# Personnage gagne [[Fugace]].",
+      "ECHO_EFFECT": "#{D} : Piochez une carte.#"
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-10-F-FR"
+    "collectorNumber": "SKY-31-F-FR"
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_LY_74_C",
+    "@id": "/cards/ALT_CYCLONE_A_MU_74_C",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -12349,7 +12578,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7bf95322e420460cd3a5",
+        "@id": "/.well-known/genid/7e694a577dbdc426fed8",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -12364,56 +12593,56 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/43f80783b513f0a7e42d",
+      "@id": "/.well-known/genid/c091d853958c3a1e10ba",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/025a8c958e3cfd3ca3841e0acb710f1c.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/4e0fafff43ac5704855bb66c95905a0f.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_4618bac2d03091fb6f229961e2c732a0",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_98caf3e1233dd476e64dbe1a29872224",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_d62a64bec6cf2f55dba497b12111bd49"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_7bc7b3fc866c0d1f1a592e390168e482",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_23f5987cc4b5bb07f771baa9de524188",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_d7303d3e5a4fffeb29e9748f8441ffad"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_C",
-    "reference": "ALT_CYCLONE_A_LY_74_C",
-    "id": "4VT5GDZHDE9PE9WS8JPQJTEHP9",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_74_C",
+    "reference": "ALT_CYCLONE_A_MU_74_C",
+    "id": "0KTG2DCYQV8KCRCC9J5K92F5DB",
     "mainFaction": {
-      "@id": "/factions/LY",
+      "@id": "/factions/MU",
       "@type": "Faction",
-      "reference": "LY",
-      "color": "#cf4171",
-      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
-      "name": "Lyra"
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
     },
     "allImagePath": {
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/025a8c958e3cfd3ca3841e0acb710f1c.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/4a1d1929f58b21eaa35061037dc771ee.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/15f10fce9915e72470dc6b506eea20a2.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/476b11f959ac43c43fab5a6718ee58f0.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/17beaceb2e6654532c74aa6fa32ddfbd.jpg"
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/de_DE/fe9ea0b7729fe07bb29ab9d686a2bcd1.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/es_ES/793e99189d0c1a55bfee34bf0c592a73.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/it_IT/b54ca151145ec90be22aa8d6f44fa3ac.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/en_US/102c6c16cc68d00b2e01d388ac789b1c.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/4e0fafff43ac5704855bb66c95905a0f.jpg"
     },
-    "name": "Koï, Léviathan Espiègle",
+    "name": "Zaratan, Léviathan Sociable",
     "elements": {
-      "MAIN_COST": "4",
-      "RECALL_COST": "4",
-      "OCEAN_POWER": "3",
-      "FOREST_POWER": "3",
-      "MOUNTAIN_POWER": "0",
-      "MAIN_EFFECT": "[Gigantesque]."
+      "MAIN_COST": "5",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "[Gigantesque].  {J} Je gagne 1 boost par Personnage dans les Expéditions qui me font face."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-47-C-FR"
+    "collectorNumber": "SKY-65-C-FR"
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_LY_74_R1",
+    "@id": "/cards/ALT_CYCLONE_A_MU_74_R1",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -12425,7 +12654,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d134dd76eec52f98da9c",
+        "@id": "/.well-known/genid/fb96894ffd18552b2175",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -12440,52 +12669,52 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/c47bfc219a425d05d963",
+      "@id": "/.well-known/genid/8fb1419a02acab806a3c",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/4dbcadeff8f955b4ad6de287080e86e8.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/c47ffdd221550624411c23858de82f2b.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_4618bac2d03091fb6f229961e2c732a0",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_98caf3e1233dd476e64dbe1a29872224",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_d62a64bec6cf2f55dba497b12111bd49"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_7bc7b3fc866c0d1f1a592e390168e482",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_23f5987cc4b5bb07f771baa9de524188",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_d7303d3e5a4fffeb29e9748f8441ffad"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_R1",
-    "reference": "ALT_CYCLONE_A_LY_74_R1",
-    "id": "53MM2ZNBN68K0VM4H2R6T1NP9E",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_74_R1",
+    "reference": "ALT_CYCLONE_A_MU_74_R1",
+    "id": "24KJ8EE19J90PVZV2B20Q580BC",
     "mainFaction": {
-      "@id": "/factions/LY",
+      "@id": "/factions/MU",
       "@type": "Faction",
-      "reference": "LY",
-      "color": "#cf4171",
-      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
-      "name": "Lyra"
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
     },
     "allImagePath": {
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/e8a2f1555dd6ed9943c28f4240806bbb.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/18c561a80c42f9f5cf302a888c5d1607.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/4dbcadeff8f955b4ad6de287080e86e8.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/2c49e2090ecf8878ff5af877ec3ce361.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/2408aa870ffa54e71fa7af04f2d5fafb.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/es_ES/10c2d15b51c070f535efb41088ad983e.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/it_IT/88da803e0b5502a116f2cb7561c5b326.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/en_US/b4f2581ca1efa807e3f6f01b97de0041.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/de_DE/4d6dd007da5c2f9814f51f12e1d6f287.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/c47ffdd221550624411c23858de82f2b.jpg"
     },
-    "name": "Koï, Léviathan Espiègle",
+    "name": "Zaratan, Léviathan Sociable",
     "elements": {
-      "MAIN_COST": "4",
-      "RECALL_COST": "4",
-      "OCEAN_POWER": "3",
-      "FOREST_POWER": "3",
-      "MOUNTAIN_POWER": "0",
-      "MAIN_EFFECT": "[Gigantesque].  #{H} Si aucune de mes Expéditions n'est en {M}, piochez une carte.#"
+      "MAIN_COST": "5",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "[Gigantesque].  #{J} Créez un jeton Animal [Dotouffu 1/1/1] dans une Expédition ciblée.#  {J} Je gagne 1 boost par Personnage dans les Expéditions qui me font face."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-47-R-FR"
+    "collectorNumber": "SKY-65-R-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -16450,22 +16679,22 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_BR_77_R2",
+    "@id": "/cards/ALT_CYCLONE_B_NE_03_C",
     "@type": "Card",
     "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@id": "/card_types/01JN9T9WB3A67XPW9251FVSS60",
       "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
+      "reference": "TOKEN_LANDMARK_PERMANENT",
+      "id": "01JN9T9WB3A67XPW9251FVSS60",
+      "name": "Jeton Repère Permanent"
     },
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ac4fab9765cf9ac875a8",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
+        "@id": "/.well-known/genid/4f070507f7c2b42a5500",
+        "reference": "ORE",
+        "id": "01JPYFRDDD06XC6SP7K6W89CTE",
+        "name": "Roc"
       }
     ],
     "cardSet": {
@@ -16477,133 +16706,51 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/ab260823174610ff85e6",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/b39f15e5ba81428ca318bf20847b0b25.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_R2",
-    "reference": "ALT_CYCLONE_A_BR_77_R2",
-    "id": "3JSQ8XQBD88VHB37D7FFK5BBPV",
-    "mainFaction": {
-      "@id": "/factions/MU",
-      "@type": "Faction",
-      "reference": "MU",
-      "color": "#3d6b42",
-      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
-      "name": "Muna"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/c37d50e941d410ea5ed327e3b6274d21.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/6a91a0663aca29faee564f8fe72ed304.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/e63dda0de3e801bfdd9e4673aa1e27a8.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/02816b3296be5bc85c9875bd9e8ba38b.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/b39f15e5ba81428ca318bf20847b0b25.jpg"
-    },
-    "name": "Halua, Léviathan Déchaîné",
-    "elements": {
-      "MAIN_COST": "7",
-      "RECALL_COST": "7",
-      "OCEAN_POWER": "5",
-      "FOREST_POWER": "5",
-      "MOUNTAIN_POWER": "5",
-      "MAIN_EFFECT": "[Gigantesque], [Coriace 1].  Au Crépuscule — Chaque #autre# Personnage gagne [[Fugace]].",
-      "ECHO_EFFECT": "#{D} : Piochez une carte.#"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-31-F-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_MU_74_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/7e694a577dbdc426fed8",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/c091d853958c3a1e10ba",
+      "@id": "/.well-known/genid/77e757fd02bfac6d2a46",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/4e0fafff43ac5704855bb66c95905a0f.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/fr_FR/ee8ed458a0f81d7f809bec5396385e5e.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_7bc7b3fc866c0d1f1a592e390168e482",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_23f5987cc4b5bb07f771baa9de524188",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_d7303d3e5a4fffeb29e9748f8441ffad"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/WEB_ddd0a576e7c8e078a461dc1189ae522f"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_74_C",
-    "reference": "ALT_CYCLONE_A_MU_74_C",
-    "id": "0KTG2DCYQV8KCRCC9J5K92F5DB",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_NE_03_C",
+    "reference": "ALT_CYCLONE_B_NE_03_C",
+    "id": "01JN9TBQ63XQQFSTPPJCF10TK3",
     "mainFaction": {
-      "@id": "/factions/MU",
+      "@id": "/factions/NE",
       "@type": "Faction",
-      "reference": "MU",
-      "color": "#3d6b42",
-      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
-      "name": "Muna"
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutre"
     },
     "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/de_DE/fe9ea0b7729fe07bb29ab9d686a2bcd1.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/es_ES/793e99189d0c1a55bfee34bf0c592a73.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/it_IT/b54ca151145ec90be22aa8d6f44fa3ac.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/en_US/102c6c16cc68d00b2e01d388ac789b1c.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/4e0fafff43ac5704855bb66c95905a0f.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/es_ES/869f5eb1fac8804d28cd9b2a0c3d1196.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/it_IT/30dc4f72b414c2ae3479b1208bd87946.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/en_US/e753315993d00fd79d9cc987c1073261.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/de_DE/f10fc7f19a922ce54ffb87101e81e511.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/fr_FR/ee8ed458a0f81d7f809bec5396385e5e.jpg"
     },
-    "name": "Zaratan, Léviathan Sociable",
+    "name": "Aérolithe",
     "elements": {
-      "MAIN_COST": "5",
-      "RECALL_COST": "5",
-      "OCEAN_POWER": "1",
-      "FOREST_POWER": "1",
-      "MOUNTAIN_POWER": "1",
-      "MAIN_EFFECT": "[Gigantesque].  {J} Je gagne 1 boost par Personnage dans les Expéditions qui me font face."
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque je suis sacrifié — [Ravitaillez]. (Les Repères excédentaires sont sacrifiés à la fin du Jour.)  {T}, {1} : Sacrifiez-moi."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-65-C-FR"
+    "collectorNumber": "SKY-111-T-FR"
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_MU_74_R1",
+    "@id": "/cards/ALT_CYCLONE_A_MU_74_R2",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -16615,7 +16762,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/fb96894ffd18552b2175",
+        "@id": "/.well-known/genid/d550135a19e6a24c6a06",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -16630,13 +16777,13 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/8fb1419a02acab806a3c",
+      "@id": "/.well-known/genid/012516652cf52dfe642d",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/c47ffdd221550624411c23858de82f2b.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/e9dffc08fb1cc4d8becbebe64a99b86e.jpg",
     "assets": {
       "WEB": [
         "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_7bc7b3fc866c0d1f1a592e390168e482",
@@ -16645,23 +16792,23 @@
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_74_R1",
-    "reference": "ALT_CYCLONE_A_MU_74_R1",
-    "id": "24KJ8EE19J90PVZV2B20Q580BC",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_74_R2",
+    "reference": "ALT_CYCLONE_A_MU_74_R2",
+    "id": "1FSC61CNHP85N8ZAAX3QD1P3BT",
     "mainFaction": {
-      "@id": "/factions/MU",
+      "@id": "/factions/OR",
       "@type": "Faction",
-      "reference": "MU",
-      "color": "#3d6b42",
-      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
-      "name": "Muna"
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
     },
     "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/es_ES/10c2d15b51c070f535efb41088ad983e.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/it_IT/88da803e0b5502a116f2cb7561c5b326.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/en_US/b4f2581ca1efa807e3f6f01b97de0041.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/de_DE/4d6dd007da5c2f9814f51f12e1d6f287.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/c47ffdd221550624411c23858de82f2b.jpg"
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/e9dffc08fb1cc4d8becbebe64a99b86e.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/es_ES/537fb7cbbf898fcd413803176997c761.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/it_IT/a7caec34b8dbae4e85ffbff782c6a74b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/de_DE/94a967d832171b87dbb0c0dc32413e9f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/en_US/344be3ea34c0c101cfaeacc89505227d.jpg"
     },
     "name": "Zaratan, Léviathan Sociable",
     "elements": {
@@ -16675,7 +16822,159 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-65-R-FR"
+    "collectorNumber": "SKY-65-F-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_OR_74_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b8426335502397331159",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/35d1a92ef776ea504427",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/823ee09220d9c159bbfe5c7cb5512394.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_7459a9bcf53345cf93b67ae53d937c8c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_5560dbf6cb391a84cf45286b9a2c3c55",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_aa543e407a6dbdaa679f7f404dd1e0a3"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_74_C",
+    "reference": "ALT_CYCLONE_A_OR_74_C",
+    "id": "2P6SD1G6JR81RVEER5CBMJBQR7",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/de_DE/c46c248ed52f8e06f3c212e782bcd397.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/it_IT/e6b3279ec0540d81e2a1725e3603a897.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/es_ES/0bead8bd71aed399c9bc640b14badfa3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/en_US/b0185710c49174f219755ee5cccc852b.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/823ee09220d9c159bbfe5c7cb5512394.jpg"
+    },
+    "name": "Sagitta, Léviathan Céleste",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Je coûte {1} de moins pour chacune de vos Expéditions Élevées.  [Gigantesque]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-83-C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_OR_74_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/89349966767f2696575c",
+        "reference": "LEVIATHAN",
+        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+        "name": "Léviathan"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Odyssée des cieux"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/61feab68ead2a8b2783e",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/cf1aea19e48d34d6ea42c681db605761.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_7459a9bcf53345cf93b67ae53d937c8c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_5560dbf6cb391a84cf45286b9a2c3c55",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_aa543e407a6dbdaa679f7f404dd1e0a3"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_74_R1",
+    "reference": "ALT_CYCLONE_A_OR_74_R1",
+    "id": "51KEEKSEEP86ZS2CEP1TJV566D",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/de_DE/2d74b81f3608f2b47e1198c726d1ccb7.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/es_ES/dc534f25acc3aa89937bae8f2e7a972f.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/it_IT/14892e9587adeacb122df769ad461dcb.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/en_US/729dcd8bef4347dc9ad3661ce0bc9f62.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/cf1aea19e48d34d6ea42c681db605761.jpg"
+    },
+    "name": "Sagitta, Léviathan Céleste",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Je coûte #{2} de moins# si #au moins une# de vos Expéditions est Élevée.  [Gigantesque]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "SKY-83-R-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -20567,7 +20866,7 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_MU_74_R2",
+    "@id": "/cards/ALT_CYCLONE_A_OR_74_R2",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -20579,7 +20878,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/d550135a19e6a24c6a06",
+        "@id": "/.well-known/genid/8b0872726613e3cf3b3b",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -20594,56 +20893,56 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/012516652cf52dfe642d",
+      "@id": "/.well-known/genid/c272d23b8a7158c9d499",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/e9dffc08fb1cc4d8becbebe64a99b86e.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/c162977c0cdf4c5c8f90a9e7e5b2a121.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_7bc7b3fc866c0d1f1a592e390168e482",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_23f5987cc4b5bb07f771baa9de524188",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/WEB_d7303d3e5a4fffeb29e9748f8441ffad"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_7459a9bcf53345cf93b67ae53d937c8c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_5560dbf6cb391a84cf45286b9a2c3c55",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_aa543e407a6dbdaa679f7f404dd1e0a3"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_74_R2",
-    "reference": "ALT_CYCLONE_A_MU_74_R2",
-    "id": "1FSC61CNHP85N8ZAAX3QD1P3BT",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_74_R2",
+    "reference": "ALT_CYCLONE_A_OR_74_R2",
+    "id": "6T78ZD83NC8TGV0BC7JX1J7PA3",
     "mainFaction": {
-      "@id": "/factions/OR",
+      "@id": "/factions/YZ",
       "@type": "Faction",
-      "reference": "OR",
-      "color": "#0f6593",
-      "id": "01GE7AC9X78DXSNKNB15KCF69X",
-      "name": "Ordis"
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
     },
     "allImagePath": {
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/fr_FR/e9dffc08fb1cc4d8becbebe64a99b86e.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/es_ES/537fb7cbbf898fcd413803176997c761.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/it_IT/a7caec34b8dbae4e85ffbff782c6a74b.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/de_DE/94a967d832171b87dbb0c0dc32413e9f.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_74/JPG/en_US/344be3ea34c0c101cfaeacc89505227d.jpg"
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/de_DE/1bdd41af48c2ba150a3e61b4eee9a293.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/es_ES/213ed3db3a817a152ec3d4731f85ab93.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/en_US/fad5ae26a9dc0b41c9a99084d552b640.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/it_IT/2048d1893222b2deb22429359b4e6ea8.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/c162977c0cdf4c5c8f90a9e7e5b2a121.jpg"
     },
-    "name": "Zaratan, Léviathan Sociable",
+    "name": "Sagitta, Léviathan Céleste",
     "elements": {
-      "MAIN_COST": "5",
-      "RECALL_COST": "5",
-      "OCEAN_POWER": "1",
-      "FOREST_POWER": "1",
-      "MOUNTAIN_POWER": "1",
-      "MAIN_EFFECT": "[Gigantesque].  #{J} Créez un jeton Animal [Dotouffu 1/1/1] dans une Expédition ciblée.#  {J} Je gagne 1 boost par Personnage dans les Expéditions qui me font face."
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Je coûte #{2} de moins# s'il y a #un Sort de Coût de Réserve {4} ou plus dans votre Réserve.#  [Gigantesque]."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-65-F-FR"
+    "collectorNumber": "SKY-83-F-FR"
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_OR_74_C",
+    "@id": "/cards/ALT_CYCLONE_A_YZ_73_C",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -20655,7 +20954,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/b8426335502397331159",
+        "@id": "/.well-known/genid/5037a481d67192d3c5c5",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -20670,56 +20969,56 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/35d1a92ef776ea504427",
+      "@id": "/.well-known/genid/fcbb6b02903d48e7ea88",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/823ee09220d9c159bbfe5c7cb5512394.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/979a9feaf197ba3537472efdda376370.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_7459a9bcf53345cf93b67ae53d937c8c",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_5560dbf6cb391a84cf45286b9a2c3c55",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_aa543e407a6dbdaa679f7f404dd1e0a3"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_74_C",
-    "reference": "ALT_CYCLONE_A_OR_74_C",
-    "id": "2P6SD1G6JR81RVEER5CBMJBQR7",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_C",
+    "reference": "ALT_CYCLONE_A_YZ_73_C",
+    "id": "55K04NJ8NK8NHTR043CM3TD7Y4",
     "mainFaction": {
-      "@id": "/factions/OR",
+      "@id": "/factions/YZ",
       "@type": "Faction",
-      "reference": "OR",
-      "color": "#0f6593",
-      "id": "01GE7AC9X78DXSNKNB15KCF69X",
-      "name": "Ordis"
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
     },
     "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/de_DE/c46c248ed52f8e06f3c212e782bcd397.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/it_IT/e6b3279ec0540d81e2a1725e3603a897.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/es_ES/0bead8bd71aed399c9bc640b14badfa3.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/en_US/b0185710c49174f219755ee5cccc852b.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/823ee09220d9c159bbfe5c7cb5512394.jpg"
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/e5703076aa0431a6d1dc57e693486894.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/baca54c917c3664ab7a6c5b4a669c0fd.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/e47b59783f77db3fb26f27cefd17ab47.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/979a9feaf197ba3537472efdda376370.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/c0a752047f63cdde0f961690263aa2e9.jpg"
     },
-    "name": "Sagitta, Léviathan Céleste",
+    "name": "Alelo, Léviathan Énigmatique",
     "elements": {
-      "MAIN_COST": "6",
-      "RECALL_COST": "6",
-      "OCEAN_POWER": "3",
-      "FOREST_POWER": "3",
+      "MAIN_COST": "5",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
       "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "Je coûte {1} de moins pour chacune de vos Expéditions Élevées.  [Gigantesque]."
+      "MAIN_EFFECT": "[Gigantesque].  Je suis aussi considéré comme un Sort, même quand je ne suis pas en jeu."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-83-C-FR"
+    "collectorNumber": "SKY-100-C-FR"
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_OR_74_R1",
+    "@id": "/cards/ALT_CYCLONE_A_YZ_73_R1",
     "@type": "Card",
     "cardType": {
       "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
@@ -20731,7 +21030,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/89349966767f2696575c",
+        "@id": "/.well-known/genid/6f51e5f087672d4912fd",
         "reference": "LEVIATHAN",
         "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
         "name": "Léviathan"
@@ -20746,52 +21045,52 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/61feab68ead2a8b2783e",
+      "@id": "/.well-known/genid/f2d943c2ba96258f7075",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
     "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/cf1aea19e48d34d6ea42c681db605761.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/6e3d041bc06908b00db0ed86e3db567f.jpg",
     "assets": {
       "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_7459a9bcf53345cf93b67ae53d937c8c",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_5560dbf6cb391a84cf45286b9a2c3c55",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_aa543e407a6dbdaa679f7f404dd1e0a3"
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
       ]
     },
     "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_74_R1",
-    "reference": "ALT_CYCLONE_A_OR_74_R1",
-    "id": "51KEEKSEEP86ZS2CEP1TJV566D",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_R1",
+    "reference": "ALT_CYCLONE_A_YZ_73_R1",
+    "id": "7P3DAKZG1A9PYT65SHHADE38TS",
     "mainFaction": {
-      "@id": "/factions/OR",
+      "@id": "/factions/YZ",
       "@type": "Faction",
-      "reference": "OR",
-      "color": "#0f6593",
-      "id": "01GE7AC9X78DXSNKNB15KCF69X",
-      "name": "Ordis"
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
     },
     "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/de_DE/2d74b81f3608f2b47e1198c726d1ccb7.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/es_ES/dc534f25acc3aa89937bae8f2e7a972f.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/it_IT/14892e9587adeacb122df769ad461dcb.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/en_US/729dcd8bef4347dc9ad3661ce0bc9f62.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/cf1aea19e48d34d6ea42c681db605761.jpg"
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/19397c164e1365dde17cc9b8601ea405.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/abe939d31f27583985471f4a785deec7.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/c05fd2fa8aa7ef3f5b5b2074a4aaa4e7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/0ca2e49099d16ea8e23e3e5a6a61ada4.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/6e3d041bc06908b00db0ed86e3db567f.jpg"
     },
-    "name": "Sagitta, Léviathan Céleste",
+    "name": "Alelo, Léviathan Énigmatique",
     "elements": {
-      "MAIN_COST": "6",
-      "RECALL_COST": "6",
-      "OCEAN_POWER": "3",
-      "FOREST_POWER": "3",
-      "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "Je coûte #{2} de moins# si #au moins une# de vos Expéditions est Élevée.  [Gigantesque]."
+      "MAIN_COST": "#4#",
+      "RECALL_COST": "#4#",
+      "OCEAN_POWER": "#1#",
+      "FOREST_POWER": "#1#",
+      "MOUNTAIN_POWER": "#1#",
+      "MAIN_EFFECT": "[Gigantesque].  Je suis aussi considéré comme un Sort, même quand je ne suis pas en jeu."
     },
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
-    "collectorNumber": "SKY-83-R-FR"
+    "collectorNumber": "SKY-100-R-FR"
   },
   {
     "@context": "/contexts/Card",
@@ -24770,304 +25069,5 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "SKY-108-R-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_OR_74_R2",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/8b0872726613e3cf3b3b",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/c272d23b8a7158c9d499",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/c162977c0cdf4c5c8f90a9e7e5b2a121.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_7459a9bcf53345cf93b67ae53d937c8c",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_5560dbf6cb391a84cf45286b9a2c3c55",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/WEB_aa543e407a6dbdaa679f7f404dd1e0a3"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_74_R2",
-    "reference": "ALT_CYCLONE_A_OR_74_R2",
-    "id": "6T78ZD83NC8TGV0BC7JX1J7PA3",
-    "mainFaction": {
-      "@id": "/factions/YZ",
-      "@type": "Faction",
-      "reference": "YZ",
-      "color": "#764891",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
-      "name": "Yzmir"
-    },
-    "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/de_DE/1bdd41af48c2ba150a3e61b4eee9a293.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/es_ES/213ed3db3a817a152ec3d4731f85ab93.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/en_US/fad5ae26a9dc0b41c9a99084d552b640.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/it_IT/2048d1893222b2deb22429359b4e6ea8.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_74/JPG/fr_FR/c162977c0cdf4c5c8f90a9e7e5b2a121.jpg"
-    },
-    "name": "Sagitta, Léviathan Céleste",
-    "elements": {
-      "MAIN_COST": "6",
-      "RECALL_COST": "6",
-      "OCEAN_POWER": "3",
-      "FOREST_POWER": "3",
-      "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "Je coûte #{2} de moins# s'il y a #un Sort de Coût de Réserve {4} ou plus dans votre Réserve.#  [Gigantesque]."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-83-F-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_YZ_73_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/5037a481d67192d3c5c5",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/fcbb6b02903d48e7ea88",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Commun"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/979a9feaf197ba3537472efdda376370.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_C",
-    "reference": "ALT_CYCLONE_A_YZ_73_C",
-    "id": "55K04NJ8NK8NHTR043CM3TD7Y4",
-    "mainFaction": {
-      "@id": "/factions/YZ",
-      "@type": "Faction",
-      "reference": "YZ",
-      "color": "#764891",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
-      "name": "Yzmir"
-    },
-    "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/e5703076aa0431a6d1dc57e693486894.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/baca54c917c3664ab7a6c5b4a669c0fd.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/e47b59783f77db3fb26f27cefd17ab47.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/979a9feaf197ba3537472efdda376370.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/c0a752047f63cdde0f961690263aa2e9.jpg"
-    },
-    "name": "Alelo, Léviathan Énigmatique",
-    "elements": {
-      "MAIN_COST": "5",
-      "RECALL_COST": "5",
-      "OCEAN_POWER": "2",
-      "FOREST_POWER": "2",
-      "MOUNTAIN_POWER": "2",
-      "MAIN_EFFECT": "[Gigantesque].  Je suis aussi considéré comme un Sort, même quand je ne suis pas en jeu."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-100-C-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_A_YZ_73_R1",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
-      "@type": "CardType",
-      "reference": "CHARACTER",
-      "id": "01H19NWA92A4ERAC4ATMSZNASS",
-      "name": "Personnage"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/6f51e5f087672d4912fd",
-        "reference": "LEVIATHAN",
-        "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
-        "name": "Léviathan"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/f2d943c2ba96258f7075",
-      "reference": "RARE",
-      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
-      "name": "Rare"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/6e3d041bc06908b00db0ed86e3db567f.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_R1",
-    "reference": "ALT_CYCLONE_A_YZ_73_R1",
-    "id": "7P3DAKZG1A9PYT65SHHADE38TS",
-    "mainFaction": {
-      "@id": "/factions/YZ",
-      "@type": "Faction",
-      "reference": "YZ",
-      "color": "#764891",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
-      "name": "Yzmir"
-    },
-    "allImagePath": {
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/19397c164e1365dde17cc9b8601ea405.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/abe939d31f27583985471f4a785deec7.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/c05fd2fa8aa7ef3f5b5b2074a4aaa4e7.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/0ca2e49099d16ea8e23e3e5a6a61ada4.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/6e3d041bc06908b00db0ed86e3db567f.jpg"
-    },
-    "name": "Alelo, Léviathan Énigmatique",
-    "elements": {
-      "MAIN_COST": "#4#",
-      "RECALL_COST": "#4#",
-      "OCEAN_POWER": "#1#",
-      "FOREST_POWER": "#1#",
-      "MOUNTAIN_POWER": "#1#",
-      "MAIN_EFFECT": "[Gigantesque].  Je suis aussi considéré comme un Sort, même quand je ne suis pas en jeu."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-100-R-FR"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CYCLONE_B_NE_03_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01JN9T9WB3A67XPW9251FVSS60",
-      "@type": "CardType",
-      "reference": "TOKEN_LANDMARK_PERMANENT",
-      "id": "01JN9T9WB3A67XPW9251FVSS60",
-      "name": "Jeton Repère Permanent"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/4f070507f7c2b42a5500",
-        "reference": "ORE",
-        "id": "01JPYFRDDD06XC6SP7K6W89CTE",
-        "name": "Roc"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/CYCLONE",
-      "@type": "CardSet",
-      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
-      "reference": "CYCLONE",
-      "name": "Odyssée des cieux"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/77e757fd02bfac6d2a46",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Commun"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/fr_FR/ee8ed458a0f81d7f809bec5396385e5e.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/WEB_ddd0a576e7c8e078a461dc1189ae522f"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_NE_03_C",
-    "reference": "ALT_CYCLONE_B_NE_03_C",
-    "id": "01JN9TBQ63XQQFSTPPJCF10TK3",
-    "mainFaction": {
-      "@id": "/factions/NE",
-      "@type": "Faction",
-      "reference": "NE",
-      "color": "#8f95b2",
-      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
-      "name": "Neutre"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/es_ES/869f5eb1fac8804d28cd9b2a0c3d1196.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/it_IT/30dc4f72b414c2ae3479b1208bd87946.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/en_US/e753315993d00fd79d9cc987c1073261.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/de_DE/f10fc7f19a922ce54ffb87101e81e511.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_NE_03/JPG/fr_FR/ee8ed458a0f81d7f809bec5396385e5e.jpg"
-    },
-    "name": "Aérolithe",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "MAIN_EFFECT": "Lorsque je suis sacrifié — [Ravitaillez]. (Les Repères excédentaires sont sacrifiés à la fin du Jour.)  {T}, {1} : Sacrifiez-moi."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "SKY-111-T-FR"
   }
 ]

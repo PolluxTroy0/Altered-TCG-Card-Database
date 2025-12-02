@@ -16262,6 +16262,69 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_NE_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN_MANA",
+      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "name": "Maná"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/BISE",
+      "@type": "CardSet",
+      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+      "reference": "BISE",
+      "name": "Whispers from the Maze"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0e34a2bc254e835a564f",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/es_ES/595182bf40225e6d548e0ba9f5f59b25.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/WEB_faf91d646d47466555b4d8feff085ef5"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_NE_01_C",
+    "reference": "ALT_BISE_B_NE_01_C",
+    "id": "01JB21S40DBTTHG0ZRS4DW6ME6",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutral"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/es_ES/595182bf40225e6d548e0ba9f5f59b25.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/de_DE/e79e7b856f84450c48aaf7e77a62f43d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/en_US/ac7bf2f78e7466194ee789b49b68b0df.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/it_IT/02adab48f5aa2e4fea9bdeffd08c484b.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/fr_FR/28f412905c57bca4b0c333f1da092005.jpg"
+    },
+    "name": "Convergencia de maná",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "No se me puede jugar, pero se me puede usar como orbe de maná. (En un draft, puedes añadir cualquier número de cartas \"Convergencia de maná\" a tu mazo.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "WFM-106-T-ES"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_A_MU_62_R2",
     "@type": "Card",
     "cardType": {
@@ -24464,68 +24527,5 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "WFM-102-R-ES"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_BISE_B_NE_01_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
-      "@type": "CardType",
-      "reference": "TOKEN_MANA",
-      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
-      "name": "Maná"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/BISE",
-      "@type": "CardSet",
-      "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
-      "reference": "BISE",
-      "name": "Whispers from the Maze"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/0e34a2bc254e835a564f",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/es_ES/595182bf40225e6d548e0ba9f5f59b25.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/WEB_faf91d646d47466555b4d8feff085ef5"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_NE_01_C",
-    "reference": "ALT_BISE_B_NE_01_C",
-    "id": "01JB21S40DBTTHG0ZRS4DW6ME6",
-    "mainFaction": {
-      "@id": "/factions/NE",
-      "@type": "Faction",
-      "reference": "NE",
-      "color": "#8f95b2",
-      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
-      "name": "Neutral"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/es_ES/595182bf40225e6d548e0ba9f5f59b25.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/de_DE/e79e7b856f84450c48aaf7e77a62f43d.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/en_US/ac7bf2f78e7466194ee789b49b68b0df.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/it_IT/02adab48f5aa2e4fea9bdeffd08c484b.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_NE_01/JPG/fr_FR/28f412905c57bca4b0c333f1da092005.jpg"
-    },
-    "name": "Convergencia de maná",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "MAIN_EFFECT": "No se me puede jugar, pero se me puede usar como orbe de maná. (En un draft, puedes añadir cualquier número de cartas \"Convergencia de maná\" a tu mazo.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "WFM-106-T-ES"
   }
 ]

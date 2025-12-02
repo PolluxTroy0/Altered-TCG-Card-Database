@@ -16700,6 +16700,143 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_NE_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN_MANA",
+      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "name": "Mana"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Trial by Frost"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/dd01f3ffc06f6c62b317",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/en_US/1bbace00eb1cc9d1722d5ae48e2c262f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/WEB_c10a5ff91cdc455bf66b14ff168950dd"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_NE_01_C",
+    "reference": "ALT_ALIZE_B_NE_01_C",
+    "id": "01J1QCD4WT0559BP7Y247XDA2D",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutral"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/es_ES/154bb50482d231bbe0817c78cef6c1d6.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/en_US/1bbace00eb1cc9d1722d5ae48e2c262f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/de_DE/4138a0882ede06cda70c88e3b4c0088e.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/it_IT/64212a5841b2f0dac5907d98234f6de7.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/fr_FR/014dda08f111b17accee25da03e87c86.jpg"
+    },
+    "name": "Mana Convergence",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "I can't be played but I can be used as a Mana Orb. (In Draft or Sealed format, you may add any number of 'Mana Convergence' cards to your deck.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "TBF-108-T-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_NE_02_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN",
+      "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+      "name": "Token Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9e2bd745ba8205c63f7c",
+        "reference": "ILLUSION",
+        "id": "01J1QBG2268GSN3G0S560XZGZY",
+        "name": "Illusion"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/ALIZE",
+      "@type": "CardSet",
+      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+      "reference": "ALIZE",
+      "name": "Trial by Frost"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/50571418eedf1d2fd91b",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/WEB_aa64f44da7d0825f6aeec54ebb970d4d"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_NE_02_C",
+    "reference": "ALT_ALIZE_B_NE_02_C",
+    "id": "01J1QCG337Q8CP02VDR4N8YQ7T",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutral"
+    },
+    "allImagePath": {
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/es_ES/fa8dfde4b5d6228340bd3e74a7b6c6ec.jpg",
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/fr_FR/81af2699c4db1ec7f117caf270be2bee.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/de_DE/94d443c4fedbc4723719739e297f5e81.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/it_IT/20b2bfd106cd14ee79cf63815d8779d6.jpg"
+    },
+    "name": "Dragon Shade",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "(If I leave the Expedition zone, remove me from the game.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "TBF-107-T-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_ALIZE_A_OR_38_C",
     "@type": "Card",
     "cardType": {
@@ -25335,142 +25472,5 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "TBF-109-F-EN"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_ALIZE_B_NE_01_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
-      "@type": "CardType",
-      "reference": "TOKEN_MANA",
-      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
-      "name": "Mana"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/ALIZE",
-      "@type": "CardSet",
-      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
-      "reference": "ALIZE",
-      "name": "Trial by Frost"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/dd01f3ffc06f6c62b317",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/en_US/1bbace00eb1cc9d1722d5ae48e2c262f.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/WEB_c10a5ff91cdc455bf66b14ff168950dd"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_NE_01_C",
-    "reference": "ALT_ALIZE_B_NE_01_C",
-    "id": "01J1QCD4WT0559BP7Y247XDA2D",
-    "mainFaction": {
-      "@id": "/factions/NE",
-      "@type": "Faction",
-      "reference": "NE",
-      "color": "#8f95b2",
-      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
-      "name": "Neutral"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/es_ES/154bb50482d231bbe0817c78cef6c1d6.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/en_US/1bbace00eb1cc9d1722d5ae48e2c262f.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/de_DE/4138a0882ede06cda70c88e3b4c0088e.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/it_IT/64212a5841b2f0dac5907d98234f6de7.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_01/JPG/fr_FR/014dda08f111b17accee25da03e87c86.jpg"
-    },
-    "name": "Mana Convergence",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "MAIN_EFFECT": "I can't be played but I can be used as a Mana Orb. (In Draft or Sealed format, you may add any number of 'Mana Convergence' cards to your deck.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "TBF-108-T-EN"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_ALIZE_B_NE_02_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
-      "@type": "CardType",
-      "reference": "TOKEN",
-      "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
-      "name": "Token Character"
-    },
-    "cardSubTypes": [
-      {
-        "@type": "CardSubType",
-        "@id": "/.well-known/genid/9e2bd745ba8205c63f7c",
-        "reference": "ILLUSION",
-        "id": "01J1QBG2268GSN3G0S560XZGZY",
-        "name": "Illusion"
-      }
-    ],
-    "cardSet": {
-      "@id": "/card_sets/ALIZE",
-      "@type": "CardSet",
-      "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
-      "reference": "ALIZE",
-      "name": "Trial by Frost"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/50571418eedf1d2fd91b",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/WEB_aa64f44da7d0825f6aeec54ebb970d4d"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_NE_02_C",
-    "reference": "ALT_ALIZE_B_NE_02_C",
-    "id": "01J1QCG337Q8CP02VDR4N8YQ7T",
-    "mainFaction": {
-      "@id": "/factions/NE",
-      "@type": "Faction",
-      "reference": "NE",
-      "color": "#8f95b2",
-      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
-      "name": "Neutral"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/es_ES/fa8dfde4b5d6228340bd3e74a7b6c6ec.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/fr_FR/81af2699c4db1ec7f117caf270be2bee.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/en_US/1ace63e78bc5e83728b385c439002c3a.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/de_DE/94d443c4fedbc4723719739e297f5e81.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_NE_02/JPG/it_IT/20b2bfd106cd14ee79cf63815d8779d6.jpg"
-    },
-    "name": "Dragon Shade",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "OCEAN_POWER": "5",
-      "FOREST_POWER": "5",
-      "MOUNTAIN_POWER": "5",
-      "MAIN_EFFECT": "(If I leave the Expedition zone, remove me from the game.)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "TBF-107-T-EN"
   }
 ]

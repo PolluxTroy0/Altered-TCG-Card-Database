@@ -28970,6 +28970,86 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_NE_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN_MANA",
+      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "name": "Mana"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/CORE",
+      "@type": "CardSet",
+      "id": "01HKAFJN3HG3TWKYV0E014K01G",
+      "reference": "CORE",
+      "name": "Beyond the Gates"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/fd241fc32f48110fd8a4",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "cardRulings": [
+      {
+        "@type": "CardRuling",
+        "@id": "/.well-known/genid/3e577a37488410cd0ed2",
+        "eventFormat": "STANDARD",
+        "createdAt": "2024-07-10T10:37:44+00:00",
+        "question": "Can I choose Mana Convergence if an effect asks me to discard a card or to put it in Reserve?",
+        "answer": "Yes."
+      },
+      {
+        "@type": "CardRuling",
+        "@id": "/.well-known/genid/c6d70f84eae7eeef6757",
+        "eventFormat": "STANDARD",
+        "createdAt": "2024-10-02T10:37:44+00:00",
+        "question": "What happens if a Mana Convergence somehow ends up in Reserve?",
+        "answer": "Nothing special. It cannot be played, but can still be discarded during Clean-Up or through another effect."
+      }
+    ],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/it_IT/8340ec8cd2e84601a1627be8500bad7d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_01/WEB_76f6f9e5bd07a76bcb95b3725e3288f5"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_NE_01_C",
+    "reference": "ALT_CORE_B_NE_01_C",
+    "id": "01HKAFXRNPJ0TZKBC9P182K4P5",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutral"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/fr_FR/e2627e9712fd6ce47b60c7fbedae6624.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/it_IT/8340ec8cd2e84601a1627be8500bad7d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/en_US/433fc8e2d172154dc9cb7e4177065e18.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/de_DE/6cb6da9e891c686e1bae3514dc79187f.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/es_ES/a9fd8b3c19e1992e3b45b6b7a224f5f5.jpg"
+    },
+    "name": "Convergenza di Mana",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Non puoi giocarmi, ma puoi usarmi come una sfera di mana. (In Draft, puoi aggiungere al tuo mazzo un qualsiasi numero di carte \"Convergenza di Mana\".)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "collectorNumber": "BTG-186-T-IT"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CORE_A_OR_24_C",
     "@type": "Card",
     "cardType": {
@@ -43863,85 +43943,5 @@
     "isErrated": true,
     "isBanned": false,
     "collectorNumber": "BTG-152-H-IT"
-  },
-  {
-    "@context": "/contexts/Card",
-    "@id": "/cards/ALT_CORE_B_NE_01_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
-      "@type": "CardType",
-      "reference": "TOKEN_MANA",
-      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
-      "name": "Mana"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/CORE",
-      "@type": "CardSet",
-      "id": "01HKAFJN3HG3TWKYV0E014K01G",
-      "reference": "CORE",
-      "name": "Beyond the Gates"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/fd241fc32f48110fd8a4",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [
-      {
-        "@type": "CardRuling",
-        "@id": "/.well-known/genid/3e577a37488410cd0ed2",
-        "eventFormat": "STANDARD",
-        "createdAt": "2024-07-10T10:37:44+00:00",
-        "question": "Can I choose Mana Convergence if an effect asks me to discard a card or to put it in Reserve?",
-        "answer": "Yes."
-      },
-      {
-        "@type": "CardRuling",
-        "@id": "/.well-known/genid/c6d70f84eae7eeef6757",
-        "eventFormat": "STANDARD",
-        "createdAt": "2024-10-02T10:37:44+00:00",
-        "question": "What happens if a Mana Convergence somehow ends up in Reserve?",
-        "answer": "Nothing special. It cannot be played, but can still be discarded during Clean-Up or through another effect."
-      }
-    ],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/it_IT/8340ec8cd2e84601a1627be8500bad7d.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_01/WEB_76f6f9e5bd07a76bcb95b3725e3288f5"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_NE_01_C",
-    "reference": "ALT_CORE_B_NE_01_C",
-    "id": "01HKAFXRNPJ0TZKBC9P182K4P5",
-    "mainFaction": {
-      "@id": "/factions/NE",
-      "@type": "Faction",
-      "reference": "NE",
-      "color": "#8f95b2",
-      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
-      "name": "Neutral"
-    },
-    "allImagePath": {
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/fr_FR/e2627e9712fd6ce47b60c7fbedae6624.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/it_IT/8340ec8cd2e84601a1627be8500bad7d.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/en_US/433fc8e2d172154dc9cb7e4177065e18.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/de_DE/6cb6da9e891c686e1bae3514dc79187f.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_NE_1/JPG/es_ES/a9fd8b3c19e1992e3b45b6b7a224f5f5.jpg"
-    },
-    "name": "Convergenza di Mana",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "MAIN_EFFECT": "Non puoi giocarmi, ma puoi usarmi come una sfera di mana. (In Draft, puoi aggiungere al tuo mazzo un qualsiasi numero di carte \"Convergenza di Mana\".)"
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "BTG-186-T-IT"
   }
 ]
