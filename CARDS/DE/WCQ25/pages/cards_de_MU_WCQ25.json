@@ -1,0 +1,72 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJSZ04RPJFYEWJ6KQ8NZ3D1",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCQ25",
+        "@type": "CardSet",
+        "id": "01JTJS33NQTY6A4RPTM11ARJTX",
+        "reference": "WCQ25",
+        "name": "World Championship Qualifier 2025 - FACTION CHAMPIONS CARDS"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d134bd3e90f586d939f",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/en_US/e0c336ec0252a8614aca5ec0605fb786.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/WEB_a7d054be4fa7e4139d47933e3b66ffe1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/WEB_4fcc89da75925f55fafcbbafe472bcb2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/WEB_cdb133e5325371663667784043786a5d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_MU_16_R1",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Aloe Vera",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/fr_FR/dbcfc7dd2c24d4f6486d1efaf65ad6ef.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/es_ES/36499c9a7903357ede9a886712f30c11.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/en_US/e0c336ec0252a8614aca5ec0605fb786.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/de_DE/2a956a2b95016b02e790299e63f45be5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/it_IT/5265129c8064d6bdf3e97537b0a83bfc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCQ25_P_MU_16_R1",
+      "@id": "/cards/ALT_WCQ25_P_MU_16_R1"
+    }
+  ]
+}

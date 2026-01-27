@@ -1,0 +1,994 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 17,
+  "hydra:member": [
+    {
+      "id": "01JYP9SVP3C0R8NTNB8RYY6KD7",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_89/JPG/en_US/b2c6c27898773e5a4c58538cfb5c388e.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_89_R2",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Nikola Tesla",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "",
+        "es-es": "",
+        "it-it": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_89/JPG/en_US/b2c6c27898773e5a4c58538cfb5c388e.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_89/JPG/fr_FR/b582f1098a9d899b110907a8e95be498.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_89_R2",
+      "@id": "/cards/ALT_DUSTER_B_AX_89_R2"
+    },
+    {
+      "id": "01JYP9SVPZ637XFV6NTWT4ST7D",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/en_US/6d40858e3871976d62af1d1da69014ff.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_102_R2",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Cable-Car Station",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/fr_FR/8d435f99a565a2fd7db9b2855f8a57a6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_102/JPG/en_US/6d40858e3871976d62af1d1da69014ff.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_LY_102_R2",
+      "@id": "/cards/ALT_DUSTER_B_LY_102_R2"
+    },
+    {
+      "id": "01JYP9SVQ46NZXBMT2J9PCKEXY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_89/JPG/en_US/383586dd8aa7ec390c3030d6296c7567.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_89_R2",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Charitable Reka",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_89/JPG/en_US/383586dd8aa7ec390c3030d6296c7567.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_89/JPG/es_ES/72dd5f1ddc7ac43abf742df187a6935a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_89/JPG/de_DE/310eba2beae7104a3938b0a8fc189424.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_89/JPG/fr_FR/4fd2b69dacc84e152fecd38dc697907e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_89/JPG/it_IT/b396e534ea376ccc5ead40f2d6598e3e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_89_R2",
+      "@id": "/cards/ALT_DUSTER_B_MU_89_R2"
+    },
+    {
+      "id": "01JYP9SVQCJFX81DYYE79D7A5M",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/en_US/e88f285436410843a238606c20eb7938.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_85_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Matz & Hive",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/en_US/e88f285436410843a238606c20eb7938.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/fr_FR/d650e6424a0b329c68748560e0176e6c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_85_C",
+      "@id": "/cards/ALT_DUSTER_B_OR_85_C"
+    },
+    {
+      "id": "01JZ3144X5DQP7XWBYP72R6R72",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_OR_85/JPG/en_US/781eda320d90839d1ee7cb1c6a584b40.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_OR_85_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Matz & Hive",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_OR_85/JPG/en_US/781eda320d90839d1ee7cb1c6a584b40.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_OR_85/JPG/fr_FR/1e37252f213a16209a30cd6ffcc7808e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_A_OR_85_C",
+      "@id": "/cards/ALT_DUSTER_A_OR_85_C"
+    },
+    {
+      "id": "01JZJG263FPMFQK174VFJEPK5X",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_OR_85/JPG/en_US/3500efa25cab5236a6d8d0b7cd85467c.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_P_OR_85_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Matz & Hive",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_OR_85/JPG/en_US/3500efa25cab5236a6d8d0b7cd85467c.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_OR_85/JPG/fr_FR/8e3f37e2a3f9377636b24aa3c9a43eba.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_P_OR_85_C",
+      "@id": "/cards/ALT_DUSTER_P_OR_85_C"
+    },
+    {
+      "id": "01JYP9SVQED7AJCPD9W7KJFVH4",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/en_US/3dea23cf31ad41448677be09b4a4df60.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_92_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Reka Investor",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/en_US/3dea23cf31ad41448677be09b4a4df60.jpg",
+        "es-es": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/fr_FR/22de0fb37339f7e43fe924e99e2840e5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_92_C",
+      "@id": "/cards/ALT_DUSTER_B_OR_92_C"
+    },
+    {
+      "id": "01JYP9SVQED7AJCPD9W7KJFVH7",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/en_US/3a23dd046b7a97471753950f12c747fd.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_92_R1",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Reka Investor",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/en_US/3a23dd046b7a97471753950f12c747fd.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/fr_FR/5b91b41b80fd2e95075dd78f1c437808.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_92_R1",
+      "@id": "/cards/ALT_DUSTER_B_OR_92_R1"
+    },
+    {
+      "id": "01JYP9SVQFGHE7Y1AE4TFHAJJX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/en_US/6cbf88e54bf2aad07fe941df67b6c227.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_93_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Sunisa, Ordis Bodyguard",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/en_US/6cbf88e54bf2aad07fe941df67b6c227.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/fr_FR/a1b54ef4b252af6811f4991f440c798a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_93_C",
+      "@id": "/cards/ALT_DUSTER_B_OR_93_C"
+    },
+    {
+      "id": "01JYP9SVQFGHE7Y1AE4TFHAJK0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/en_US/eb29ec315db7fedea80891277eaf50a9.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_93_R1",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Sunisa, Ordis Bodyguard",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/en_US/eb29ec315db7fedea80891277eaf50a9.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/fr_FR/59d23b361a043fb8f5b039c3f8726e05.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_93_R1",
+      "@id": "/cards/ALT_DUSTER_B_OR_93_R1"
+    },
+    {
+      "id": "01JYP9SVQFGHE7Y1AE4TFHAJK6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_94/JPG/en_US/ef5582f7d0022e9f0977dc6f75a5eea1.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_94_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Reka Caterer",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_94/JPG/en_US/ef5582f7d0022e9f0977dc6f75a5eea1.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_94/JPG/fr_FR/e85957fe9a97de2286be8e8ca04c5f9d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_94_C",
+      "@id": "/cards/ALT_DUSTER_B_OR_94_C"
+    },
+    {
+      "id": "01JYP9SVQFGHE7Y1AE4TFHAJK9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_94/JPG/en_US/e8796ece66ee58dfb7a4506e9fdcc978.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_94_R1",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Reka Caterer",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_94/JPG/en_US/e8796ece66ee58dfb7a4506e9fdcc978.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_94/JPG/fr_FR/39490616d23a5f5264f92a1f6e699e15.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_94_R1",
+      "@id": "/cards/ALT_DUSTER_B_OR_94_R1"
+    },
+    {
+      "id": "01JYP9SVQH97MMVJJCN470P3F9",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_101/JPG/en_US/9bbaef7abab320afb154bb9915cf16c9.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_101_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "The Reunion",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_101/JPG/en_US/9bbaef7abab320afb154bb9915cf16c9.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_101/JPG/fr_FR/932d25b9e72495d058ad14905f1bcd57.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_101_C",
+      "@id": "/cards/ALT_DUSTER_B_OR_101_C"
+    },
+    {
+      "id": "01JYP9SVQH97MMVJJCN470P3FC",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_101/JPG/en_US/14042deec6232bc8fa10d0f7bc4ca79b.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_101_R1",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "The Reunion",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_101/JPG/en_US/14042deec6232bc8fa10d0f7bc4ca79b.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_101/JPG/fr_FR/f28d674bc299c44e5ffe81d10fc542bb.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_101_R1",
+      "@id": "/cards/ALT_DUSTER_B_OR_101_R1"
+    },
+    {
+      "id": "01JYP9SVQPPCH9PBMCQBNJZGMK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/fe8fef620bcad0f5e06a2ed0e10176f4.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_88_R2",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Studious Rookie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "",
+        "es-es": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/fe8fef620bcad0f5e06a2ed0e10176f4.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/fr_FR/82cccaea4bbdb3b78b0a4dc30ff56217.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_88_R2",
+      "@id": "/cards/ALT_DUSTER_B_YZ_88_R2"
+    },
+    {
+      "id": "01JYP9SVQQ77MRBTN00YYV9NSS",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0a190f94d697375f85ee",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/en_US/cc21637ffb5ca018c5ba07dbeec8f2bf.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_91_R2",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Reka Supporter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/en_US/cc21637ffb5ca018c5ba07dbeec8f2bf.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/fr_FR/df14afef3d70bded5c4b986679d5f91f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_91_R2",
+      "@id": "/cards/ALT_DUSTER_B_YZ_91_R2"
+    },
+    {
+      "id": "01JZJFHEWW83KGJBXQ6G6C6ZRY",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d3171ed0023db54477a8",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_31/JPG/en_US/dc1fd4d0b75d24e1b7ef3f01338692fc.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_31_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Ordis Recruit",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_31/JPG/en_US/dc1fd4d0b75d24e1b7ef3f01338692fc.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_31/JPG/fr_FR/8693de147d4e7c95010e60f1b5232081.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_31_C",
+      "@id": "/cards/ALT_DUSTER_B_OR_31_C"
+    }
+  ]
+}

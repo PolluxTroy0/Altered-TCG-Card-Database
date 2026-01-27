@@ -1,0 +1,1226 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 21,
+  "hydra:member": [
+    {
+      "id": "01JYP9SVP9M4AG8XEDVXXP147K",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/JPG/en_US/32c8d8b62ef3d16350b696b4d7282575.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_98_R2",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Technological Encounter",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/JPG/en_US/32c8d8b62ef3d16350b696b4d7282575.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/JPG/fr_FR/be082cae113cd277f0c74f04bf817fbe.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_98_R2",
+      "@id": "/cards/ALT_DUSTER_B_AX_98_R2"
+    },
+    {
+      "id": "01JYP9SVPA7WEGJQ80HKW2AAPM",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_101/JPG/en_US/ce3d62eb7f77daa0ad311ea59edc0b64.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_101_R2",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Axiom Exhibit",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_101/JPG/en_US/ce3d62eb7f77daa0ad311ea59edc0b64.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_101/JPG/fr_FR/73ec5ed98f2e50246a490afc4d4b4b8c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_101_R2",
+      "@id": "/cards/ALT_DUSTER_B_AX_101_R2"
+    },
+    {
+      "id": "01JYP9SVPVYZVGXC0YH73Q79KF",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/en_US/c3d5b2156bbbe4c1802d3e0cc6806bef.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_90_R2",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Nyala, Night Reveler",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "",
+        "it-it": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/en_US/c3d5b2156bbbe4c1802d3e0cc6806bef.jpg",
+        "es-es": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_90/JPG/fr_FR/4c8977d2b11f614e8ddb6ac3daa92040.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_LY_90_R2",
+      "@id": "/cards/ALT_DUSTER_B_LY_90_R2"
+    },
+    {
+      "id": "01JYP9SVPWD8EX089XC51CERT3",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_94/JPG/en_US/f57c91d2733e3a9c0da894e778b9c4be.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_94_R2",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Nightclub Bouncer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_94/JPG/en_US/f57c91d2733e3a9c0da894e778b9c4be.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_94/JPG/fr_FR/84d735af967ca672361b3692922f306e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_LY_94_R2",
+      "@id": "/cards/ALT_DUSTER_B_LY_94_R2"
+    },
+    {
+      "id": "01JYP9SVQFGHE7Y1AE4TFHAJK3",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/en_US/ef157912a1c58fdd33beaec19b71c0b9.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_93_R2",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Sunisa, Ordis Bodyguard",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/en_US/ef157912a1c58fdd33beaec19b71c0b9.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_93/JPG/fr_FR/b97e4c5d68fa06ce51a8cd972013a5ad.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_93_R2",
+      "@id": "/cards/ALT_DUSTER_B_OR_93_R2"
+    },
+    {
+      "id": "01JYP9SVQN5FRRQ422W8D6RG6E",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_65/JPG/en_US/52ebc4a13456b5dc384fe55e1a2c4f39.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_65_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Moyo & Silk",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_65/JPG/en_US/52ebc4a13456b5dc384fe55e1a2c4f39.jpg",
+        "es-es": "",
+        "it-it": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_65/JPG/fr_FR/7d62b2279edbea69711d07784fc6737f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_65_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_65_C"
+    },
+    {
+      "id": "01JZJG2VDEGCH8D6VXS6Y8HN2D",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_YZ_65/JPG/en_US/d0b31ab2cfc6267bd1b7a5431a3a2be6.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_P_YZ_65_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Moyo & Silk",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_YZ_65/JPG/en_US/d0b31ab2cfc6267bd1b7a5431a3a2be6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_YZ_65/JPG/fr_FR/c9be80002e1c39b044a78351ba9e8020.jpg",
+        "it-it": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_P_YZ_65_C",
+      "@id": "/cards/ALT_DUSTER_P_YZ_65_C"
+    },
+    {
+      "id": "01JYP9SVQPPCH9PBMCQBNJZGMD",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/091a0fb0395d6ada1371c50a3f01d1c3.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_88_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Studious Rookie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/091a0fb0395d6ada1371c50a3f01d1c3.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/fr_FR/22a26afd9125da36096660702cd935db.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_88_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_88_C"
+    },
+    {
+      "id": "01JYP9SVQPPCH9PBMCQBNJZGMG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/01779171bc070b1d282f8d85e5fe8455.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_88_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Studious Rookie",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/01779171bc070b1d282f8d85e5fe8455.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/fr_FR/d20579bab3e09f28f171de42f64d060d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_88_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_88_R1"
+    },
+    {
+      "id": "01JYP9SVQN5FRRQ422W8D6RG6K",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/en_US/1aeffec7022916c885a3a5e0b4955dbe.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_86_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Harry Houdini",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/fr_FR/4750597174faa7bf17978802505c2001.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/en_US/1aeffec7022916c885a3a5e0b4955dbe.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_86_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_86_C"
+    },
+    {
+      "id": "01JYP9SVQN5FRRQ422W8D6RG6P",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/en_US/6a82f894f9f3fa4ec7ce3c7ccff06186.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_86_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Harry Houdini",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/en_US/6a82f894f9f3fa4ec7ce3c7ccff06186.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/fr_FR/4cae6bb91bb6b18ee59d5fa93965bf69.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_86_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_86_R1"
+    },
+    {
+      "id": "01JYP9SVQQ77MRBTN00YYV9NSK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/en_US/5a0aa00e2a87dc63ca26647e3b69632b.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_91_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Reka Supporter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/en_US/5a0aa00e2a87dc63ca26647e3b69632b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/fr_FR/efd77b4f0a4149c5f433f4c4ba89a744.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_91_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_91_C"
+    },
+    {
+      "id": "01JYP9SVQQ77MRBTN00YYV9NSP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/en_US/41d53d8ffa3fd257fc349a1aa28b4629.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_91_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Reka Supporter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/en_US/41d53d8ffa3fd257fc349a1aa28b4629.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_91/JPG/fr_FR/72afd756940dcbe3cf77c81f3fd4f3d6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_91_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_91_R1"
+    },
+    {
+      "id": "01JYP9SVQQ77MRBTN00YYV9NSW",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/en_US/0efecd1d8d309cf5a2c289ffff2636ce.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_92_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Mochizuki Chiyome",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/en_US/0efecd1d8d309cf5a2c289ffff2636ce.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/fr_FR/8918567e318d9cbc62c794b983405add.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_92_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_92_C"
+    },
+    {
+      "id": "01JYP9SVQQ77MRBTN00YYV9NSZ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/en_US/37bfab8acf965a7e5c789cb0c3e7b86e.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_92_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Mochizuki Chiyome",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/en_US/37bfab8acf965a7e5c789cb0c3e7b86e.jpg",
+        "es-es": "",
+        "it-it": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/fr_FR/a92951a10512fc01b41f1854821d9c05.jpg",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_92_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_92_R1"
+    },
+    {
+      "id": "01JYP9SVQTBAMQ4D6NMZA2YG8G",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/en_US/9f6ef40f531741e190872fea6159c6ae.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_99_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Tag!",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/en_US/9f6ef40f531741e190872fea6159c6ae.jpg",
+        "es-es": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/fr_FR/31e65ddfea1bc4b8c30f08d78d33485a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_99_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_99_C"
+    },
+    {
+      "id": "01JYP9SVQTBAMQ4D6NMZA2YG8K",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/en_US/0d30e5516260a2d79d081182fe9b6e57.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_99_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Tag!",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/en_US/0d30e5516260a2d79d081182fe9b6e57.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/fr_FR/12358936fc6df087f2ef21904c57e5ca.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_99_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_99_R1"
+    },
+    {
+      "id": "01JYP9SVQSZC2VV46PJC59X12Y",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/en_US/1e150ba8801e2fd8266516a1788016ae.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_98_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Finisher",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/en_US/1e150ba8801e2fd8266516a1788016ae.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/fr_FR/741c865ada9831950f85e378e06a2916.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_98_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_98_C"
+    },
+    {
+      "id": "01JYP9SVQSZC2VV46PJC59X131",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/en_US/b3a370ae532bfb1399ed0949bb139638.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_98_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Finisher",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/en_US/b3a370ae532bfb1399ed0949bb139638.jpg",
+        "es-es": "",
+        "de-de": "",
+        "it-it": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_98/JPG/fr_FR/26ef5c8d5ec3ffae35ef5becca6c3927.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_98_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_98_R1"
+    },
+    {
+      "id": "01JYP9SVQTBAMQ4D6NMZA2YG92",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/919aca2a35610b3be3b7",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_101/JPG/en_US/45d438434c5c053265208f9d1c329e07.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_101_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Mothcatcher Wand",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "",
+        "es-es": "",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_101/JPG/en_US/45d438434c5c053265208f9d1c329e07.jpg",
+        "it-it": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_101/JPG/fr_FR/679924ee47a04e597179b7ceeeb7a8e5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_101_C",
+      "@id": "/cards/ALT_DUSTER_B_YZ_101_C"
+    },
+    {
+      "id": "01JYP9SVQTBAMQ4D6NMZA2YG95",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5d3b595c6b9fec894cb3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_101/JPG/en_US/043f05f7c6b487dae0fffd77aa924b02.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_101_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Mothcatcher Wand",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_101/JPG/en_US/043f05f7c6b487dae0fffd77aa924b02.jpg",
+        "es-es": "",
+        "it-it": "",
+        "de-de": "",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_101/JPG/fr_FR/26fefaccf2e097a687986df5bb054010.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_101_R1",
+      "@id": "/cards/ALT_DUSTER_B_YZ_101_R1"
+    }
+  ]
+}

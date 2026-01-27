@@ -1,0 +1,72 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJSZMEHWPT44KW6KXG7W0NN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCQ25",
+        "@type": "CardSet",
+        "id": "01JTJS33NQTY6A4RPTM11ARJTX",
+        "reference": "WCQ25",
+        "name": "World Championship Qualifier 2025 - FACTION CHAMPIONS CARDS"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5c3dfddb89ab57bf36de",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/en_US/738c1d534ce0cc6675dc76cda7d5b406.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/WEB_e28f6e9841c03c9da1af34d43f9925df",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/WEB_71f3dbe0e5eb7f6248c17859e7a97e92",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/WEB_8ad3ebf230588d871a950bc0b223b982"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_OR_05_R1",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Ordis Trooper",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/it_IT/7644024256cb26b9c5cd4b21dc6a5e43.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/de_DE/a7ed6694d38050211c809adde84d27dd.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/fr_FR/5592f6bb8c39ca8fd5246129ddae79b0.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/en_US/738c1d534ce0cc6675dc76cda7d5b406.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/es_ES/c5a360f77adfb7256dc12e1c330fe9c5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCQ25_P_OR_05_R1",
+      "@id": "/cards/ALT_WCQ25_P_OR_05_R1"
+    }
+  ]
+}

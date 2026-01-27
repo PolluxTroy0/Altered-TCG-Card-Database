@@ -1,0 +1,66 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01HPF1A4V5F1C9Z4Q66KFYDNEJ",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN_MANA",
+        "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+        "name": "Mana"
+      },
+      "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/a5da313d81b78f0fd1f0",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/en_US/803ba2f6f75435bb068cf5b1fc32ce3e.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_NE_1_C",
+      "mainFaction": {
+        "@id": "/factions/NE",
+        "@type": "Faction",
+        "reference": "NE",
+        "color": "#8f95b2",
+        "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+        "name": "Neutral"
+      },
+      "name": "Mana Convergence",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/fr_FR/e5cbfb1be4ab08e2ea36a83962e8eb48.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/en_US/803ba2f6f75435bb068cf5b1fc32ce3e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/es_ES/7ed8c7a7f9b77e774ab4d77dbbfaa98a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/de_DE/09a288cd32f6449d69496db07e38794c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_NE_1/JPG/it_IT/0d937ff6c5ee651d439f3183d988f07f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_COREKS_B_NE_1_C",
+      "@id": "/cards/ALT_COREKS_B_NE_1_C"
+    }
+  ]
+}

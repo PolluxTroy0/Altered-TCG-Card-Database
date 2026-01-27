@@ -1,0 +1,3574 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 56,
+  "hydra:member": [
+    {
+      "id": "01JN9HNDWYWT1SV8EB8BNSJSRZ",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/en_US/2d6abe250165d76c16639f7a4f2e2c75.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/HERO_THUMB_56c517b5d28c90bd317d57e534daf68b"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/HERO_WIDE_995a8d6150f8ca160803f22bba4edac5"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/WEB_ae3d866a0d5f4bb0c68d3603f42b1516"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_65_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Isaree & Pebble",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/de_DE/bf11f9a1335a7db4789dfb51d9cc7eec.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/it_IT/c96916ec03eb978a4229b33987d5b86e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/es_ES/7cdc6deaf27540ec47dcbd5bfe962113.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/fr_FR/7f0e70d4ebed273f2c6425e769c9c617.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_65/JPG/en_US/2d6abe250165d76c16639f7a4f2e2c75.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_65_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_65_C"
+    },
+    {
+      "id": "01JN9HNDX0BV0PG95ETSVW4P1F",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/en_US/f68d596164c0d19c7ec7b71268a44139.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/WEB_8670c396adb770c57aa0d6c68586204d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/WEB_06a7d130ece5013bbc63df74c6ced9d5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/WEB_549ec6ab76a7538f4368d30801b74608"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_66_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Gavroche",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/es_ES/9debda286f7e8a77f2b3dc09bb2aea08.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/de_DE/750b74b21bcf3a403cc8d9332e48f3a8.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/fr_FR/c7bf5edcd908ee330cee2f4810ed6601.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/en_US/f68d596164c0d19c7ec7b71268a44139.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/it_IT/61b0000d2584d4b1af5d8013f1178562.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_66_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_66_C"
+    },
+    {
+      "id": "01JN9HNDX25Y4ABQHR5RJV5MR1",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/en_US/8b3e3bbbaf4b634f2f430ca3555072f9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/WEB_8670c396adb770c57aa0d6c68586204d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/WEB_06a7d130ece5013bbc63df74c6ced9d5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/WEB_549ec6ab76a7538f4368d30801b74608"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_66_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Gavroche",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/es_ES/e6dddec72ff1095712bd8987fc383af9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/it_IT/07f751050350b260ce1bdbc422f7f681.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/fr_FR/9a559ec77b37dd1da6832cc7bfa01e08.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/de_DE/7ea2b4800e96cbfc0029ce28305e6607.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_66/JPG/en_US/8b3e3bbbaf4b634f2f430ca3555072f9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_66_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_66_R1"
+    },
+    {
+      "id": "01JN9HNDX25Y4ABQHR5RJV5MRG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/en_US/fbb74f39dd484a46e762270879439301.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/WEB_d80328bdf5ad5a3694d33f90ff28b19b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/WEB_947ecfe28bb8438463c32679c9a913ae",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/WEB_bd728b1404bffe53703336514d3b0139"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_68_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Bessie Coleman",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/en_US/fbb74f39dd484a46e762270879439301.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/de_DE/c525a2f883a2ad8f64c87c8ba33e3a32.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/es_ES/db5635dbd8a4c32d26595c3da797a160.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/it_IT/1341243614ac5f7e7f6614530bc2755d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/fr_FR/d3f4a96ba5a4c9f895650ae7fbd2daef.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_68_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_68_C"
+    },
+    {
+      "id": "01JN9HNDX39AQEENAX51DT22H0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/en_US/d75c8feea946a8711b7683d45e6903a6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/WEB_d80328bdf5ad5a3694d33f90ff28b19b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/WEB_947ecfe28bb8438463c32679c9a913ae",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/WEB_bd728b1404bffe53703336514d3b0139"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_68_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Bessie Coleman",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/de_DE/5d761f71119328e346bc9d7469429f32.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/fr_FR/7d6f9e6ff5a2c32b1fedb89414274095.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/es_ES/07d6eca59052c9c19b305353de583c5c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/en_US/d75c8feea946a8711b7683d45e6903a6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_68/JPG/it_IT/d48a48f3392488869a32874ecef2d4eb.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_68_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_68_R1"
+    },
+    {
+      "id": "01JN9HNDX25Y4ABQHR5RJV5MR7",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/en_US/2577a49e75756797fccea88855711605.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/WEB_c28d1ad4985d44dd323f8dafc97360d9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/WEB_8d092a047b49aac9ebfcd34add0a555a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/WEB_77f2b6314beab8bd128d43b22e373be0"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_67_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Demolition Expert",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/it_IT/ba474e5609e726f558a92293f4d62e29.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/fr_FR/fc718c61fb8bb3d66025ec69bc82ff0d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/de_DE/0c8dcba7a9d897d179e4be9b4e677c22.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/es_ES/2791d09f986cd5803566128b9a8c2896.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/en_US/2577a49e75756797fccea88855711605.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_67_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_67_C"
+    },
+    {
+      "id": "01JN9HNDX25Y4ABQHR5RJV5MRA",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/en_US/2b2dc0db713f6921f00e8959729ba480.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/WEB_c28d1ad4985d44dd323f8dafc97360d9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/WEB_8d092a047b49aac9ebfcd34add0a555a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/WEB_77f2b6314beab8bd128d43b22e373be0"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_67_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Demolition Expert",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/es_ES/5252dd6768bc95c2509a7584e08f6d26.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/de_DE/bf4722ddfc043b4ccf87aa99bd3b3f39.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/it_IT/98549f3f2a0f2688610e0486bbecd26e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/en_US/2b2dc0db713f6921f00e8959729ba480.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_67/JPG/fr_FR/25a19620936b085fb20fcacb2b3dd355.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_67_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_67_R1"
+    },
+    {
+      "id": "01JN9HNDX39AQEENAX51DT22HF",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/en_US/66a71f214971d4dc5a973aceac0c5bc5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/WEB_33921d7bd3fe418c71615ddf4fd13612",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/WEB_41bcef245095afe9f0ce226397934db4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/WEB_62b2855a1d4e9241aca4a318582b59f7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_70_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Paju, Axiom Pilot",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/es_ES/5c7bf79c5001e508fb9bc925a15cd2cc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/de_DE/3b1b928adfe3d4c6346ccef2c1593cc6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/it_IT/c2effface1e97646e0275c522003f2fe.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/en_US/66a71f214971d4dc5a973aceac0c5bc5.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/fr_FR/7ca596d037609ce7b6ec30147e35a4af.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_70_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_70_C"
+    },
+    {
+      "id": "01JN9HNDX39AQEENAX51DT22HJ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/en_US/3b0f98d3dad078fb8bceb23c5aec0862.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/WEB_33921d7bd3fe418c71615ddf4fd13612",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/WEB_41bcef245095afe9f0ce226397934db4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/WEB_62b2855a1d4e9241aca4a318582b59f7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_70_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Paju, Axiom Pilot",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/en_US/3b0f98d3dad078fb8bceb23c5aec0862.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/es_ES/0e8ca6f11d76a6ed5b97afb3f83c725b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/de_DE/6c16165148443962e02b9300eca3180e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/it_IT/8ffe9e85f70fa363dd2ae7d495b03a81.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_70/JPG/fr_FR/8b52438ebc6fbab4066135c5e20a2762.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_70_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_70_R1"
+    },
+    {
+      "id": "01JN9HNDX4G8TC7YG62V7MCRJ6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/en_US/1c72fc46c7334d414b49622c52c93c3c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/WEB_0f423bd62d0ca25985cc086d300f1d0b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/WEB_05c939ba2118be270d4be81431ecb01c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/WEB_40467d5ad0ec187095cd5791a55e1001"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_72_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Axiom Puppeteer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/es_ES/6af3b42c09bff881ddf104431e83b6fa.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/fr_FR/3e35565d2d140bd1e3491ed7fa264006.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/de_DE/90d3d4bb47c7737d7dde4031045abf1f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/it_IT/711cd4c3a2eb91747be27db025daed69.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/en_US/1c72fc46c7334d414b49622c52c93c3c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_72_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_72_C"
+    },
+    {
+      "id": "01JN9HNDX4G8TC7YG62V7MCRJ9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/en_US/ab38a8a34f98daf5ca8c361bc20687a4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/WEB_0f423bd62d0ca25985cc086d300f1d0b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/WEB_05c939ba2118be270d4be81431ecb01c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/WEB_40467d5ad0ec187095cd5791a55e1001"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_72_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Axiom Puppeteer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/it_IT/c1d7f9f21fc3195bd39638266cd65f47.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/es_ES/5be9984f24a62eaca7ca24f8a90867a8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/de_DE/15459b94b4f8e0d2a447af5eecfb6489.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/en_US/ab38a8a34f98daf5ca8c361bc20687a4.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_72/JPG/fr_FR/ed57dbea58566651b784b85d82b8d5e0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_72_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_72_R1"
+    },
+    {
+      "id": "01JN9HNDX775AG9SETQRHZTFCH",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/en_US/ac8486a058b394649ef7c4f9970004b6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/WEB_2b72a1e4ff7cb001ba3ce51126801a64",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/WEB_f25a5dbaa6320842bedf5b96dc27c424",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/WEB_f7bd983136a427da8ffbace088789a1d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_73_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Marie Curie",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/de_DE/be2407ea5afc3d3c98f0a217fa4d727a.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/fr_FR/d6cd71258a938ae85d1f99ed3f59fc7e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/en_US/ac8486a058b394649ef7c4f9970004b6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/es_ES/ff7c318f01581b26ebf8695eb1b2f6eb.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/it_IT/8e04b61fce54d7fea67ccfed26242ff5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_73_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_73_C"
+    },
+    {
+      "id": "01JN9HNDX775AG9SETQRHZTFCM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/en_US/4a789af15eb47fa108b27ec4c6a52eea.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/WEB_2b72a1e4ff7cb001ba3ce51126801a64",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/WEB_f25a5dbaa6320842bedf5b96dc27c424",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/WEB_f7bd983136a427da8ffbace088789a1d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_73_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Marie Curie",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/de_DE/8a66c8f127ecea15f0f57edf143a5e3c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/es_ES/e328d7979ea016ca96de1940bfd04f5f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/it_IT/5b4337c0f5c7d043c7df6c57090daeab.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/en_US/4a789af15eb47fa108b27ec4c6a52eea.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_73/JPG/fr_FR/ef88499b8804ae078bb4af571ae5bbd6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_73_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_73_R1"
+    },
+    {
+      "id": "01JN9HNDX39AQEENAX51DT22HR",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/en_US/1f64ad97a7494111ffbf13a7fe8f32d7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_f2269a2919f7eddc5213bba846fdec9d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_6b27e17225eec2cc3ac0476d30670392",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_c2ee5ac90f103282d831868bb3d6aa51"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_71_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Medusa",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/es_ES/e8cca6a893659509a435056380c53541.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/it_IT/0b89f266d9127f00709f35d8c702fab3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/en_US/1f64ad97a7494111ffbf13a7fe8f32d7.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/fr_FR/7c0e7bdddf6b1997bbcfa02921149034.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/de_DE/bef0364508e7c4c2f316a84456017117.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_71_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_71_C"
+    },
+    {
+      "id": "01JN9HNDX4G8TC7YG62V7MCRJ0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/en_US/35fc6a925b65ca1a637a6ce398eb0b92.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_f2269a2919f7eddc5213bba846fdec9d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_6b27e17225eec2cc3ac0476d30670392",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_c2ee5ac90f103282d831868bb3d6aa51"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_71_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Medusa",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/es_ES/f33ece7783386b58362dcc32f752898a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/de_DE/bcf7aa54d816400afa46897ccec5366b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/it_IT/b84356596ff35d643eae37125fd51730.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/fr_FR/b9b1ce5e847167e49cf94949e7b100b2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/en_US/35fc6a925b65ca1a637a6ce398eb0b92.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_71_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_71_R1"
+    },
+    {
+      "id": "01JN9HNDX39AQEENAX51DT22H6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/b33ec06c7d257cd875d16db399f19a74.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_69_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "FarFetch 2.0",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/de_DE/e96ae559fe5f051062417960d7043e84.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/es_ES/05c823560f797241e13623415add658b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/it_IT/17a8f75205fd715b24ddea01ecc08106.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/b33ec06c7d257cd875d16db399f19a74.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/fr_FR/f554a08f653ecfc2b01bd6eb407a23a1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_69_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_69_C"
+    },
+    {
+      "id": "01JN9HNDX39AQEENAX51DT22H9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/71114eb76c13c7e9faea4cc8c017433c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_56ea196053c4eb73390691e1be78af99",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_0915be3e2950c2034da37a787aaffc49",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/WEB_4336ee1783370f3e0d13c3e9635ab271"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_69_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "FarFetch 2.0",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/it_IT/bdd1339bfc821e80fda09714a0478a2c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/de_DE/a722f53ada0c893667ed0ec980556eaa.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/fr_FR/1f3db24ea0b55bc04cc9fa9922c1311f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/en_US/71114eb76c13c7e9faea4cc8c017433c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_69/JPG/es_ES/4b155331a0d87a7bf39f3482bad64ed1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_69_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_69_R1"
+    },
+    {
+      "id": "01JN9HNDX775AG9SETQRHZTFCT",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/en_US/241ca81f9d4279274b44aefecb2f89a7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/WEB_1f314364a64f234ac77c8a001c63f0cc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/WEB_5e112acc5796c6c548fdbb77ff7200a0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/WEB_5cd23e06c4e48639e452605f457647ed"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_74_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Lucan, Hungry Leviathan",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/it_IT/9d068d2d3079d6119bd33abc6eedbb7c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/es_ES/fbd51c9fb95e8c4af38a985ce9435028.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/en_US/241ca81f9d4279274b44aefecb2f89a7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/de_DE/3619ebc81aa4ce1c9a362f54bbcbf371.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/fr_FR/52271f1cfd1d0d9a5ea11bfdb581795a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_74_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_74_C"
+    },
+    {
+      "id": "7ZWXYBSYAP8708P18JDGQDRE9H",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/c0bb25bfccd65480d88b538cbfa73924.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Lucan, Hungry Leviathan",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/aa1d30595ec52ae9275dc6f33264b500.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/e1940b7ca871407f6a3c97036c4ccb52.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/cb9908b8aef9e9fcf6aba39b1d2b468e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/c0bb25bfccd65480d88b538cbfa73924.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/366bc8782723cd52b131723fcdfb1fbf.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_A_AX_74_C",
+      "@id": "/cards/ALT_CYCLONE_A_AX_74_C"
+    },
+    {
+      "id": "01JN9HNDX775AG9SETQRHZTFCX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/en_US/7dac1f10e4112f35554cfbd588d51560.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/WEB_1f314364a64f234ac77c8a001c63f0cc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/WEB_5e112acc5796c6c548fdbb77ff7200a0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/WEB_5cd23e06c4e48639e452605f457647ed"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_74_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Lucan, Hungry Leviathan",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/fr_FR/a72ca47158c8769d124e7f8ad42df89c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/en_US/7dac1f10e4112f35554cfbd588d51560.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/de_DE/25cfd9a964185ea4a37e6fc026961177.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/es_ES/41ebabd2f9cd52bfc4727865e7091665.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_74/JPG/it_IT/3b1537941faabce0ac1fd8929a6b2f24.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_74_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_74_R1"
+    },
+    {
+      "id": "5DY66F8FW795MT5FJBERV1MD3C",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/3e296a4a711636321275bc73a107a737.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_8be978b6138bb4fd93f591b160f3ff76",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_a3cc17d3a6241a15423add8a827fe245",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/WEB_6ff1d0e081c668ad700780eb5d95ac86"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_74_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Lucan, Hungry Leviathan",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/fr_FR/080c258883be0dde8550159988f79eb4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/it_IT/df18079a9c01e224ef260d89fd67a193.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/de_DE/57633edf8a1962496b90762d39cc9462.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/es_ES/a35ae64654675deafa647e7db91d15ff.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_74/JPG/en_US/3e296a4a711636321275bc73a107a737.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_A_AX_74_R1",
+      "@id": "/cards/ALT_CYCLONE_A_AX_74_R1"
+    },
+    {
+      "id": "01JN9HNDX8JW7NSN2VJQRBK9D3",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/395e4d320c620bf220e613ea21a39df8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_140c4bfe83a4f085241d296f8bfd9f13",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_870ca3582b9f10905eb4a815fa761d35"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_76_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Axiom Signet",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/de_DE/51adc114eaf37ac9f825a97a4aa007f5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/it_IT/4417902915f9fe4fa0eb7c69ca4c3e66.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/395e4d320c620bf220e613ea21a39df8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/es_ES/939a12fdf4d121510d2012f4e58d611c.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/fr_FR/035d9736f4ffafdb97bbe9b28a5d24ac.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_76_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_76_C"
+    },
+    {
+      "id": "01JN9HNDX8JW7NSN2VJQRBK9D6",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/7d343435247b76d388b1b1c1fac38809.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_140c4bfe83a4f085241d296f8bfd9f13",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/WEB_870ca3582b9f10905eb4a815fa761d35"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_76_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Axiom Signet",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/es_ES/236df7aeeac7a4050f11ed4d33451287.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/it_IT/a21ed4c097c03a0f93934244f8f935dc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/de_DE/797215ad53399f9a5860c7b35655c0e9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/en_US/7d343435247b76d388b1b1c1fac38809.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_76/JPG/fr_FR/89194fdde170ba3c135084407c0afb54.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_76_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_76_R1"
+    },
+    {
+      "id": "01JN9HNDX775AG9SETQRHZTFD3",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/4152fa9c0e6ff82336a5590d5cf51090.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_de109e62ced789f9c21b54e0c69a1f48",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_3aea75009891fca5cd2816986c59e7b4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_75_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Detonation",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/fr_FR/df9a0be16e43c12b0badf4747f1bf1ea.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/4152fa9c0e6ff82336a5590d5cf51090.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/be1dbd09dbc10e83890d40e12834545a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/es_ES/7567e865496573674354ea2228aa5309.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/it_IT/317b9aa00d22cbb4e44acae01a3ed4d9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_75_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_75_C"
+    },
+    {
+      "id": "01JN9HNDX775AG9SETQRHZTFD6",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/43135dcafca95cf9abdb82ea8aa6c5e4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_de109e62ced789f9c21b54e0c69a1f48",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/WEB_3aea75009891fca5cd2816986c59e7b4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_75_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Detonation",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/es_ES/48ae43fb69e2dd3827fc1ad259550613.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/de_DE/5a2cae17158c0af9c907eb9a112c5940.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/en_US/43135dcafca95cf9abdb82ea8aa6c5e4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/it_IT/3f822fc09da39c9e957254b0d50606a3.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_75/JPG/fr_FR/2de5bfab1ec6dc7be29cb00f18b1369d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_75_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_75_R1"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4CA",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/en_US/b63db05b4c12b9ddf64107f6c4fee727.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/WEB_d175d6173c40448b8f6984a09b94fdac",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/WEB_18e4fd76219e57cbc9f1a8ae058648ef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_81_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Restocking Station",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/fr_FR/16f35045c8c43d2c3c8c14e58a5c0663.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/en_US/b63db05b4c12b9ddf64107f6c4fee727.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/de_DE/97dd8ae703327d1ba343aaa687c54489.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/es_ES/5264fcf2f6a0facef8b814eb763c8c33.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/it_IT/0614bf3bce55d1cc343799906311ebaf.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_81_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_81_C"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4CD",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/en_US/634400bd585a6c3623c9369a7886670e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/WEB_d175d6173c40448b8f6984a09b94fdac",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/WEB_18e4fd76219e57cbc9f1a8ae058648ef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_81_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Restocking Station",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/en_US/634400bd585a6c3623c9369a7886670e.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/fr_FR/c8ed802b8599f29e0d37d7e354b7eec9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/it_IT/7e9b03e26f2b91283ae9359f6210919a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/de_DE/fb5f1add1d23c821e062179d429e4258.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/es_ES/59052c2dbd0aeb030a56e9c0816bf311.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_81_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_81_R1"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4CK",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/en_US/569e29a9c1bd4a05108cd27b67786512.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/WEB_2b0195b48f1e3a8014b546f9839f8ab7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/WEB_18f8f9f5dc4e6b421c583ba5834a674a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_82_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Aerolith Quarry",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/de_DE/f9caa7223b525d2c3272176edf1ad6bd.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/es_ES/84c4dcc1628bfe10c040cc526a5d3ab3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/it_IT/d769bb0487c3c58efa5d1e0743d9297d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/fr_FR/af291dab3c2e813f0d0042b4f422654b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/en_US/569e29a9c1bd4a05108cd27b67786512.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_82_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_82_C"
+    },
+    {
+      "id": "01JN9HNDXA3FTJY5B1AZBPG592",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/en_US/ad3c74bcd4e31b82a8525ec3634e5bca.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/WEB_2b0195b48f1e3a8014b546f9839f8ab7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/WEB_18f8f9f5dc4e6b421c583ba5834a674a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_82_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Aerolith Quarry",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/fr_FR/b96ea5b95893be93092eb1a46c7eb513.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/de_DE/4e6b5aaca7faa48e39c630d76bd030c9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/it_IT/1ddfdf4f9f717bfdd4c25d60ce03e5bb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/es_ES/6a0e520ed3c02da67c6e64ecf4ee9f0e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_82/JPG/en_US/ad3c74bcd4e31b82a8525ec3634e5bca.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_82_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_82_R1"
+    },
+    {
+      "id": "01JN9HNDX8JW7NSN2VJQRBK9DC",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/en_US/cce32eb6990d6b6d5f99e9cef40b0cfe.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/WEB_dccc5a8f107e14d946c52d7fb695b475",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/WEB_9010cb9fb93b62d44058317a8cfce595"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_77_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Aerolith Reef",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/es_ES/71870fdde956855aaf9266a6d8cf1728.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/fr_FR/95106d1f3787e3e18c93097e4b63c37f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/en_US/cce32eb6990d6b6d5f99e9cef40b0cfe.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/it_IT/0f5916f6ee41a04605b91afd6b4f4fa3.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/de_DE/8ebbf405f89ed31a6ad7a05fb9ebdc7d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_77_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_77_C"
+    },
+    {
+      "id": "01JN9HNDX8JW7NSN2VJQRBK9DF",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/en_US/9a9b3f4b8bff615eb8f92f59758bce46.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/WEB_dccc5a8f107e14d946c52d7fb695b475",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/WEB_9010cb9fb93b62d44058317a8cfce595"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_77_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Aerolith Reef",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/fr_FR/642ce0b9a5682f1289892891b13c3c22.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/en_US/9a9b3f4b8bff615eb8f92f59758bce46.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/it_IT/9a276b12fe9496ee785ccb0814ffbb4a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/de_DE/95bb2763130a8c0f0f0bfe6379a54e6c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_77/JPG/es_ES/9045608b324ac0a6e3cb27e9e09f33d8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_77_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_77_R1"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4C1",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/en_US/db179b912bb2294e233ba9c44268527c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/WEB_09b82745530b753a0e395b9a494aba40",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/WEB_6bfe82d9be8edc2383af4f1110330b0e"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_80_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug Dropship",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/it_IT/ee5bec4180cab3d690d78faaed7e4f3e.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/fr_FR/318eb0c956ff92b590a58a5209736755.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/en_US/db179b912bb2294e233ba9c44268527c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/es_ES/d3d2addbf89b5907f7e66d2e36467c43.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/de_DE/861252a2179462c5606932d0cd8f6519.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_80_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_80_C"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4C4",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/en_US/55f29bd30f7ed6d7d4cfe7367bced964.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/WEB_09b82745530b753a0e395b9a494aba40",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/WEB_6bfe82d9be8edc2383af4f1110330b0e"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_80_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug Dropship",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/es_ES/e237e314a16038f3a201d497c403524d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/en_US/55f29bd30f7ed6d7d4cfe7367bced964.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/de_DE/7daf635afece9f3c299cb54d13ef1024.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/it_IT/ce9856fcddf2c985aa01e52c51490e9c.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_80/JPG/fr_FR/94d12335e4b91567b02bc9d5692e9cfe.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_80_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_80_R1"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4BR",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/en_US/9d41ae1730bc70b97bc4d796c0463bf5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/WEB_45e8c868b412e7039fd18112db26b6c9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/WEB_cd7c0534e4eef48719f706ac4305bf1f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_79_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Abandoned Depot",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/es_ES/fba5d07266217f28cc2c5f036441bde3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/en_US/9d41ae1730bc70b97bc4d796c0463bf5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/de_DE/7736f256227230ba1e5f6783c32db802.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/it_IT/94ea2b1d790e37ed2a42b997dd8e5464.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/fr_FR/a7f3b7f2424027564648fd474620a2ce.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_79_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_79_C"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4BV",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/en_US/f4cda40e7c6e044d522113bb0be83d23.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/WEB_45e8c868b412e7039fd18112db26b6c9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/WEB_cd7c0534e4eef48719f706ac4305bf1f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_79_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Abandoned Depot",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/en_US/f4cda40e7c6e044d522113bb0be83d23.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/it_IT/7288fbf49fc26eccb18a257d7630306d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/es_ES/3a0c39f9df8922d832bd9ee81157bfb0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/de_DE/a7f2725bed76e859fc18773b3256d3b1.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_79/JPG/fr_FR/9bec95580761f7f37ef6ee082ced07e7.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_79_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_79_R1"
+    },
+    {
+      "id": "01JN9HNDX8JW7NSN2VJQRBK9DN",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/en_US/9b45b4878017399e6245ecc46240272a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/WEB_f4d3e35f2fd987ba154cd1b9210dcc4d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/WEB_2c4fdfdd9d2128d4fc6fe4d49c9aceb7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_78_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug Nursery",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/fr_FR/0a946a703bcd48c8cfafc8bd9e53248d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/en_US/9b45b4878017399e6245ecc46240272a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/it_IT/936601f8dfe0999cb6cb98e651a0503a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/de_DE/a2df46274791f78aae723cda54b14dbb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/es_ES/0137a838e33ea0d8a8b5c48b184e53f4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_78_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_78_C"
+    },
+    {
+      "id": "01JN9HNDX8JW7NSN2VJQRBK9DR",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/en_US/37cddea7febc5f41e6ea132a8a978f5e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/WEB_f4d3e35f2fd987ba154cd1b9210dcc4d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/WEB_2c4fdfdd9d2128d4fc6fe4d49c9aceb7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_78_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug Nursery",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/en_US/37cddea7febc5f41e6ea132a8a978f5e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/de_DE/42e2e68e103bde43a0b8a5c14603d7d0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/it_IT/5533fcc5ccfce12694a80198f667bb2a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/es_ES/1145afb9871459aee16e2c91cf889e9e.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_78/JPG/fr_FR/52ae3b8d2ff62a469b5040bfd6c2341e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_78_R1",
+      "@id": "/cards/ALT_CYCLONE_B_AX_78_R1"
+    },
+    {
+      "id": "01JN9HNDXFT4B1FQDAQMHZ7RRC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/en_US/e14037a1b4514589a858952823e66f5b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_a37787070b03342ec6ee68f0899564ca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_7e5f96ef97316de28921151e629ab36b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_936dc00d5432a8ac309615b4233f2c38"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_68_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Smoldering Jinn",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/fr_FR/059e1d5322472a5bd1c389ad682c441c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/es_ES/00048291967987a246f2cdae31f838fa.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/en_US/e14037a1b4514589a858952823e66f5b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/it_IT/5f1811f7cda09a928e1c33a7012a9bb4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/de_DE/1786b7e856da16acc6223849341d0f70.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_68_R2",
+      "@id": "/cards/ALT_CYCLONE_B_BR_68_R2"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANSC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/en_US/759fac917d4c27ab5a0e3d4cb302ba6b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_b12df631fa081042abf2151b4a94bcec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_94fb743ecfa3e6f3b54ecf93c12aea9f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_e4e580197560d6ca3eb3ab16a95116d4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_71_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Phileas Fogg",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/en_US/759fac917d4c27ab5a0e3d4cb302ba6b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/fr_FR/376924673682df4efb241fb5ecf4db77.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/it_IT/28da8c392ba9f3824064e31ad9578bab.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/de_DE/b8bf7746c404864c3a6d35023df49759.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/es_ES/d59452473f92cc7e9ad5a08a6ad5a81e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_71_R2",
+      "@id": "/cards/ALT_CYCLONE_B_BR_71_R2"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CP5",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/en_US/b2f46a14483d48b643d47a07dac86b0f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_1d5e9d1ee4a3c23007bf345cbf36be6a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_b931bf81502bc5e25d6d620ceebd8371",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_fe7bf1395c1fc04c4e258f2b22328e5d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_72_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Wingsuit Jumper",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/en_US/b2f46a14483d48b643d47a07dac86b0f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/it_IT/3b37c45dc00efee92511d10827bcb3f9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/de_DE/65ccfce57395c71758451561e70030d4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/es_ES/1d32da5b144d5337b7d1c9836d5d5a2a.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/fr_FR/37eb976e3cb2fb511a4cd3c3b6cd88cc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_72_R2",
+      "@id": "/cards/ALT_CYCLONE_B_BR_72_R2"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CPQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/en_US/be4f16ca11cc122df66bdb7c6baa57b6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_8d5073a10b02537474a27fa3ee2c8def",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_53c0383a2b630ba43346dc708c59391b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_cfb9eaed75bbefb4b6f26f995c6d5ec4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_74_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Priya, Bravos Signaler",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/fr_FR/5fe0d30d88bbd683488a80f7c1f9a453.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/de_DE/14eef157e1921d145cd27f72f1538cf5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/it_IT/4dd4a599b09922e4ae7acaa50ce8118f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/en_US/be4f16ca11cc122df66bdb7c6baa57b6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/es_ES/7027ea817170660227b81f86e76b4b06.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_74_R2",
+      "@id": "/cards/ALT_CYCLONE_B_BR_74_R2"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8ZD",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/en_US/fde2d82d834b55ea22bc13055d15d92f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_959676a2344c2016d8820ac8d8d1e3b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_cab2666ecff539aa6fb7bf29d83e8add",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_da42a7116776ec21fa9ec26dec8386bb"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_76_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Beowulf",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/fr_FR/ed859cc6fe5664a33923bbe8b1ddc7eb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/de_DE/5494f09810205933789ff4b158ef3554.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/it_IT/da63c2856ac4ad0fff370b9615694902.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/en_US/fde2d82d834b55ea22bc13055d15d92f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/es_ES/1e0c7f8ce46a3882a312be9233338c03.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_76_R2",
+      "@id": "/cards/ALT_CYCLONE_B_BR_76_R2"
+    },
+    {
+      "id": "01JN9HNDXMRM4000J5ZVTG2Z1N",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/en_US/666c18b292acee0528872a59d9fd362b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/WEB_fecab85761341eeb87abfc94807003b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/WEB_840a700eaf173f0073a52c6badf2589b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_82_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Flying Dockyard",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/it_IT/63b0188c16f1051c4c57282afaaa0fb4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/de_DE/9d090137633b6509aa8c7c70864ba9d7.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/es_ES/0d33ba5d9570cf0ac305be4d70619a30.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/fr_FR/76f85221cecc9ab69a0ba05a03818db1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/en_US/666c18b292acee0528872a59d9fd362b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_82_R2",
+      "@id": "/cards/ALT_CYCLONE_B_BR_82_R2"
+    },
+    {
+      "id": "01JN9HNDXSXZD5H3XDS9ASMDTP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/JPG/en_US/79895541932023a93ffce70171405ca5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/WEB_e3e0aebe7ffcab8864bed1b15aa6aec1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/WEB_365b3d927ab6e3a00793be7aca2c1574",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/WEB_3bf3cee47e7f5e9f5db29976ceb5bf23"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_70_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Mountain Nymph",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/JPG/de_DE/a9c59bb5accf05456e12d43bf10888d2.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/JPG/fr_FR/46f857924a22ccfafc21ef5d2930d582.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/JPG/it_IT/ba4e5490f5897e8a82c60c48696efb30.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/JPG/es_ES/42706cec8d0365a999babe5e881275e2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_70/JPG/en_US/79895541932023a93ffce70171405ca5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_70_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_70_R2"
+    },
+    {
+      "id": "01JN9HNDXWHWK6CXPRKQ7N2PZG",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/JPG/en_US/dbd171007c9bc06bf490b102429192a6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/WEB_02c97e6243cf3d2b57fc1a76980b1b3d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/WEB_5fc48e2d4c26ee295c9b366a37bd1e78"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_78_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Lyra Signet",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/JPG/de_DE/5ce3a5b3542d0aaaf0826f75d432273b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/JPG/it_IT/da76a6832ee6c46830b5cd62603139e2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/JPG/es_ES/07198958434fc3a80ac4ccbbec323894.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/JPG/en_US/dbd171007c9bc06bf490b102429192a6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_78/JPG/fr_FR/f6845288c36aecef4f615fb1ce38f6dc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_78_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_78_R2"
+    },
+    {
+      "id": "01JN9HNDXXGPQ6E2ZQ2J5F193F",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/JPG/en_US/de8be2b6069f31c7d3b34dd7cd52b9ca.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/WEB_113d2532d32c082d25b260d4aa2ad13b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/WEB_65af25c8e7c469058771125e274d4648"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_82_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "The Opera House",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/JPG/de_DE/d727e4be6081c67df7f413f0ede94c70.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/JPG/es_ES/a9fd6bc03e5ee02540853326454a1b21.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/JPG/it_IT/9eb93a9f0c8a57f8749ae63178163750.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/JPG/en_US/de8be2b6069f31c7d3b34dd7cd52b9ca.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_82/JPG/fr_FR/2e9d9d2c1d4a2e8e25c372b690add302.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_82_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_82_R2"
+    },
+    {
+      "id": "01JN9HNDY46PGYP4XY71X34A4H",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/JPG/en_US/bc6b0db84eaa01e2a8d708211891527d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/WEB_22cada88b0ef6e83f120e8d3e1ee80c0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/WEB_4cc54bb0ac3498300a41ba0bb8855578"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_78_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Puff's Challenge",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/JPG/es_ES/7a2e754dab7fd6434703b1fe6cd554a2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/JPG/de_DE/208f41f3557f66031866a1ec1e7b5dfe.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/JPG/en_US/bc6b0db84eaa01e2a8d708211891527d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/JPG/it_IT/b4955d03c90569f03407a5ed0e9522e3.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_78/JPG/fr_FR/eaf45027393366da7594f7e0d58c7376.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_MU_78_R2",
+      "@id": "/cards/ALT_CYCLONE_B_MU_78_R2"
+    },
+    {
+      "id": "01JN9HNDYAEERYWKS1R7Q68FZX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/JPG/en_US/72323c3e1db9419a646bf2f3ce1b4e14.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/WEB_7fe0ecc83b0ee2cb5dad057855d7fa86",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/WEB_781003b416308bfee46f869d3bc51120",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/WEB_c30f40a17227d4b8e804921ba6d34806"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_69_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Bluecap",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/JPG/en_US/72323c3e1db9419a646bf2f3ce1b4e14.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/JPG/es_ES/438b4cda58f410f3af2a4e3b892616bf.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/JPG/fr_FR/ce0ecdbd26a7f9798e9c0efad0baea0b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/JPG/it_IT/9978055c75222825501c63a7526290c2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_69/JPG/de_DE/a63898c1e78c786e52dff89da873dc22.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_OR_69_R2",
+      "@id": "/cards/ALT_CYCLONE_B_OR_69_R2"
+    },
+    {
+      "id": "01JN9HNDYHP5AYER5YSMR6TTWE",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/JPG/en_US/3a3334dae723e17eb845ba569e4d19ad.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/WEB_1e54664cc88e97766466b03dad2e44b6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/WEB_b8ddfa326d04b0ead6d9e281930c34dd",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/WEB_749598914b3d6ea2c94fed558c8668e9"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_66_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Undine",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/JPG/it_IT/741a315e962041fbf365482ecf10a2ee.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/JPG/de_DE/81c1f3f865630a75a9c34ee03eac260d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/JPG/es_ES/306bec39925c5154dbe05c3a819f9d52.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/JPG/en_US/3a3334dae723e17eb845ba569e4d19ad.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_66/JPG/fr_FR/85b16cf2cd87c7a53e2327ea31d06db5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_66_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_66_R2"
+    },
+    {
+      "id": "01JN9HNDYJG50JR0D3EZSZQ0SC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/JPG/en_US/df1832e8b5662248b16a253ded6d9fa1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/WEB_6a2de383c5b0362dafb71b8c35591257",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/WEB_e2667404f3b78c39d539e35b551ae4b4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/WEB_bd748900c095d3ab4c471f1b9dc4087e"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_68_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Studious Acolyte",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/JPG/de_DE/5ad03cd48f7a3d23f0fb99d4f5ebc480.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/JPG/fr_FR/e612f304d6e083ccda858867f5ee94cb.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/JPG/it_IT/1faa548ea267ddb47155898102fe5ab9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/JPG/en_US/df1832e8b5662248b16a253ded6d9fa1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_68/JPG/es_ES/0a279570cb4e1f846337842887c893d7.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_68_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_68_R2"
+    },
+    {
+      "id": "01JN9HNDYJG50JR0D3EZSZQ0SN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/JPG/en_US/43d6fdaf3ec9d3e822767262e1f0ae51.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/WEB_f97ab74e496320a7c32ccc52f1fb18fb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/WEB_e498132d99072c917202ee125e0c8508",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/WEB_4f729d916276ebd29c8246f8e1f63600"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_69_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "The Tortoise",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/JPG/en_US/43d6fdaf3ec9d3e822767262e1f0ae51.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/JPG/it_IT/86a09866db4facd3b1ced97a8f77d206.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/JPG/de_DE/71bf0ec2beec4c5dfd4abffbdcaf3a34.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/JPG/es_ES/8743527d88cdc4042b7686a884e6038d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_69/JPG/fr_FR/d13c9cb803487d08b3f61c7bccbd76a2.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_69_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_69_R2"
+    },
+    {
+      "id": "01JN9HNDYKWFANCY49G98BW4RM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/JPG/en_US/0908559328da34c8da017b53e4a5bb51.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/WEB_d7f49253d46f75d543d5c0418866bff3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/WEB_85cedf8669ea11e0cd6ed5d274e963a1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/WEB_e07a675c78991e40aa3f40307a703f5b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_71_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Kali",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/JPG/es_ES/41728594f45f6eec353dc05617ce3ad1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/JPG/it_IT/cad256eb05018e05b41b2bf8a7f9cc1a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/JPG/de_DE/c7c6ff7d2ac4318902a03408cee7d38b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/JPG/en_US/0908559328da34c8da017b53e4a5bb51.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_71/JPG/fr_FR/fd42273bf8de773ea7c218bd1eb07188.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_71_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_71_R2"
+    },
+    {
+      "id": "01JN9HNDYHP5AYER5YSMR6TTWQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/JPG/en_US/5527af3574e58ab96a363b571d6bdb32.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/WEB_c3a340379bb22acee2160de0e21a472c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/WEB_685b6462059656df085136c208244768",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/WEB_dac4709edda49ea4feeedc1fcfa82a76"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_67_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Winged Monkey",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/JPG/de_DE/927de97b0025d6fa227fa34c663375c9.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/JPG/fr_FR/08ac47e70654a8c72c3fc5c8940234af.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/JPG/en_US/5527af3574e58ab96a363b571d6bdb32.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/JPG/es_ES/cf8065eaa7274605694d4c0c7d71be64.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_67/JPG/it_IT/d375b6f6df2b0c408810c9b4f0def0f1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_67_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_67_R2"
+    },
+    {
+      "id": "01JN9HNDYKWFANCY49G98BW4S6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/JPG/en_US/6c2f83526797d7e47633c5ef34c91911.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/WEB_be7fc5f637101d3fbb1252dbf950335b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/WEB_9fc7aceff70d3580d20fcb180e87d19f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/WEB_49159a28fb4aadfec196a9f3316ba3da"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_73_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Alelo, Eerie Leviathan",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/JPG/fr_FR/e4b752aeff0561b521ee26dcc096fd2c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/JPG/de_DE/b20e7783230efc347d4b5b492f2bb447.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/JPG/en_US/6c2f83526797d7e47633c5ef34c91911.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/JPG/es_ES/0b218c4985bceeb1a1d10e752ab13069.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_73/JPG/it_IT/f454c29523b3a414c0ca8540d1489a4e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_73_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_73_R2"
+    },
+    {
+      "id": "3WYJBW6CQ49NM9Y4HX878CVMVT",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/87a2d73c2abd85225c51",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/d961710debdf4f34cb83a79c94c011ac.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_2da2daade41fcba4810a5ac7feb3587d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_9c5d074387e852ff37b7d6c41a1d4b82",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/WEB_0a2e76fe0f02317842e7f20197f81f21"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_73_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Alelo, Eerie Leviathan",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/it_IT/4efe00009d719615d9864093bd305f56.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/es_ES/9eaba529af5b1a4363e1e794112e18a0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/de_DE/bde750c9819f656880f63686a9f47967.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/en_US/d961710debdf4f34cb83a79c94c011ac.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_73/JPG/fr_FR/4d78d9a06b737297887b5b6cf35da429.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_A_YZ_73_R2",
+      "@id": "/cards/ALT_CYCLONE_A_YZ_73_R2"
+    },
+    {
+      "id": "01JN9HNDXBGQXR1WV3E25QVHYJ",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/83a8676f1796c27ee671",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/JPG/en_US/9e5dccf86e0327b6c644d26063e4a9c8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/WEB_698a98a23db339421c0086b5e14b1257"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_31_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/JPG/fr_FR/19fbb21bc4a13058bf0755785226ed10.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/JPG/en_US/9e5dccf86e0327b6c644d26063e4a9c8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/JPG/it_IT/0831013c87a412ea6bdd56dcc0ea49f1.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/JPG/de_DE/b4e2da22e355b4fdcacd6f40d2c634a0.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_31/JPG/es_ES/50bb1b1564ce7a30605366131caf91e9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_31_C",
+      "@id": "/cards/ALT_CYCLONE_B_AX_31_C"
+    }
+  ]
+}
