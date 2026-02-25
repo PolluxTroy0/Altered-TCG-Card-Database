@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTEROP_A_LY_100_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0H7W9470898R4RJTZAPW03CHH8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ8NVC56NSZQRVEY5CC3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4Z6KZ8NVC56NSZQRVEY5CC3",
+          "text": "El peso del deber es tal que, en ocasiones, estos interludios se viven como una verdadera salvación."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ8ZS518GAF8776VQAM1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K4Z6KZ8ZS518GAF8776VQAM1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ8T56716CSSBN333KRB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4Z6KZ8T56716CSSBN333KRB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ8BQHD25NECHTV8VMBZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K4Z6KZ8BQHD25NECHTV8VMBZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ8HCP38K9A8RK983513",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4Z6KZ8HCP38K9A8RK983513",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "0H7W9470898R4RJTZAPW03CHH8",
+      "reference": "ALT_DUSTEROP_B_LY_100_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6e0ad3eeb66230cc29af",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTEROP",
+    "@type": "CardSet",
+    "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+    "reference": "DUSTEROP",
+    "name": "Semillas de la unidad - OP"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/38c1f7ba2977eec0096f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/b213df7024efc3cf8ab5b9e7dd08fbdb.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTEROP_A_LY_100_R1",
+  "id": "01K4YGECGY9XSJBXPCXRG95JZ6",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/0f30b3967460129a7bf4a8676201f25f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/b213df7024efc3cf8ab5b9e7dd08fbdb.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Encuentro romántico",
+  "elements": {
+    "MAIN_COST": "#7#",
+    "RECALL_COST": "#7#",
+    "MAIN_EFFECT": "#[[Fugacidad]].#  #Por cada jugador, empezando por ti:#  • El jugador revela las cuatro primeras cartas de su mazo. Puedes jugar sin coste un personaje #con coste base de {3} o menos# de entre ellas. Gana [[Fugacidad]]. Luego, descarta el resto."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTEROP_A_LY_100_R1-ES"
+}

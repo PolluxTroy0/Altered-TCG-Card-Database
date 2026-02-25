@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTEROP_A_YZ_97_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3ZPF1ZGKA99XKSCRCPQDGVFFB7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZNARGV2DFHC2FM37J99",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4Z6KZNARGV2DFHC2FM37J99",
+          "text": "El tercer tiempo siempre es el mejor."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZNPBV7ZKC86RN84DAK8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K4Z6KZNPBV7ZKC86RN84DAK8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZNGD3TGRDBQ6XSHPZKF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4Z6KZNGD3TGRDBQ6XSHPZKF",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZMYZB22Y41C0SSD8MHX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K4Z6KZMYZB22Y41C0SSD8MHX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZN4ATPM0NQEAFGSEF6B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4Z6KZN4ATPM0NQEAFGSEF6B",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "3ZPF1ZGKA99XKSCRCPQDGVFFB7",
+      "reference": "ALT_DUSTEROP_B_YZ_97_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a6946f648961d2f8bb34",
+      "reference": "BOON",
+      "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+      "name": "Ayuda"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5613472c20f25921c116",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTEROP",
+    "@type": "CardSet",
+    "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+    "reference": "DUSTEROP",
+    "name": "Semillas de la unidad - OP"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/30b3f65916a54d90b56b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R2",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTEROP_A_YZ_97_R2",
+  "id": "01K4YGECH75K3EB7FWR6TF39QC",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/e51ba5ea3a11be36b04e603ee4ce92a7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Encuentro deportivo",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#1#",
+    "MAIN_EFFECT": "#[Recuperación].#  Distribuye 2 potenciadores entre cualquier número de personajes objetivo en juego #o en reserva.#",
+    "ECHO_EFFECT": "{D}: [Después de ti]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTEROP_A_YZ_97_R2-ES"
+}

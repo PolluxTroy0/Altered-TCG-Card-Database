@@ -1,0 +1,308 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 5,
+  "hydra:member": [
+    {
+      "id": "01K4YGECH04GAPYFPJ439PFD7J",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ce623e863fe8eba32f0d",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/en_US/5850e5bf1869941dbe6de9640567f7db.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_94_C",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Reka Gatherer",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/fr_FR/e995d22ac9dbd56c74741ef837e1a778.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/en_US/5850e5bf1869941dbe6de9640567f7db.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_P_MU_94_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_P_MU_94_C"
+    },
+    {
+      "id": "01K4YGECH13XFX6RFD000JVSW1",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/10360a91cba68efc6bb0",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_89_R1",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Charitable Reka",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/fr_FR/cdcf51b808dba33750545a8cc8b4ee21.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_P_MU_89_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_P_MU_89_R1"
+    },
+    {
+      "id": "01K4YGECH13XFX6RFD000JVSW7",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ce623e863fe8eba32f0d",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/e5c8f77982654e4bc89e261195513cfb.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_C",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Soul Encounter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/089e35624713e801f517ab7462a942fb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/e5c8f77982654e4bc89e261195513cfb.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_MU_98_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_MU_98_C"
+    },
+    {
+      "id": "01K4YGECH13XFX6RFD000JVSWA",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/10360a91cba68efc6bb0",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/270095b36a08d4b17468d4463c0353b3.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_R1",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Soul Encounter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/abfb38bd6ed151acbb84704aa7538555.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/270095b36a08d4b17468d4463c0353b3.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_MU_98_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_MU_98_R1"
+    },
+    {
+      "id": "01KECGKEFQDSP605BFFGNKNT00",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ce623e863fe8eba32f0d",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_83_C",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Woollyback",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/fr_FR/103c5fdf59714cdb3ff6de6922b835b5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/it_IT/1eec4707d8d41624fefd325ed7e7fb5c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/es_ES/61d8f608b9591d5931f1a8d23e54ef54.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/de_DE/60a5ad9d8f39e9a82a5b2edfdf22d1ec.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_MU_83_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_MU_83_C"
+    }
+  ]
+}

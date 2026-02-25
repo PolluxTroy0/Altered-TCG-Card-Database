@@ -1,0 +1,182 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 3,
+  "hydra:member": [
+    {
+      "id": "01K4W8PE2Z39T8P4TX6TR6PEX6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/MUSUBI",
+        "@type": "CardSet",
+        "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+        "reference": "MUSUBI",
+        "name": "Musubi"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/41ab0bf3f7d1e3f3d300",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/en_US/af07178e3e0503442d5298f9a8e1954c.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_BR_04_R2",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "Ratatoskr",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/it_IT/854b961220d994197700d334dd756569.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/es_ES/aa323f4c8106f2c484b15a9d85c50818.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/fr_FR/4f1006524aaefece4897a6add89a27c8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/en_US/af07178e3e0503442d5298f9a8e1954c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/de_DE/6e1f61431299712504e1a34a89658f98.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_MUSUBI_B_BR_04_R2",
+      "@id": "/cards/ALT_MUSUBI_B_BR_04_R2"
+    },
+    {
+      "id": "01K4W8PE33TGKXZF0ZJHGZHKHK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/MUSUBI",
+        "@type": "CardSet",
+        "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+        "reference": "MUSUBI",
+        "name": "Musubi"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/85af5ab4728261840800",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/en_US/23caf41ccede408b0b6a817050053d5d.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_OR_09_C",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "The Frog Prince",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/fr_FR/0d4473def443157414e693fdec682448.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/it_IT/b536e5511cbe9efcd0244ebea682e4ea.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/50ed00056a0bc0555847bda0fa4d190e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/en_US/23caf41ccede408b0b6a817050053d5d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/es_ES/5fb6893a55d6346d630fa794bb78595c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_MUSUBI_B_OR_09_C",
+      "@id": "/cards/ALT_MUSUBI_B_OR_09_C"
+    },
+    {
+      "id": "01K4W8PE33TGKXZF0ZJHGZHKHP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/MUSUBI",
+        "@type": "CardSet",
+        "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+        "reference": "MUSUBI",
+        "name": "Musubi"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/41ab0bf3f7d1e3f3d300",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/en_US/731c3c25a86a8362da7d96656c2fa6d1.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_OR_09_R1",
+      "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+      },
+      "name": "The Frog Prince",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/fr_FR/1537df4093ed6ce11f388209207ca698.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/88be2e443e5c6bd7d30f06dec05066d4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/it_IT/8a5ae4b10b6dcff0e08820024d372591.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/en_US/731c3c25a86a8362da7d96656c2fa6d1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/es_ES/aa57d6fc4c49445968b0df876b78fb41.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_MUSUBI_B_OR_09_R1",
+      "@id": "/cards/ALT_MUSUBI_B_OR_09_R1"
+    }
+  ]
+}

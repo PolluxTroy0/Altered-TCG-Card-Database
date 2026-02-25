@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTEROP_P_AX_93_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7G39GE1MQR9JEAWPFK7W16TXMT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ3DWJFBHY30GSPY50AV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4Z6KZ3DWJFBHY30GSPY50AV",
+          "text": "«¡Un batido revolucionario para romper los esquemas de la competencia!»."
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ3RMFN2RA4RPF01108G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K4Z6KZ3RMFN2RA4RPF01108G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ3JJKVFEEQ1R4S6WS9D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4Z6KZ3JJKVFEEQ1R4S6WS9D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ2NSF9KKQYRP0KXG29R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K4Z6KZ2NSF9KKQYRP0KXG29R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ38DXH389FBA1GCTGRM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4Z6KZ38DXH389FBA1GCTGRM",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "7G39GE1MQR9JEAWPFK7W16TXMT",
+      "reference": "ALT_DUSTEROP_B_AX_93_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7d15586787dfc3c9bcb7",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTEROP",
+    "@type": "CardSet",
+    "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+    "reference": "DUSTEROP",
+    "name": "Semillas de la unidad - OP"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/476a31ddb0819dd2b86f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_93_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTEROP_P_AX_93_R1",
+  "id": "01K4YGECGRVP002XYTEWX1RAJM",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/fr_FR/811c41049500cfe78509f3893eabe51e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Magnate reka",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} Elige una opción #o agota un permanente que controlas para elegir las dos:#  • [Sabotea].  • Crea una ficha de [Semilla de maná] en tus hitos."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTEROP_P_AX_93_R1-ES"
+}

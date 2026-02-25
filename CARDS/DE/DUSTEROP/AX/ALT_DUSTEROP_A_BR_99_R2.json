@@ -1,0 +1,152 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTEROP_A_BR_99_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4480Q43D3V9PSRD300REECHFFJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ7TX7CHFQQAW426T2YH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4Z6KZ7TX7CHFQQAW426T2YH",
+          "text": "„Steig ein, du Loser! Wir gehen einkaufen!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ84TF2E54WQS2MB2ART",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K4Z6KZ84TF2E54WQS2MB2ART",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ7Z2BF3NVS7KF5TRKWT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4Z6KZ7Z2BF3NVS7KF5TRKWT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ7FCDCSYCRJDMZ4BK3X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K4Z6KZ7FCDCSYCRJDMZ4BK3X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ7PJ5DFR4V0ECQBYR1M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4Z6KZ7PJ5DFR4V0ECQBYR1M",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "4480Q43D3V9PSRD300REECHFFJ",
+      "reference": "ALT_DUSTEROP_B_BR_99_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f145c964b878cd909ac7",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manöver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTEROP",
+    "@type": "CardSet",
+    "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+    "reference": "DUSTEROP",
+    "name": "Saat der Eintracht - OP"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/31a28f58b191d0d7cd81",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R2",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTEROP_A_BR_99_R2",
+  "id": "01K4YGECGVR8KHDVDJ345YYJ15",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/7d6c7be1b79963b2d611d4d723c97cda.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Markt-Begegnung",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich.",
+    "ECHO_EFFECT": "{D} : Der nächste Charakter, der in dieser Runde aus deiner Hand gespielt wird, aktiviert eine seiner {r} Fähigkeiten."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTEROP_A_BR_99_R2-DE"
+}

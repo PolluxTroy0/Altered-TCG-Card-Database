@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTEROP_A_AX_98_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4V4F3ECFC69EWVNMH1D0HBDZX1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ56A9G6E4G1XSNTNWGT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K4Z6KZ56A9G6E4G1XSNTNWGT",
+          "text": "\"You must be a bug in my system, because I can't clear you out of my memory.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ5GR2N793MNKC5QFZZY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K4Z6KZ5GR2N793MNKC5QFZZY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ5CR1PKE5R436RE0V3Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K4Z6KZ5CR1PKE5R436RE0V3Q",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ4V1WG6J82MDCYFTYD0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K4Z6KZ4V1WG6J82MDCYFTYD0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K4Z6KZ52BAX4BA91XN7RNACD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K4Z6KZ52BAX4BA91XN7RNACD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "4V4F3ECFC69EWVNMH1D0HBDZX1",
+      "reference": "ALT_DUSTEROP_B_AX_98_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d12eccc23ab4bd388d88",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cd1d154ac0872aeeffa9",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maneuver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTEROP",
+    "@type": "CardSet",
+    "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+    "reference": "DUSTEROP",
+    "name": "Seeds of Unity - Organized Play"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/53f2dde86649d8f3628d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/9bfc1c2ea85175b386c296e653961425.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_R2",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTEROP_A_AX_98_R2",
+  "id": "01K4YGECGRVP002XYTEWX1RAK0",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/6fd7b8494e51728ef4aec8a5e25d39d3.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/9bfc1c2ea85175b386c296e653961425.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Technological Encounter",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[Cooldown].  Draw a card, then create a [Manaseed] token in your Landmarks."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTEROP_A_AX_98_R2-EN"
+}

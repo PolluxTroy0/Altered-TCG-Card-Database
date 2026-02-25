@@ -1,0 +1,66 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJSE97X5P7ETXPC0JW7VYK3",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/TCS3",
+        "@type": "CardSet",
+        "id": "01JTJS0F8GG1CAXSJ6AEK8495P",
+        "reference": "TCS3",
+        "name": "Tumult Faction Champion - Set 3"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/a2bf91727c8bcea8d89b",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_LY_49/JPG/en_US/70712f765c29c9208f23f2565a38fab0.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_LY_49_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "BLISS Bassist",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_LY_49/JPG/es_ES/ba17c87d8fbe43fed9e697e8549ad053.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_LY_49/JPG/it_IT/98ddc3720d4dacae6ff6e0084e1da2fd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_LY_49/JPG/de_DE/f04802de34df8cc3a1e11561a87271e0.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_LY_49/JPG/fr_FR/8e4c074559e2702b28358b0a7be1d708.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_LY_49/JPG/en_US/70712f765c29c9208f23f2565a38fab0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_TCS3_P_LY_49_R1",
+      "@id": "/cards/ALT_TCS3_P_LY_49_R1"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 5,
+  "hydra:member": [
+    {
+      "id": "01K4YGECGNA57ENJ74TZQMQ0GJ",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/cb03f019e40fbdc4a6a2",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/en_US/c3a8f6714aa1cd27a4eb43606ddf5f38.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_97_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Failed Demo",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/fr_FR/72b53ae3119a660c433d835a7e365308.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/en_US/c3a8f6714aa1cd27a4eb43606ddf5f38.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_P_AX_97_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_P_AX_97_C"
+    },
+    {
+      "id": "01K4YGECGRVP002XYTEWX1RAJM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d63854e941f3fa871afb",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_93_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Reka Magnate",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/fr_FR/811c41049500cfe78509f3893eabe51e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_P_AX_93_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_P_AX_93_R1"
+    },
+    {
+      "id": "01K4YGECGRVP002XYTEWX1RAJT",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/cb03f019e40fbdc4a6a2",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Technological Encounter",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/8bbf0fee9275f54ed030a8cef1eea9de.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_AX_98_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_AX_98_C"
+    },
+    {
+      "id": "01K4YGECGRVP002XYTEWX1RAJX",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d63854e941f3fa871afb",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Technological Encounter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/0f9cf1ebcb3c45687cca714bd4d1f8c0.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_AX_98_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_AX_98_R1"
+    },
+    {
+      "id": "01K4YGECGVR8KHDVDJ345YYJ15",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d63854e941f3fa871afb",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R2",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Market Encounter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/7d6c7be1b79963b2d611d4d723c97cda.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_BR_99_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_BR_99_R2"
+    }
+  ]
+}

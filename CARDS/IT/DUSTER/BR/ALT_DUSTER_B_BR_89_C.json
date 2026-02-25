@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "0QTD8FMBWQ9KP8KDDT50ZX5SCF",
       "reference": "ALT_DUSTER_B_BR_89_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b2d2c7d7022a6be2a932",
+      "@id": "/.well-known/genid/0780c8ee8b1f1d516dd1",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animale"
@@ -110,15 +109,17 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/f7248ee72501a84dac99",
+    "@id": "/.well-known/genid/ad72a44bb49e155cef3e",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/it_IT/231a4ea1a6233d9a8795aed3a2e8d1fe.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_89_C",
+  "isOwnerless": false,
   "reference": "ALT_DUSTER_B_BR_89_C",
   "id": "01JYP9SVPH3HCF7N3T783TBGBQ",
   "mainFaction": {
@@ -131,10 +132,10 @@
   },
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/fr_FR/e78c458e5345cda6e925c746cb9929c4.jpg",
-    "es-es": "",
-    "it-it": "",
-    "de-de": "",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/en_US/9c134b2efe275a936b39374ae8182814.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/en_US/9c134b2efe275a936b39374ae8182814.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/it_IT/231a4ea1a6233d9a8795aed3a2e8d1fe.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/es_ES/7f8ce2afa1695a03bf6361a58eaeff23.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/de_DE/cc6c0c841e3835e8428322022721ea1b.jpg"
   },
   "name": "Kedarm",
   "elements": {

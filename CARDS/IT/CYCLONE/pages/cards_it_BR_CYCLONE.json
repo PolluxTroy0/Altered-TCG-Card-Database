@@ -1,0 +1,3577 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 56,
+  "hydra:member": [
+    {
+      "id": "01JN9HNDX4G8TC7YG62V7MCRJ3",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/en_US/c5bbcd75c1e6ba7706dec84e073e01e8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_f2269a2919f7eddc5213bba846fdec9d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_6b27e17225eec2cc3ac0476d30670392",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/WEB_c2ee5ac90f103282d831868bb3d6aa51"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_71_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Medusa",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/es_ES/1fac12dee6f0372adb83a0e3c0ca60e6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/de_DE/d18f7b68a9c46109f7469ce66a346692.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/it_IT/47173d8829c90e7aaa831a2e6b9e841d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/en_US/c5bbcd75c1e6ba7706dec84e073e01e8.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_71/JPG/fr_FR/ae6f9bba0d0ae9edf2b7247598dbd484.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_71_R2",
+      "@id": "/cards/ALT_CYCLONE_B_AX_71_R2"
+    },
+    {
+      "id": "01JN9HNDX945HK1T715YNER4CG",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/en_US/31be19d32fbd8970f9de623c4200c999.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/WEB_d175d6173c40448b8f6984a09b94fdac",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/WEB_18e4fd76219e57cbc9f1a8ae058648ef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_AX_81_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Restocking Station",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/en_US/31be19d32fbd8970f9de623c4200c999.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/de_DE/483ec7ddd3b9ed449348185bd7daefb9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/it_IT/2e8f4b03dd3323223d705c5a637934a5.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/fr_FR/2f3d577c4583ef544cd8a3e8d85087ce.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_AX_81/JPG/es_ES/c5b45e06508481a92b1adbf4b1918785.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_AX_81_R2",
+      "@id": "/cards/ALT_CYCLONE_B_AX_81_R2"
+    },
+    {
+      "id": "01JN9HNDXESZGQSX75X8D6P0HH",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/en_US/af8149a24784f13e086735e69a0cf7c3.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/HERO_THUMB_96da0af0dd504ba0e1d854af3187075a"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/HERO_WIDE_e29983ea0001809c95a92f477feebce3"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/WEB_0bd6374afa94942823892c37a328ecd9"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_65_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sol & Halua",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/es_ES/acdadddad68e5985d5ae6011c9b7a10e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/en_US/af8149a24784f13e086735e69a0cf7c3.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/fr_FR/442dc18f051bf1e37e99f54f3bb173ac.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/de_DE/a1ea982ad1cb8b827299715b6ef2ec55.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_65/JPG/it_IT/45865e91e3f21df84fa623c99b52ae4c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_65_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_65_C"
+    },
+    {
+      "id": "01JN9HNDXESZGQSX75X8D6P0HP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/en_US/c3f2af529a801023d4b2b01d4a4a3714.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/WEB_9b55b0148635be1be11c813c74a4a36d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/WEB_af39d0ec7a60d34fa34adb85beec84fa",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/WEB_d78147f9d88694b2a06bbe9f54524b2f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_66_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Jumping Frog",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/it_IT/e4532dd12eb81b82b3ba23e58a9f95f7.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/fr_FR/9437af7bd7e363ca62b8e384e7abaf10.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/en_US/c3f2af529a801023d4b2b01d4a4a3714.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/es_ES/fa510fd03422c265834040c586dcbfb6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/de_DE/a23d4e7a792aac69449e35d301068248.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_66_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_66_C"
+    },
+    {
+      "id": "01JN9HNDXESZGQSX75X8D6P0HS",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/en_US/1848c81f0b4439faf807dd3b0ed58c2a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/WEB_9b55b0148635be1be11c813c74a4a36d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/WEB_af39d0ec7a60d34fa34adb85beec84fa",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/WEB_d78147f9d88694b2a06bbe9f54524b2f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_66_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Jumping Frog",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/fr_FR/50f1d54ee9a570706349916105ab84c2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/es_ES/4bb9eeef992c97ba168b2991a72bde8a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/de_DE/4c53e80edede492c2fd3b975bc55ad20.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/en_US/1848c81f0b4439faf807dd3b0ed58c2a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_66/JPG/it_IT/d14985644ba58533df7ff020282ea686.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_66_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_66_R1"
+    },
+    {
+      "id": "01JN9HNDXFT4B1FQDAQMHZ7RQX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/en_US/98e73ffcdc8c9d6f71f7c91c415ef4be.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/WEB_e590f8dec6e9146803900fe515dd9f15",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/WEB_89bfb4e61b9329ce01dab0d97d26616b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/WEB_2355f473bc71ee99900402ce4b516cdd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_67_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Altrun Teammate",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/de_DE/8683cd99e3834a591191c45e8192f35d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/it_IT/e843324aa439a449ecf74a4e2bf19480.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/es_ES/7cf1fad33d21e2c5b99321f06212b081.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/en_US/98e73ffcdc8c9d6f71f7c91c415ef4be.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/fr_FR/0f3e866d4f789423ea4ebdbbed11435f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_67_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_67_C"
+    },
+    {
+      "id": "01JN9HNDXFT4B1FQDAQMHZ7RR0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/en_US/c9b79b4d1196d61c62537723b6462695.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/WEB_e590f8dec6e9146803900fe515dd9f15",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/WEB_89bfb4e61b9329ce01dab0d97d26616b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/WEB_2355f473bc71ee99900402ce4b516cdd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_67_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Altrun Teammate",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/de_DE/7ff12feba26f2d90502732655f46e431.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/it_IT/f57b95d518a91b27f5545fbbb1d53f58.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/fr_FR/47e3438388eeef0cb2da0d709e12193a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/en_US/c9b79b4d1196d61c62537723b6462695.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_67/JPG/es_ES/31cfa418c21b1fa54f9b4f55aedacd0e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_67_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_67_R1"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANRX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/en_US/b7a50bdd15400836bef351e0c676275c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/WEB_840e9a93513195cf74368d0fcec2e813",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/WEB_ae810d74d3339e49df5f01e0604f7c47",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/WEB_6abc39223a346a4a18b08a7144497a40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_70_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Tengu",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/es_ES/54ea2dc8e3ad8c82501e4702ba061df9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/en_US/b7a50bdd15400836bef351e0c676275c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/it_IT/91ae32cd05bda4de084a904d18d74106.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/de_DE/a824b500ab84a1c6c3ecc1afe335587f.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/fr_FR/d4f2cf09395d6431bfc387c0b287ad1f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_70_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_70_C"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANS0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/en_US/2c96a5d5512a2e4a158b53bb1dc619c1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/WEB_840e9a93513195cf74368d0fcec2e813",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/WEB_ae810d74d3339e49df5f01e0604f7c47",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/WEB_6abc39223a346a4a18b08a7144497a40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_70_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Tengu",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/en_US/2c96a5d5512a2e4a158b53bb1dc619c1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/es_ES/180da0d8448caa71f81da9210e1b2498.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/de_DE/240d0db1c9c271e6551421c1021d0441.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/it_IT/d483a1d498db0ac80b92ed447129fa6c.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_70/JPG/fr_FR/e17b56205d4a9daa389cc44511018134.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_70_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_70_R1"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANRM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/en_US/225adab37b682283bae5cd554a91c1e4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/WEB_98d15424803d047020aff86154ff18b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/WEB_f8baa484462565e0ebd2c11b9ba7f9d4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/WEB_58e2765b0526cd4fceb1de0bc4c09d42"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_69_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Leviathan Spotter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/de_DE/4050cd5e6c911ccba8e630b6cb616ec2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/en_US/225adab37b682283bae5cd554a91c1e4.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/fr_FR/636ef4d8570e9cbedfb4304419a3a591.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/it_IT/053944bce2f05481bacdb521ce769f59.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/es_ES/36cabbafbbc7bf2bfbd56321cd01fc88.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_69_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_69_C"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANRQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/en_US/033dcd18f66c01106016d0279fd52300.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/WEB_98d15424803d047020aff86154ff18b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/WEB_f8baa484462565e0ebd2c11b9ba7f9d4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/WEB_58e2765b0526cd4fceb1de0bc4c09d42"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_69_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Leviathan Spotter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/fr_FR/652d432cac78ba3517d64df9bc5a34b8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/en_US/033dcd18f66c01106016d0279fd52300.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/de_DE/7235f9c71af47ecb3d9e302cb8e2965a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/it_IT/89d717494ffe8c2cbeb905a0b6514fb3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_69/JPG/es_ES/230c780c592eed61b66bae60f8260f1c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_69_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_69_R1"
+    },
+    {
+      "id": "01JN9HNDXFT4B1FQDAQMHZ7RR6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/en_US/6ca89f93b541f634fd060d20d5e621a1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_a37787070b03342ec6ee68f0899564ca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_7e5f96ef97316de28921151e629ab36b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_936dc00d5432a8ac309615b4233f2c38"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_68_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Smoldering Jinn",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/en_US/6ca89f93b541f634fd060d20d5e621a1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/es_ES/89cc77e7a366216655dde0b410e9c4bb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/de_DE/2b99c65e0825f5535188a7a6b430fd91.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/it_IT/bba65455d26602092436ae650294696a.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/fr_FR/61d463bd6ab9d46ecdfd5f7cf83194f8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_68_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_68_C"
+    },
+    {
+      "id": "01JN9HNDXFT4B1FQDAQMHZ7RR9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/en_US/40dd02dd230c50a2e2f3255a015307a7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_a37787070b03342ec6ee68f0899564ca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_7e5f96ef97316de28921151e629ab36b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/WEB_936dc00d5432a8ac309615b4233f2c38"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_68_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Smoldering Jinn",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/en_US/40dd02dd230c50a2e2f3255a015307a7.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/es_ES/ac4f0a9dab13aab7c1089405261ffd05.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/de_DE/8835a34a362002992a959a7d14ad9cee.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/it_IT/bf0a6aff335e48b0a92a7010b3788643.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_68/JPG/fr_FR/f4b75c90ac314f5067235d162a7f83c6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_68_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_68_R1"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANS6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/en_US/efad5978abb7dd6fcd2602bbaf75de4c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_b12df631fa081042abf2151b4a94bcec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_94fb743ecfa3e6f3b54ecf93c12aea9f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_e4e580197560d6ca3eb3ab16a95116d4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_71_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Phileas Fogg",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/es_ES/e1af87e241fc2ca412d084ae4e7ed8db.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/fr_FR/0737d2be006947319b252e27549b4658.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/en_US/efad5978abb7dd6fcd2602bbaf75de4c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/it_IT/b37f85730c1c57e5019977622930e4bf.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/de_DE/66e0fcb3a9b74fec4d18e28d57556c17.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_71_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_71_C"
+    },
+    {
+      "id": "01JN9HNDXG42EBJSZKQYQKANS9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/en_US/9fd1881c5751314d1f806f7f078bebc0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_b12df631fa081042abf2151b4a94bcec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_94fb743ecfa3e6f3b54ecf93c12aea9f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/WEB_e4e580197560d6ca3eb3ab16a95116d4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_71_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Phileas Fogg",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/fr_FR/66588a08d1f613847005d6aeeaa14b6b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/de_DE/a25caa1a6b4affabe792f2879960dd0f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/es_ES/ff682297e79d9c1fbe7895db521f1186.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/it_IT/14ced1b04bd04d860c11987f052d1430.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_71/JPG/en_US/9fd1881c5751314d1f806f7f078bebc0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_71_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_71_R1"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CP8",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/289351cd1602c73dc5b7f87de2e83a1e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_73_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Harpooner",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/de_DE/3782c7acc5776ebc4e78f244c3e801cf.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/es_ES/86c47bdc0a26fba0edd29352a62f4ea4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/it_IT/2c49a52d756cca131ef82a183a6d1132.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/289351cd1602c73dc5b7f87de2e83a1e.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/fr_FR/238d0979dcef23d8df4449102a4093f4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_73_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_73_C"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CPB",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/b558189f844c4f59d6053a4417afd3de.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_247f11c81404027d737fa22aa2038812",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_28f17df68f252d26aaa6b1fc74188927",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/WEB_9d6f3f54c30898ee6d30d1fb88edb309"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_73_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Harpooner",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/es_ES/e3b2fab9b3667327efb041bee497f220.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/fr_FR/94cadbc29f21ff2945e94e12dc89d6e7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/en_US/b558189f844c4f59d6053a4417afd3de.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/de_DE/50d5aad8468638b461766d4f531ae6c0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_73/JPG/it_IT/32fd660211066739628df84589d80b71.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_73_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_73_R1"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CNZ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/en_US/4d8dcdb923ece064af07afa8cb9e1967.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_1d5e9d1ee4a3c23007bf345cbf36be6a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_b931bf81502bc5e25d6d620ceebd8371",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_fe7bf1395c1fc04c4e258f2b22328e5d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_72_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Wingsuit Jumper",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/es_ES/9488dd9be47eddab941c92c46b0f5e81.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/de_DE/812827459ab8df6fe78fc210b0fd8cd4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/it_IT/7ca982e05f4fcf09488ed50039120d22.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/en_US/4d8dcdb923ece064af07afa8cb9e1967.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/fr_FR/c4b939e8f4cfcf242f8b3c81e919f9be.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_72_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_72_C"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CP2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/en_US/3b37444d42f5b6a78bc64554a43f24a2.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_1d5e9d1ee4a3c23007bf345cbf36be6a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_b931bf81502bc5e25d6d620ceebd8371",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/WEB_fe7bf1395c1fc04c4e258f2b22328e5d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_72_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Wingsuit Jumper",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/fr_FR/076aa7e5b577fb88e8f217dd323eb1f5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/it_IT/9419e4ef2651c4438510caa0214c9a09.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/de_DE/e0cda8438ad639a18dce648d059ed946.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/es_ES/f3a8558a274c14924fbc9bb5741137b0.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_72/JPG/en_US/3b37444d42f5b6a78bc64554a43f24a2.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_72_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_72_R1"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CPH",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/en_US/b24f978357f322c865022febbbe66119.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_8d5073a10b02537474a27fa3ee2c8def",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_53c0383a2b630ba43346dc708c59391b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_cfb9eaed75bbefb4b6f26f995c6d5ec4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_74_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Priya, Bravos Signaler",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/de_DE/c8406ea2b1005d006f9c24a66f879692.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/it_IT/25b84110f6e076dd9b9dbef4c11e5290.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/fr_FR/22e0b1bad7c900447f034186a37f76c2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/en_US/b24f978357f322c865022febbbe66119.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/es_ES/ad889b94452eb3bdcee77647f58767d0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_74_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_74_C"
+    },
+    {
+      "id": "01JN9HNDXHWBPYT5RAY1QC6CPM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/en_US/91dc6bc0875cab97c6a8ce40bcc4be05.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_8d5073a10b02537474a27fa3ee2c8def",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_53c0383a2b630ba43346dc708c59391b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/WEB_cfb9eaed75bbefb4b6f26f995c6d5ec4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_74_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Priya, Bravos Signaler",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/en_US/91dc6bc0875cab97c6a8ce40bcc4be05.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/it_IT/dc097d1a6a41d0afb0ff7685aecbc98a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/es_ES/a4b9409ef42bfe337ee272b7f03af1bc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/de_DE/ae3310c6d8fd7e9b4ffc7409b124bedf.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_74/JPG/fr_FR/cabb076034150d45a033cdc4c2876c8d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_74_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_74_R1"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8YY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/en_US/57fd46f0ab1363956a7e3d3bb6b03532.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/WEB_3eea16bbc321a79e2c973ffa0ddf9f9e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/WEB_de3ca82e83e4b6f987326409f07eca34",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/WEB_1ab5253577e30a7ece926fe37809bf14"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_75_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Hare",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/it_IT/20b13cb8ec98e479491d6ee502d7e74b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/de_DE/fad299543e61fb77fe948593c1ff8eb6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/en_US/57fd46f0ab1363956a7e3d3bb6b03532.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/fr_FR/b022d5ba85bc6f579ed884847dd85e8a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/es_ES/5fe3fe82cdfbfba42b81c3cfe4b59438.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_75_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_75_C"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8Z1",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/en_US/c5d8eb4559ccb2bca679860a542292e6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/WEB_3eea16bbc321a79e2c973ffa0ddf9f9e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/WEB_de3ca82e83e4b6f987326409f07eca34",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/WEB_1ab5253577e30a7ece926fe37809bf14"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_75_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Hare",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/es_ES/9fe3ef5d078aa14170af5c62a7cba371.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/en_US/c5d8eb4559ccb2bca679860a542292e6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/it_IT/84d2927b0cdd21c9882a8c79c1207088.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/de_DE/d837eeb1df66caf54f3b2dae14adc179.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_75/JPG/fr_FR/98b4b0b9fda05eaecee2b4e9da89eea1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_75_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_75_R1"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8Z7",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/en_US/200cd4f3e0b180a21a03e63fa38c5bce.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_959676a2344c2016d8820ac8d8d1e3b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_cab2666ecff539aa6fb7bf29d83e8add",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_da42a7116776ec21fa9ec26dec8386bb"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_76_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Beowulf",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/en_US/200cd4f3e0b180a21a03e63fa38c5bce.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/de_DE/72d10dde64f4b9bce74689a2cab69296.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/it_IT/81e3780767de56cc653cc701e00c6633.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/es_ES/5f014cfcda95d1978f741a0b90820b7b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/fr_FR/95584e3d1d8ceff31549f3138161ca98.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_76_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_76_C"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8ZA",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/en_US/17366934d35298d762b54708568b4b58.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_959676a2344c2016d8820ac8d8d1e3b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_cab2666ecff539aa6fb7bf29d83e8add",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/WEB_da42a7116776ec21fa9ec26dec8386bb"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_76_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Beowulf",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/it_IT/7a76a35ee5dd9d5a53048930c981e48f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/de_DE/5f987bc6ad6ba34fada55309a2c01ba8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/es_ES/88598a2c82be0a4a3f7eeb150c5e9a81.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/en_US/17366934d35298d762b54708568b4b58.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_76/JPG/fr_FR/7d528c7511392b66ce8013d4b1619ffc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_76_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_76_R1"
+    },
+    {
+      "id": "0MWSSDHSCA9WD8048F0AQVWEY2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/5d7939392b823d3d7031246ca7e8b5d0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Halua, Raging Leviathan",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/efc2a3b3b2e9eb79cfb7e8f7e45d3911.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/59734394ed216a93b95924ae165e7f52.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/4df16df4a61703e981daf92640518623.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/8e7f7b9e0fb551f49272e5513c7b7380.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/5d7939392b823d3d7031246ca7e8b5d0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_A_BR_77_C",
+      "@id": "/cards/ALT_CYCLONE_A_BR_77_C"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8ZG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/0f9f2b1815c8f7c4db47f05fa6a7a630.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_77_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Halua, Raging Leviathan",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/es_ES/452f8512861e33441ccb9c982567ad6d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/de_DE/5a36554704c2335d4626e5333b560674.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/it_IT/ffd12286d7cc8ae4a0d8dffd5d6e759e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/0f9f2b1815c8f7c4db47f05fa6a7a630.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/fr_FR/3278a104e45778154897c2d67885f76c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_77_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_77_C"
+    },
+    {
+      "id": "3EGQC8SE1J8HMBQQ6MSX73JDPB",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/4a9d4e417e7b30fbf11d14500d9066c6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_016ca68152789273db757d69c1ec82f8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_158d0f09425c067d5754513bab7987f0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/WEB_82972e5693b2fc170aef51e73891060f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_77_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Halua, Raging Leviathan",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/en_US/4a9d4e417e7b30fbf11d14500d9066c6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/de_DE/534c45fba1744851212a4bffd56ed403.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/es_ES/24868dca5081038630520af130ab8413.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/it_IT/fbc526e040a8cdefe86a2f46e5c643d2.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_77/JPG/fr_FR/75f474d2794a3eaececd87db7fbd61e7.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_A_BR_77_R1",
+      "@id": "/cards/ALT_CYCLONE_A_BR_77_R1"
+    },
+    {
+      "id": "01JN9HNDXJ08EM6MFTJ8WSP8ZK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/d8a523829d0aeed86a26a691618d0793.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_c191c53f250ce311996fa92d58ad7036",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_9c8e448eddaf60079a6939776fdb63a2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/WEB_2a214bb8f0693dfc4ced2efedb971aac"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_77_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Halua, Raging Leviathan",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/es_ES/fd970f1180254bf4c3b7858476dc5c16.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/it_IT/f76fccf78dbd79ff67792791be8a9960.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/de_DE/c470e7779f45425807d1dfec420f70b4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/en_US/d8a523829d0aeed86a26a691618d0793.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_77/JPG/fr_FR/f24051cf04bd271a2a0d400954383aee.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_77_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_77_R1"
+    },
+    {
+      "id": "01JN9HNDXKRJ61620N3W2S60QT",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/en_US/efb422f6c4f847af5ba67d023dbc6e0b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/WEB_d6014c7d66aa82890033b4e54c73087e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/WEB_c1ee5969ea077a27711377c3a23d0ab6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_80_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Rage",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/it_IT/fd77c9bda9141b62e5d2eb49906c7778.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/de_DE/4f2320317d1816c2dd4437754e3f6f3f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/es_ES/ba7f7e778d63eefed0e62c35aafec122.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/fr_FR/4efbe38d4dd44bfe32aa214937b68115.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/en_US/efb422f6c4f847af5ba67d023dbc6e0b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_80_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_80_C"
+    },
+    {
+      "id": "01JN9HNDXKRJ61620N3W2S60QX",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/en_US/d3d2f37beee06f0faecf3717e5f7125c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/WEB_d6014c7d66aa82890033b4e54c73087e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/WEB_c1ee5969ea077a27711377c3a23d0ab6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_80_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Rage",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/de_DE/ce8999704e193815fbcb89a3575c05b5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/it_IT/5a46f7e38480584fab80790bd2f03aa6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/fr_FR/9453d7fa5a6837b059d80b2e02b895ee.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/es_ES/38ae37523ed651fee7012df46d461c2a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_80/JPG/en_US/d3d2f37beee06f0faecf3717e5f7125c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_80_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_80_R1"
+    },
+    {
+      "id": "01JN9HNDXKRJ61620N3W2S60QH",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/en_US/6ce2cff0b0f827c9452a27928de37fbe.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/WEB_e0397367ddb7abbda6c6d4e99ffa215d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/WEB_f4f6ea12ef4723f3762784679412fdbe"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_79_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Signet",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/fr_FR/4d50b7a93e500b9671360e8519b9437a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/it_IT/eb9c15c15368b8eae8acac72ff368892.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/en_US/6ce2cff0b0f827c9452a27928de37fbe.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/es_ES/47bbf9d39fc169fab2841917f7e8f58a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/de_DE/018d4040b0c9ea29b4cf7284a5e76d2b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_79_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_79_C"
+    },
+    {
+      "id": "01JN9HNDXKRJ61620N3W2S60QM",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/en_US/908d6a765ae1eb37ccbd3c7b12998d19.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/WEB_e0397367ddb7abbda6c6d4e99ffa215d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/WEB_f4f6ea12ef4723f3762784679412fdbe"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_79_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Signet",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/it_IT/9d7f8d28a394b7c6d59a9cdae37b6a26.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/fr_FR/dcdf4b3e60cb7a56d58e5fdf79f4b303.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/en_US/908d6a765ae1eb37ccbd3c7b12998d19.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/es_ES/b867b21484d1ddb350fe1a1284a18bff.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_79/JPG/de_DE/053f9a0108f0dd94f7eeacc115180e99.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_79_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_79_R1"
+    },
+    {
+      "id": "01JN9HNDXKRJ61620N3W2S60Q8",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/en_US/0db070b5303f8b7abfdc2b06f029f987.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/WEB_9821eedb10506b767d9a64b1a538bc69",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/WEB_1a0c1ac26d0fb46903c59dca6e70079b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_78_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sol's Hunt",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/fr_FR/cc171c30c2922ffac8bdd0435d6aa60d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/es_ES/3f610dd9f4d3166bfda18e955363673b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/de_DE/2bc7c02183cf6da94981d833379c135c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/it_IT/d212d4c35ce99e4cf1faf6b1d6016776.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/en_US/0db070b5303f8b7abfdc2b06f029f987.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_78_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_78_C"
+    },
+    {
+      "id": "01JN9HNDXKRJ61620N3W2S60QB",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/en_US/e832ca1f525391606b5f23454d865af3.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/WEB_9821eedb10506b767d9a64b1a538bc69",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/WEB_1a0c1ac26d0fb46903c59dca6e70079b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_78_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sol's Hunt",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/de_DE/2ed34ed852f9d94e609f53b52ea4d4bf.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/it_IT/5cc6aa2b255be299ec7a14e84f428efd.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/fr_FR/3b8aa5c384a1615d6024e2b8e14507b5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/es_ES/b5045261e6a52f738b802d26be8b6d90.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_78/JPG/en_US/e832ca1f525391606b5f23454d865af3.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_78_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_78_R1"
+    },
+    {
+      "id": "01JN9HNDXMRM4000J5ZVTG2Z1F",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/en_US/cf417701e80ba97d6fc3016a8ecc80f9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/WEB_fecab85761341eeb87abfc94807003b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/WEB_840a700eaf173f0073a52c6badf2589b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_82_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Flying Dockyard",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/fr_FR/7ace4bd0119758f569d14d1482fdbb47.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/de_DE/37e4e48cb4f8b1281a13576db55bc5ec.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/es_ES/7c0ae8b2552f8a0eadf2c26fe0f0eee1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/it_IT/cc43c44c7f191ef4f6099907ae9a9195.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/en_US/cf417701e80ba97d6fc3016a8ecc80f9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_82_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_82_C"
+    },
+    {
+      "id": "01JN9HNDXMRM4000J5ZVTG2Z1J",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/en_US/26756a4010f8e9f1224df3e6a5924acd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/WEB_fecab85761341eeb87abfc94807003b1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/WEB_840a700eaf173f0073a52c6badf2589b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_82_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Flying Dockyard",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/de_DE/d7e0ec20719cc12df87001ed6cac507c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/it_IT/04340662772551d36a891931a096613a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/en_US/26756a4010f8e9f1224df3e6a5924acd.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/es_ES/4b7658e39c96f3c80908b5a70a15c492.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_82/JPG/fr_FR/15095d28a0c7c87dfd63bb856795982c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_82_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_82_R1"
+    },
+    {
+      "id": "01JN9HNDXMRM4000J5ZVTG2Z16",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/en_US/c00e6f77a7d3ec4dd6209231a120f730.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/WEB_a75129b1070ebe2f4b5b8b59431ea5d4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/WEB_49a2984ededef80e8a17e9043301bd36"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_81_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Parliament of Ashes",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/fr_FR/734c080d816088f8f3462fe08a2c4b99.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/de_DE/d564a48a92f0873b58381bf8780bf088.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/es_ES/767c6c44af1ca0e462db0e41b85d8abd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/it_IT/b22df4d81faebb6ec0951d38f46eb37e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/en_US/c00e6f77a7d3ec4dd6209231a120f730.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_81_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_81_C"
+    },
+    {
+      "id": "01JN9HNDXMRM4000J5ZVTG2Z19",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/en_US/c4ca7009999f11427f51a30a46c1ebd8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/WEB_a75129b1070ebe2f4b5b8b59431ea5d4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/WEB_49a2984ededef80e8a17e9043301bd36"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_81_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Parliament of Ashes",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/it_IT/38c79b8c220ccc64b71c50b3742dbfaa.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/de_DE/a7c68a55421e5c7027bec0677e14e39f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/es_ES/e0c4538cca1f69cf23465b9304a5108b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/en_US/c4ca7009999f11427f51a30a46c1ebd8.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_81/JPG/fr_FR/4b92eb15a4fd7d15c47555a716b1b0df.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_81_R1",
+      "@id": "/cards/ALT_CYCLONE_B_BR_81_R1"
+    },
+    {
+      "id": "01JN9HNDXQW0Q82581J22J85F3",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/JPG/en_US/2a5012ffae12d780a2d38cc22a591422.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/WEB_4b0ac975df0bcbe9345d88ca69eabf75",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/WEB_16f8ea7950eca7eb6d9090ca7d92eabb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/WEB_a513c44121b4e2d411ec6e12c4b81fc5"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_66_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Mountain Guide",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/JPG/es_ES/291772dee32c8dcbdfb041baea42bbf0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/JPG/de_DE/3fdaecb1ee22e37b546f4b563a2237d6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/JPG/it_IT/5e84f4faba5c16d6b88a3462d9aadc44.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/JPG/fr_FR/694f16616d1a7a13beca8305f952fd0b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_66/JPG/en_US/2a5012ffae12d780a2d38cc22a591422.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_66_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_66_R2"
+    },
+    {
+      "id": "01JN9HNDXT7HB5RRYHTZ5DQHEK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/en_US/56f3ba1284d3ad7a6c49246319c4fb26.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_79a803286f9318d9a2dbc8d0c0892de1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_b9446ebfb961cda63c095995c2872054",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/WEB_9190180410cf3ff790511567d9415fda"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_72_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Lyra Aerialist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/de_DE/f537e9c5312ee5795300be12cf6e7abc.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/fr_FR/51e45f9b1ca3a48e29eb9a33a3212cc8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/en_US/56f3ba1284d3ad7a6c49246319c4fb26.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/it_IT/ea70d4cde72c90dee22a21d8265a4517.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_72/JPG/es_ES/7898531408d418745c74fbc99a21ef1f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_72_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_72_R2"
+    },
+    {
+      "id": "01JN9HNDXT7HB5RRYHTZ5DQHEW",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/JPG/en_US/e890a2b63a2ab73c24668d581aac6711.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/WEB_81aed01e862d17c4453ad10f9ec57046",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/WEB_af9970768eec151f3b4fb513bf8752fa",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/WEB_fce1d882fb7cf1b5cbe28336006709ae"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_73_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Nuit",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/JPG/fr_FR/512384778c2bb4a0fcf5f9bf926dfa95.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/JPG/de_DE/24737f506c3f583a3de818bcc6740fcb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/JPG/en_US/e890a2b63a2ab73c24668d581aac6711.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/JPG/es_ES/7354feeb4bd55fd09eb0569f981cd44c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_73/JPG/it_IT/356f083dfa93ecff4beff5e9ddb51917.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_73_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_73_R2"
+    },
+    {
+      "id": "4RKV9FYWP59FT9HJ1N51P8JRB5",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/4dada8f5b4560a2befd4cd4da961295e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_4618bac2d03091fb6f229961e2c732a0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_98caf3e1233dd476e64dbe1a29872224",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/WEB_d62a64bec6cf2f55dba497b12111bd49"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_74_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Koi, Playful Leviathan",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/de_DE/7b814b7c5d90352095252fb0850eed2c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/it_IT/32b30299035d01688d9edc51f7609d0f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/es_ES/4736e74063b0bc724b46fc650016eceb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/en_US/4dada8f5b4560a2befd4cd4da961295e.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_74/JPG/fr_FR/6d15f91cd8155e87ef00627618006cab.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_A_LY_74_R2",
+      "@id": "/cards/ALT_CYCLONE_A_LY_74_R2"
+    },
+    {
+      "id": "01JN9HNDXT7HB5RRYHTZ5DQHF5",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/en_US/6444fbdb1534c868f641ad62f35a4345.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_10271fd052be6a829a1e51951a8ec7c7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_cf043e3a1a51043649e28de1f77594b6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/WEB_db0a6d09bd61290304941962663efed3"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_74_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Koi, Playful Leviathan",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/it_IT/f9361a049691c551b32c155263f1f324.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/en_US/6444fbdb1534c868f641ad62f35a4345.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/fr_FR/0974376354ca4770144705078e029a9d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/de_DE/a5f62fbccb683fb34862f9b02d2077bf.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_74/JPG/es_ES/53aed3614a960a018394cc036de99d35.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_74_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_74_R2"
+    },
+    {
+      "id": "01JN9HNDXVVAVED600V2SNQC30",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/JPG/en_US/396418effbfb0378fb6eb82da471b8fe.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/WEB_fad6801fb461ecfb22c1ceb22baf3913",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/WEB_52fe6309f6ed79eff7bcc07f415e18dd",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/WEB_1d23e8e68d25e9e40654959f6b425430"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_75_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Eris",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/JPG/de_DE/1415bd60ec453e6743445230a9b202dc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/JPG/es_ES/77f7abe7f07a087eee06ff3d3535dbad.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/JPG/en_US/396418effbfb0378fb6eb82da471b8fe.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/JPG/it_IT/c8170715f7a9940cafe57ff24dd4e64b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_75/JPG/fr_FR/ba69f22254d72cc3a4f5982e617cde92.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_75_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_75_R2"
+    },
+    {
+      "id": "01JN9HNDXXGPQ6E2ZQ2J5F1936",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/JPG/en_US/46f3e39e5367249de4993834a849e3a1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/WEB_aa9053c22ca0d97db2425582394baeec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/WEB_6860ce507f45ffae994efc11c0cdf8de"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_LY_81_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Painthouse",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/JPG/fr_FR/3f9bbe4ce57f7c8e27602a9a3822f117.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/JPG/en_US/46f3e39e5367249de4993834a849e3a1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/JPG/es_ES/796f88dbc57495f5f56c4ca67e133853.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/JPG/de_DE/bf42dc3080e2669946d79425eaf7ce8a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_81/JPG/it_IT/c35797559ba55dc005887b6fc1d160fc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_LY_81_R2",
+      "@id": "/cards/ALT_CYCLONE_B_LY_81_R2"
+    },
+    {
+      "id": "01JN9HNDY28N193MGRDW4BDPT0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/en_US/157c58003b612603782f192db04831c6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_d85a687dac237cf5ae99101b4f902931",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_f5c3b16248d927b933c211cf4445cf9b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/WEB_3de8e415d60befe62cf46bff0c0f887c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_70_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Colorful Cuckoo",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/de_DE/a37e409133d073b287908254701c5801.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/es_ES/676df21ffe74fecd2fbd96b97721a87c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/it_IT/f2cff9e8e3839c976ab72983279c31a1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/en_US/157c58003b612603782f192db04831c6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_70/JPG/fr_FR/388a519cc3c0b0f622924a766b06d007.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_MU_70_R2",
+      "@id": "/cards/ALT_CYCLONE_B_MU_70_R2"
+    },
+    {
+      "id": "01JN9HNDY46PGYP4XY71X34A48",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/JPG/en_US/39dd6f699c7f60754c34bcdef791d0a4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/WEB_8d2ec28366cafc42e38afac12d099459",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/WEB_e0980881da540c36aee61f78ee60c700",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/WEB_868a2675eb02b7281c2c43ecdb85e246"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_77_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Tāne",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/JPG/fr_FR/f733bd342a8427f389a413e296a741c4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/JPG/es_ES/d34a7374f3c9ebaf44fa83df5425f4bd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/JPG/de_DE/53a05688fea83a8c4f7d704956601f21.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/JPG/en_US/39dd6f699c7f60754c34bcdef791d0a4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_77/JPG/it_IT/f6ed7633d71e469246191b4a0db7a16b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_MU_77_R2",
+      "@id": "/cards/ALT_CYCLONE_B_MU_77_R2"
+    },
+    {
+      "id": "01JN9HNDY38KVXX5D98794X296",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/JPG/en_US/467881b1cb8e6f0c1ceecd2033b0360a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/WEB_89e18202eb5f9e75f4759832dbad9a77",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/WEB_b0f2e05b88ccc943f1b83cf7d437da30"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_75_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Kauri's Intervention",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/JPG/en_US/467881b1cb8e6f0c1ceecd2033b0360a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/JPG/it_IT/ccc3a61e30107656faf5a1da7d256a81.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/JPG/de_DE/bce38254a05cbd98dc61e5617246b37d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/JPG/es_ES/21d00c7db174b7dbb9b91fe16def7cb5.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_75/JPG/fr_FR/de4e60afe40c5667790942202054fc34.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_MU_75_R2",
+      "@id": "/cards/ALT_CYCLONE_B_MU_75_R2"
+    },
+    {
+      "id": "01JN9HNDY5VWGDMQTW71H09ZNM",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/JPG/en_US/6d877bcf4a8faad4782762824e7349bd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/WEB_f2e6857fd7fb707cfbb491ce16cb74de",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/WEB_58d4ab749b9bd334f16da32e27ca6b4c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_81_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Joining Fates",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/JPG/de_DE/15223b0877210224dfdbdd3f2466da0b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/JPG/it_IT/403d67aaed0e16c700b6f7525a07d38a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/JPG/es_ES/8f3b8e3007d39c97146295c7d38ebc41.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/JPG/en_US/6d877bcf4a8faad4782762824e7349bd.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_81/JPG/fr_FR/003a766f0cefc64cf198b818cc125d82.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_MU_81_R2",
+      "@id": "/cards/ALT_CYCLONE_B_MU_81_R2"
+    },
+    {
+      "id": "01JN9HNDY5VWGDMQTW71H09ZNX",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/JPG/en_US/dbc706a2c1b585f6b69d1a57dea586b0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/WEB_d5e7fc05b2996db93920725aa0e845b8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/WEB_2d8bf71dc67fbb4ca5a1d798199a8e6f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_MU_82_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Woolly Woolly Field",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/JPG/de_DE/73358cc61ae560206cfea69613238c4b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/JPG/fr_FR/b9a419ce3e29c8ad10ac7cadca42b6eb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/JPG/es_ES/bb8e0bc2b8aebbe44f6269bb3e221bfa.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/JPG/en_US/dbc706a2c1b585f6b69d1a57dea586b0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_MU_82/JPG/it_IT/18e5005da94b6d87f77e8c7232d6b64b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_MU_82_R2",
+      "@id": "/cards/ALT_CYCLONE_B_MU_82_R2"
+    },
+    {
+      "id": "01JN9HNDYCGM12D0GM1JTBX41C",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/JPG/en_US/eba13ecfc6a564b48bbf568c9b04b12d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/WEB_b5aade3f5211c24ce0da459b9093b2b0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/WEB_88ef90f3d839101643c0747c8aeb86f7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/WEB_1bd0afa8e5b5a68ae9ba570c363bc1e4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_75_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Yanna, Qorgan Agent",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/JPG/de_DE/6b475894dff52e7543929950f2309360.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/JPG/it_IT/8933ec8e006feba1fb80492905252cef.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/JPG/fr_FR/f62e73d23f3eca26e6a6a30f2aadaf53.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/JPG/es_ES/a8a22c0c449d39f25ece5a83bbcd7f81.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_75/JPG/en_US/eba13ecfc6a564b48bbf568c9b04b12d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_OR_75_R2",
+      "@id": "/cards/ALT_CYCLONE_B_OR_75_R2"
+    },
+    {
+      "id": "01JN9HNDYDMX9NBWXD8KWMMVFX",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/JPG/en_US/00ba71c6bbec7fc5456a30476209af52.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/WEB_9b4c82423fd881c1b14f044472e17cd8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/WEB_484c8978a9c7454312e3854c0421392e"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_OR_80_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Skybound Odyssey",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/JPG/es_ES/d2b4be04a34025c4844413fa7e237555.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/JPG/de_DE/f27a527c7e6a506b0b3040ea39bfc33c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/JPG/it_IT/23b9de7d10ee5e85d4042dea48e1190d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/JPG/fr_FR/7c2991f1cc8cf27180dd8639701ebd6f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_OR_80/JPG/en_US/00ba71c6bbec7fc5456a30476209af52.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_OR_80_R2",
+      "@id": "/cards/ALT_CYCLONE_B_OR_80_R2"
+    },
+    {
+      "id": "01JN9HNDYJG50JR0D3EZSZQ0SY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/JPG/en_US/fcb51652a7ce8a911ca63b09e5333104.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/WEB_642a407cb95fc4cda1c9bec091c06bec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/WEB_1d7c1c1eb580e60041059672788650f4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/WEB_431ccd505e00249bd64faf0fba30f6c0"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_70_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Suha, Qorgan Operative",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/JPG/de_DE/fd79d0b344a6d95fe47a5c7a829d5aa2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/JPG/es_ES/496417edc3740fe71f49bd89e2159c56.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/JPG/it_IT/5e10b708db6b98253819eb3ec29ea769.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/JPG/en_US/fcb51652a7ce8a911ca63b09e5333104.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_70/JPG/fr_FR/ae5dfdd6870b91d242d1832a1c60be66.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_70_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_70_R2"
+    },
+    {
+      "id": "01JN9HNDYMWT4CV99J1YHPMTSA",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/8968f3cad3057000fa30",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/JPG/en_US/a030656741f8ff1b1c3d602523a7ce3a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/WEB_a4f3e9096508ec8ffe11ccc73b6d185f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/WEB_0d75142983dba63ae51dc175fb6b2e5b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_YZ_76_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Yzmir Signet",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/JPG/it_IT/69a10d03c116819f4f9cdda6e9381be9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/JPG/de_DE/82678176978f04e2dfc3814ecb7afa46.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/JPG/en_US/a030656741f8ff1b1c3d602523a7ce3a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/JPG/es_ES/0ffc610e145dd08b064f8a99f698efdf.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_76/JPG/fr_FR/680b9136649b970c7e8df270a5eaefd8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_YZ_76_R2",
+      "@id": "/cards/ALT_CYCLONE_B_YZ_76_R2"
+    },
+    {
+      "id": "2V1ZDXGG9Z875TRYK77WCZPT4F",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/CYCLONE",
+        "@type": "CardSet",
+        "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+        "reference": "CYCLONE",
+        "name": "Skybound Odyssey"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/874951ce9e4155bce481",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/en_US/1d401ae74f6b615bdd7747543a735c31.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/WEB_58f7bf25b55d6ec811137d428b74b79b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_B_BR_83_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Halua",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/fr_FR/ecdf8d6b467bcaec743143e1d610a451.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/de_DE/9135bbb469300902a69b5461eef130a3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/en_US/1d401ae74f6b615bdd7747543a735c31.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/es_ES/c25ee0eccd44f962a99856f52b2971b4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_BR_83/JPG/it_IT/3872b5f9ec47fdae51721571229e1c81.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_CYCLONE_B_BR_83_C",
+      "@id": "/cards/ALT_CYCLONE_B_BR_83_C"
+    }
+  ]
+}

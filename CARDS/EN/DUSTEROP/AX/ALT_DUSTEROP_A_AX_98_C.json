@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YWDQJMHNXV999HX7V1P",
         "reference": "SPELL",
-        "name": "Spell",
-        "description": ""
+        "name": "Spell"
       },
       "id": "4V4F3ECFC69EWVNMH1D0HBDZX1",
       "reference": "ALT_DUSTEROP_B_AX_98_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/cd87a80782a4666d6ac4",
+      "@id": "/.well-known/genid/a690c924e47fccd0b559",
       "reference": "CONJURATION",
       "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
       "name": "Conjuration"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f332169007fa2f467acf",
+      "@id": "/.well-known/genid/2a405f73940bcc8e169a",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Maneuver"
@@ -117,7 +116,7 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/25038bb1e55b2024c6dc",
+    "@id": "/.well-known/genid/5ee72b108547f11c8f78",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
@@ -127,6 +126,7 @@
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_C",
+  "isOwnerless": false,
   "reference": "ALT_DUSTEROP_A_AX_98_C",
   "id": "01K4YGECGRVP002XYTEWX1RAJT",
   "mainFaction": {
@@ -138,11 +138,11 @@
     "name": "Axiom"
   },
   "allImagePath": {
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/8bbf0fee9275f54ed030a8cef1eea9de.jpg",
-    "de-de": "",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
     "it-it": "",
-    "es-es": ""
+    "es-es": "",
+    "de-de": ""
   },
   "name": "Technological Encounter",
   "elements": {

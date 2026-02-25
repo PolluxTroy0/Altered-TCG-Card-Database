@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "2JKDJA8Q238V9A9Z5N3B155SAD",
       "reference": "ALT_DUSTER_P_LY_65_C"
@@ -102,15 +101,17 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d55970021f6f6c34d7a2",
+    "@id": "/.well-known/genid/abd4772cde36448e142f",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_LY_65/JPG/en_US/5a77abdb1faa525ace4daa054106c5d6.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_P_LY_65_C",
+  "isOwnerless": false,
   "reference": "ALT_DUSTER_P_LY_65_C",
   "id": "01JZJFZNM63P1HFMX2VCJNTTHS",
   "mainFaction": {
@@ -122,11 +123,11 @@
     "name": "Lyra"
   },
   "allImagePath": {
-    "es-es": "",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_LY_65/JPG/fr_FR/4c1e7dd6575e4e82a7eeb3f887c20f93.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_LY_65/JPG/en_US/5a77abdb1faa525ace4daa054106c5d6.jpg",
     "it-it": "",
-    "de-de": "",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_LY_65/JPG/en_US/5a77abdb1faa525ace4daa054106c5d6.jpg"
+    "es-es": "",
+    "de-de": ""
   },
   "name": "Nadir y Burbuja",
   "elements": {
@@ -134,7 +135,7 @@
     "RECALL_COST": "0",
     "PERMANENT": "2",
     "RESERVE": "2",
-    "MAIN_EFFECT": "Comienzo la partida con un marcador de terreno de {V}, otro de {M} y otro de {O}.  Al mediodía — Puedes colocar uno de mis marcadores en una región visible objetivo."
+    "MAIN_EFFECT": "Comienzo la partida con un marcador de terreno {V}, otro de {M} y otro de {O}.  Al mediodía — Puedes colocar uno de mis marcadores en una región visible objetivo."
   },
   "isSuspended": false,
   "isErrated": false,

@@ -12,8 +12,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "7DR659A7ZM86XB7E7PAPMME89Z",
       "reference": "ALT_DUSTERCB_P_OR_01_C"
@@ -36,15 +35,17 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/34aa3b89e4298ed4f791",
+    "@id": "/.well-known/genid/4fb850aa3083fe2e449c",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "cardRulings": [],
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_01/JPG/en_US/ec1845916c2b64ef0c39eaeb1a54ecc7.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_DUSTERCB_P_OR_01_C",
   "id": "01K60PWD77HP98Q3ZHRAY5KGAY",
   "mainFaction": {
@@ -56,11 +57,11 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "de-de": "",
-    "es-es": "",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_01/JPG/en_US/ec1845916c2b64ef0c39eaeb1a54ecc7.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_01/JPG/fr_FR/ced54044bb44b2ef36a6d248ff71df40.jpg",
-    "it-it": ""
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_01/JPG/en_US/ec1845916c2b64ef0c39eaeb1a54ecc7.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
   },
   "name": "Sigismar e Alagrande",
   "elements": {
@@ -68,10 +69,10 @@
     "RECALL_COST": "0",
     "PERMANENT": "2",
     "RESERVE": "2",
-    "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe."
+    "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe.  Ignora la mia abilità il primo Giorno."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
   "collectorNumber": "[Code non trouvé]-IT"
 }

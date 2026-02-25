@@ -1,0 +1,372 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 6,
+  "hydra:member": [
+    {
+      "id": "01K4YGECGTNVYF1A49CQHT1JPY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/dd06b900cbfb4a70ce81",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/en_US/a101150bb6dcfbd707775ed98a6e41d2.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_BR_95_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Deep-Cloud Instructor",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/fr_FR/2b620fae222110bcb8bf8130de31884f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/en_US/a101150bb6dcfbd707775ed98a6e41d2.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_P_BR_95_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_P_BR_95_C"
+    },
+    {
+      "id": "01K4YGECGVR8KHDVDJ345YYJ0S",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/c91e84573f31edcd81c3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/en_US/09b8f82d9afbcc0d445536c35c82f69b.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_BR_94_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Fisherman",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/fr_FR/5ccfbe6df152a9a562cc5ecb54376d35.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/en_US/09b8f82d9afbcc0d445536c35c82f69b.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_P_BR_94_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_P_BR_94_R1"
+    },
+    {
+      "id": "01K4YGECGVR8KHDVDJ345YYJ0Z",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/dd06b900cbfb4a70ce81",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/fcd5dafc19a332825e8de3540ec3eb42.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Market Encounter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/2c6229f7bed000cc33692b5f89821acf.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/fcd5dafc19a332825e8de3540ec3eb42.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_BR_99_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_BR_99_C"
+    },
+    {
+      "id": "01K4YGECGVR8KHDVDJ345YYJ12",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/c91e84573f31edcd81c3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/1554f5781913dbe1ea2116b896229f25.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Market Encounter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/af35b8acdbd3ca42eb6cede3f4f7c556.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/1554f5781913dbe1ea2116b896229f25.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_BR_99_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_BR_99_R1"
+    },
+    {
+      "id": "01K4YGECH75K3EB7FWR6TF39QC",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/c91e84573f31edcd81c3",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sports Encounter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/e51ba5ea3a11be36b04e603ee4ce92a7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+        "it-it": "",
+        "es-es": "",
+        "de-de": ""
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_A_YZ_97_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_A_YZ_97_R2"
+    },
+    {
+      "id": "01K8NQYDYZFEJ4MK8ZT7K4GX3C",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTEROP",
+        "@type": "CardSet",
+        "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+        "reference": "DUSTEROP",
+        "name": "Seeds of Unity - Organized Play"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/dd06b900cbfb4a70ce81",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/WEB_004629ecf15822ea23536c47fa674e09"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_B_BR_31_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Booda",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/fr_FR/cdae7441275e5e38bc8a3ed319b179ca.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/it_IT/4da2632638b850bff4b391669b91c981.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/es_ES/11b94f8b4561b96b93d8cdcb10b47628.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/de_DE/2335be934518812a02696b1c4a677326.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTEROP_B_BR_31_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTEROP_B_BR_31_C"
+    }
+  ]
+}
