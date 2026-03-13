@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/3K6SBSD8TF9CZB1SBK55RMA1KJ",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA26P1DXWYMB59A093S5G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA26P1DXWYMB59A093S5G",
+          "text": "« Montrons aux Reka l'ingéniosité du savoir-faire Axiom ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA270CZ3T1YFXSQ17R63D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA270CZ3T1YFXSQ17R63D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA26V8K4J3HWB7S2MHCKY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA26V8K4J3HWB7S2MHCKY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA269TTDR9X01CJNTV7BC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA269TTDR9X01CJNTV7BC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA26HFC3D4MCGYAMJ174D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA26HFC3D4MCGYAMJ174D",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f5de2403c335caa9815c",
+      "@id": "/.well-known/genid/593e13def9333b5abb1e",
       "reference": "SITE",
       "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
       "name": "Lieu"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/be3fd24912ff1485abb8",
+    "@id": "/.well-known/genid/cbf0f41e25cdd9223138",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_101/JPG/fr_FR/0e7bcf13d7f7eb74cf31e7b619609158.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -80,5 +145,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-003-R-FR"
 }

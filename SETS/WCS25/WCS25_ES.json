@@ -709,65 +709,6 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_WCS25_P_OR_01_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
-      "@type": "CardType",
-      "reference": "HERO",
-      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
-      "name": "Héroe de"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/WCS25",
-      "@type": "CardSet",
-      "id": "01JTJV0RDYYPKJ3EH4M68H4RKT",
-      "reference": "WCS25",
-      "name": "World Championship Series 2025"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/3dc09c5bd3438a033758",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/es_ES/90e432bf5ea527250f63fef0f4397b85.jpg",
-    "assets": [],
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_OR_01_C",
-    "reference": "ALT_WCS25_P_OR_01_C",
-    "id": "01JTJV9851QSP43VCWYHANHNAC",
-    "mainFaction": {
-      "@id": "/factions/OR",
-      "@type": "Faction",
-      "reference": "OR",
-      "color": "#0f6593",
-      "id": "01GE7AC9X78DXSNKNB15KCF69X",
-      "name": "Ordis"
-    },
-    "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/es_ES/90e432bf5ea527250f63fef0f4397b85.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/fr_FR/09f4ea882fc7caf998be2917b7fcb52d.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/en_US/7bbb25d586a29067ff3e34ee5330bc5c.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/de_DE/64bb77c37bfb023f952997e24fac15f6.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/it_IT/695ccd7331e76e7877c2ae26ddc0d1f7.jpg"
-    },
-    "name": "Sigismar y Alasregias",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "MAIN_EFFECT": "Al mediodía — Crea una ficha de soldado [Recluta de Ordis 1/1/1] en tu expedición del héroe."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "WCS25-OR-01-C-ES"
-  },
-  {
-    "@context": "/contexts/Card",
     "@id": "/cards/ALT_WCS25_P_OR_02_C",
     "@type": "Card",
     "cardType": {
@@ -883,6 +824,67 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "WCS25-OR-03-C-ES"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS25_P_OR_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Héroe de"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/WCS25",
+      "@type": "CardSet",
+      "id": "01JTJV0RDYYPKJ3EH4M68H4RKT",
+      "reference": "WCS25",
+      "name": "World Championship Series 2025"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0b38829e857e0e90d19e",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/es_ES/90e432bf5ea527250f63fef0f4397b85.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_OR_01_C",
+    "isOwnerless": false,
+    "reference": "ALT_WCS25_P_OR_01_C",
+    "id": "01JTJV9851QSP43VCWYHANHNAC",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/fr_FR/09f4ea882fc7caf998be2917b7fcb52d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/en_US/7bbb25d586a29067ff3e34ee5330bc5c.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/it_IT/695ccd7331e76e7877c2ae26ddc0d1f7.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/es_ES/90e432bf5ea527250f63fef0f4397b85.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/de_DE/64bb77c37bfb023f952997e24fac15f6.jpg"
+    },
+    "name": "Sigismar y Alasregias",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Al mediodía — Crea una ficha de soldado [Recluta de Ordis 1/1/1] en tu expedición del héroe.  Ignora mi habilidad el primer Día."
+    },
+    "isSuspended": false,
+    "isErrated": true,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "WCS25-OR-01-C-ES"
   },
   {
     "@context": "/contexts/Card",

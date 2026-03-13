@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/1G1YRQA22V9HKVXC3JJNZQ4WWT",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2JER3GENDY1YQSRXZ05",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2JER3GENDY1YQSRXZ05",
+          "text": "« Je vais vous montrer comment on travaille sans filet ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2JR951YDE2971WTDPC0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA2JR951YDE2971WTDPC0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2JKRC23DQ353B7PJ4VM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2JKRC23DQ353B7PJ4VM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2J26JN8QPBTM6536KHC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA2J26JN8QPBTM6536KHC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2J8J0J5V7TH109CPSJ1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2J8J0J5V7TH109CPSJ1",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/237e3c909af2bf0b0452",
+      "@id": "/.well-known/genid/32127c93060303b17300",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Noble"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/69eb2d42ded1b6c8df04",
+    "@id": "/.well-known/genid/325f787bcf7ca6d7a54d",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalté"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_98/JPG/fr_FR/f52844659188d4172a4d12dd7a628e3e.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -83,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "ALT_DUSTERCB_P_BR_98_E-FR"
 }

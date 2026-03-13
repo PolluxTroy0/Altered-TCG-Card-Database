@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/1QSH4XMYDV9DK8M97BMFQ79M7M",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2MQR3VK7D50P56C2D5Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2MQR3VK7D50P56C2D5Z",
+          "text": "Reka cable-cars are the safest way to get around the city."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2N4AWYYP934880NWZ2S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2N4AWYYP934880NWZ2S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2MY978XSK6A04VY3J7V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2MY978XSK6A04VY3J7V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2M9182NRQTMQBM21574",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2M9182NRQTMQBM21574",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2MH8PX3EB6Y1G0F9734",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2MH8PX3EB6Y1G0F9734",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/78fb3f2dba266efb7592",
+      "@id": "/.well-known/genid/3626f284f9e513d71613",
       "reference": "SITE",
       "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
       "name": "Site"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/01b42d400c5b7a056d53",
+    "@id": "/.well-known/genid/1048c599104a6a916e40",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/en_US/37f1dc306fba4724e7f22177bdcaf75e.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -80,5 +145,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-010-C-EN"
 }

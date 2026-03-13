@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_MU_44_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/09WAH6XHCB919RZDY323NC34EG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ2CN9Z1MB25DJB2962J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJ2CN9Z1MB25DJB2962J",
+          "text": "Un bonito refugio contra los elementos."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ2PC9BABKD8TNACX8D7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJ2PC9BABKD8TNACX8D7",
+          "text": "I place the back of my hand on Rin's forehead and sigh with relief to find there's no sign of fever. All around us, the petals of the floral tent are being buffeted by swirling winds. I was lucky to have been close enough at the time to see her fall, even through the blizzard. And fortunately, the layer of fresh powder had been thick enough to break her fall. Even so, it had taken me nearly an hour to reach her, long enough for her body temperature to noticeably drop. Spike suddenly tugs at my sleeve. Yes, little sprout, I know. I take the kettle from the fire and pour a bit of hot water into a metal cup. Then I sprinkle in a bit of black compost to spice up the mixture that he needs to endure the cold. A strong gust rattles the petal walls and whistles angrily in our ears. Spike wraps himself up in his blanket, looking worried and perhaps a bit dejected.\n\nWe were fortunate to get this shelter to grow despite the violent weather. Our crown of leaves is well-positioned in line with the wind to deflect a lot of its force. I turn to the pistils, which are starting to glow. That means night must be falling outside. Let's hope the storm will have lost a bit of its intensity by morning… There's a sudden scratching at the entrance to the tent, and I gently touch the floral membrane to make it open slightly. Covered in snow and looking thoroughly frozen, the mush I had sent out to seek word from the other explorers enters. Snuggling in among the pistils to soak in their warmth, the mushroom regains its composure and communicates through its mycelium to share some emotions that greatly reassure me. Other floral tents were able to grow, providing shelter for all the other explorers. I breathe a sigh of relief. Now I just have to wait for the little one to wake up."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ2GZVV6E3QP4VMWRH2G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJ2GZVV6E3QP4VMWRH2G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ23N4CSZXJBVRDHAMPF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMJ23N4CSZXJBVRDHAMPF",
+          "text": "ARJUN\n"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ27MV8KK9BSZD3WXPD6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJ27MV8KK9BSZD3WXPD6",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "09WAH6XHCB919RZDY323NC34EG",
+      "reference": "ALT_DUSTERTOP_P_MU_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente de expedición"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/43e93b11f84b0dac4d6b",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Accesorio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/803a6fb7ce848486945c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/es_ES/9a9a7d6ca37ce38442e7dbf4ed77e7a2.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_44_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_MU_44_C",
+  "id": "01K57206FX3TRHGN5613SBJ9K5",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/fr_FR/5ae5cf6b25c0c1d4536f234d34d07b52.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/en_US/7769efab835473bd0c80a9453d542b30.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/it_IT/407391700ad9bf400b9ea0985e1be06d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/es_ES/9a9a7d6ca37ce38442e7dbf4ed77e7a2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/de_DE/2bd44f3874c7622e01ed9c27e3c52441.jpg"
+  },
+  "name": "Tienda floral",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MAIN_EFFECT": "{J} [Reabastece]. (Coloca la primera carta de tu mazo en la reserva.)  Si un personaje con [[Anclaje]] fuese a abandonar mi expedición durante la tarde, en vez de eso, pierde [[Anclaje]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_MU_44_C-ES"
+}

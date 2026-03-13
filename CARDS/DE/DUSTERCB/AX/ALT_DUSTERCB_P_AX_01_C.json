@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/0212CB578K8A2VA26XSW4YZSXJ",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA24MMK3SPGNDNYAMCGG2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA24MMK3SPGNDNYAMCGG2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA250Z3YBT09PVSJ3D7X2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA250Z3YBT09PVSJ3D7X2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA24TDF9F096R0QWQPDYA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA24TDF9F096R0QWQPDYA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA23MB0V697ZY9J9X0B20",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA23MB0V697ZY9J9X0B20",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA24EJCH0M0QV4VC57W3Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA24EJCH0M0QV4VC57W3Q",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "@type": "LoreEntryType",
@@ -35,12 +101,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a2f7b99b0bd584327ca1",
+    "@id": "/.well-known/genid/a2550a5d9fdccaebd3b6",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_01/JPG/en_US/f01cf7defcefce1bcb257d12f9825d69.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -74,5 +139,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "[Code non trouvé]-DE"
 }

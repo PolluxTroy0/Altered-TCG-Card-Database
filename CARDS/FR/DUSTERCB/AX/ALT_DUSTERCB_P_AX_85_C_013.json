@@ -1,0 +1,64 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_AX_85_C_013",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Les Graines de l'Unité - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e96b4b810cb76805d87a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/fr_FR/5f2c8a1d3b4e7096c1a3d9e7b5f2c4a8.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_85_C_013",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_AX_85_C_013",
+  "id": "01K60PWCVX6JFAXZ9JM2M3MXPW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/fr_FR/5f2c8a1d3b4e7096c1a3d9e7b5f2c4a8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/5f2c8a1d3b4e7096c1a3d9e7b5f2c4a8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/5f2c8a1d3b4e7096c1a3d9e7b5f2c4a8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/5f2c8a1d3b4e7096c1a3d9e7b5f2c4a8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/5f2c8a1d3b4e7096c1a3d9e7b5f2c4a8.jpg"
+  },
+  "name": "Della & Bolt",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T} : Redressez un Permanent ciblé en jeu ou une carte ciblée en Réserve. Ceci coûte {2} de plus pour cibler un Permanent en jeu de Coût de Main {5} ou plus."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": true,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_AX_85_C_013-FR"
+}

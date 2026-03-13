@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_OR_43_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3597MT603V9BM9YR290TSP09ZR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ7888C0PQ2QC1R91NCZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJ7888C0PQ2QC1R91NCZ",
+          "text": "Supply lines can sometimes be the difference between failure and success."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ8343GJBN0N9QG9WN15",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJ8343GJBN0N9QG9WN15",
+          "text": "A fresh wave of Belisenki crashes into our shields. One of the troopers stumbles backwards and falls, but I can't afford to check on him. I need to fill the hole that's just appeared in our ranks. I leap in and seal the breach as the creatures' assault batters my aegis. My shoulder is killing me, but I grit my teeth and yell to my companions to hold strong, even though I doubt they can hear me. The battle has turned into an ocean of blades and wings, with our initially tight ranks gradually growing ever sparser. At this rate, we won't hold out for long. I look up and see an enemy swarm attempting a new incursion from above. Bravos and Muna archers unleash a volley of arrows to drive them off, but with each strike, the Belisenki get closer and closer to their objective.  And if we get caught in the crossfire, it will be certain defeat.\n\nI glance at Tocsin, who's fighting hard against hordes of the creatures trying to overwhelm him with sheer numbers. He sounds his horn, and its vibrations seem to push the assailants back. But even so, more and more Belisenki keep landing on his back and latching onto his arms, turning him into a pulsating mass of butterfly wings. They haven't stopped harassing us all night. I pull a fallen soldier to his feet and smack another one on the helmet to wake him up. All the defenders are drained, overwhelmed and exhausted. But we have no choice but to resist. I quickly wipe away the blood dripping from a scratch on my forehead and blink as the world turns red. The sun is rising in the east. We've been fighting for hours. Suddenly, the deafening cry of a horn resonates in the immense open space, and I turn to face the sound. On the west ridge, I see two knights climbing up the slope, soon followed by an entire platoon. The reinforcements have finally arrived."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ7DWRGB7Y183Q5K3ZQ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJ7DWRGB7Y183Q5K3ZQ2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ70M7C58XYQKF70YY1Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMJ70M7C58XYQKF70YY1Q",
+          "text": "GULRANG"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ74S29KDZC73HASSBG7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJ74S29KDZC73HASSBG7",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "3597MT603V9BM9YR290TSP09ZR",
+      "reference": "ALT_DUSTERTOP_P_OR_43_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3a9010e763ccaa63e6d3",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maneuver"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/351eba93113bb027f560",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/en_US/6cd0135bf752a0b1c524fa85104ccdd5.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_OR_43_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_OR_43_R1",
+  "id": "01K57206G78CSCKDZVHFCWK24G",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/fr_FR/50acdab667c31a528362afae4ab7ff58.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/en_US/6cd0135bf752a0b1c524fa85104ccdd5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/it_IT/026156a0f12aa6165272391c1fafdf79.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/es_ES/f39d25de08a3dfc070321dd6f9b04c75.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/de_DE/4bc25f0c3057a4371b466e1d62ad8362.jpg"
+  },
+  "name": "Field Reinforcements",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#[Cooldown].# (If I go to Reserve after my effect resolves, exhaust me {T}.)  Choose one. If each of your Expeditions is behind or tied, you may choose both:  • Draw a card.  • Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_OR_43_R1-EN"
+}

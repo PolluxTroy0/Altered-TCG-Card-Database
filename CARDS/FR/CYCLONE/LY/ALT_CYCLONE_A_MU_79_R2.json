@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_MU_79_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7DH2HGH66G9MMA67YP5SMDKDMZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVHRNMZ3JMNJG3Q1Z37H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVHRNMZ3JMNJG3Q1Z37H",
+          "text": "L'empathie, nouée dans les cœurs."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVJ65TAN3CM00NFF1EYE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JNRGBVJ65TAN3CM00NFF1EYE",
+          "text": "393 AC - Il y a une contradiction inhérente chez les Muna. Nous faisons tout pour maintenir l'équilibre de la nature, l'équité entre les espèces — animales, végétales, ou autres — pour que tous vivent en harmonie. Mais œuvrer de la sorte n'est-il pas déjà de l'interventionnisme ? Si nous suivions à la lettre les lois de la nature, nous devrions laisser les espèces croître et mourir. Il y a quelques années, Arjun m'avait dit de pousser davantage ma réflexion. Et ça m'avait pris des jours avant que je ne revienne lae trouver. Toute fière, je lui avais annoncé que ça avait à voir avec notre place dans le monde. Ne rien faire, c'était comme ne pas exister, or, on existait. Et l'être humain faisait partie de la nature. L'erreur était de penser que nous étions à part, ou au-dessus.\r\n\r\nAu sein de la nature, il y a toujours un point d'équilibre entre coopération et compétition pour garantir la robustesse d'un milieu. Nous avons l'outil parfait pour le percevoir : le Skein. À travers ce sens, c'est comme si on entendait la nature, ses souhaits, ses complaintes. Et on l'aide à faire son œuvre. Au final, c'est comme si acceptait d'être ses instruments. Je me suis toujours demandé, en revanche, pourquoi tous les êtres humains ne recevaient pas ce don, et pourquoi seuls les Muna bénéficiaient de cette étincelle. Les cigales chantent sous les oliviers, et je m'essuie le front en soulevant mon chapeau de paille.  Je cueille une dernière tomate juteuse, qu'Arjun aurait sûrement appréciée. D'ailleurs, je crois que j'ai rêvé d'ellui hier soir...\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVHZ5R3HATSMXJQHA3WB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVHZ5R3HATSMXJQHA3WB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVH9VMVBXFS6DT0N29CG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JNRGBVH9VMVBXFS6DT0N29CG",
+          "text": "FLORE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVHG6G36680NWG1X8FBJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVHG6G36680NWG1X8FBJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "7DH2HGH66G9MMA67YP5SMDKDMZ",
+      "reference": "ALT_CYCLONE_A_MU_79_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3125323621160ebdf540",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Odyssée des cieux"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/85fdb919de67164eeb37",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/fr_FR/3fc10b75a13824a5ef8a2e47a1342b98.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_79_R2",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_MU_79_R2",
+  "id": "30KQ349YNC8RW8CQJRD4CD4SY1",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/fr_FR/3fc10b75a13824a5ef8a2e47a1342b98.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/4600ca06f75ce08a4d3c7eb022ccf9e2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/it_IT/4675c74eb44f2efba73754f404c02d31.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/es_ES/e31041819fde9e9560596a535659a2d5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/de_DE/929eaedb126694b002fee1ebe9573e70.jpg"
+  },
+  "name": "Sceau Muna",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[[Fugace]].#  Choisissez #deux :#  • Ciblez trois Expéditions et créez un jeton Animal [Dotouffu 1/1/1] dans chacune d'elles.  • Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]].  • Placez un marqueur Terrain {V} sur une région visible ciblée."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_MU_79_R2-FR"
+}

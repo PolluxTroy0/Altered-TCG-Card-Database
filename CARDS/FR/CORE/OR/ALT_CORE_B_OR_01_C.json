@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "01HNGY508M7GR2VQE4MVDVBAF3",
       "reference": "ALT_CORE_B_OR_01_C"
@@ -102,23 +101,26 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/29cf80cc1aa46522a3ad",
+    "@id": "/.well-known/genid/677f1d48ff56f903862b",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/324a868c471eb334b99205b8c94246f4.jpg",
   "assets": {
-    "WEB": [
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
-    ],
     "HERO_THUMB": [
       "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_THUMB_2b3966dee10b73e5c94df30cdc327dc7"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_WIDE_57ea11e069a699df24955688f1247b29"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
     ]
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_CORE_B_OR_01_C",
   "id": "01HKAFJNVK19S8CP6JE98T9T4W",
   "mainFaction": {
@@ -142,10 +144,12 @@
     "RECALL_COST": "0",
     "PERMANENT": "2",
     "RESERVE": "2",
-    "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros."
+    "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros.  Ignorez ma capacité le premier Jour."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "BTG-121-H-FR"
 }

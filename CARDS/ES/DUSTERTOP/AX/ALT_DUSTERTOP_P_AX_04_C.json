@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_AX_04_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1PVXPJHZ3689ST5F752BXEQ4AV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHQ01KT398ZE0N8FC84S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHQ01KT398ZE0N8FC84S",
+          "text": "Como es costumbre en Axiom, a los elementales de kelón les encanta probarlo todo, a veces literalmente."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHQANE6V5MCJSVRA48SM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMHQANE6V5MCJSVRA48SM",
+          "text": "The inside of my helmet is already fogging up as I exit the elevator. I want to scratch, but it's not easy while wearing my full suit. Inside the mine, the air is sticky and saturated with sulfur vapors. The other miners are waiting in their suits, weighed down with bulky gear like jackhammers, shovels and pickaxes. Only the light of our lamps pierces through the darkness, a thousand feet underground. I instinctively try to wipe my forehead, but my hand bangs into my visor. I grumble to myself. Might as well try and get this over with as quickly as possible. I open the cage I brought with me, and the Kelon Elemental shoots out, attracted to the energizing ore. In the darkness of the mine, its skin is almost phosphorescent. All right, little one, get to work. Find us a nice juicy vein.\n\nAfter sniffing the toxic air, it starts to scurry off, and I follow as quickly as I can. It turns left, then right, without stopping for a second. Its chubby legs waddle somewhat awkwardly as it moves. The creature is irresistibly drawn to Kelon, like a moth to a flame. I examine its smooth, pink back with crystalline scales jutting out. Just like the axolotl, it has external gills in the form of antennae on either side of its head. It uses these appendages to guide itself because its bulging eyes can only see a few inches in front of it. But it doesn't need them to sense the proximity of its favorite treat. It's a bit like Marmo in that way. They both think with their stomachs. It suddenly stops and starts to scratch the ground. I signal to the others to come over. Don't worry, little one. If we find Kelon, we'll save you a little nugget…"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHQ643AA6XNW5S8J0F73",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHQ643AA6XNW5S8J0F73",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHPBNYKVP5GXY3C6Y453",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMHPBNYKVP5GXY3C6Y453",
+          "text": " Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHPW5SZNXMZ23DE0R0Q5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHPW5SZNXMZ23DE0R0Q5",
+          "text": "370 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1PVXPJHZ3689ST5F752BXEQ4AV",
+      "reference": "ALT_DUSTERTOP_P_AX_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f8954e76ffecddc2e8db",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elemental"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/aefd7d6f7704ab6a9cac",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/es_ES/01602fcb27d191a3d2229489474e6dff.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_04_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_AX_04_C",
+  "id": "01K57206EG55KZTCPBMJPHG3F9",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/fr_FR/e818ce8cef3594e61f4d8e83cb61e968.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/en_US/674d666d06e01c8630aafc705fa92bc0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/it_IT/ef62f76254959b68689a8db86af8d8bd.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/es_ES/01602fcb27d191a3d2229489474e6dff.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/de_DE/bd6abd611a9aba5a8840521b562a8d5f.jpg"
+  },
+  "name": "Elemental de kelón",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Metti una carta dalla tua mano nella Riserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_AX_04_C-ES"
+}

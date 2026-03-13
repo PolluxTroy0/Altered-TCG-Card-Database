@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_BR_79_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/220D3SZ34G8EZSJJ3RXDVV30EK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCH0W5Q9H5AJ3Z9QHE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVCH0W5Q9H5AJ3Z9QHE9",
+          "text": "L'audace, inscrite dans la chair."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCYAJFNYD75092S1J83",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JNRGBVCYAJFNYD75092S1J83",
+          "text": "384 AC - Nous sommes Bravos. Le courage, l'exploit, la camaraderie... on les a dans la peau ! On les arbore fièrement, comme un défi, un emblème, un avertissement. Par l'encre, par la braise, dans chacune de nos cicatrices, il y a une histoire. Indélébile. Nous sommes Bravos. C'est une revendication, un engagement entier qui ne peut être renié. Pas de marche arrière, toujours vers l'avant, vers la nouvelle épreuve, le nouvel obstacle. Nous sommes Bravos, et nos tatouages racontent qui on est. Le passage de l'aiguille n'est que le rappel de ce à quoi on a dû faire face, ce qui nous a marqués, ce qui nous a définis. La douleur n'est qu'un écho, une réminiscence, et aussi un moyen de revivre l'adversité dans le creuset de son âme.\r\n\r\nQuand je tatoue un athlète sur la cuisse, il a vécu bien pire à l'entraînement. Quand je tatoue le nom d'un défunt au-dessus du cœur, c'est la promesse que les survivants se souviendront. Quand on est Bravos, on clame sa vie haut et fort, à qui veut l'entendre, et parfois, dès le premier coup d'œil. Sous l'aiguille se dessine la rage, la résilience, le triomphe, les revers. Car les haut faits sont toujours des brûlures éternelles, rougeoyantes, vivantes, aussi vives que les déconvenues. Sol prend place en face de moi. Elle a grandi, la petiote. On m'a raconté que lors de son Imhallat, c'est le Chaperon Rouge qui lui avait témoigné son soutien. Elle aussi est Bravos, désormais. Et cette vérité, je vais la lui graver dans la chair.\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCRVZ3KVEW2DW9E0RCN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVCRVZ3KVEW2DW9E0RCN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVC3C2S3MWHQSAEX4C7Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JNRGBVC3C2S3MWHQSAEX4C7Y",
+          "text": "INCONNU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCAGVSC5F9MCTP4HAJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVCAGVSC5F9MCTP4HAJ7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "220D3SZ34G8EZSJJ3RXDVV30EK",
+      "reference": "ALT_CYCLONE_A_BR_79_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cd925687d19bc4c136cc",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Odyssée des cieux"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6eb0374a48b8d7314d51",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/fr_FR/7d4ab498a6025e40c904e24d32e4b9bc.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_79_R2",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_BR_79_R2",
+  "id": "5WXP7F3KAW88ZAPJXXVJQNX9Y1",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/fr_FR/7d4ab498a6025e40c904e24d32e4b9bc.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/a4c2a79f8a48f66c104d18a003694ee7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/it_IT/e00db859508e14dc98237defd6c8be5e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/es_ES/8250264a037b52eaaba5139bd3bf6e49.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/de_DE/a8505e443fc931541feac4a68a84a438.jpg"
+  },
+  "name": "Sceau Bravos",
+  "elements": {
+    "MAIN_COST": "#5#",
+    "RECALL_COST": "#5#",
+    "MAIN_EFFECT": "#[[Fugace]].#  Choisissez #deux :#  • Un Personnage ciblé gagne 3 boosts.  • Renvoyez un Personnage ciblé de Coût de Main {3} ou moins dans la main de son propriétaire.  • Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_BR_79_R2-FR"
+}

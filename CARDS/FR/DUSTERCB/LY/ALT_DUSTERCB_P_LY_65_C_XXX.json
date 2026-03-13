@@ -1,0 +1,142 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_LY_65_C_XXX",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2BMEAB2F1J8SE8NPP9HJ98RGAG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2D3E6T8VSNWDN6MHK5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2D3E6T8VSNWDN6MHK5S",
+          "text": "><((((°>"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2DFEVSJE4D7ZZXS7YTH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA2DFEVSJE4D7ZZXS7YTH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2D8YDTPGK278PHH0B89",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2D8YDTPGK278PHH0B89",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2CN6YKCYPK4ARXKTPHE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA2CN6YKCYPK4ARXKTPHE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2CYJQG1ZC9CKQ2HYM2T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2CYJQG1ZC9CKQ2HYM2T",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "2BMEAB2F1J8SE8NPP9HJ98RGAG",
+      "reference": "ALT_DUSTERCB_P_LY_65_C_XXX"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Les Graines de l'Unité - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/060d19b09694f2e06d1e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/fr_FR/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_65_C_XXX",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_LY_65_C_XXX",
+  "id": "01KHKGJ8FR805JC0Z8K3T2Y1RS",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/fr_FR/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg"
+  },
+  "name": "Nadir & Bubbles",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": true,
+  "isParentSerialized": true,
+  "collectorNumber": "ALT_DUSTERCB_P_LY_65_C_XXX-FR"
+}

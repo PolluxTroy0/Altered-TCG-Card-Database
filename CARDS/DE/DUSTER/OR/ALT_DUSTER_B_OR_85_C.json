@@ -101,14 +101,23 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/4879fa39e5dc1dadd7be",
+    "@id": "/.well-known/genid/4e04f160275070cefc25",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/JPG/en_US/e88f285436410843a238606c20eb7938.jpg",
-  "assets": [],
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/HERO_THUMB_a4f50bfbaa65b27ef9b3fa67751e6da0"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/HERO_WIDE_586c4cafecf91f62e29cb7a4729cc671"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_85/WEB_7bc310929083a836a2fb32c85b1c4570"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_85_C",
   "isOwnerless": false,
@@ -135,10 +144,12 @@
     "RECALL_COST": "0",
     "PERMANENT": "3",
     "RESERVE": "2",
-    "MAIN_EFFECT": "(Du darfst während der Nacht bis zu drei Karten in deinem Wahrzeichen-Bereich behalten.)  Zum Mittag — Falls sich mindestens drei Karten in deinem Wahrzeichen-Bereich befinden, darfst du eine opfern. Falls du das tust, spiele kostenlos eine Bleibende Wahrzeichenkarte mit maximalen Handkosten von {2} mehr als die geopferte Karte."
+    "MAIN_EFFECT": "(Du darfst während der Nacht bis zu drei Karten in deinem Wahrzeichen-Bereich behalten.)  (Du darfst während der Nacht bis zu drei Karten in deinem Wahrzeichen-Bereich behalten.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-073-H-DE"
 }

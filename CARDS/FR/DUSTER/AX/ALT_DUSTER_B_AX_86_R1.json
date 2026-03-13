@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/30e9c07163a7ee3773cc",
+      "@id": "/.well-known/genid/3b1a42c2e27d0aabc6cb",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Artiste"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/22dd3848eb923b8a1c30",
+      "@id": "/.well-known/genid/3c6c77d0a6615721724a",
       "reference": "ROBOT",
       "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
       "name": "Robot"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/381102c13cddecb7f5e9",
+    "@id": "/.well-known/genid/0a29d060b46ff157ca9a",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_86/JPG/fr_FR/63820b9f213cde3f5ec1cb8477a6b5fd.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -156,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-006-R-FR"
 }

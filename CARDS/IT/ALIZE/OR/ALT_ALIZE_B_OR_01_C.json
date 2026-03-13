@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "3962JKWZGT90M97WJ8PYMF0NVH",
       "reference": "ALT_ALIZE_B_OR_01_C"
@@ -102,23 +101,26 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/aa3c5010cea2908ffe33",
+    "@id": "/.well-known/genid/8eda7a4303c8a761350f",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/it_IT/bd5d62314ea9c7c489347ca4cdcf4cf0.jpg",
   "assets": {
-    "WEB": [
-      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/WEB_674d4db99ddafb0c4b1239f849bd05f7"
-    ],
     "HERO_THUMB": [
       "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/HERO_THUMB_3e0a15214bdf951ab193f02622e3914a"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/HERO_WIDE_72156301fd6f3da3e360a33e99b53625"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/WEB_674d4db99ddafb0c4b1239f849bd05f7"
     ]
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_ALIZE_B_OR_01_C",
   "id": "01J1Q6W7F61NENF2HV2QTRR05H",
   "mainFaction": {
@@ -130,11 +132,11 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/de_DE/62007ba17b66f177573004d92c9858a5.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/es_ES/2cddcef69fc678a8910fbe43cae4a452.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/it_IT/bd5d62314ea9c7c489347ca4cdcf4cf0.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/fr_FR/858635c3194c5de5421e7ee641468f97.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/en_US/223ff276dec2cbbdb5c731a172b38365.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/en_US/223ff276dec2cbbdb5c731a172b38365.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/it_IT/bd5d62314ea9c7c489347ca4cdcf4cf0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/es_ES/2cddcef69fc678a8910fbe43cae4a452.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_01/JPG/de_DE/62007ba17b66f177573004d92c9858a5.jpg"
   },
   "name": "Sigismar e Alagrande",
   "elements": {
@@ -142,10 +144,12 @@
     "RECALL_COST": "0",
     "RESERVE": "2",
     "PERMANENT": "2",
-    "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe."
+    "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe.  Ignora la mia abilità il primo Giorno."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "TBF-069-H-IT"
 }

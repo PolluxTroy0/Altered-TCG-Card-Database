@@ -1,0 +1,162 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_LY_04_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/64VRMZJAQE9AXB2QB4QWZC9MTG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHW0S9QCMYQD8X09PCYR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHW0S9QCMYQD8X09PCYR",
+          "text": "Avvistare una martingala è sempre di buon auspicio."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHW75KKFASMQBDFKAPBS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMHW75KKFASMQBDFKAPBS",
+          "text": "Eleventh sign of the New Zodiac: the Martengale\nOctober 23 - November 22\n\nDepicted as a winged marten with long ears, it's said that the Martengale symbolizes instability and impermanence. Its element is air.\n\nThose born under the sign of the Martengale are elusive by nature and full of contradictions: They are independent but don't like to be alone, and like innovation but have a strong sense of tradition. Like their spirit animal, they enjoy venturing off the beaten track but always come back to where they started from. It's often said that Martengales are lucky, but it's usually because they prefer to bounce back quickly rather than sit around feeling sorry for themselves. They are adaptable, but still show strong determination, and can sometimes be stubborn when the situation requires it. Terrified of being bored, they display a relentless need for freedom, even if it means raising the stakes to a level that defies all odds."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHW4GF5610QE68YSJA12",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHW4GF5610QE68YSJA12",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVSMNKNQAXA3670CYVB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMHVSMNKNQAXA3670CYVB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVXZ1GDM08JC8E20QB6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHVXZ1GDM08JC8E20QB6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "64VRMZJAQE9AXB2QB4QWZC9MTG",
+      "reference": "ALT_DUSTERTOP_P_LY_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/153a15557c7c0d89e362",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/679300f8989aa55c47ce",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Spirito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/95c253139cb585a745cb",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/it_IT/ac4435be46a31ca9f09b39cd6a2a7671.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_04_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_LY_04_R1",
+  "id": "01K57206FMZFP2DTWKER97ZMJF",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/fr_FR/7ea0cb4210555f8c05e16e2998d7fb7f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/en_US/ebba91537428a4e9aef2fe489af61bc2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/it_IT/ac4435be46a31ca9f09b39cd6a2a7671.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/es_ES/4e534509910c6c3f9e973dfc83a1d9b9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/de_DE/65a44af300091161ecbe3ca339b30940.jpg"
+  },
+  "name": "Martingala",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#Se stai per tirare un dado, puoi aggiungere 1 al risultato.# (Scegli dopo aver visto il risultato.)",
+    "ECHO_EFFECT": "{D}: La prossima carta che giochi in questo turno costa {1} in meno. (Scartami dalla Riserva per eseguire questa azione.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_LY_04_R1-IT"
+}

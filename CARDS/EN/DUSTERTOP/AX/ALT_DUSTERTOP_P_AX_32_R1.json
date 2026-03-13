@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_AX_32_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/763PPSX1RX9Y59BWVBMDNX3KAE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHRA2RY3A5HPKCW6B9Z6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHRA2RY3A5HPKCW6B9Z6",
+          "text": "A relic left by those who came before."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHRGYHCFEE1GXQQ26CNS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMHRGYHCFEE1GXQQ26CNS",
+          "text": "I sit far away from the other engineers, sandwich in hand. Of course, I give half of it to Marmo, because he wouldn't be happy with just a bit of the crust. And as usual, he gulps it down before I've even swallowed my first mouthful. Below, in the partial darkness of the gorge, the energy specialists are checking the final connections. It was a real song and dance adapting our equipment to the titan's technology, and even so, it's best to keep a small safety perimeter, just in case something blows up – or worse, if the machine actually starts up. Is this the technology of the Ancients? Does it really date back to before the Confluence? I'm not a historian, so I can't answer such questions, but I'm still pretty intrigued.\n\nAll I know is that the titan doesn't use Kelon to operate. Sierra and Treyst had lots of time to study a small inert relic to try and work out how this technology might have worked. And when the guys and I dug out some canisters of honey-yellow liquid from the ice, the two whippersnappers practically jumped for joy. Is it Sun Kelon? A piece of tomato falls onto my jacket, and I curse as Marmo catches it mid-air. As I try to wipe the stain off my jacket, I hear the energy specialists turn on the pumps and open the valves. I watch the amber liquid running through the tubes, worming its way under the ice. A technician retrieves data from the probes. Marmo starts to bark as he feels vibrations in the ground and within the frozen wall. Suddenly, the ice cracks..."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHRD4H4KGT3VHREYK2KW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHRD4H4KGT3VHREYK2KW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHR4P4TCPS2S4KWW0JD3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMHR4P4TCPS2S4KWW0JD3",
+          "text": "SUBHASH"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHR7JK8MFHEDED1MX57Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHR7JK8MFHEDED1MX57Z",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "763PPSX1RX9Y59BWVBMDNX3KAE",
+      "reference": "ALT_DUSTERTOP_P_AX_32_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/18a1e0463741866fb7f7",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b2059a9eb720695fc78c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/en_US/cee87577a4945f729f5df4b462f5bf40.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_32_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_AX_32_R1",
+  "id": "01K57206F1M4C4XZE3DK4B8PB9",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/fr_FR/2c4663b81a921660b96a9674a64f476a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/en_US/cee87577a4945f729f5df4b462f5bf40.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/it_IT/bc1e2b965dba4a7284eed8e9d1252818.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/es_ES/bdb131cbe456c9d0fe87064004c7c653.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/de_DE/230baa5b46fb37eb7daca00148f753d4.jpg"
+  },
+  "name": "The Machine in the Ice",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "#4#",
+    "FOREST_POWER": "#4#",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "When I go to Reserve from anywhere — Exhaust me ({T}). (Exhausted cards can't be played and have no Support abilities.)  {H} Send me to Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_AX_32_R1-EN"
+}

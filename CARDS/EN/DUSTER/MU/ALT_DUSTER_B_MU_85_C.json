@@ -101,14 +101,23 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/21231aef80b292cf81fc",
+    "@id": "/.well-known/genid/8d919790ae9470c7766c",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_85/JPG/en_US/fe4dbe89a16847fdc97ab3d1f922efaf.jpg",
-  "assets": [],
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_85/HERO_THUMB_9f85771077062b1403a8226d1199f11d"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_85/HERO_WIDE_f666ed94408521aa862057c731a36bbf"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_85/WEB_8577e8fce078bcfa6c5e7448535bb43d"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_85_C",
   "isOwnerless": false,
@@ -140,5 +149,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-055-H-EN"
 }

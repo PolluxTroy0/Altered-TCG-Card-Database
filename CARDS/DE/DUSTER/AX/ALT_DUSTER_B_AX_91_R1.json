@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/58a7e25a21c4223cdcf5",
+      "@id": "/.well-known/genid/11ce748299c9b7599990",
       "reference": "ROBOT",
       "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
       "name": "Roboter"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/77dd4109e18d6add43e2",
+      "@id": "/.well-known/genid/38e9be3e68b7815f1c26",
       "reference": "MERCHANT",
       "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
       "name": "Händler"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/aa6ecf1832c1ffe66922",
+    "@id": "/.well-known/genid/1bbed7e4e8f2dc886de4",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/JPG/en_US/9e49f22040d3e84d8d46a800444a338f.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -151,10 +150,12 @@
     "OCEAN_POWER": "3",
     "FOREST_POWER": "0",
     "MOUNTAIN_POWER": "#3#",
-    "MAIN_EFFECT": "{R} [Erschöpfter Nachschub]."
+    "MAIN_EFFECT": "{R} [Erschöpfter Nachschub]. (Lege die oberste Karte deines Decks in die Reserve, dann erschöpfe sie {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-007-R-DE"
 }

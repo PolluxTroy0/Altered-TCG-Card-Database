@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a669672c2cebf66e0f07",
+      "@id": "/.well-known/genid/78c0ee20cee701574ab0",
       "reference": "SITE",
       "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
       "name": "Ubicación"
@@ -109,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7b4a5137e4e7d48a4dd9",
+    "@id": "/.well-known/genid/0fb58ab672bf13dfe252",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_100/JPG/en_US/bbc414ffd45f39c7dee062bd7d052c13.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -141,10 +140,12 @@
   "elements": {
     "MAIN_COST": "#3#",
     "RECALL_COST": "#3#",
-    "MAIN_EFFECT": "#{J} Agótame.#  {T}: Coloca una carta de tu mano en reserva y #luego agótala ({T}).# Si lo haces, roba una carta."
+    "MAIN_EFFECT": "#{J} Agótame.#  #{J} Agótame.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-017-F-ES"
 }

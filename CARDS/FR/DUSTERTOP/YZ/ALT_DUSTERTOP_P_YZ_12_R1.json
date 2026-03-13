@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_YZ_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5K1MMXRDJV9W8B06W0C3B9C43W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9TR31DJ2NJJE60G4WJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJ9TR31DJ2NJJE60G4WJ",
+          "text": "L'alchimie n'est pas que la transformation du plomb en or. C'est la purification de nos imperfections en vue de révéler notre vraie nature."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJA32BGP0YW76VWFNG0R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01K5GZMJA32BGP0YW76VWFNG0R",
+          "text": "Je toque à la porte et entre dans la boutique. J'ai dans ma poche tous les Fleurons que j'ai pu économiser pour acheter un remède pour ma sœur. La petite clochette tinte de nouveau quand la porte se referme, et je me mets à déambuler dans un capharnaüm de potions, d'élixirs et d'ingrédients un peu inquiétants : des pattes de poulet, des yeux de grenouille, des touffes de poils, des bouts d'écorce, des fioles de mucus... À vrai dire, ça me dégoûte un peu et j'ai un peu peur. Il y a des plantes et des champignons séchés qui sentent très fort, des tubes à essai avec des liquides lumineux, des vieux livres écornés... mais aussi des têtes effrayantes, des statuettes avec des formes curieuses et déroutantes. Mais je dois pas me laisser distraire. Je dois pas me laisser impressionner par toutes ces babioles.\n\nDepuis l'autre côté de son comptoir, l'alchimiste lève vers moi un regard taciturne. Derrière ses grosses lunettes fumées, il me dévisage comme si j'étais perdue, comme si je n'avais rien à faire dans son magasin. Alors je prends mon courage à deux mains et pose sur le comptoir toute la monnaie que j'ai sur moi. Je lui explique en long, en large et en travers la maladie de ma sœur. Les larmes aux yeux, je lui demande s'il a pas une potion ou un onguent pour la guérir... Je le vois soupirer, et déboucher un à un des flacons pour en humer le contenu. Puis il mélange certaines des substances dans un petit chaudron en métal — quelques gouttes par-ci, un filet par-là — avant de touiller le tout et de verser la décoction dans une gourde. Il me la tend, ainsi que tout l'argent que je lui ai confié, en me disant qu'il n'acceptera le paiement que si le tonique est efficace..."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9ZV0VD8BP2S4Y9KJZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJ9ZV0VD8BP2S4Y9KJZ8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9JG88BHE6KS1Z6TFW9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01K5GZMJ9JG88BHE6KS1Z6TFW9",
+          "text": "Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9P1RZNMTE5ZKN5VCME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJ9P1RZNMTE5ZKN5VCME",
+          "text": "384 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "5K1MMXRDJV9W8B06W0C3B9C43W",
+      "reference": "ALT_DUSTERTOP_P_YZ_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e9db2c538e5d5477bf52",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Érudit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Les Graines de l'Unité - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/98924b3fd01623d0e1f0",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/fr_FR/6031334f97e17107e0e1b231519d2f5a.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_12_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_YZ_12_R1",
+  "id": "01K57206GBXXNGRAJW665K3JVX",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/fr_FR/6031334f97e17107e0e1b231519d2f5a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/en_US/ef62cf5c930b6bbf0b9aaed6fc0a9577.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/it_IT/d70748e080bbd0102d6a9d35391772fa.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/es_ES/3dda12ee070232521bff6bf249123d0e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/de_DE/fc38ac62bd47e354f5eede5982a0109a.jpg"
+  },
+  "name": "Alchimiste du Kadigir",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{H} Je gagne #3 boosts#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_YZ_12_R1-FR"
+}

@@ -1,6 +1,147 @@
 [
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_AX_97_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/224684b3d733b36d81b4",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b62edd3ad640f805c6e0",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/en_US/c3a8f6714aa1cd27a4eb43606ddf5f38.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_97_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_AX_97_C",
+    "id": "01K4YGECGNA57ENJ74TZQMQ0GJ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/fr_FR/72b53ae3119a660c433d835a7e365308.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/en_US/c3a8f6714aa1cd27a4eb43606ddf5f38.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Missglückte Demonstration",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[[Vergänglich]].  Erschöpfe eine Karte in deiner Reserve. Falls du das tust, schicke einen Charakter deiner Wahl mit Basiskosten {3} oder weniger in die Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_AX_97_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_AX_93_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d9140c09e43be9f1946f",
+        "reference": "BUREAUCRAT",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "name": "Bürokrat"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3bf17a6f852d314347f8",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_93_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_AX_93_R1",
+    "id": "01K4YGECGRVP002XYTEWX1RAJM",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/fr_FR/811c41049500cfe78509f3893eabe51e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka-Magnatin",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{R} Wähle eine Aktion #oder erschöpfe eine Bleibende Karte, die du kontrollierst, um beides auszuwählen:#  • [Sabotage].  • Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_AX_93_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_DUSTEROP_A_AX_98_C",
     "@type": "Card",
     "cardType": {
@@ -13,14 +154,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1be2db1c165b965f3dca",
+        "@id": "/.well-known/genid/551b9a306b10c7fc5085",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f148478b30c7c7945b53",
+        "@id": "/.well-known/genid/7e50c7f1313b781bfc32",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -35,15 +176,16 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/401a796bb4d0cab4b099",
+      "@id": "/.well-known/genid/9755a55260c8ff2418d1",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
     "assets": [],
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_C",
+    "isOwnerless": false,
     "reference": "ALT_DUSTEROP_A_AX_98_C",
     "id": "01K4YGECGRVP002XYTEWX1RAJT",
     "mainFaction": {
@@ -55,11 +197,11 @@
       "name": "Axiom"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/8bbf0fee9275f54ed030a8cef1eea9de.jpg",
-      "de-de": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
       "it-it": "",
-      "es-es": ""
+      "es-es": "",
+      "de-de": ""
     },
     "name": "Technologische Begegnung",
     "elements": {
@@ -70,6 +212,8 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUOP-014-C-DE"
   },
   {
@@ -86,14 +230,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/658f91d2ae3d6824180e",
+        "@id": "/.well-known/genid/ef955fcc09691c5a2d29",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Beschwörung"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/a4721df6871c39f5ee8c",
+        "@id": "/.well-known/genid/f2db59bcbd9ef0066550",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -108,15 +252,16 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/7da3e1ffcd3d09145b95",
+      "@id": "/.well-known/genid/6162a9d22bf327bfb209",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
-    "cardRulings": [],
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
     "assets": [],
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_R1",
+    "isOwnerless": false,
     "reference": "ALT_DUSTEROP_A_AX_98_R1",
     "id": "01K4YGECGRVP002XYTEWX1RAJX",
     "mainFaction": {
@@ -128,11 +273,11 @@
       "name": "Axiom"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/0f9cf1ebcb3c45687cca714bd4d1f8c0.jpg",
-      "de-de": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
       "it-it": "",
-      "es-es": ""
+      "es-es": "",
+      "de-de": ""
     },
     "name": "Technologische Begegnung",
     "elements": {
@@ -143,7 +288,440 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUOP-014-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_BR_99_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/179cf5001c2371005ea9",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/1362a06085df8ab3ff45",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_BR_99_R2",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ15",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/7d6c7be1b79963b2d611d4d723c97cda.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Markt-Begegnung",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich.",
+      "ECHO_EFFECT": "{D} : Der nächste Charakter, der in dieser Runde aus deiner Hand gespielt wird, aktiviert eine seiner {r} Fähigkeiten."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_BR_99_R2-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_BR_95_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1b3835f1b343fd158cef",
+        "reference": "TRAINER",
+        "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+        "name": "Trainer"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/941a891c3817d798a6a1",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/en_US/a101150bb6dcfbd707775ed98a6e41d2.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_BR_95_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_BR_95_C",
+    "id": "01K4YGECGTNVYF1A49CQHT1JPY",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/fr_FR/2b620fae222110bcb8bf8130de31884f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/en_US/a101150bb6dcfbd707775ed98a6e41d2.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Wolkenschicht-Lehrer",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Du darfst [Forcieren] für einen Charakter nutzen. Falls er aus deiner Hand gespielt wird, aktiviert er eine seiner {r} Fähigkeiten.  {R} Ich erhalte 2 Verstärkungen."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_BR_95_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_BR_94_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4fcb25cd51d1894a5d3b",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8f01b239ab91a4e92c0a",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/en_US/09b8f82d9afbcc0d445536c35c82f69b.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_BR_94_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_BR_94_R1",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ0S",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/fr_FR/5ccfbe6df152a9a562cc5ecb54376d35.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/en_US/09b8f82d9afbcc0d445536c35c82f69b.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka-Fischer",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "#{R} Ziehe eine Karte.#  {R} Erschaffe zwei [Manasaaten]-Marken in deinem Wahrzeichen-Bereich."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_BR_94_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_BR_99_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8ed0d9f517b77e6e5fc9",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8561415d9ddb6778a69b",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/fcd5dafc19a332825e8de3540ec3eb42.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_BR_99_C",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ0Z",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/2c6229f7bed000cc33692b5f89821acf.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/fcd5dafc19a332825e8de3540ec3eb42.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Markt-Begegnung",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich.",
+      "ECHO_EFFECT": "{D} : Der nächste Charakter, der in dieser Runde aus deiner Hand gespielt wird, aktiviert eine seiner {r} Fähigkeiten."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_BR_99_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_BR_99_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8361b5b5dddcd47bd967",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8c30e3d61a0d2d5762b4",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/1554f5781913dbe1ea2116b896229f25.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_BR_99_R1",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ12",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/af35b8acdbd3ca42eb6cede3f4f7c556.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/1554f5781913dbe1ea2116b896229f25.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Markt-Begegnung",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#4#",
+      "MAIN_EFFECT": "#Lege die oberste Karte deines Decks in deine Manazone (als erschöpfte Manakugel).#",
+      "ECHO_EFFECT": "{D} : Der nächste Charakter, der in dieser Runde aus deiner Hand gespielt wird, aktiviert eine seiner {r} Fähigkeiten."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_BR_99_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_YZ_97_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/65056198863b976c362d",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Segen"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d5213ff23f5ebd3b7dfb",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/88d8b3cd083c5cf02fb8",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_YZ_97_R2",
+    "id": "01K4YGECH75K3EB7FWR6TF39QC",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/e51ba5ea3a11be36b04e603ee4ce92a7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Sportliche Begegnung",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "#1#",
+      "MAIN_EFFECT": "#[Abkühlung].#  Verteile 2 Verstärkungen nach Belieben auf Charaktere deiner Wahl im Spiel #oder in der Reserve.#",
+      "ECHO_EFFECT": "{D} : [Nach dir]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_YZ_97_R2-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -159,7 +737,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/0a0d37e8eb1209993ddd",
+        "@id": "/.well-known/genid/d5d9d96ec48a1859cfd9",
         "reference": "COMPANION",
         "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
         "name": "Gefährte"
@@ -174,12 +752,11 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/315e2573b17667b3faa6",
+      "@id": "/.well-known/genid/b99c047943a7666257f5",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/de_DE/2335be934518812a02696b1c4a677326.jpg",
     "assets": {
       "WEB": [
@@ -188,6 +765,7 @@
     },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_B_BR_31_C",
+    "isOwnerless": true,
     "reference": "ALT_DUSTEROP_B_BR_31_C",
     "id": "01K8NQYDYZFEJ4MK8ZT7K4GX3C",
     "mainFaction": {
@@ -199,11 +777,11 @@
       "name": "Bravos"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/fr_FR/cdae7441275e5e38bc8a3ed319b179ca.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/de_DE/2335be934518812a02696b1c4a677326.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
       "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/it_IT/4da2632638b850bff4b391669b91c981.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/es_ES/11b94f8b4561b96b93d8cdcb10b47628.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/es_ES/11b94f8b4561b96b93d8cdcb10b47628.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/de_DE/2335be934518812a02696b1c4a677326.jpg"
     },
     "name": "Booda",
     "elements": {
@@ -216,7 +794,739 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUOP-022-T-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_LY_87_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1db5959952d743fd47c1",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ad4fc3ab842aa57bc998",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_87/JPG/en_US/026ea040b5f9d76eddd18f5b97ea46e4.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_LY_87_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_LY_87_C",
+    "id": "01K4YGECGXZMF34SHDVQ6H347Z",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_87/JPG/fr_FR/2d57ad72fb1f6f2347963422a5d3286b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_87/JPG/en_US/026ea040b5f9d76eddd18f5b97ea46e4.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka-Führerin",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "ECHO_EFFECT": "{D} : Hole einen anderen Charakter aus deiner Reserve in deine Hand zurück."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_LY_87_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_LY_94_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/41848ff7e6942f0f1f65",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/dce074b876b32f47a3a5",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_94/JPG/en_US/f41a1908268212c5035e4210a5e94765.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_LY_94_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_LY_94_R1",
+    "id": "01K4YGECGY9XSJBXPCXRG95JYX",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_94/JPG/fr_FR/ec3b1a8456c0ae2f58a89b259844ce77.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_94/JPG/en_US/f41a1908268212c5035e4210a5e94765.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Nachtclub-Türsteher",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{J}# Falls ich [in Kontakt] bin, nutze [Sabotage]. #Andernfalls darfst du eine Karte deiner Wahl in der Reserve erschöpfen.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_LY_94_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_LY_100_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/75f7b64f43e6110255f1",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/88c8d9e5e9a9dc4fff53",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/559bb7dd9c965e1c3f2d195d97cd9c7a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_LY_100_C",
+    "id": "01K4YGECGY9XSJBXPCXRG95JZ3",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/2e52df9b7343c0f47e9306a497fbe597.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/559bb7dd9c965e1c3f2d195d97cd9c7a.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Romantische Begegnung",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Ein Gegner deiner Wahl deckt die obersten vier Karten seines Decks auf. Du darfst einen Charakter aus diesen Karten kostenlos spielen und er erhält [[Vergänglich]], dann lege die restlichen Karten ab."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_LY_100_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_LY_100_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/14fed46faeb80f98c975",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5c669b465e3a6252ea32",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/b213df7024efc3cf8ab5b9e7dd08fbdb.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_LY_100_R1",
+    "id": "01K4YGECGY9XSJBXPCXRG95JZ6",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/0f30b3967460129a7bf4a8676201f25f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/b213df7024efc3cf8ab5b9e7dd08fbdb.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Romantische Begegnung",
+    "elements": {
+      "MAIN_COST": "#7#",
+      "RECALL_COST": "#7#",
+      "MAIN_EFFECT": "#[[Vergänglich]].#  #Für jeden Spieler, angefangen bei dir:#  • Der Spieler deckt die obersten vier Karten seines Decks auf. Du darfst einen Charakter #mit Handkosten {3} oder weniger# aus diesen Karten kostenlos spielen und er erhält [[Vergänglich]], dann lege die restlichen Karten ab."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_LY_100_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_MU_98_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3d82699fd503a7b27f8b",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Segen"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/932121d15682ddd5c0fa",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e27864c1beb48fbc8aa1",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/43ac5fe2e15c658ed55ac7307f24080d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_MU_98_R2",
+    "id": "01K4YGECH13XFX6RFD000JVSWD",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/36657fbd43767be370ce31f006ff5ec3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/43ac5fe2e15c658ed55ac7307f24080d.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Seelen-Begegnung",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": "#[Abkühlung].#  Verteile 4 Verstärkungen nach Belieben auf Charaktere deiner Wahl im Spiel oder in der Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_MU_98_R2-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_OR_98_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3fd88745548bdeead8df",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d4ea05932193d99523d0",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b32cd7855170b3d23cd8",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/637c61241d270f8f0a755e8c6ba3ac94.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_OR_98_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_OR_98_R2",
+    "id": "01K4YGECH5B52PVNSD8WASC8VP",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/fr_FR/75e40cd79bd672beee196f083b683ea8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/637c61241d270f8f0a755e8c6ba3ac94.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Ungerechte Begegnung",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Bleibende Wahrzeichenkarte mit Handkosten {2} oder weniger. #Ihr kontrollierender Spieler nutzt [Nachschub],# dann kontrollierst du sie."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_OR_98_R2-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_MU_94_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/6deadf5e60f46fd52e5b",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/f9063957f08f70b3a209",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/en_US/5850e5bf1869941dbe6de9640567f7db.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_94_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_MU_94_C",
+    "id": "01K4YGECH04GAPYFPJ439PFD7J",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/fr_FR/e995d22ac9dbd56c74741ef837e1a778.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/en_US/5850e5bf1869941dbe6de9640567f7db.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka-Sammler",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "ECHO_EFFECT": "{D} : Erschaffe eine [Manasaaten]-Marke im Wahrzeichen-Bereich jedes Spielers."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_MU_94_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_MU_89_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/25b7345b49ae910ab8ad",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0234bb153fd750cff341",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_89_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_MU_89_R1",
+    "id": "01K4YGECH13XFX6RFD000JVSW1",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/fr_FR/cdcf51b808dba33750545a8cc8b4ee21.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Wohltätiger Reka",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{J} Erschaffe eine [Manasaaten]-Marke im Wahrzeichen-Bereich jedes Spielers.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_MU_89_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_MU_98_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/184fe575030bf4e8c417",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Segen"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ed31559b9b8af8948cab",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7996d68a85879ac56f11",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/e5c8f77982654e4bc89e261195513cfb.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_MU_98_C",
+    "id": "01K4YGECH13XFX6RFD000JVSW7",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/089e35624713e801f517ab7462a942fb.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/e5c8f77982654e4bc89e261195513cfb.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Seelen-Begegnung",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "Verteile 4 Verstärkungen nach Belieben auf Charaktere deiner Wahl im Spiel oder in der Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_MU_98_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_MU_98_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b8b366cf8caadce1f98c",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Segen"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/dfcbb0b4cecb82c71845",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/00c03db2412bacd4bf21",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/270095b36a08d4b17468d4463c0353b3.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_MU_98_R1",
+    "id": "01K4YGECH13XFX6RFD000JVSWA",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/abfb38bd6ed151acbb84704aa7538555.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/270095b36a08d4b17468d4463c0353b3.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Seelen-Begegnung",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": "#[Abkühlung].#  Verteile 4 Verstärkungen nach Belieben auf Charaktere deiner Wahl im Spiel oder in der Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_MU_98_R1-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -232,7 +1542,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/48b33f615adec074fcdc",
+        "@id": "/.well-known/genid/174e8008169c27622a85",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Tier"
@@ -247,12 +1557,11 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/19311382100663b53757",
+      "@id": "/.well-known/genid/dfb4687392657104655e",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/de_DE/60a5ad9d8f39e9a82a5b2edfdf22d1ec.jpg",
     "assets": [],
     "lowerPrice": 0,
@@ -269,11 +1578,11 @@
       "name": "Muna"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/fr_FR/103c5fdf59714cdb3ff6de6922b835b5.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/de_DE/60a5ad9d8f39e9a82a5b2edfdf22d1ec.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
       "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/it_IT/1eec4707d8d41624fefd325ed7e7fb5c.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/es_ES/61d8f608b9591d5931f1a8d23e54ef54.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/es_ES/61d8f608b9591d5931f1a8d23e54ef54.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/de_DE/60a5ad9d8f39e9a82a5b2edfdf22d1ec.jpg"
     },
     "name": "Wollrücken",
     "elements": {
@@ -286,6 +1595,883 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "ALT_DUSTEROP_A_MU_83_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_100_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Bleibende Wahrzeichenkarte"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c5b59b32ba3219673a2a",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Ort"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/dad2ae58e5cd638b26d4",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_100/JPG/en_US/39a83c8f69cdcaa2faaeb04cb07ea1ee.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_100_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_100_C",
+    "id": "01K4YGECH3JKGXH6R3FGTF53H8",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_100/JPG/fr_FR/359c34e33d0bab42eb0b30e629c748e0.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_100/JPG/en_US/39a83c8f69cdcaa2faaeb04cb07ea1ee.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Das Rednerpult",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "{J} [Nachschub].  Wenn ich geopfert werde — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Helden-Expedition."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_100_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_86_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b401f3c141c2c34bd84f",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Ingenieur"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/356c9d3777128c688333",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_86/JPG/en_US/2140eed250a46842ca0df19e86940960.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_86_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_86_R1",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1F",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_86/JPG/fr_FR/d8a5cb3af0c980fb6f6088c121e775c7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_86/JPG/en_US/2140eed250a46842ca0df19e86940960.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Louis Sullivan",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "#{J}# Falls sich #mindestens drei# Karten in deinem Wahrzeichen-Bereich befinden, ziehe eine Karte."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_86_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_101_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Bleibende Wahrzeichenkarte"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3c0c71841e18d8973907",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Konstrukt"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9517105fb2ab77513b74",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/507bc8dbcad4c6e0e952712ea55eb43a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_101_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_101_C",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1N",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/fr_FR/f1c3d829ac09426f82528afb5a42844e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/507bc8dbcad4c6e0e952712ea55eb43a.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Das Wiedersehen",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "MAIN_EFFECT": "{T} : Wähle bis zur Anzahl der Karten in deinem Wahrzeichen-Bereich:  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Gefährten-Expedition.  • Erschaffe eine [Ordis-Rekrut 1/1/1] in einer Helden-Expedition.  • Bis zu zwei Charaktere deiner Wahl erhalten 1 Verstärkung."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_101_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_101_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Bleibende Wahrzeichenkarte"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9c819ba40a69c1f8b9b4",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Konstrukt"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/47c4b5705bee9fdc3d94",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/b8f31c0fa5ec521cf4532317c6c2950d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_101_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_101_R1",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1R",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/fr_FR/415615fb2b10c1503fb668639d790342.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/b8f31c0fa5ec521cf4532317c6c2950d.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Das Wiedersehen",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "MAIN_EFFECT": "{T} : Wähle bis zur Anzahl der Karten in deinem Wahrzeichen-Bereich:  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Gefährten-Expedition.  • Erschaffe eine in einer Helden-Expedition.  • Bis zu zwei Charaktere deiner Wahl erhalten 1 Verstärkung.  • #Ziehe eine Karte.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_101_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_OR_98_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b2dd91f7fe012c8b36aa",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f7e4d2ee6b2904f08958",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/286402b0b62605eae100",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/640fe4775509172a97a432d3d0675411.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_OR_98_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_OR_98_C",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1Y",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/fr_FR/2fcf2659c4ae67869061b95bbe375700.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/640fe4775509172a97a432d3d0675411.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Ungerechte Begegnung",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "[[Vergänglich]].  Übernimm die Kontrolle über eine Bleibende Wahrzeichenkarte deiner Wahl mit Handkosten {2} oder weniger."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_OR_98_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_OR_98_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/5e760a9ee5ad2f4e1efb",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3c97389feed1f9228353",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/54da17e5e00770b57add",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/f082eefd282fc2ec2511a756d39550ba.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_OR_98_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_OR_98_R1",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ21",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/fr_FR/02098038c920efa24e449d77791e27f5.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/f082eefd282fc2ec2511a756d39550ba.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Ungerechte Begegnung",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "[[Vergänglich]].  Wähle eine Bleibende Wahrzeichenkarte mit Handkosten {2} oder weniger. #Ihr kontrollierender Spieler nutzt [Nachschub],# dann kontrollierst du sie."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_OR_98_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_YZ_89_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/09b1f32b1aa49623e3d3",
+        "reference": "ROGUE",
+        "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+        "name": "Rebell"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3a29f5ba0b5c0a1ee260",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_89/JPG/en_US/7f50b9712041c64fc7f478291a35348b.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_YZ_89_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_YZ_89_C",
+    "id": "01K4YGECH62QHQJ3ED3T58P4SS",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_89/JPG/fr_FR/7563dfa7b6b5baac1672bed0590fc153.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_89/JPG/en_US/7f50b9712041c64fc7f478291a35348b.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Simulant",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} Falls ich [in Kontakt] bin, nutze [Sabotage]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_YZ_89_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_YZ_91_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/422dea0aaf5d154875c0",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4d375128e3ffca3bbea6",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_91/JPG/en_US/f2afb07238d161ef131526437a842d3d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_YZ_91_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_YZ_91_R1",
+    "id": "01K4YGECH62QHQJ3ED3T58P4T5",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_91/JPG/fr_FR/ada0947490f80eea9200ae61974f6d82.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_91/JPG/en_US/f2afb07238d161ef131526437a842d3d.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka-Fan",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{H} Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich.",
+      "ECHO_EFFECT": "#{D} : [Nach dir].#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_YZ_91_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_AX_98_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b617739eba5e5d92f6b5",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Beschwörung"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/621dcc548438f7a23fac",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d2438ae366729060cefc",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/9bfc1c2ea85175b386c296e653961425.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_AX_98_R2",
+    "id": "01K4YGECGRVP002XYTEWX1RAK0",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/6fd7b8494e51728ef4aec8a5e25d39d3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/9bfc1c2ea85175b386c296e653961425.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Technologische Begegnung",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[Abkühlung].  Ziehe eine Karte und erschaffe dann eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_AX_98_R2-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_LY_100_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7384f9d13ef319564ed3",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9560319c3b16825c0a0b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/ce0e69633f83c1efc6e5b9f604120f43.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_LY_100_R2",
+    "id": "01K4YGECGY9XSJBXPCXRG95JZ9",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/910ebc417ed7601e8c1aa20edf292755.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/ce0e69633f83c1efc6e5b9f604120f43.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Romantische Begegnung",
+    "elements": {
+      "MAIN_COST": "#7#",
+      "RECALL_COST": "#7#",
+      "MAIN_EFFECT": "#[[Vergänglich]].#  #Für jeden Spieler, angefangen bei dir:#  • Der Spieler deckt die obersten vier Karten seines Decks auf. Du darfst einen Charakter #mit Handkosten {3} oder weniger# aus diesen Karten kostenlos spielen und er erhält [[Vergänglich]], dann lege die restlichen Karten ab."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_LY_100_R2-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_YZ_97_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ce99b7c7968b8089a740",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Segen"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2a97c09e8c07ace50dff",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b9d88e874d80b2383e95",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/1fd4ddedaa44195a1018a58e165beb45.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_YZ_97_C",
+    "id": "01K4YGECH75K3EB7FWR6TF39Q6",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/bbcfbe1e39454db909dab437062b5e2e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/1fd4ddedaa44195a1018a58e165beb45.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Sportliche Begegnung",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Verteile 2 Verstärkungen nach Belieben auf Charaktere deiner Wahl im Spiel.",
+      "ECHO_EFFECT": "{D} : [Nach dir]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_YZ_97_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_YZ_97_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/30d37bfbaa1619db07ba",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Segen"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8bf45e51954908e64d8e",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Saat der Eintracht - OP"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/42708cd3b15665275dda",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/57e4604902e8d3ccbfb7939a864ea085.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_YZ_97_R1",
+    "id": "01K4YGECH75K3EB7FWR6TF39Q9",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/0640451ce3b7de27d8ae75b8ca16f177.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/57e4604902e8d3ccbfb7939a864ea085.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Sportliche Begegnung",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "#1#",
+      "MAIN_EFFECT": "#[Abkühlung].#  Verteile 2 Verstärkungen nach Belieben auf Charaktere deiner Wahl im Spiel #oder in der Reserve.#",
+      "ECHO_EFFECT": "{D} : [Nach dir]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_YZ_97_R1-DE"
   }
 ]

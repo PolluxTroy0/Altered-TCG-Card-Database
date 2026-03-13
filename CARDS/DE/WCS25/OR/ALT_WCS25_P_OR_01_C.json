@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "7NTSM4VP779WYAFD41DQX3FT6Z",
       "reference": "ALT_WCS25_P_OR_01_C"
@@ -102,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/dcc886544444890257fb",
+    "@id": "/.well-known/genid/9f1dd7c741b8a6ec46ff",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/de_DE/64bb77c37bfb023f952997e24fac15f6.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_WCS25_P_OR_01_C",
   "id": "01JTJV9851QSP43VCWYHANHNAC",
   "mainFaction": {
@@ -123,20 +122,22 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/es_ES/90e432bf5ea527250f63fef0f4397b85.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/fr_FR/09f4ea882fc7caf998be2917b7fcb52d.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/en_US/7bbb25d586a29067ff3e34ee5330bc5c.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/de_DE/64bb77c37bfb023f952997e24fac15f6.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/it_IT/695ccd7331e76e7877c2ae26ddc0d1f7.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/it_IT/695ccd7331e76e7877c2ae26ddc0d1f7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/es_ES/90e432bf5ea527250f63fef0f4397b85.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_01/JPG/de_DE/64bb77c37bfb023f952997e24fac15f6.jpg"
   },
   "name": "Sigismar & Spannweit",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition."
+    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition.  Ignoriere meine Fähigkeit am ersten Tag."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCS25-OR-01-C-DE"
 }

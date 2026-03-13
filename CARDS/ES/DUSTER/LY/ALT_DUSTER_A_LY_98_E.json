@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_A_LY_98_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2Q5SDGJ5SP89KTJ1WSCFVHCF6A",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K3R4K3T9QK8090YTCXBHXYET",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K3R4K3T9QK8090YTCXBHXYET",
+          "text": "Phoibos, portavoz de los hexarcas, sabe cómo ganarse al público."
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3TJNKYM945YJWDZDSCE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K3R4K3TJNKYM945YJWDZDSCE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3TE7666514F2Q9H9NQM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K3R4K3TE7666514F2Q9H9NQM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3T08W933DRG5WREXP6E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K3R4K3T08W933DRG5WREXP6E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3T59AEFNZRVWNS0E3MH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K3R4K3T59AEFNZRVWNS0E3MH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "2Q5SDGJ5SP89KTJ1WSCFVHCF6A",
+      "reference": "ALT_DUSTER_A_LY_98_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9cdd48413f1b62a8912a",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artista"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a16f97986fabcb6e2806",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semillas de la unidad"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/522793fa0b5a40b16daa",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_LY_98/JPG/en_US/bb77a3cd94288430bd5ff0d1ef9ae1c9.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_LY_98_E",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_A_LY_98_E",
+  "id": "01JZJCF06ENFPYVD407M2QC1WC",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_LY_98/JPG/fr_FR/3ecd94ed55643dbf012562f0c3956edd.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_LY_98/JPG/en_US/bb77a3cd94288430bd5ff0d1ef9ae1c9.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Phoibos, hexarca reka",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "6",
+    "FOREST_POWER": "6",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "{H} Un oponente objetivo revela una carta aleatoria de su mano. Si estoy [En contacto], puedes jugarla inmediatamente sin coste y gana [[Fugacidad]]. Si no lo haces, descártala."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTER_A_LY_98_E-ES"
+}

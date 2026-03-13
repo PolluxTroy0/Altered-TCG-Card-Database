@@ -1,0 +1,64 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_AX_85_C_008",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Seeds of Unity - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5864a09761ff631cdfba",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/f3b7c1a9d5e40286b1c9a3d7e5f2c4a1.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_85_C_008",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_AX_85_C_008",
+  "id": "01K60PWCVMCKK6HJFRBD3D7ZHJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/fr_FR/f3b7c1a9d5e40286b1c9a3d7e5f2c4a1.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/f3b7c1a9d5e40286b1c9a3d7e5f2c4a1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/f3b7c1a9d5e40286b1c9a3d7e5f2c4a1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/f3b7c1a9d5e40286b1c9a3d7e5f2c4a1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/f3b7c1a9d5e40286b1c9a3d7e5f2c4a1.jpg"
+  },
+  "name": "Della e Dado",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T}: ripristina un permanente bersaglio in gioco o una carta bersaglio nella Riserva. Questo effetto costa {2} in più se scegli come bersaglio un permanente in gioco con costo dalla mano pari o superiore a {5}."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": true,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_AX_85_C_008-IT"
+}

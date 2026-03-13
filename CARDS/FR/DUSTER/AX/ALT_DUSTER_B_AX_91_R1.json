@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7868264ca54c34fbccfe",
+      "@id": "/.well-known/genid/d8c8dc56e2764ce2a1f2",
       "reference": "ROBOT",
       "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
       "name": "Robot"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/ecbcb61a02a9084885c2",
+      "@id": "/.well-known/genid/635ab39521aeaa209897",
       "reference": "MERCHANT",
       "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
       "name": "Marchand"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/925dee3b14e008e850c5",
+    "@id": "/.well-known/genid/893365914270a14eb770",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/JPG/fr_FR/8512286ec03c098245b4e584d3e15c12.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -151,10 +150,12 @@
     "OCEAN_POWER": "3",
     "FOREST_POWER": "0",
     "MOUNTAIN_POWER": "#3#",
-    "MAIN_EFFECT": "{R} [Ravitaillez Épuisé]."
+    "MAIN_EFFECT": "{R} [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-007-R-FR"
 }

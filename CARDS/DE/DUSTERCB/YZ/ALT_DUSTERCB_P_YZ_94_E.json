@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/5GE6Q0EKG382Z8AEB1189GC611",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3VKRKE4X83YEJ3T3722",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3VKRKE4X83YEJ3T3722",
+          "text": "„Glückwunsch. Mich auf das Spielfeld zu zwingen ist keine kleine Errungenschaft.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3WND245YKR03Z5D0RYH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA3WND245YKR03Z5D0RYH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3VYSJZAS9B6BXA7D0XG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3VYSJZAS9B6BXA7D0XG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3TYHMKX0KZCRFA2JPWR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA3TYHMKX0KZCRFA2JPWR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3V8ZVG5FCPR7NWJ85YH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA3V8ZVG5FCPR7NWJ85YH",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/0b9d48ab4a9b972f8002",
+      "@id": "/.well-known/genid/448dda91dc21ca1b8480",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Adliger"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a9db2f9b6a36e20600d2",
+      "@id": "/.well-known/genid/5b431ce7c9c1544a841b",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Rebell"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/ed05e5f9ef76e9f0782e",
+    "@id": "/.well-known/genid/786a6da6cc319b553ff1",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_94/JPG/en_US/e62a4be91f0ef4408071fa7faff067b6.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -90,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "ALT_DUSTERCB_P_YZ_94_E-DE"
 }

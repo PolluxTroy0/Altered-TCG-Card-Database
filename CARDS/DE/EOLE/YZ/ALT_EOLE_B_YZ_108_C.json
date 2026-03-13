@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_YZ_108_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7TN0QYX61R8PX8SHH95P5A6ZG2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HXPP40X1S48EK7ERJ6NQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HXPP40X1S48EK7ERJ6NQ",
+          "text": "„Ach komm, zeig mir deine Zähne.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HXRVZ15TH9QCQJAG1W53",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94HXRVZ15TH9QCQJAG1W53",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HXQ273ZNZTQ9AFQWBBVP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HXQ273ZNZTQ9AFQWBBVP",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HXP0NBNFD2HPW1BDBZZ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94HXP0NBNFD2HPW1BDBZZ2",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HXPB41X9R7ZRDWSMMX5M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HXPB41X9R7ZRDWSMMX5M",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "7TN0QYX61R8PX8SHH95P5A6ZG2",
+      "reference": "ALT_EOLE_B_YZ_108_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0e276f3795a0ca16e82b",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fee"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/75e2e29fc954245f30e5",
+      "reference": "CORRUPTION",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "name": "Verfall"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9121440d1493913f9cc0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/JPG/de_DE/56d00081c9649535d93c54f99ab8f19b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/WEB_d061911931c16b2df9d41f8a6fd3fda3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/WEB_7722ee4c0e6481c06ba9fd4148bfbd79",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/WEB_75f6966faea059ed1034a074fb9072af"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_YZ_108_C",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_B_YZ_108_C",
+  "id": "01K9YWHYA3B8H033BAGTRPZRN6",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/JPG/fr_FR/38b5164f12b6d1e949c2f483fe710579.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/JPG/en_US/f1fb9b23a00245cdb5eec1c6209dc91c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/JPG/it_IT/bc87f276ac9f362b64969cb7278eb65a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/JPG/es_ES/0fdd0f588333897ec6eddba637464842.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_108/JPG/de_DE/56d00081c9649535d93c54f99ab8f19b.jpg"
+  },
+  "name": "Verderbte Zahnfee",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{H} Ich erhalte [[Vergänglich]], es sei denn, es befinden sich mindestens sechs Karten auf deinem Ablagestapel.  {H} [Sabotage]. (Lege bis zu eine Karte deiner Wahl aus einer Reserve ab.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_YZ_108_C-DE"
+}

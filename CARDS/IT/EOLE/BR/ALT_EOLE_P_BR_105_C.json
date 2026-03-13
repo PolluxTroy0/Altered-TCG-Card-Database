@@ -1,0 +1,145 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_P_BR_105_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0M905DAFK58VDSM552KD8WF423",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KG2J8GFC84Y93NZB5R3MG34F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KG2J8GFC84Y93NZB5R3MG34F",
+          "text": "\"Se mi sottovaluti, la mia vittoria sarà ancora più dolce.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8GJWQTPN9Q93A5B1NF7M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KG2J8GJWQTPN9Q93A5B1NF7M",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8GHWX5VVJGXPEZSAXYFK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KG2J8GHWX5VVJGXPEZSAXYFK",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8GC4HVBXA41Z2RXKQS05",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KG2J8GC4HVBXA41Z2RXKQS05",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8GEF4A5EJ7TK8HWQ75NV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KG2J8GEF4A5EJ7TK8HWQ75NV",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "0M905DAFK58VDSM552KD8WF423",
+      "reference": "ALT_EOLE_P_BR_105_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/dbd8df443850b0230f95",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_BR_105/JPG/it_IT/4d7eacb432c5ea84343b9bcdf800c24f.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_P_BR_105_C",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_P_BR_105_C",
+  "id": "01KFRQ5ZCW7ECMA10PJAM8VR4K",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_BR_105/JPG/fr_FR/bf6982db363957133ed65f3d70837f88.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_BR_105/JPG/en_US/c288f3edfc25ae6ccdb0ac08cf1c0a05.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_BR_105/JPG/it_IT/4d7eacb432c5ea84343b9bcdf800c24f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_BR_105/JPG/es_ES/dfeb61a9ed18b91498560badd26045ce.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_BR_105/JPG/de_DE/525cecbcb661c6914ed6bd751f527ddc.jpg"
+  },
+  "name": "Gretel e Ruggine",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "3",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "At Noon — If you control a Feat, create a [Ruggine 0/0/0] token in your Companion Expedition. "
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_P_BR_105_C-IT"
+}

@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/0VBE3ZBJGD8JXAC5WN8JW8B3QG",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ZEY2YCF2EKG79VA266",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2ZEY2YCF2EKG79VA266",
+          "text": "The pleasure of giving, the joy of receiving."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ZVE4FV3DW3NG9CHXBS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2ZVE4FV3DW3NG9CHXBS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ZMZ5XW2JJT0QW6XR0R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2ZMZ5XW2JJT0QW6XR0R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2YYQNJB33PQTRWPB2T2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2YYQNJB33PQTRWPB2T2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2Z721BBX4EH6GSKAPVP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2Z721BBX4EH6GSKAPVP",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/23be396641a7a269af1f",
+      "@id": "/.well-known/genid/d630e7d11f7833d56ada",
       "reference": "DRUID",
       "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
       "name": "Druid"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/17c5e69fe8b79330888d",
+      "@id": "/.well-known/genid/50227f168a1d117699ed",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animal"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/fc3621e82637ea638b1c",
+    "@id": "/.well-known/genid/1f7ae865af722cd09b8a",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/JPG/en_US/34c0dc51e18047889b867b7516fffca9.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -90,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-015-R-EN"
 }

@@ -1,0 +1,64 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_AX_85_C_030",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Seeds of Unity - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e6cf45b8bcc888136ade",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/7a3d1c9e5b4f8026c1a9d3e7b5f2c4a8.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_85_C_030",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_AX_85_C_030",
+  "id": "01K60PWCX2QH6KVX82AYR0XT3X",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/fr_FR/7a3d1c9e5b4f8026c1a9d3e7b5f2c4a8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/7a3d1c9e5b4f8026c1a9d3e7b5f2c4a8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/7a3d1c9e5b4f8026c1a9d3e7b5f2c4a8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/7a3d1c9e5b4f8026c1a9d3e7b5f2c4a8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_85/JPG/en_US/7a3d1c9e5b4f8026c1a9d3e7b5f2c4a8.jpg"
+  },
+  "name": "Della & Bolt",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T} : Ready target Permanent in play or target card in Reserve. This costs {2} more to target a Permanent in play with Hand Cost {5} or more."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": true,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_AX_85_C_030-EN"
+}

@@ -1,0 +1,64 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_MU_85_C_015",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Les Graines de l'Unité - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d0f1ba85a21ef0cf0b5b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_85/JPG/fr_FR/e1c7a3d9b5f40286a1c9d3e7b5f2a4c8.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_MU_85_C_015",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_MU_85_C_015",
+  "id": "01K60PWD44CTZHC0X6WRKZ9GGM",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_85/JPG/fr_FR/e1c7a3d9b5f40286a1c9d3e7b5f2a4c8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_85/JPG/en_US/e1c7a3d9b5f40286a1c9d3e7b5f2a4c8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_85/JPG/en_US/e1c7a3d9b5f40286a1c9d3e7b5f2a4c8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_85/JPG/en_US/e1c7a3d9b5f40286a1c9d3e7b5f2a4c8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_85/JPG/en_US/e1c7a3d9b5f40286a1c9d3e7b5f2a4c8.jpg"
+  },
+  "name": "Turuun & Benih",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Lorsque vous faites un [Don] — Vous pouvez m'épuiser ({T}) pour le recevoir aussi. (Vous faites un Don si durant votre tour, un adversaire pioche une carte, Ravitaille ou reçoit un jeton.)  Ignorez ma capacité le premier Jour."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": true,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_MU_85_C_015-FR"
+}

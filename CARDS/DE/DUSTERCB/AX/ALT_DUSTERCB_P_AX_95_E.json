@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_AX_95_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5YTA8BY8F99SRB0EMG2YVCXGFC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2AXPB4FK8R3VX2XGKFV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2AXPB4FK8R3VX2XGKFV",
+          "text": "„Der Saft ist mehr als nur Energie; er ist unser Herzblut!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2B7WXK5FZV4Y2ZN6S24",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2B7WXK5FZV4Y2ZN6S24",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2B2GYGZSFE549PHKQDW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2B2GYGZSFE549PHKQDW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2AGA3GKJD4JYX3T58DQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2AGA3GKJD4JYX3T58DQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2AR2CYNMHAEQ0M8YE3F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2AR2CYNMHAEQ0M8YE3F",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "5YTA8BY8F99SRB0EMG2YVCXGFC",
+      "reference": "ALT_DUSTERCB_P_AX_95_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/40e6b19135dd1e039180",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingenieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/efc3d3a5940926b76c82",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Adliger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Seeds of Unity - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/410f73ab6fabd6354bde",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_95/JPG/en_US/354d630986670577668895be5aa55427.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_95_E",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_AX_95_E",
+  "id": "01K60PWCX93T66D6PPQ65FE08S",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_95/JPG/fr_FR/3437efff0d885f42611142cbe32003e8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_95/JPG/en_US/354d630986670577668895be5aa55427.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Sphura, Reka-Hexarch",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "Spiele mich für {1} weniger, falls du mindestens eine erschöpfte Bleibende Karte kontrollierst.  Spiele mich für {1} weniger, falls sich in deiner Reserve mindestens eine erschöpfte Karte befindet.  {J} Falls sich unter den von dir kontrollierten Bleibenden Karten und den Karten in deiner Reserve mindestens vier erschöpfte Karten befinden, stelle bis zu zwei von ihnen bereit."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_AX_95_E-DE"
+}

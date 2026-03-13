@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_MU_88_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6E3VST6QRS92ET4WY2XAJ1KPGW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA30S7B0WC0626BNTSMCQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA30S7B0WC0626BNTSMCQ",
+          "text": "If the Juice gives life, then it must take it from somewhere."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA31KBN2PHP0V3HY1XV51",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA31KBN2PHP0V3HY1XV51",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA31D2F8PBNT6ZHX8MJC2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA31D2F8PBNT6ZHX8MJC2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA30AXG6R5TD9RKK2NZEJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA30AXG6R5TD9RKK2NZEJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA30KTN74PHFWS7CY9DV0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA30KTN74PHFWS7CY9DV0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6E3VST6QRS92ET4WY2XAJ1KPGW",
+      "reference": "ALT_DUSTERCB_P_MU_88_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/57c3fe516278ce7814e1",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druid"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Seeds of Unity - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1c43bc7ab97d423dddc8",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_88/JPG/en_US/6a00ea0ea24b7c1526af2f018769b60e.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_MU_88_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_MU_88_R1",
+  "id": "01K60PWD57Z3NE6QC8VF7X4NE3",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_88/JPG/fr_FR/b18f8d154b13551b1f61285c11509d3a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_88/JPG/en_US/6a00ea0ea24b7c1526af2f018769b60e.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Muna Botanist",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "#1#",
+    "MAIN_EFFECT": "{H} Target opponent #[Exhausted Resupplies].#  {H} You may target another Character with Base Cost {3} or less, it gains [[Anchored]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_MU_88_R1-EN"
+}

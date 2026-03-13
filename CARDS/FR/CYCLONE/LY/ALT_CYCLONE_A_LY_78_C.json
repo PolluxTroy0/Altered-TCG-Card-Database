@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_LY_78_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2KVVNCGG578JRR1W21WWE6ATDV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVF5A3YWAG20T9HAQCJF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVF5A3YWAG20T9HAQCJF",
+          "text": "L'imagination, puisée des rêves."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVFKEZAGPDKKK74ATNE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JNRGBVFKEZAGPDKKK74ATNE9",
+          "text": "\"Il part dans le néant, où tout n'est que chaos ;\r\nEntrant dans le Tumulte, il en accepte l'essence ;\r\nMieux, il s'en réjouit, lui confiant tous ses sens ;\r\nIl laisse pénétrer l'énergie, dans son âme, sur sa peau ;\r\n\r\nÀ l'instant, sur le vif, la mutation s'opère ;\r\nL'initié enthousiaste, comprend que sa nature ;\r\nLoin d'être figée, unique, n'en est qu'une signature ;\r\nMultiple et changeante, sans cesse se régénère ;\r\n\r\nIl accepte le fardeau de sa vive mutation ;\r\nSigne de sa Faction, source de son pouvoir ;\r\nDe tous il souhaite la joie, ainsi que les émouvoir ;\r\nDe la magie qu'il crée, l'art est son expression ;\r\n\r\nRevenu de ce voyage, dans une dimension autre ;\r\nIl veut louer l'Ignescence, la force du changement ;\r\nAu regard de la puissance de ses sentiments ;\r\nDu Tumulte sculpté, il en devient l'apôtre.\"\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVFC93GQXSZN70M2C6VA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVFC93GQXSZN70M2C6VA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVEPAVHDKP970B2J8DRK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JNRGBVEPAVHDKP970B2J8DRK",
+          "text": "INCONNU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVEYRJY9HVD14FADBP7J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVEYRJY9HVD14FADBP7J",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "2KVVNCGG578JRR1W21WWE6ATDV",
+      "reference": "ALT_CYCLONE_A_LY_78_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fa7a153c518c62aac11b",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Odyssée des cieux"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2cb11a52c13e7cf6a1cf",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/fr_FR/0974cad2ea8b59cd6ae9a19d5e28c59f.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_78_C",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_LY_78_C",
+  "id": "2B5X47NSEJ8DJVB4396YW1GQQE",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/fr_FR/0974cad2ea8b59cd6ae9a19d5e28c59f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/6c1612d1763f7e0f42967aa07dfc5a08.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/it_IT/5e40dcd70e063a7d51ce2ae7a8aef2d0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/es_ES/b4b64a398a0e573a21836cd97a981b52.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/de_DE/e6d45d2a1fa8034f4538bdd6785849f1.jpg"
+  },
+  "name": "Sceau Lyra",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Choisissez l'un :  • Jusqu'à deux Personnages ciblés gagnent [[Fugace]].  • Piochez une carte, puis lancez un dé. Sur 4+, [Ravitaillez].  • Un Personnage ciblé gagne 1 boost par carte dans votre Réserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_LY_78_C-FR"
+}

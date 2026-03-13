@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/4ad0ff558aaec8e93e5b",
+      "@id": "/.well-known/genid/89f063f7f0b2bed769a6",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Tier"
@@ -109,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d4b12d26f36d2c4f22c4",
+    "@id": "/.well-known/genid/e652e61c3f3214ca4a50",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_95/JPG/en_US/d69fd0ea8d8f8e0f3966ca7c43d41a3d.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -144,11 +143,13 @@
     "OCEAN_POWER": "4",
     "FOREST_POWER": "4",
     "MOUNTAIN_POWER": "3",
-    "MAIN_EFFECT": "#[Robust 1].# (Gegner müssen {1} zahlen, um mich anzuvisieren.)",
+    "MAIN_EFFECT": "#[Robust 1].# (Gegner müssen {1} zahlen, um mich anzuvisieren.)",
     "ECHO_EFFECT": "{D} : Jeder Spieler zieht eine Karte."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-065-R-DE"
 }

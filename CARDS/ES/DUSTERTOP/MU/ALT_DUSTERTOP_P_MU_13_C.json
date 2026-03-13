@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_MU_13_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1FT2NDEXFX80RBM7Z6Q6M6VZCQ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHZP5BT55DW5SNDM62VR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHZP5BT55DW5SNDM62VR",
+          "text": "«Somos los centinelas del Skein, sentimos constantemente el pulso de la naturaleza»."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ003XP0RKN5Y3NK2DXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJ003XP0RKN5Y3NK2DXV",
+          "text": "I turn around and see my parents in the distance, while we move away. My father holds my mother in his arms, their small figures silhouetted beneath the foliage of the trees. I feel tears forming in my eyes. I don't know when I'll see them again... My whole life, I've only known the Earth Refuge and its shaded canopy. I try to capture everything with my gaze, to keep it all firmly rooted in my memory. Here, a cluster of low hills where we used to play with Nauraa. There, a tree where we used to shelter from the rain... I tighten my grip around a tuft of my Chimaera's fur. The giant fox lifts his head and looks at me with a hint of sadness. He too must be feeling distress at the thought of leaving our home. But no matter what happens, we'll always be there for one another.\n\nIn front of us, the Muna Druid rides his mount without hurrying. For the next few years, he will be my instructor, my professor. I've seen him many times, meditating near the river, his expression serene yet attentive. Like many other Muna, he had come to the Katkera on a pilgrimage, staying with us for a few days before leaving again. His laugh was bright, and he was caring. He graciously answered every question I asked about the capital, the other peninsulas, and Asgartha in general... But seeing him again after his journey filled me with a strange foreboding, like a dull trepidation. He'd had a long conversation with my parents. And when they left the monastery where they'd shut themselves in, a single look was enough for me to guess that my entire life was about to change."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHZVP9ZVGP850J2JQ1HY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHZVP9ZVGP850J2JQ1HY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHZFV0X2YCH2B76YHW0G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMHZFV0X2YCH2B76YHW0G",
+          "text": "Teija"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHZJNH55V6K735Y99YAG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHZJNH55V6K735Y99YAG",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1FT2NDEXFX80RBM7Z6Q6M6VZCQ",
+      "reference": "ALT_DUSTERTOP_P_MU_13_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/27f0d1c5611bafa34bb5",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druida"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f4d4a9ee8bb05ea6009e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/es_ES/b19dcac98f3bb74344bd8820023b4e0b.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_13_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_MU_13_C",
+  "id": "01K57206FSANC168HKJWAHN8BF",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/fr_FR/82ff82bf32c81e9b0edfc9cc421481d4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/en_US/9a4e185adadb4cbc267695ae933b1e17.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/it_IT/ce6a0a5192138d3c00be10924b8b8053.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/es_ES/b19dcac98f3bb74344bd8820023b4e0b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/de_DE/44d426c2425cc90ddb2d6174929c3252.jpg"
+  },
+  "name": "Druida de Muna",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "2",
+    "ECHO_EFFECT": "{D} : Target Character with Hand Cost {3} or less gains [[Anclaje]]. (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_MU_13_C-ES"
+}

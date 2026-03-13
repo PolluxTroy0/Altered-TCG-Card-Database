@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/3CG8VCD13J86SRQ63PMJMZDEFB",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3NCCE6GS2598T5ZSR4J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3NCCE6GS2598T5ZSR4J",
+          "text": "Maleros should have been wary of the outsider."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3PM301YFDQC7G9NZ29Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA3PM301YFDQC7G9NZ29Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3P8JH6SE3WPYRZDYBSR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3P8JH6SE3WPYRZDYBSR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3MSAXZHHCJ18XG9NH5V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA3MSAXZHHCJ18XG9NH5V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3N3NTXSRP2CHY2CSFS0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA3N3NTXSRP2CHY2CSFS0",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/3f7199f719ca281e21e2",
+      "@id": "/.well-known/genid/f966fb6a884e9f9dff74",
       "reference": "MAGE",
       "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
       "name": "Mage"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/6342ab65367c5ffae609",
+      "@id": "/.well-known/genid/b5578896eb1a40a3b73a",
       "reference": "SCHOLAR",
       "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
       "name": "Scholar"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/c42a206ae4e0249b2283",
+    "@id": "/.well-known/genid/c19319fde5044212e659",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/JPG/en_US/53ce5a9d3d525f492bbd4d0c8e57cc60.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -90,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-021-C-EN"
 }

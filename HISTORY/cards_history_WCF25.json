@@ -1,0 +1,36 @@
+{
+  "ALT_WCF25_P_OR_01_C": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/52361c41d22e1594cdcd",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/7f4a5c31d825b17f2ab8",
+      "id": "745",
+      "fromDate": "2026-02-12T14:08:18+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Sigismar & Wingspan",
+      "description": "https://www.altered.gg/en-us/news/seeds-of-unity-season-patch",
+      "answer": "As of February 12, 2026, Sigismar has been updated with the following text : \"At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.  [Ignore my abilities during the first Day.]\"  The previous version said \"At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.\"",
+      "question": "Did the text of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/7f4a5c31d825b17f2ab8",
+        "id": "745",
+        "fromDate": "2026-02-12T14:08:18+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Sigismar & Wingspan",
+        "description": "https://www.altered.gg/en-us/news/seeds-of-unity-season-patch",
+        "answer": "As of February 12, 2026, Sigismar has been updated with the following text : \"At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.  [Ignore my abilities during the first Day.]\"  The previous version said \"At Noon — Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.\"",
+        "question": "Did the text of this card change?"
+      }
+    ]
+  }
+}

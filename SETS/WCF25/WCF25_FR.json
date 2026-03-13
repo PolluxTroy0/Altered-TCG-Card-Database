@@ -296,12 +296,11 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/10d3d568d1de32d0919d",
+      "@id": "/.well-known/genid/7d4eadbf4a7a5c301c65",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Commun"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/fr_FR/7ca6d3509ba0d14682c9849efb2dac37.jpg",
     "assets": {
       "HERO_THUMB": [
@@ -316,6 +315,7 @@
     },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_WCF25_P_OR_01_C",
+    "isOwnerless": false,
     "reference": "ALT_WCF25_P_OR_01_C",
     "id": "01JTJTD4EM0W2NCG6VM3X6AJG4",
     "mainFaction": {
@@ -327,21 +327,23 @@
       "name": "Ordis"
     },
     "allImagePath": {
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/es_ES/94554260293baee2cd8d8e44d1679531.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/it_IT/6850c73147ad381517f8e68fef628a2a.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/en_US/3416f0955464ca6e8336f67de7db34ef.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/fr_FR/7ca6d3509ba0d14682c9849efb2dac37.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/en_US/3416f0955464ca6e8336f67de7db34ef.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/it_IT/6850c73147ad381517f8e68fef628a2a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/es_ES/94554260293baee2cd8d8e44d1679531.jpg",
       "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_OR_01/JPG/de_DE/4283bf5a96aeb27761cf1da53f940442.jpg"
     },
     "name": "Sigismar & Wingspan",
     "elements": {
       "MAIN_COST": "0",
       "RECALL_COST": "0",
-      "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros."
+      "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros.  Ignorez ma capacité le premier Jour."
     },
     "isSuspended": false,
-    "isErrated": false,
+    "isErrated": true,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "[Code non trouvé]-FR"
   },
   {

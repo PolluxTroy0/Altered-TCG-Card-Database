@@ -1,0 +1,64 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_YZ_65_C_011",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Seeds of Unity - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7ca1903273b4585d94fb",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_65/JPG/en_US/b1c7e3a9d5f40286a1c9d3e7b5f2a4c8.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_65_C_011",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_YZ_65_C_011",
+  "id": "01K60PWD7ZRQ14YAV2S5Q0SF79",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_65/JPG/fr_FR/b1c7e3a9d5f40286a1c9d3e7b5f2a4c8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_65/JPG/en_US/b1c7e3a9d5f40286a1c9d3e7b5f2a4c8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_65/JPG/en_US/b1c7e3a9d5f40286a1c9d3e7b5f2a4c8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_65/JPG/en_US/b1c7e3a9d5f40286a1c9d3e7b5f2a4c8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_65/JPG/en_US/b1c7e3a9d5f40286a1c9d3e7b5f2a4c8.jpg"
+  },
+  "name": "Moyo y Seda",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Cuando juegues un hechizo con coste base de {4} o más — Puedes agotarme ({T}) para crear una ficha de ilusión [Polilla de maná 2/2/2] en tu expedición del héroe. Si el coste base era {7} o más, roba también una carta. (Es su coste desde la reserva si se juega desde la reserva o, de lo contrario, es su coste desde la mano.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": true,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_YZ_65_C_011-ES"
+}

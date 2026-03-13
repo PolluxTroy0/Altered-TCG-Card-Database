@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_A_YZ_65_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2PN25CNSGF852T0P8CSAVY04KD",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHNSF31WD19S38DQK4PV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZHNSF31WD19S38DQK4PV",
+          "text": "\"To be on equal footing, we must show what we're capable of.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHP90XRHEHBNCA3C63G2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JZ37ZHP90XRHEHBNCA3C63G2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHP1PJ7MHV82ERV12BHQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZHP1PJ7MHV82ERV12BHQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHNAG07ATQC58BVMCWY9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JZ37ZHNAG07ATQC58BVMCWY9",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHNJGFJB12JGWNYZ489M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZHNJGFJB12JGWNYZ489M",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "2PN25CNSGF852T0P8CSAVY04KD",
+      "reference": "ALT_DUSTER_A_YZ_65_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Hero"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Seeds of Unity"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f6485cab4db4bc0b8e18",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_YZ_65/JPG/en_US/efad10ab9528475ea6d352353015fe8d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/WEB_a781b95e511aae868a9ff2b8dcdac7c6"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_WIDE_451752a95b81b9f71aeb49e8cbe8b151"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_YZ_65/HERO_THUMB_fd33d29efb99b887faf25e45a2fc406e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_YZ_65_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_A_YZ_65_C",
+  "id": "01JZ317W1XWGHDJ31KKQT70C5Q",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_YZ_65/JPG/fr_FR/20b63348e19f97788012826a503b0572.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_YZ_65/JPG/en_US/efad10ab9528475ea6d352353015fe8d.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Moyo & Silk",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "When you play a Spell with Base Cost {4} or more — You may exhaust me ({T}) to create a [Mana Moth 2/2/2] Illusion token in your Hero Expedition. If the Base Cost was {7} or more, also draw a card."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTER_A_YZ_65_C-EN"
+}

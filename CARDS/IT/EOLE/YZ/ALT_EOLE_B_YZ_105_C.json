@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_YZ_105_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2YHYGJVEFD91P8BSP5MMZEZ2SJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HX9VFXSPGJ676QVCPVA1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HX9VFXSPGJ676QVCPVA1",
+          "text": "\"Finalmente! Penso che ci divertiremo!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HXBX0KSW8DSDD1W9BBQQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94HXBX0KSW8DSDD1W9BBQQ",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HXA87P6H7HE4755SJ99X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HXA87P6H7HE4755SJ99X",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HX7F1ZA0H9BSKQ5ZTBWW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94HX7F1ZA0H9BSKQ5ZTBWW",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HX9B758AJKZSR9NEXKC7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HX9B758AJKZSR9NEXKC7",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "2YHYGJVEFD91P8BSP5MMZEZ2SJ",
+      "reference": "ALT_EOLE_B_YZ_105_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/34a74b9648f23c278e7a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/JPG/it_IT/fe36fe5a7c1caac8ef3fbbd6847265bc.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/HERO_THUMB_f2d2ca41e4d11e1bc516622af53b9446"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/HERO_WIDE_975a8e176716a10c77e0f8471051e0a9"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/WEB_930328963549bc3e8959a3c3c85f9332"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_YZ_105_C",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_B_YZ_105_C",
+  "id": "01K9YWHYA147F6CYZB7XW0XH38",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/JPG/fr_FR/f59dcad92793fa243f3872d86ed57e4a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/JPG/en_US/66d4451492f7e1af9128ce99a0077660.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/JPG/it_IT/fe36fe5a7c1caac8ef3fbbd6847265bc.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/JPG/es_ES/e89edbf98187bacc6068fc62dd42d7cc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_105/JPG/de_DE/f2943184285d7a5963c66aed8d3b09cb.jpg"
+  },
+  "name": "Sam e Spettro",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "{T}: pesca una carta, poi scarta una carta dalla tua mano. Puoi eseguire questa azione solo se sei il primo giocatore.  Non appena ci sono sei o più carte nella tua pila degli scarti, ottengo in modo permanente:  \"Quando scarti una carta dalla tua mano — Falla tornare nella tua Riserva.\""
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_YZ_105_C-IT"
+}

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f1e86b16ea0ad20b0143",
+      "@id": "/.well-known/genid/e1fc2ca04f42b69ec29a",
       "reference": "DISRUPTION",
       "id": "01HKAGPH80FC347E2P8841D298",
       "name": "Unterbrechung"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/59ca50fc971b43aedb46",
+      "@id": "/.well-known/genid/d4f1482725fc7c09be9d",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manöver"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/0e1c90299d0248e9a389",
+    "@id": "/.well-known/genid/f6b007c71c16d96c6485",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_99/JPG/en_US/ba70615a64b7c2b5f32c42d42c917bd4.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -153,5 +152,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-087-F-DE"
 }

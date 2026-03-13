@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/10RP3GD8068FBSSS44AM7CEZD0",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2HB5GWQXP3G281Q487K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2HB5GWQXP3G281Q487K",
+          "text": "Estar en las nubes tiene sus cosas buenas."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2HR7J36Z48VEPHWJYGQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2HR7J36Z48VEPHWJYGQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2HJVC7Y0YVNSW1NCHKW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2HJVC7Y0YVNSW1NCHKW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2GW7A7RRCJS1SXFNC5D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2GW7A7RRCJS1SXFNC5D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2H559N8KGSGVKV54ABT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2H559N8KGSGVKV54ABT",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/61e517aa42481131b0ef",
+      "@id": "/.well-known/genid/d6eba53afb11b7195196",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Hada"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/c41b934d25477d2ab821",
+    "@id": "/.well-known/genid/8438af6890c6745532cc",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/JPG/en_US/3105ef17919381e49b38e6cb8d8ed161.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -78,10 +143,12 @@
     "OCEAN_POWER": "5",
     "FOREST_POWER": "5",
     "MOUNTAIN_POWER": "3",
-    "MAIN_EFFECT": "{J} You may pass. If you don't, create a [Semilla de maná] token in target opponent's Landmarks."
+    "MAIN_EFFECT": "{J} Puedes pasar. Si no lo haces, crea una ficha de [Semilla de maná] en los hitos de un oponente objetivo. (Es un permanente con «{T}, sacrifícame: Prepara un orbe de maná».)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-006-C-ES"
 }

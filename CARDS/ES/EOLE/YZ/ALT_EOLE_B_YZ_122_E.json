@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_YZ_122_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/68WHQZ27QY9NSSCCB2QQVSVZEN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94J019TRRVNWF5A4JSAQGE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94J019TRRVNWF5A4JSAQGE",
+          "text": "«¿Cerrar la brecha? Justo cuando empezaba a entrar en calor...»."
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94J03F2DPBJ7YPK9KQNSEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94J03F2DPBJ7YPK9KQNSEH",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94J01N7X5G7NBJ8EGMJNB1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94J01N7X5G7NBJ8EGMJNB1",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94J00DCP0B6HYBGKFTM590",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94J00DCP0B6HYBGKFTM590",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94J00XBXMS0W8AD4A1Y6XJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94J00XBXMS0W8AD4A1Y6XJ",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "68WHQZ27QY9NSSCCB2QQVSVZEN",
+      "reference": "ALT_EOLE_B_YZ_122_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ad59d33bb4e0e4ae1d15",
+      "reference": "FEAT",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "name": "Proeza"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/df3e865874289e8574cf",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/JPG/es_ES/a84a7684efa1b88f21eaa9a8f48084c6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/WEB_01fee662a1a21b5ce3ec73e9f817bb1d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/WEB_ac8d090e1f4a4b4959143c078d6a9814"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_YZ_122_E",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_B_YZ_122_E",
+  "id": "01K9YWHYA8MWK88SEBDNFRQ34X",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/JPG/fr_FR/addf71297ee318e7898d1c9d2b10866a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/JPG/en_US/f68e4d42972393102ecc88b3726758f6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/JPG/it_IT/15ce5c0be17d58335d8b84ca17be9495.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/JPG/es_ES/a84a7684efa1b88f21eaa9a8f48084c6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_122/JPG/de_DE/14569f28255ea31dcea3d45e84e35a3d.jpg"
+  },
+  "name": "Cerrar la brecha",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "{J} Descarta un personaje objetivo con coste base de {3} o menos.  Cuando pases después de que lo hagan tus oponentes — Si eres el primer jugador, complétame.",
+    "ECHO_EFFECT": "[[Completada]]: {T}, {1} : Un personaje objetivo que controles gana 1 potenciador, luego [Después de ti]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_YZ_122_E-ES"
+}

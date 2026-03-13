@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_BR_79_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/220D3SZ34G8EZSJJ3RXDVV30EK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCH0W5Q9H5AJ3Z9QHE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVCH0W5Q9H5AJ3Z9QHE9",
+          "text": "Audacity, written in flesh."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCYAJFNYD75092S1J83",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBVCYAJFNYD75092S1J83",
+          "text": "384 AC - We are Bravos. Courage, prowess, camaraderie… they're all written on our skin. We display them proudly, like a challenge, a symbol, a warning. Through ink, through embers, each of our scars tells a story. Indelible. We are Bravos. It is a demand, an absolute commitment that can't be renounced. There's no turning back, only forward to new challenges and new obstacles. We are Bravos, and our tattoos say who we are. The needle's path is just a reminder of what we've faced, what has marked us, what has defined us. The pain is merely an echo, a recollection and a way to relive adversity in the crucible of your soul.\r\n\r\nWhen I tattoo an athlete on their thigh, they've experienced much worse in training. When I tattoo the name of a deceased loved one above the heart, it's a promise that the survivors will remember them. When you are Bravos, you announce your life loudly and clearly to anyone who will listen, and sometimes at first glance. The needle reveals our rage, resilience, triumphs and setbacks. Because great deeds are always eternal burn marks, as glowing, vibrant and vivid as the disappointments. Sol sits down opposite me. The little one is all grown up. I'm told that Little Red Riding Hood showed her support during her Imhallat. She is Bravos now too. And I'm going to engrave that truth into her flesh.\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCRVZ3KVEW2DW9E0RCN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVCRVZ3KVEW2DW9E0RCN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVC3C2S3MWHQSAEX4C7Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBVC3C2S3MWHQSAEX4C7Y",
+          "text": "UNKNOWN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVCAGVSC5F9MCTP4HAJ7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVCAGVSC5F9MCTP4HAJ7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "220D3SZ34G8EZSJJ3RXDVV30EK",
+      "reference": "ALT_CYCLONE_A_BR_79_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7afab73fb8e056f44b10",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c1cf1e58c237c9c37874",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/3e4d737e4c7597cb56efa925af38ca5c.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_79_C",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_BR_79_C",
+  "id": "5N6DB62KVQ8R0TBAK95WE81NJG",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/fr_FR/1ebad2846e6af445cea64486d820282b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/3e4d737e4c7597cb56efa925af38ca5c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/it_IT/49c11ebea964eebb7a794ad88c2e31f1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/es_ES/fcb23ea3facfb00bfcd94630bfe3a125.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/de_DE/0eecca9ea596d48695ee7bdd6a6ce9d2.jpg"
+  },
+  "name": "Bravos Signet",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Choose one:  • Target Character gains 3 boosts.  • Return target Character with Hand Cost {3} or less to its owner's hand.  • Put the top card of your deck in your Mana zone (as an exhausted Mana Orb)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_BR_79_C-EN"
+}

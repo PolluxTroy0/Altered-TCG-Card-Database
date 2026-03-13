@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_A_MU_96_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/65AQ3R4RHE8MQ9QV0EPEQG94G5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K3R4K3XS51M8ZMK22DPQA1RQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K3R4K3XS51M8ZMK22DPQA1RQ",
+          "text": "Ploutos vigila el Naos y controla la distribución de sus frutos entre el pueblo."
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3Y3523D9ZKSEYHM959W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K3R4K3Y3523D9ZKSEYHM959W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3XXA6RRJ076J6GAXH39",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K3R4K3XXA6RRJ076J6GAXH39",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3XDA4X5EVC13GZV9X7K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K3R4K3XDA4X5EVC13GZV9X7K",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K3R4K3XMQWA4P5NAFT4938N0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K3R4K3XMQWA4P5NAFT4938N0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "65AQ3R4RHE8MQ9QV0EPEQG94G5",
+      "reference": "ALT_DUSTER_A_MU_96_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/cb721043b78316c761e9",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druida"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c3037757104139d21821",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Semillas de la unidad"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/399c52d8b4c125921142",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_MU_96/JPG/en_US/3886f4726100f9a8506ef2f919de85f8.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_MU_96_E",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_A_MU_96_E",
+  "id": "01JZJEM5M2CPDZ6MTNWWQ5TNBV",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_MU_96/JPG/fr_FR/3b934f74df3296177e7e256b8a5fac30.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_MU_96/JPG/en_US/3886f4726100f9a8506ef2f919de85f8.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Ploutos, hexarca reka",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} El jugador objetivo [reabastece y agota].  Cuando hagas un [Regalo] — Un personaje objetivo gana [[Anclaje]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTER_A_MU_96_E-ES"
+}

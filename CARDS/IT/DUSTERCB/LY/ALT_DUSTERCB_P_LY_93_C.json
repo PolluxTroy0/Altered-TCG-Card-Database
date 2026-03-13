@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/6KJAJG795R8Q8VXZ9X85BXNGTS",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2RKQ6E1TMYBJ3NZTRFD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2RKQ6E1TMYBJ3NZTRFD",
+          "text": "\"Salta su, sarà un'esperienza indimenticabile!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2RYATKG5HPQVSDKRM2C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2RYATKG5HPQVSDKRM2C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2RRKNMMFNWYBVEW75R7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2RRKNMMFNWYBVEW75R7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2R58R26HAZWEJ1XDM9H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2R58R26HAZWEJ1XDM9H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2RD0FRDJJENCXBBXQZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2RD0FRDJJENCXBBXQZ8",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/cf524cb0387c759faa55",
+      "@id": "/.well-known/genid/68958ad40357d7bf773c",
       "reference": "ADVENTURER",
       "id": "01HKAGPC92CGHANVSRSC8R8ES6",
       "name": "Avventuriero"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/9551e56012fe9b09e40f",
+    "@id": "/.well-known/genid/3b8a62ac81bf5a04f44f",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/en_US/b7be0319364ee5dbdc24e3a0365d4f9f.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -83,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-009-C-IT"
 }

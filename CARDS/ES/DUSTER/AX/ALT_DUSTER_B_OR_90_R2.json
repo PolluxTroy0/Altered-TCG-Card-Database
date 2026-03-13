@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/19c1d547e38a53366387",
+      "@id": "/.well-known/genid/3f5372f9808c6dfbd92d",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Ciudadano"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/3074f30912a4fd28c563",
+      "@id": "/.well-known/genid/1b69f9d99b55d343b2d8",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldado"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/38eeafe8ed55eafdfcd5",
+    "@id": "/.well-known/genid/eb18448ab52ad13ec9e3",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_90/JPG/es_ES/6cf7e5b9f74008d2c8cd5e2ead2dbecf.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -156,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-077-F-ES"
 }

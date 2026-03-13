@@ -1,0 +1,156 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_AX_76_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7Y9ZCKZ0SK9PTVYMB9J61QA469",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVA44H8QYHFJZJCRZDYX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVA44H8QYHFJZJCRZDYX",
+          "text": "Innovation, engraved in chrome."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVAH0071MA43JBSW0REM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBVAH0071MA43JBSW0REM",
+          "text": "393 AC - Nothing is created, everything is transformed. So goes the old adage. Nothing is lost, everything is recycled. Such is the universal law. Underneath the successive stamps of various Axiom engineers, artisans and workers is the eternally changing life of a bit of metal, a piece of machinery, a lever… Nothing must ever be lost, and every component must be used and reused until it's completely worn out. Then it will be melted down and reforged to start another cycle of existence, whether in the same form or a different one. But before that, it's not unusual for a humble plate, hoop or lever to have so many different stamps on it – some of them overlapping others – that they combine to give the part an ancient and arcane appearance.\r\n\r\nRecycling is a philosophy that maintains the balance between change and inertia. It encodes a new creation within existing work, the new within the old, and life within destruction. This cycle is a form of eternal life in which every ounce of material achieves a new transformation. This cycle is a rhythm, a cadence, whose purpose lies in metamorphosis and renewal. Each stamp is the mark of an entire life, bearing witness to the stage of the journey in which it is anchored. The more the part wears down, the more it is burnished and engraved, the further it advances in its odyssey. And through each of these countless interactions, it earns respect. The ancients spoke of a cycle of reincarnation. The same philosophy applies to objects…\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVAB8B1VBYTG2HPJXDMV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVAB8B1VBYTG2HPJXDMV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBV9PGJRWC08JTP6XR1ZB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBV9PGJRWC08JTP6XR1ZB",
+          "text": "UNKNOWN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBV9XK5C557FS3YB338ME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBV9XK5C557FS3YB338ME",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "7Y9ZCKZ0SK9PTVYMB9J61QA469",
+      "reference": "ALT_CYCLONE_A_AX_76_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f1e60e328f7c09d987d4",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/46313ba397f304bc1f35",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/94100feea7318ab05b3e83e14a4fb074.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_480542a640cac7e6692dc75f41dcdc13",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_369844d8b18e825250dcc278e17d10ba"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_76_R2",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_AX_76_R2",
+  "id": "5GW54RKEFQ9Q389N543CA92424",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/fr_FR/652610c4efcf336fa045ee944d849b2d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/94100feea7318ab05b3e83e14a4fb074.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/it_IT/36a9dd0ce5e3067b3e5aff1e3259e465.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/es_ES/45a06664549371995835f6376d50457c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/de_DE/d28fd48cdeb21bc7225d91f443e5e1ec.jpg"
+  },
+  "name": "Axiom Signet",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_AX_76_R2-EN"
+}

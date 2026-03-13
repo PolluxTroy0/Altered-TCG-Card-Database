@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/1KT55SXGV48H9VQ5GPVHERATBN",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA40YEM331G8X35DXKFNH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA40YEM331G8X35DXKFNH",
+          "text": "\"Maaaaaleros!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA41E6A996GT8PKKMP6ZR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA41E6A996GT8PKKMP6ZR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA4163TAGYAC7T6SP18GA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA4163TAGYAC7T6SP18GA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA405QNY2Z2R689C65NGZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA405QNY2Z2R689C65NGZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA40PT4NBYQKRWT45C5DD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA40PT4NBYQKRWT45C5DD",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/fcdace056b64d9e303f3",
+      "@id": "/.well-known/genid/a592ea99a9aefdd80cda",
       "reference": "DISRUPTION",
       "id": "01HKAGPH80FC347E2P8841D298",
       "name": "Disruption"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/cb9b751bcbfa1a814102",
+      "@id": "/.well-known/genid/a8a487fd7ab053d0aa0f",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Maneuver"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/263dd1ce5d6b76ba7154",
+    "@id": "/.well-known/genid/46336f0d67a6806e1113",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_98/JPG/en_US/60bdfd6b813b449a97047a7877377fc7.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -87,5 +152,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-024-R-EN"
 }

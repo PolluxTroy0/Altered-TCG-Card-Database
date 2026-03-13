@@ -17,7 +17,8 @@
             "reference": "FLAVOR_TEXT",
             "subject": "Flavor Text"
           },
-          "id": "01J7K63VT6T8V2Q5DN1REJVSEF"
+          "id": "01J7K63VT6T8V2Q5DN1REJVSEF",
+          "text": ""
         },
         {
           "@id": "/lore_entry_elements/01J7K63W0996CJJPK9R1Q4JASJ",
@@ -29,7 +30,8 @@
             "reference": "STORY",
             "subject": "Story"
           },
-          "id": "01J7K63W0996CJJPK9R1Q4JASJ"
+          "id": "01J7K63W0996CJJPK9R1Q4JASJ",
+          "text": ""
         },
         {
           "@id": "/lore_entry_elements/01J7K63VX4TMV30RYFGPJREAPD",
@@ -41,7 +43,8 @@
             "reference": "INSPIRATION",
             "subject": "Inspiration"
           },
-          "id": "01J7K63VX4TMV30RYFGPJREAPD"
+          "id": "01J7K63VX4TMV30RYFGPJREAPD",
+          "text": ""
         },
         {
           "@id": "/lore_entry_elements/01J7K63VK55DXNVCXS89014H4X",
@@ -53,7 +56,8 @@
             "reference": "NARRATOR",
             "subject": "Narrator"
           },
-          "id": "01J7K63VK55DXNVCXS89014H4X"
+          "id": "01J7K63VK55DXNVCXS89014H4X",
+          "text": ""
         },
         {
           "@id": "/lore_entry_elements/01J7K63VQ2JPFYH7BFE8FWR2D2",
@@ -65,7 +69,8 @@
             "reference": "DATE",
             "subject": "Date"
           },
-          "id": "01J7K63VQ2JPFYH7BFE8FWR2D2"
+          "id": "01J7K63VQ2JPFYH7BFE8FWR2D2",
+          "text": ""
         }
       ],
       "loreEntryType": {
@@ -73,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "01HNGY4Y4261B57J42AJYG3VRX",
       "reference": "ALT_PROMO_2024_B_OR_01_C"
@@ -97,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/013d0fbb752a004a5e39",
+    "@id": "/.well-known/genid/bfdcc5bbb195394e6492",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/de_DE/ALT_CORE_P_OR_01_C_de_DE.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_P_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_CORE_P_OR_01_C",
   "id": "01HFS3ZRHBE4S7AHJES972026B",
   "mainFaction": {
@@ -118,20 +122,22 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/de_DE/ALT_CORE_P_OR_01_C_de_DE.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/es_ES/ALT_CORE_P_OR_01_C_es_ES.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/fr_FR/ALT_CORE_P_OR_01_C_fr_FR.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/en_US/ALT_CORE_P_OR_01_C_en_US.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/it_IT/ALT_CORE_P_OR_01_C_it_IT.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/it_IT/ALT_CORE_P_OR_01_C_it_IT.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/es_ES/ALT_CORE_P_OR_01_C_es_ES.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/de_DE/ALT_CORE_P_OR_01_C_de_DE.jpg"
   },
   "name": "Sigismar & Spannweit",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition."
+    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition.  Ignoriere meine Fähigkeit am ersten Tag."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "BTG-121-H-DE"
 }

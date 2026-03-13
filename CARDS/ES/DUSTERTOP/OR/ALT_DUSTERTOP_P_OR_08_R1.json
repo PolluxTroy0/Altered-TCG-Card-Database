@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_OR_08_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1G0A56CA9M9T39BJWCM21S9X7H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ3D0KM5VP074RZ92M4M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJ3D0KM5VP074RZ92M4M",
+          "text": "Tu documento ha caducado. Y ni que decir tiene que no es su problema."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ3R3TQ7W9QCZQD63KNX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJ3R3TQ7W9QCZQD63KNX",
+          "text": "The Legate tries to get the measure of me as I discreetly submit the Rediscovery Endeavor launch plan. She raises her eyebrows with irritation and starts to read with an obvious mission to highlight all its faults. I went through the official channels, of course. So, there's no reason for her to suspect any deceit. She must simply think that, as Avkan's public opponent, my goal is to find something to discredit the edict, something to throw a wrench into my rival's efforts. She obviously isn't doing this willingly, and she shows it with her stiff and surly attitude. But this is all part of a highly democratic process. Even if it goes against her own convictions, she can't oppose it – and she knows it all too well.\n\nTrue to my character, I urge her to hurry up, clicking my tongue impolitely to make my irritation and impatience clear. She looks daggers at me, but continues to silently read through the document. The more she hates me, the more she will unconsciously be receptive to the demands of Avkan's supporters when the time comes. She sets the annotated document down and slides it across the table to me. I take it without a word of thanks, letting out an exasperated sigh. I can feel her silently fuming as I read her addenda. As expected, the project had funding issues, and the budget cuts needed to finance the endeavor were sure to create discontent. There were also doubts about its temporary nature and especially the issue of continuity. As it stands, the Basileus's mandate would not be enough to make it happen. And above all... hmm, I need to take this document to Avkan to make him aware of certain legal implications."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ3JAH4V4GEE6CJVRQ74",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJ3JAH4V4GEE6CJVRQ74",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ32Z4GBGRA6QB2FG7SE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMJ32Z4GBGRA6QB2FG7SE",
+          "text": "Waru"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ3869CZC3WYP607X04Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJ3869CZC3WYP607X04Q",
+          "text": "363 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1G0A56CA9M9T39BJWCM21S9X7H",
+      "reference": "ALT_DUSTERTOP_P_OR_08_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/717c47c51f9f314a8110",
+      "reference": "BUREAUCRAT",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "name": "Burócrata"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/88fccf4fc35b304508b1",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/es_ES/cf58d449a318b4c7adb1be5f5ce71f66.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_OR_08_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_OR_08_R1",
+  "id": "01K57206G666C8711FXG69685S",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/fr_FR/3d0976f89f2aa3772696fad86d9970cf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/en_US/3f74cf5868138dfe5ae1be1bfe0ccddc.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/it_IT/ae7d10d20bb45ae452f5587153d98488.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/es_ES/cf58d449a318b4c7adb1be5f5ce71f66.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/de_DE/78b5b9cf02608fc29058c66760408b7a.jpg"
+  },
+  "name": "Legado del Monolito",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "Quando la mia spedizione non avanza durante il crepuscolo — [Sabotea] dopo il riposo.",
+    "ECHO_EFFECT": "#{D} : Create an [Recluta de Ordis 1/1/1] Soldier token in target Expedition.# (Discard me from Reserve to do this.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_OR_08_R1-ES"
+}

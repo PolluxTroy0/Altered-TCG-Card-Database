@@ -4181,6 +4181,223 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_AX_76_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8403700f5a8556cf1941",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/50987e68d95666d888aa",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/79bb60f70be659e20132257f7964aee6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_480542a640cac7e6692dc75f41dcdc13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_369844d8b18e825250dcc278e17d10ba"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_76_C",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_AX_76_C",
+    "id": "087TMW0ZGV94NRQE848XKT1SXT",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/fr_FR/e672dc47c3f6bed19480868466c32fa5.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/79bb60f70be659e20132257f7964aee6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/it_IT/62ab6a3b283093fff9d6bdad567c4c05.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/es_ES/43ed89633dfc388f86ef07d4b4a098b6.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/de_DE/87cf6e8f4caa5797e4a7e7b37e273569.jpg"
+    },
+    "name": "Axiom Signet",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_AX_76_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_AX_76_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3ba79dad6904bd66b97e",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/edc593ecfb6c60f2cb28",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/d6d32d01af7a70b82f9f8cea15babc37.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_480542a640cac7e6692dc75f41dcdc13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_369844d8b18e825250dcc278e17d10ba"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_76_R1",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_AX_76_R1",
+    "id": "6R2XW0WB0H8JRBGPK7S62V65NV",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/fr_FR/4dbf16ea2b9209a5fe8bb3e128da2de6.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/d6d32d01af7a70b82f9f8cea15babc37.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/it_IT/77e390891c2481564276a2b5a300c803.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/es_ES/b4fbd631a650dc471588e0f6b1d212c1.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/de_DE/4e64220db038bbd5a9f3fab071e76068.jpg"
+    },
+    "name": "Axiom Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_AX_76_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_LY_78_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/352dba866ed4235ca3ea",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/bca7d7162ed534389b21",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/eb04060fec81e1ffce158eebfe0e4f1d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_78_R2",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_LY_78_R2",
+    "id": "3QXN5D92F79FTTKZ85M214K2WK",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/fr_FR/f9cafba32b77c0dbbfd5a3b7e793533b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/eb04060fec81e1ffce158eebfe0e4f1d.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/it_IT/9ed2428bd94c947aaf4b627510c6054f.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/es_ES/fe87b924111fe67927d9cfa6ceb83cdd.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/de_DE/792889352bc671293c4fa5bbbf5b5d95.jpg"
+    },
+    "name": "Lyra Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Up to two target Characters gain [[Fleeting]].  • Draw a card, then roll a die. On a 4+, [Resupply].  • Target Character gains 1 boost per card in your Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_LY_78_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_A_BR_77_C",
     "@type": "Card",
     "cardType": {
@@ -8403,6 +8620,213 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_BR_79_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7afab73fb8e056f44b10",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c1cf1e58c237c9c37874",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/3e4d737e4c7597cb56efa925af38ca5c.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_79_C",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_BR_79_C",
+    "id": "5N6DB62KVQ8R0TBAK95WE81NJG",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/fr_FR/1ebad2846e6af445cea64486d820282b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/3e4d737e4c7597cb56efa925af38ca5c.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/it_IT/49c11ebea964eebb7a794ad88c2e31f1.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/es_ES/fcb23ea3facfb00bfcd94630bfe3a125.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/de_DE/0eecca9ea596d48695ee7bdd6a6ce9d2.jpg"
+    },
+    "name": "Bravos Signet",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Target Character gains 3 boosts.  • Return target Character with Hand Cost {3} or less to its owner's hand.  • Put the top card of your deck in your Mana zone (as an exhausted Mana Orb)."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_BR_79_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_BR_79_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/87961e551c4df6a05324",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/03648002e78c3259cda3",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/5ec36add548fadca52c37223581983cb.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_79_R1",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_BR_79_R1",
+    "id": "2YRRKYFVZ38FTSZGXSSXM1RVYY",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/fr_FR/703130c88027a3090cae4d0dd8116999.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/5ec36add548fadca52c37223581983cb.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/it_IT/b89308615628660595f11eb3a4a10f6d.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/es_ES/1c5fc21d7097ce1c3d040539df23a4f6.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/de_DE/d2603be0748227d432bb4326fce68470.jpg"
+    },
+    "name": "Bravos Signet",
+    "elements": {
+      "MAIN_COST": "#5#",
+      "RECALL_COST": "#5#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Target Character gains 3 boosts.  • Return target Character with Hand Cost {3} or less to its owner's hand.  • Put the top card of your deck in your Mana zone (as an exhausted Mana Orb)."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_BR_79_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_YZ_76_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/69ffb892f379b6b9765a",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0b4ce5d4745efcaf1602",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/c193849ae5e547a4db67cac629d4cbae.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_76_R2",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_YZ_76_R2",
+    "id": "2QYZY8ZB0G963AQT45J11JYG1S",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/fr_FR/c305ef3c9fc414da46d57fede9a0e859.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/c193849ae5e547a4db67cac629d4cbae.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/it_IT/20644d5cf20a1cbae545ffe59b5adda1.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/es_ES/8da73c8171c8aa1b99cc1f289b86ad70.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/de_DE/6dc9444d6b1d37a0e46fcc1d4983dedc.jpg"
+    },
+    "name": "Yzmir Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Send to Reserve target Character with Hand Cost {2} or less.  • [Sabotage].  • Draw a card."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_YZ_76_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_A_AX_74_R2",
     "@type": "Card",
     "cardType": {
@@ -12486,6 +12910,213 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "SKY-108-F-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_LY_78_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/21b06d14bd44d31ba20d",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9f7076f9a5d2af55cd6a",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/6c1612d1763f7e0f42967aa07dfc5a08.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_78_C",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_LY_78_C",
+    "id": "2B5X47NSEJ8DJVB4396YW1GQQE",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/fr_FR/0974cad2ea8b59cd6ae9a19d5e28c59f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/6c1612d1763f7e0f42967aa07dfc5a08.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/it_IT/5e40dcd70e063a7d51ce2ae7a8aef2d0.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/es_ES/b4b64a398a0e573a21836cd97a981b52.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/de_DE/e6d45d2a1fa8034f4538bdd6785849f1.jpg"
+    },
+    "name": "Lyra Signet",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Up to two target Characters gain [[Fleeting]].  • Draw a card, then roll a die. On a 4+, [Resupply].  • Target Character gains 1 boost per card in your Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_LY_78_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_LY_78_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1ad0d2a6e36d85a50b7a",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5c949a09b0e4f0a28c96",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/385bde852cba5b939725b359ef755216.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_78_R1",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_LY_78_R1",
+    "id": "7FQV4ZS8C99VHT0PGK64M45TSN",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/fr_FR/d6052bae7c37edfcf077bc3b519c012b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/385bde852cba5b939725b359ef755216.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/it_IT/82d7660dfc2b0c48107ba3e832da8e24.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/es_ES/e831e567a1c5d2d87662c914ddce7481.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/de_DE/266d5e829d6f81801ef6d95d813195fe.jpg"
+    },
+    "name": "Lyra Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Up to two target Characters gain [[Fleeting]].  • Draw a card, then roll a die. On a 4+, [Resupply].  • Target Character gains 1 boost per card in your Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_LY_78_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_MU_79_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e1e3ceda300712a29f84",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/fbf4bd35f474f0a4e6ab",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/4600ca06f75ce08a4d3c7eb022ccf9e2.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_79_R2",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_MU_79_R2",
+    "id": "30KQ349YNC8RW8CQJRD4CD4SY1",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/fr_FR/3fc10b75a13824a5ef8a2e47a1342b98.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/4600ca06f75ce08a4d3c7eb022ccf9e2.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/it_IT/4675c74eb44f2efba73754f404c02d31.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/es_ES/e31041819fde9e9560596a535659a2d5.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/de_DE/929eaedb126694b002fee1ebe9573e70.jpg"
+    },
+    "name": "Muna Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Target three Expeditions and create a [Woollyback 1/1/1] Animal token in each one.  • Target Character with Hand Cost {3} or less gains [[Anchored]].  • Place a {V} Terrain Marker on target visible region."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_MU_79_R2-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -16679,6 +17310,213 @@
   },
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_MU_79_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/36e023e198ee3e496c64",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a37fc6ec7c91db6ef34a",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/65af48ec650b23047117630216b772ce.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_79_C",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_MU_79_C",
+    "id": "42HR322GR281DAWQR5B762FB2K",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/fr_FR/0d7b8d00a2477f9c9f22fca7c4e9006a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/65af48ec650b23047117630216b772ce.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/it_IT/f089869e6e1f00949beb8e5e7872fe86.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/es_ES/ebc4f0b63b935e3d58170beeabbfe242.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/de_DE/8ee17c109c7e95d4cf28200385820a65.jpg"
+    },
+    "name": "Muna Signet",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Target three Expeditions and create a [Woollyback 1/1/1] Animal token in each one.  • Target Character with Hand Cost {3} or less gains [[Anchored]].  • Place a {V} Terrain Marker on target visible region."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_MU_79_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_MU_79_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/80c3e462ee62f9996d60",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d695eb5b2b92d4bb708d",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/ef3a1de65d272744053afea18d4d7fa0.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_79_R1",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_MU_79_R1",
+    "id": "43JVVNRH039H4AXTSPMS1CMADB",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/fr_FR/b08d4ee6d08c51b7d73a8fd50b4923ed.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/ef3a1de65d272744053afea18d4d7fa0.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/it_IT/b520647cae88c50f741ac9f01e6a0e26.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/es_ES/c6c5b039f6fdd476d54ac930bbd68bde.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/de_DE/c2e1ccf8251a9fb2c17febd9f49327a7.jpg"
+    },
+    "name": "Muna Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Target three Expeditions and create a [Woollyback 1/1/1] Animal token in each one.  • Target Character with Hand Cost {3} or less gains [[Anchored]].  • Place a {V} Terrain Marker on target visible region."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_MU_79_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_OR_78_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3e0672773394bc1d7ec5",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3af750c42294132a06e8",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/5c2b945794449b07fe1d0a9619011600.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_78_R2",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_OR_78_R2",
+    "id": "28AQCWP98H9BNR25KFMAEQ576C",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/fr_FR/ed8ab296d75a2b8cfcfd45607344527a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/5c2b945794449b07fe1d0a9619011600.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/it_IT/4f194d23e601ce2a9f2ad2b9dfd7bf06.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/es_ES/639ef9a09969b04c80e4b76bb65dcc3c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/de_DE/94ace0c1faf1aa7aeff0a1d1b7f15da9.jpg"
+    },
+    "name": "Ordis Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Target Character gains [[Asleep]].  • Target Character in Expedition or in Reserve loses all its boosts.  • Each Character in target Expedition gains 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_OR_78_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_CYCLONE_B_NE_03_C",
     "@type": "Card",
     "cardType": {
@@ -20863,6 +21701,218 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "SKY-105-F-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_AX_76_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f1e60e328f7c09d987d4",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/46313ba397f304bc1f35",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/94100feea7318ab05b3e83e14a4fb074.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_480542a640cac7e6692dc75f41dcdc13",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_369844d8b18e825250dcc278e17d10ba"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_76_R2",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_AX_76_R2",
+    "id": "5GW54RKEFQ9Q389N543CA92424",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/fr_FR/652610c4efcf336fa045ee944d849b2d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/94100feea7318ab05b3e83e14a4fb074.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/it_IT/36a9dd0ce5e3067b3e5aff1e3259e465.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/es_ES/45a06664549371995835f6376d50457c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/de_DE/d28fd48cdeb21bc7225d91f443e5e1ec.jpg"
+    },
+    "name": "Axiom Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Create a [Brassbug 2/2/2] Robot token in target Expedition.  • Target Permanent you control activates its {j} abilities.  • Discard target Permanent with Hand Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_AX_76_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_OR_78_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a866a542986b2c4cd87c",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a3c8d13b8e9e26c77d62",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/f42f04024ea420b0e7de81afffd12b79.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_78_C",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_OR_78_C",
+    "id": "6RVWS5TSYT8F2SABMD8Q140408",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/fr_FR/d7e859e0aca3ca32bade9239855fb183.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/f42f04024ea420b0e7de81afffd12b79.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/it_IT/0aee61f7dbe7d3f12e07ccd8981190da.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/es_ES/0a9f6430319fc579e72f5f50811ab82e.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/de_DE/74fab695885fdf93350553c31eeb2c41.jpg"
+    },
+    "name": "Ordis Signet",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Target Character gains [[Asleep]].  • Target Character in Expedition or in Reserve loses all its boosts.  • Each Character in target Expedition gains 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_OR_78_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_OR_78_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/42d3c96e3af0ca36bc20",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/42e9852a63bf640762cc",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/4c8cc71dc882882da7767c5a6f2f56fb.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_78_R1",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_OR_78_R1",
+    "id": "50T16G7F4N961A5P0A0W5Z97RB",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/fr_FR/62ed3cb99eff62f22e8f96d9da0dd672.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/4c8cc71dc882882da7767c5a6f2f56fb.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/it_IT/ec0e6cefee61a629bc014a6672dc98bf.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/es_ES/0b16f8b57661b19d4650353b41225bd9.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/de_DE/81b2ca50f5b2d9b10e39114c3b23de46.jpg"
+    },
+    "name": "Ordis Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Target Character gains [[Asleep]].  • Target Character in Expedition or in Reserve loses all its boosts.  • Each Character in target Expedition gains 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_OR_78_R1-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -25069,5 +26119,212 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "SKY-108-R-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_BR_79_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d546f55cdccae1bba3c3",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b79c6764308c4763a67b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/a4c2a79f8a48f66c104d18a003694ee7.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_BR_79_R2",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_BR_79_R2",
+    "id": "5WXP7F3KAW88ZAPJXXVJQNX9Y1",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/fr_FR/7d4ab498a6025e40c904e24d32e4b9bc.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/en_US/a4c2a79f8a48f66c104d18a003694ee7.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/it_IT/e00db859508e14dc98237defd6c8be5e.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/es_ES/8250264a037b52eaaba5139bd3bf6e49.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_BR_79/JPG/de_DE/a8505e443fc931541feac4a68a84a438.jpg"
+    },
+    "name": "Bravos Signet",
+    "elements": {
+      "MAIN_COST": "#5#",
+      "RECALL_COST": "#5#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Target Character gains 3 boosts.  • Return target Character with Hand Cost {3} or less to its owner's hand.  • Put the top card of your deck in your Mana zone (as an exhausted Mana Orb)."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_BR_79_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_YZ_76_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1a339561be0135e75ad0",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3f0084a751de790813b8",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/ca201483af14112b140497fca3c7ae37.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_76_C",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_YZ_76_C",
+    "id": "76EBCSXFKE98RAAXB87TN0T68V",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/fr_FR/242acc3dda0199f18f1f1bc2edd380c8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/ca201483af14112b140497fca3c7ae37.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/it_IT/7bfded7343e636b3038dad475bf17544.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/es_ES/90d00848b5d5c6bdfb98889e4f239619.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/de_DE/04654cae8aa89b6eb87c446a23cf731e.jpg"
+    },
+    "name": "Yzmir Signet",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Choose one:  • Send to Reserve target Character with Hand Cost {2} or less.  • [Sabotage].  • Draw a card."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_YZ_76_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CYCLONE_A_YZ_76_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b6a0f3fed54c389f2de3",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/CYCLONE",
+      "@type": "CardSet",
+      "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+      "reference": "CYCLONE",
+      "name": "Skybound Odyssey"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2f66e2924fe906a27aeb",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/916f4dedbc300992ca89e0ffe23648a9.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_76_R1",
+    "isOwnerless": false,
+    "reference": "ALT_CYCLONE_A_YZ_76_R1",
+    "id": "7NFD6M60P49W3VZM8HXF81JA1P",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/fr_FR/e38ced509079ddac369db0fb0b7cb963.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/916f4dedbc300992ca89e0ffe23648a9.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/it_IT/74544d81f257bb815869c0a3d509cf1c.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/es_ES/e6defc6152d0672adbb2a06f2876178f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/de_DE/8b9dbbf7ffe417d995c16d071de82a32.jpg"
+    },
+    "name": "Yzmir Signet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  Choose #two:#  • Send to Reserve target Character with Hand Cost {2} or less.  • [Sabotage].  • Draw a card."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_CYCLONE_A_YZ_76_R1-EN"
   }
 ]

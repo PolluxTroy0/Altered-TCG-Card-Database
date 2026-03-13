@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/5GE6Q0EKG382Z8AEB1189GC611",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3VKRKE4X83YEJ3T3722",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3VKRKE4X83YEJ3T3722",
+          "text": "« Félicitations. Me forcer à entrer sur le terrain n'est pas un mince exploit. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3WND245YKR03Z5D0RYH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA3WND245YKR03Z5D0RYH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3VYSJZAS9B6BXA7D0XG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3VYSJZAS9B6BXA7D0XG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3TYHMKX0KZCRFA2JPWR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA3TYHMKX0KZCRFA2JPWR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3V8ZVG5FCPR7NWJ85YH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA3V8ZVG5FCPR7NWJ85YH",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/d243bda8f3d7fbf05071",
+      "@id": "/.well-known/genid/3c1a712296b2e229c8f9",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Noble"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/0fcaf91d992c4cc0ffe0",
+      "@id": "/.well-known/genid/b5e6a1c42abd3228d7c9",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Gredin"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/0c98d17b6416c5f8e1e3",
+    "@id": "/.well-known/genid/cdb9038a7aff5acd4d98",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalté"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_94/JPG/fr_FR/172dd219688660152eeecbd5db139e47.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -90,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "ALT_DUSTERCB_P_YZ_94_E-FR"
 }

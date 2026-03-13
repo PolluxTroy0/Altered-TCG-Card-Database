@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/2VKRXNTPVZ9VVSTME8QDXRAH6K",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2E309ME1TJTYDVN0B86",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2E309ME1TJTYDVN0B86",
+          "text": "« Viens prendre ton shot d'adrénaline ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2EFCQD50KENDBMF9PAV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA2EFCQD50KENDBMF9PAV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2E9WBWFP9C842EWEFKK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2E9WBWFP9C842EWEFKK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2DQ65BNA23KNGWF1H6E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA2DQ65BNA23KNGWF1H6E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2DYAB4S8599QB5FPCA4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2DYAB4S8599QB5FPCA4",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/e8581c24b2cb32d09c03",
+      "@id": "/.well-known/genid/46261671634cfb3d9999",
       "reference": "ADVENTURER",
       "id": "01HKAGPC92CGHANVSRSC8R8ES6",
       "name": "Aventurier"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a5e69e783ae1bc26f93f",
+    "@id": "/.well-known/genid/0cc041e67834275978fb",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_88/JPG/fr_FR/3621e82ea80ad0589db45752489494de.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -78,10 +143,12 @@
     "OCEAN_POWER": "#3#",
     "FOREST_POWER": "3",
     "MOUNTAIN_POWER": "#3#",
-    "MAIN_EFFECT": "{J} You may [Foncer]. If you don't, target opponent [Ravitaille Épuisé]."
+    "MAIN_EFFECT": "{J} Vous pouvez [Foncer]. Si vous ne le faites pas, un adversaire ciblé [Ravitaille Épuisé]. (Foncer signifie jouer une autre carte immédiatement.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-007-R-FR"
 }

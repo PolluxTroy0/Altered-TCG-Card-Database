@@ -1,0 +1,156 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_AX_76_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7Y9ZCKZ0SK9PTVYMB9J61QA469",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVA44H8QYHFJZJCRZDYX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVA44H8QYHFJZJCRZDYX",
+          "text": "L'innovation, gravée sur chrome."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVAH0071MA43JBSW0REM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JNRGBVAH0071MA43JBSW0REM",
+          "text": "393 AC - Rien ne se crée, tout se transforme. Ainsi va l'adage. Rien ne se perd, tout se recycle. Telle est la loi universelle. Sous les poinçons successifs des différents ingénieurs, artisans et ouvriers de l'Axiom se cache la vie en perpétuel changement d'un bout de métal, d'une pièce d'engrenage, d'un levier... Rien ne doit se perdre, tout élément doit être utilisé, et réutilisé jusqu'à ce que l'usure ne le rende inexploitable. Alors, il sera fondu, forgé de nouveau, pour amorcer un autre cycle d'existence, sous une même forme, ou bien une forme différente. Mais avant cela, il n'est pas rare qu'une pièce comporte tellement de poinçons différents — certains se superposant les uns sur les autres — qu'ils donnent ensemble un aspect ésotérique à une plaque, un cerclage ou une manette.\r\n\r\nLe recyclage est une philosophie qui fait perdurer l'équilibre entre le changeant et l'inerte. Elle code une création dans l'existant, la nouveauté dans l'ancien, le vivant dans la destruction. Ce cycle est une vie éternelle où chaque once de matière aboutit à une nouvelle transformation. Ce cycle est un rythme, une cadence, dont la finalité se trouve dans la métamorphose et dans le renouveau. Chaque poinçon est la marque d'une vie, et le témoin de l'étape du voyage dans lequel il est ancré. Plus la pièce est usée, patinée, gravée, plus elle est avancée au sein de son odyssée. Elle mérite alors le respect, par toutes les interactions qu'elle a connues. Les anciens parlaient du cycle des réincarnations. Il en va de même pour les objets...\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVAB8B1VBYTG2HPJXDMV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVAB8B1VBYTG2HPJXDMV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBV9PGJRWC08JTP6XR1ZB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JNRGBV9PGJRWC08JTP6XR1ZB",
+          "text": "INCONNU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBV9XK5C557FS3YB338ME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBV9XK5C557FS3YB338ME",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "7Y9ZCKZ0SK9PTVYMB9J61QA469",
+      "reference": "ALT_CYCLONE_A_AX_76_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4eefd843f71a0abd8b04",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Odyssée des cieux"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/00bee0322bc069c4df9b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/fr_FR/e672dc47c3f6bed19480868466c32fa5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_480542a640cac7e6692dc75f41dcdc13",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/WEB_369844d8b18e825250dcc278e17d10ba"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_AX_76_C",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_AX_76_C",
+  "id": "087TMW0ZGV94NRQE848XKT1SXT",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/fr_FR/e672dc47c3f6bed19480868466c32fa5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/en_US/79bb60f70be659e20132257f7964aee6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/it_IT/62ab6a3b283093fff9d6bdad567c4c05.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/es_ES/43ed89633dfc388f86ef07d4b4a098b6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_AX_76/JPG/de_DE/87cf6e8f4caa5797e4a7e7b37e273569.jpg"
+  },
+  "name": "Sceau Axiom",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Choisissez l'un :  • Créez un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée.  • Un Permanent ciblé que vous contrôlez active ses capacités {j}.  • Défaussez un Permanent ciblé de Coût de Main {3} ou moins."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_AX_76_C-FR"
+}

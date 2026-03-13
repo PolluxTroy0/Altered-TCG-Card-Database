@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/c4e0da80f5fef120b4ae",
+      "@id": "/.well-known/genid/777763f86e4eae42b182",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldat"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7a85618c21c0957a0df0",
+      "@id": "/.well-known/genid/8fee887dbb687b214cc5",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Gredin"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/84a5e2eb01776d8fa314",
+    "@id": "/.well-known/genid/86cb3b6473e8beae10c2",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/fr_FR/a92951a10512fc01b41f1854821d9c05.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -152,10 +151,12 @@
     "FOREST_POWER": "3",
     "MOUNTAIN_POWER": "3",
     "MAIN_EFFECT": "#{J} Si je suis [En Contact], payez {1} de moins pour le prochain Sort que vous jouez cet Après-midi, jusqu'à un minimum de {1}.# (Je suis En Contact si l'Expédition d'un autre joueur est dans ma région. D'autres effets peuvent réduire davantage le coût.)",
-    "ECHO_EFFECT": "{D} : Payez {1} de moins pour le prochain Sort que vous jouez ce tour-ci, jusqu'à un minimum de {1}."
+    "ECHO_EFFECT": "{D} : Payez {1} de moins pour le prochain Sort que vous jouez ce tour-ci, jusqu'à un minimum de {1}. (Défaussez-moi de la Réserve pour ça.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-099-R-FR"
 }

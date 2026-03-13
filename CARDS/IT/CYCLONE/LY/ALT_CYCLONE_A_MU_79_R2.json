@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_MU_79_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7DH2HGH66G9MMA67YP5SMDKDMZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVHRNMZ3JMNJG3Q1Z37H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVHRNMZ3JMNJG3Q1Z37H",
+          "text": "Empatia, legata ai cuori."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVJ65TAN3CM00NFF1EYE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBVJ65TAN3CM00NFF1EYE",
+          "text": "393 AC - There's an inherent contradiction among the Muna. We do our utmost to maintain the balance of nature, parity between the species – animals, plants, and others – so that everything can live in harmony. But isn't that just interventionism? If we were to follow the laws of nature to the letter, we should leave all species alone to live and die naturally. A few years ago, Arjun had told me to think more deeply about it. And it had been several days before I went back to find them. Proud of myself, I told them that it was all about our place in the world. Not doing anything was like not existing, but we did exist. And human beings were part of nature. It was a mistake to think that we were separate from or above nature.\r\n\r\nIn nature, there's always a sweet spot between cooperation and competition to guarantee a healthy environment. And we have the perfect tool to find that sweet spot: the Skein. Through it, we can almost hear nature, and all its desires and complaints. And we can help it thrive. In a way, it's like we've agreed to be its agents. But I've always wondered why it's only the Muna that received this gift, and not all human beings. The cicadas sing under the olive trees, and I lift my straw hat to wipe my forehead.  I pick one more juicy tomato, which Arjun would definitely have appreciated. Come to think of it, I think I dreamed about them last night…\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVHZ5R3HATSMXJQHA3WB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVHZ5R3HATSMXJQHA3WB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVH9VMVBXFS6DT0N29CG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBVH9VMVBXFS6DT0N29CG",
+          "text": "FLORE"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVHG6G36680NWG1X8FBJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVHG6G36680NWG1X8FBJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "7DH2HGH66G9MMA67YP5SMDKDMZ",
+      "reference": "ALT_CYCLONE_A_MU_79_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/731834aebde52a792fd0",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Evocazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9960e23ddd28779b4861",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/it_IT/4675c74eb44f2efba73754f404c02d31.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_MU_79_R2",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_MU_79_R2",
+  "id": "30KQ349YNC8RW8CQJRD4CD4SY1",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/fr_FR/3fc10b75a13824a5ef8a2e47a1342b98.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/en_US/4600ca06f75ce08a4d3c7eb022ccf9e2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/it_IT/4675c74eb44f2efba73754f404c02d31.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/es_ES/e31041819fde9e9560596a535659a2d5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_MU_79/JPG/de_DE/929eaedb126694b002fee1ebe9573e70.jpg"
+  },
+  "name": "Sigillo Muna",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[[Fugace]].#  Scegli #due:#  • Scegli come bersaglio tre spedizioni e crea una pedina Animale [Lanuvola 1/1/1] in ciascuna.  • Un personaggio bersaglio con costo dalla mano pari o inferiore a {3} ottiene [[Ancorato]].  • Posiziona un indicatore terreno {V} su una regione bersaglio visibile."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_MU_79_R2-IT"
+}

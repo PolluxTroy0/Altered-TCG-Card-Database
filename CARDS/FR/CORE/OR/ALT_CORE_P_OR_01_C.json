@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "01HNGY4Y4261B57J42AJYG3VRX",
       "reference": "ALT_PROMO_2024_B_OR_01_C"
@@ -102,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/e894521764bc27d8adbd",
+    "@id": "/.well-known/genid/963c46e0c83d20f7917a",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/fr_FR/ALT_CORE_P_OR_01_C_fr_FR.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_P_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_CORE_P_OR_01_C",
   "id": "01HFS3ZRHBE4S7AHJES972026B",
   "mainFaction": {
@@ -123,20 +122,22 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/de_DE/ALT_CORE_P_OR_01_C_de_DE.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/es_ES/ALT_CORE_P_OR_01_C_es_ES.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/fr_FR/ALT_CORE_P_OR_01_C_fr_FR.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/en_US/ALT_CORE_P_OR_01_C_en_US.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/it_IT/ALT_CORE_P_OR_01_C_it_IT.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/it_IT/ALT_CORE_P_OR_01_C_it_IT.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/es_ES/ALT_CORE_P_OR_01_C_es_ES.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_P_OR_01/JPG/de_DE/ALT_CORE_P_OR_01_C_de_DE.jpg"
   },
   "name": "Sigismar & Wingspan",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros."
+    "MAIN_EFFECT": "À Midi — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros.  Ignorez ma capacité le premier Jour."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "BTG-121-H-FR"
 }

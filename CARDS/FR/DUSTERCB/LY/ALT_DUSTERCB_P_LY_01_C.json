@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/78K3APYV828A9SPXEADXZBM9RM",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2KEFD8TC126CEZQMV07",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2KEFD8TC126CEZQMV07",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2KWKVP64KRVSKS54YX7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA2KWKVP64KRVSKS54YX7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2KNJ3S6RSWPRAAJYZBH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2KNJ3S6RSWPRAAJYZBH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2K1SKFBGMHCCR5Z6T7V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA2K1SKFBGMHCCR5Z6T7V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2K7AG22KX3N62VKKM8S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2K7AG22KX3N62VKKM8S",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "@type": "LoreEntryType",
@@ -35,12 +101,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/da8b7f2d7fdfbf3283df",
+    "@id": "/.well-known/genid/3e49ef66ad82829f29dc",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/fr_FR/98640333af8840de723e9b4bcbe325cf.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -69,10 +134,12 @@
     "RECALL_COST": "0",
     "PERMANENT": "2",
     "RESERVE": "2",
-    "MAIN_EFFECT": "{T} : Ciblez un Personnage que vous contrôlez, puis lancez un dé. Sur :  • 6+, it gains [[Ancré]].  • 2-5, it gains 1 boost.  • 1, envoyez-le en Réserve."
+    "MAIN_EFFECT": "{T} : Ciblez un Personnage que vous contrôlez, puis lancez un dé. Sur :  • 6+, il gagne [[Ancré]]. (Au Repos, il ne va pas en Réserve et il perd Ancré.)  • 2-5, il gagne 1 boost. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)  • 1, envoyez-le en Réserve."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "[Code non trouvé]-FR"
 }

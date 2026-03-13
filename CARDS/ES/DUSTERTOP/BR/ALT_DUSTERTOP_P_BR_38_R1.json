@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_BR_38_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4R94A5D2QB8CTAP0FZTFS5EX9Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVCS7ZA1H60YBGGNXXZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHVCS7ZA1H60YBGGNXXZ",
+          "text": "Son mortales en tierra y aún más en el agua."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVK5A19TK00WFS8FS09",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMHVK5A19TK00WFS8FS09",
+          "text": "I stretch and massage my lower back to relieve the soreness. Making any progress on the ice pack is constant torture. My whole body is tense from trying to maintain my balance as the Akhlut breaks through the ice with violent blows with its snout. Easy now, don't you know you have an old woman on your back? I feel a certain relief when our guide points to the shoreline. I catch myself sighing. It will feel good to drop my bag on the shore after this sea voyage. With a final ominous crack, the Akhlut climbs onto the shore. I need no encouragement to climb down from the saddle. I crack my back and take a few steps to loosen my aching thighs. As I pet the neck of my mount, I watch its head becoming slimmer as it shakes, and I step back, fascinated as I watch it slowly transform.\n\nThe smooth skin of the sea mammal gradually develops patches of bushy hair, which slowly turns into dense black and white fur. Its fins extend and become muscular legs with claws. It stands up and starts to walk across the snow. And all around, the rest of the pack also transforms from aquatic creatures to land mammals. I mutter to myself. I shouldn't be getting absorbed in this spectacle – I've got work to do. It seems Filiki passed his bad habits on to me. I go to find our guide, who is petting the muzzle of his own Akhlut. The animal raises its head as I approach. I reach into my bag for the sextant that will help us calculate the route taken by the Ouroboros. OK, just a few more days and then we can all collapse in the mess hall for a well-deserved rest."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVFWW7A98MSQDV2XHPB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHVFWW7A98MSQDV2XHPB",
+          "text": "The Akhlut is a creature from Inuit mythology. This composite animal is an orca that takes the form of a wolf when on land. It is sometimes depicted as a wolf-orca hybrid that can shapeshift easily between the two based on the situation. Legends about the creature arose when hunters noticed wolf tracks disappearing into the sea or at the edges of watering holes, as if they had dived in. Among the Inuit, Akhluts are said to be very fierce and will hunt down humans who venture too far off the beaten path."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHV5ACE6754NNMB81RV1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMHV5ACE6754NNMB81RV1",
+          "text": "BASIRA"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHV9RK957Q9V1T1TE0AJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHV9RK957Q9V1T1TE0AJ",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4R94A5D2QB8CTAP0FZTFS5EX9Z",
+      "reference": "ALT_DUSTERTOP_P_BR_38_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/22a5e723b8e2d48483f9",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/02ff80e7e16dfe9366c7",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Espíritu"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/67379b30172d694b17ef",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/es_ES/8be6b03b0009901c563beabb2c19c55b.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_38_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_BR_38_R1",
+  "id": "01K57206FANCQ07745BX542H6K",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/fr_FR/c8b6cc14158b6e25cba00d027dfb8ffa.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/en_US/8aa7f3d2137c9d359f5ff68a0b18f857.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/it_IT/0f003ea767399ce1a4cf29078b71d352.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/es_ES/8be6b03b0009901c563beabb2c19c55b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/de_DE/c0719f60623938721a348c6ce5f270da.jpg"
+  },
+  "name": "Akhlut",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#4#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "Cuando gane 1 potenciador o más — Puedes agotar ({T}) una carta objetivo en reserva. (Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo).  #{J}# Gano 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_BR_38_R1-ES"
+}

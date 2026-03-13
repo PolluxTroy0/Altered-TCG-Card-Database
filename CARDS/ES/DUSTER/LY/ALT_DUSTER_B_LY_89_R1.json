@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/18af305cb76e77de35a8",
+      "@id": "/.well-known/genid/19e0bd0853e12116e135",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Artista"
@@ -109,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d75328c8c9d199e2a2be",
+    "@id": "/.well-known/genid/0c0f46e9c76f13b4d595",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_89/JPG/en_US/a7614d7d859898c0d01f3c4f8209c8b2.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -145,10 +144,12 @@
     "FOREST_POWER": "#2#",
     "MOUNTAIN_POWER": "2",
     "MAIN_EFFECT": "Al anochecer — Si estoy [En contacto], gano 1 potenciador. (Estoy en contacto si la expedición de otro jugador está en mi región.)",
-    "ECHO_EFFECT": "#{D} : El siguiente personaje que juegues este turno gana 1 potenciador.#"
+    "ECHO_EFFECT": "#{D} : El siguiente personaje que juegues este turno gana 1 potenciador.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-041-R-ES"
 }

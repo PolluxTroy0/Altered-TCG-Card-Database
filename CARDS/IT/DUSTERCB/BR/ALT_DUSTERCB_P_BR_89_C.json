@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/68G4DDDHEP9ERA24W4Z5JQTJ6M",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2F8GHXPJDFZGKQY1EN2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2F8GHXPJDFZGKQY1EN2",
+          "text": "Una delle tante straordinarie chimere che popolano il Mare del Tumulto."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2FHVJ2XBW4ZN8BYGVJZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2FHVJ2XBW4ZN8BYGVJZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2FCEST4ZG76KYKK5T96",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2FCEST4ZG76KYKK5T96",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ETHNE2HQRFFAVK1593",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2ETHNE2HQRFFAVK1593",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2F26HG41K875VEXPT1E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2F26HG41K875VEXPT1E",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/acc9221a77484be3771e",
+      "@id": "/.well-known/genid/f95e668c9292a411b36a",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animale"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/662ed9078ba837515c92",
+    "@id": "/.well-known/genid/b7b69f86e170e483f88b",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_89/JPG/en_US/9afe4c40a6a2a5295dc0c031fdde434d.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -83,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-005-C-IT"
 }

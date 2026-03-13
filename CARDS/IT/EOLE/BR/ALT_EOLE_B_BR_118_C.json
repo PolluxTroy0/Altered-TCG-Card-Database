@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_BR_118_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7HMBG2CDZV8YJR2PF7644VXKQ7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HQDW7Q3R96J7WKNYQYBN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HQDW7Q3R96J7WKNYQYBN",
+          "text": "\"Se dobbiamo cadere, allora questa sarà la nostra ultima resistenza!\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQE7C9YVTVPM48CG5DM2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94HQE7C9YVTVPM48CG5DM2",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQE2JZC00GKSKVTXGP8T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HQE2JZC00GKSKVTXGP8T",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQD62KE6KNG3QTBGMSTH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94HQD62KE6KNG3QTBGMSTH",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQDPC061ZK6ZB6KCA6NJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HQDPC061ZK6ZB6KCA6NJ",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "7HMBG2CDZV8YJR2PF7644VXKQ7",
+      "reference": "ALT_EOLE_B_BR_118_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f53091cda04abb7861fb",
+      "reference": "FEAT",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "name": "Prodezza"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d047c458782219652a7b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/JPG/it_IT/715e9e11f8bb6e7447fd5cf5d49976e4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/WEB_01d14c99b98ee9c240a003c1a8e79d3d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/WEB_181fd9b058296e783ce67141a9e27b2f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_BR_118_C",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_B_BR_118_C",
+  "id": "01K9YWHY907GZNMG5E3ARBVZ88",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/JPG/fr_FR/64bdeac920b40e459ab1c2ba792eda11.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/JPG/en_US/3dc2d9febbc83a67ed87a2cdaa33e0b6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/JPG/it_IT/715e9e11f8bb6e7447fd5cf5d49976e4.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/JPG/es_ES/95099f530bd0fc0090b3dcf5d3630c22.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_118/JPG/de_DE/6aa4fdc5165e413b1a11f7e64541981c.jpg"
+  },
+  "name": "Ultima Resistenza",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MAIN_EFFECT": "{J} Manda nella Riserva un personaggio bersaglio con costo base pari o inferiore a {3}.  Quando passi — Se controlli un'altra Prodezza, eseguimi.",
+    "ECHO_EFFECT": "[[Eseguita]]: il limite dei tuoi fulcri è quattro."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_BR_118_C-IT"
+}

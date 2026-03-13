@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_MU_96_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6FRDHE570G964B17CVY295FRKH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA32BRNGQWTHAX6DW0Q68",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA32BRNGQWTHAX6DW0Q68",
+          "text": "„Meine Arbeiterbienen werden unsere Ernten steigern!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA32QQ2CW7EM77PK11TY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA32QQ2CW7EM77PK11TY8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA32HF31MFM3TBWAATCAZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA32HF31MFM3TBWAATCAZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA31YY1NTA0473SFNPH30",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA31YY1NTA0473SFNPH30",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA325K9YWYSCS2VG9X690",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA325K9YWYSCS2VG9X690",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6FRDHE570G964B17CVY295FRKH",
+      "reference": "ALT_DUSTERCB_P_MU_96_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/30345175749b95d96add",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b9bdc8656d68fce94591",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Adliger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Seeds of Unity - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f6ee6b59e9b86e4efed8",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_96/JPG/en_US/f6f7f048bfc2ae79b7e5e3e60b8af8a2.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_MU_96_E",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_MU_96_E",
+  "id": "01K60PWD54G4DT1WXE9TA1KAJR",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_96/JPG/fr_FR/42fceb782132dd5d4ac1b807a59ce792.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_96/JPG/en_US/f6f7f048bfc2ae79b7e5e3e60b8af8a2.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Ploutos, Reka-Hexarch",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Ein Spieler deiner Wahl nutzt [Erschöpfter Nachschub].  Wenn du ein [Geschenk] gibst — Ein Charakter deiner Wahl erhält [[Verankert]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_MU_96_E-DE"
+}

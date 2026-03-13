@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_A_BR_114_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3BCZXFJHJW8MMB8TM11PC3ZZFN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KG2J89TD3F8FA1RQ94REFAS1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KG2J89TD3F8FA1RQ94REFAS1",
+          "text": "Sometimes it's wiser to be afraid of your own shadow…"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J89X8DM835EPH9F5T9AF9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KG2J89X8DM835EPH9F5T9AF9",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J89WAFR9HW2PVS7JVKE16",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KG2J89WAFR9HW2PVS7JVKE16",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J89QH5N1D34V19SERP60J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KG2J89QH5N1D34V19SERP60J",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J89SHX2DW54S0DCNT3RRG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KG2J89SHX2DW54S0DCNT3RRG",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "3BCZXFJHJW8MMB8TM11PC3ZZFN",
+      "reference": "ALT_EOLE_A_BR_114_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7c97a977cc02d2c6fd43",
+      "reference": "CORRUPTION",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "name": "Corruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d1d9e6691c29ea55b5c3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/en_US/bdcd1a5e930e80640f13eb9c6a850003.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_BR_114_R1",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_A_BR_114_R1",
+  "id": "01KFRQ5ZCW7ECMA10PJAM8VR54",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/fr_FR/b6f31927050e1b379c1ce6a4c2cd1c4b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/en_US/bdcd1a5e930e80640f13eb9c6a850003.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/it_IT/e80b714756978e771d3a2793e66071b6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/es_ES/3d7754888a2e87a4f5fb0fc0782b864e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/de_DE/0caad55fa3058f49c7186fcd7da00da5.jpg"
+  },
+  "name": "Stigma of Cowardice",
+  "elements": {
+    "MAIN_COST": "#4#",
+    "RECALL_COST": "#4#",
+    "OCEAN_POWER": "#4#",
+    "FOREST_POWER": "#4#",
+    "MOUNTAIN_POWER": "#4#",
+    "MAIN_EFFECT": "#[Tough 1].#  {J} Pass.  When an opponent passes — You may play a #card.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_A_BR_114_R1-EN"
+}

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/1179f8b85d5ca6a33b3d",
+      "@id": "/.well-known/genid/bcc1f23deb37cbe66fd3",
       "reference": "ROBOT",
       "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
       "name": "Robot"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/2c0b360a1461d7339749",
+      "@id": "/.well-known/genid/6cca64bcd1e876d85689",
       "reference": "MERCHANT",
       "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
       "name": "Mercader"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/e8aaa7ba8e2df736e39c",
+    "@id": "/.well-known/genid/85904f33280eae7e184d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/JPG/en_US/9e49f22040d3e84d8d46a800444a338f.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -151,10 +150,12 @@
     "OCEAN_POWER": "3",
     "FOREST_POWER": "0",
     "MOUNTAIN_POWER": "#3#",
-    "MAIN_EFFECT": "{R} [Reabastece y agota]."
+    "MAIN_EFFECT": "{R} [Reabastece y agota]. (Coloca la primera carta de tu mazo en reserva y luego agótala {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-007-R-ES"
 }

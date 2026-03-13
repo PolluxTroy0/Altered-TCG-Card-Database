@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_YZ_12_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5K1MMXRDJV9W8B06W0C3B9C43W",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9TR31DJ2NJJE60G4WJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJ9TR31DJ2NJJE60G4WJ",
+          "text": "Alchemy is not just a matter of turning lead to gold. It's about purifying yourself of imperfections to become your true self."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJA32BGP0YW76VWFNG0R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJA32BGP0YW76VWFNG0R",
+          "text": "I knock on the door and enter the shop. In my pocket are all the Florets I've saved up to buy medicine for my sister. The little bell tinkles again when I close the door, and I start to wander around a multitude of potions, elixirs and rather disturbing ingredients: chicken feet, frogs' eyes, tufts of hair, pieces of bark, vials of mucus... To be honest, I find it rather disgusting and I'm a little scared. There are dried plants and strong-smelling mushrooms, test tubes with glowing liquids, dog-eared old books... as well as terrifying heads and statuettes with strange and unsettling shapes. But I can't let myself get distracted. I can't let myself be intimidated by all these curios.\n\nOn the other side of the counter, the alchemist gives me an impassive look. Behind his big dark glasses, he stares at me like I'm lost, as if I shouldn't be in his shop. So I pluck up all my courage and place all the coins I have on the counter. I describe my sister's illness in detail. With tears in my eyes, I ask him if he has a potion or ointment to heal her. He sighs, then uncorks various flasks one by one to sniff their contents. Then he mixes some of the substances together in a small metal pot – a few drops here, a trickle there – then stirs the mixture and pours the concoction into a gourd. He hands it to me, along with all the money I gave to him, explaining that he'll only accept payment if the tonic works..."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9ZV0VD8BP2S4Y9KJZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJ9ZV0VD8BP2S4Y9KJZ8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9JG88BHE6KS1Z6TFW9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMJ9JG88BHE6KS1Z6TFW9",
+          "text": "Akesha"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJ9P1RZNMTE5ZKN5VCME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJ9P1RZNMTE5ZKN5VCME",
+          "text": "384 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "5K1MMXRDJV9W8B06W0C3B9C43W",
+      "reference": "ALT_DUSTERTOP_P_YZ_12_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1b78770604efa5d7714d",
+      "reference": "SCHOLAR",
+      "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+      "name": "Scholar"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/eaa984aa2e529b16f6b5",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/en_US/ef62cf5c930b6bbf0b9aaed6fc0a9577.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_12_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_YZ_12_R1",
+  "id": "01K57206GBXXNGRAJW665K3JVX",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/fr_FR/6031334f97e17107e0e1b231519d2f5a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/en_US/ef62cf5c930b6bbf0b9aaed6fc0a9577.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/it_IT/d70748e080bbd0102d6a9d35391772fa.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/es_ES/3dda12ee070232521bff6bf249123d0e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/de_DE/fc38ac62bd47e354f5eede5982a0109a.jpg"
+  },
+  "name": "Kadigiran Alchemist",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{H} I gain #3 boosts#."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_YZ_12_R1-EN"
+}

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f49d653ae434bc284294",
+      "@id": "/.well-known/genid/890f5cabb7c150906d1e",
       "reference": "DISRUPTION",
       "id": "01HKAGPH80FC347E2P8841D298",
       "name": "Interférence"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a04c02716607ea070ae1",
+      "@id": "/.well-known/genid/bb9460790df578cefc8f",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manœuvre"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/07d5f1bd4c95ef97703e",
+    "@id": "/.well-known/genid/0c485f4e99119fc02056",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_99/JPG/fr_FR/bc541bd676ff3cbd5f69d68b370b1dd2.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -148,10 +147,12 @@
   "elements": {
     "MAIN_COST": "5",
     "RECALL_COST": "5",
-    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Défaussez un Personnage ou Permanent ciblé, puis créez un jeton [Graine de Mana] dans vos Repères."
+    "MAIN_EFFECT": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve une fois mon effet résolu.)  Défaussez un Personnage ou Permanent ciblé, puis créez un jeton [Graine de Mana] dans vos Repères."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-087-C-FR"
 }

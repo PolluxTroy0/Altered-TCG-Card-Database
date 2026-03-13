@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/1314d890d1749b962f3f",
+      "@id": "/.well-known/genid/430585524f5a0822ba2a",
       "reference": "CONJURATION",
       "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
       "name": "Conjuration"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/31b4d2ba010c423c85f2",
+      "@id": "/.well-known/genid/e5b2ae17646895cff34a",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manœuvre"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/44fd5f33b247c10c366a",
+    "@id": "/.well-known/genid/bf4d38e8b8cb239c7c99",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/JPG/fr_FR/d67d0c9874e6ad90cc4531f0676a8fb0.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -148,10 +147,12 @@
   "elements": {
     "MAIN_COST": "4",
     "RECALL_COST": "2",
-    "MAIN_EFFECT": "[Rafraîchissement]. (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Piochez une carte, puis créez un jeton [Graine de Mana] dans vos Repères. (C'est un Permanent avec « {T}, Sacrifiez-moi : redressez un Orbe de Mana. »)"
+    "MAIN_EFFECT": "[Rafraîchissement]. (Si je vais en Réserve une fois mon effet résolu, épuisez-moi {T}.)  Piochez une carte, puis créez un jeton [Graine de Mana] dans vos Repères. (C'est un Permanent avec « {T}, Sacrifiez-moi : redressez un Orbe de Mana. »)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-014-C-FR"
 }

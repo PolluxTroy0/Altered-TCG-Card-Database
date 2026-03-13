@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERCB_P_AX_91_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/31EV8C1QRG8H9A6QQRVKNPBS93",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA29VGXGRQ9DP6TJXRKVK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA29VGXGRQ9DP6TJXRKVK",
+          "text": "« Sap Cola ! Pepsap ! Garanti sans sucre ! »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2A7D4CHD9NS2ESARR6V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA2A7D4CHD9NS2ESARR6V",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2A0KRKPG5H3QMKNZ70G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2A0KRKPG5H3QMKNZ70G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA29EPVQYVTG7QJ5TEZNW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA29EPVQYVTG7QJ5TEZNW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA29P9KZTNFJBAY0AN02C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA29P9KZTNFJBAY0AN02C",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "31EV8C1QRG8H9A6QQRVKNPBS93",
+      "reference": "ALT_DUSTERCB_P_AX_91_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/96190d0dd1d4e3061b70",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/159249f962ed2e024cd2",
+      "reference": "MERCHANT",
+      "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
+      "name": "Marchand"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERCB",
+    "@type": "CardSet",
+    "id": "01K60PWBQRTWXF3M650SKAQEBE",
+    "reference": "DUSTERCB",
+    "name": "Les Graines de l'Unité - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8c5e44fca63ae4102149",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_91/JPG/fr_FR/6d77d3474f929bb00defaf1abea190a8.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_AX_91_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERCB_P_AX_91_C",
+  "id": "01K60PWCXFZNDRJ89JGDGKWEKZ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_91/JPG/fr_FR/6d77d3474f929bb00defaf1abea190a8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_AX_91/JPG/en_US/5359756096c93bfbf59d0d813f1cb8f6.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Distribubot",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} [Ravitaillez Épuisé]. (Mettez la première carte de votre deck en Réserve, puis épuisez-la {T}. Une carte épuisée ne peut pas être jouée et n'a pas de capacité de Soutien.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERCB_P_AX_91_C-FR"
+}

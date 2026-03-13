@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_YZ_41_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3V2TZ209SW9TG8C7J3VXWEJ6QG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJBWS67171TC2M0FX15F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJBWS67171TC2M0FX15F",
+          "text": "Durante sus escasas horas de vida, las polillas revolotean portando la idea misma de su existencia."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJCBMYQXTAB2XR8V2VAX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJCBMYQXTAB2XR8V2VAX",
+          "text": "They swirl around me in silent flight. Even the fluttering of their wings makes no noise at all. It's as if they are there without really being there, diffusing Mana into the air like a censer spreading its incense. Have any of the Muna figured out these moths' role in the ecosystem? Could they be involved in dispersing substance into the world, to strengthen the Oasis? All I can say from my perspective is that their dance is an enchanting, almost hypnotic spectacle. But there's one thing I've noticed: The presence of Mana moths often means that Belisenki are nearby. They appear like portents, as though warning us to make a detour or even turn back right away. I've even seen intrepid Bravos explorers hesitate to move forward after coming across a clearing full of moths. But they don't scare me one bit.\n\nMaybe common sense should tell me to fear them more, but I can't help being fascinated by their ephemeral existence, the incredibly short lives that they live without complaint. It must be because, for me, they symbolize something more than advance warning of an attack. I've observed them at length during each of my visits to Saskia's little shack. For me, their presence recalls the scent of chamomile, the warmth of a fire crackling in the hearth, and the silhouette of the Muna studying these little creatures just a few feet away from me. Just at the sight of them, I'm irresistibly drawn back to those memories like a magnet. I slowly raise my hand and let a drop of Mana form in my palm. A moth lands alongside it and unfurls its proboscis to sip at the liquid. Drink, little one. This nectar will add a few precious minutes to your life."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJC4GAFC98X87943824H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJC4GAFC98X87943824H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJBA7CD536PENTDCVRDT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMJBA7CD536PENTDCVRDT",
+          "text": "AKESHA"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJBPZ650FFRT43JTYZ4F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJBPZ650FFRT43JTYZ4F",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "3V2TZ209SW9TG8C7J3VXWEJ6QG",
+      "reference": "ALT_DUSTERTOP_P_YZ_41_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5bd38ecfa9e0ee747327",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maniobra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/626d5fa2b399e835988a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/es_ES/84f799fab09df5b3b7a8acd69a1f6e5a.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_41_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_YZ_41_C",
+  "id": "01K57206GBXXNGRAJW665K3JW0",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/fr_FR/e867c0165202bf9acfbd1b47d4a44898.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/en_US/8b364777ac743be95a31564853145bd4.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/it_IT/bda68ea8015f5d8976028491d90cd17b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/es_ES/84f799fab09df5b3b7a8acd69a1f6e5a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/de_DE/27feb311aca26ff3a6f8293017ebe669.jpg"
+  },
+  "name": "Como polillas a la llama",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "[Recuperación]. (Si voy a la reserva después de que se resuelva mi efecto, agótame {T}. Las cartas agotadas no se pueden jugar y no tienen habilidades de apoyo.)  Crea una ficha de ilusión [Polilla de maná 2/2/2] en una expedición objetivo."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_YZ_41_C-ES"
+}

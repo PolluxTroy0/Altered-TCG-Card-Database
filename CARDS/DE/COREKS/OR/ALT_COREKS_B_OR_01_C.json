@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "01HPMB798K65WM7959B7Z2RJ3K",
       "reference": "ALT_COREKS_B_OR_01_C"
@@ -102,23 +101,26 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/384d1527452873f61381",
+    "@id": "/.well-known/genid/bd0b703da9284e882f8c",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/de_DE/549155334348a8651af011a360d61e4e.jpg",
   "assets": {
-    "WEB": [
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
-    ],
     "HERO_THUMB": [
       "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_THUMB_2b3966dee10b73e5c94df30cdc327dc7"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_WIDE_57ea11e069a699df24955688f1247b29"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
     ]
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_01_C",
+  "isOwnerless": false,
   "reference": "ALT_COREKS_B_OR_01_C",
   "id": "01HN5TXRECS54E3E8D2NTGS3NQ",
   "mainFaction": {
@@ -130,11 +132,11 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/de_DE/549155334348a8651af011a360d61e4e.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/ab63f4a6e5448bb78d07a358c8324a4d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/en_US/4a86176d6fa352254a123692cb56cc6b.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/it_IT/ab55f6208aeb7a7e6e84bddf05cef94c.jpg",
     "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/es_ES/2b73e947498e6e2ba71fd03f799e2761.jpg",
-    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/ab63f4a6e5448bb78d07a358c8324a4d.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/en_US/4a86176d6fa352254a123692cb56cc6b.jpg"
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/de_DE/549155334348a8651af011a360d61e4e.jpg"
   },
   "name": "Sigismar & Spannweit",
   "elements": {
@@ -142,10 +144,12 @@
     "RECALL_COST": "0",
     "PERMANENT": "2",
     "RESERVE": "2",
-    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition."
+    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in deiner Helden-Expedition.  Ignoriere meine Fähigkeit am ersten Tag."
   },
   "isSuspended": false,
-  "isErrated": false,
+  "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "BTG-121-H-DE"
 }

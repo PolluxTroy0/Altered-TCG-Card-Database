@@ -1,0 +1,145 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_A_BR_105_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6RDJHWQGG386KTA7K2YWBXBEVY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KG2J8945A4C9DDDXCXYDSZRX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KG2J8945A4C9DDDXCXYDSZRX",
+          "text": "Non cederò mai alla paura!"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J89792G5J592G7S6KC9P5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KG2J89792G5J592G7S6KC9P5",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J894ZBRZ0927MC16KXWCN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KG2J894ZBRZ0927MC16KXWCN",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8914XN41M9K670WJZYW6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KG2J8914XN41M9K670WJZYW6",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8920PR865D52SRCSHF9N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KG2J8920PR865D52SRCSHF9N",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "6RDJHWQGG386KTA7K2YWBXBEVY",
+      "reference": "ALT_EOLE_A_BR_105_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Eroe"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7bf5832ad8e62e80aeda",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_105/JPG/it_IT/4d8a81b13a15a876c0328f6ee909199d.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_BR_105_C",
+  "isOwnerless": false,
+  "reference": "ALT_EOLE_A_BR_105_C",
+  "id": "01KFRQ5ZCTJ7K4MRK3ACBZVQTE",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_105/JPG/fr_FR/2c780412e0a62ccf8c134b53439af46a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_105/JPG/en_US/0ca36118cbae3dfb21b1d4be7ede1f5f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_105/JPG/it_IT/4d8a81b13a15a876c0328f6ee909199d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_105/JPG/es_ES/614cb7a0a89cb608bace71b3bee59dc1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_105/JPG/de_DE/00314a79460cf2b7eef2a52b28b54f6c.jpg"
+  },
+  "name": "Gretel e Ruggine",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "3",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "A mezzogiorno — Se controlli una Prodezza, crea una pedina [Ruggine 0/0/0] nella spedizione del tuo compagno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_A_BR_105_C-IT"
+}

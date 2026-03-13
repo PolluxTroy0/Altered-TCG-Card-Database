@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/2NPHJ01N769F4SSGS18BFNYJM0",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3F1PWDRJWY6DCKVKZ7W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3F1PWDRJWY6DCKVKZ7W",
+          "text": "„Ich bin sicher, das Musubi-Ritual wird uns helfen, eure Weltsicht zu verstehen.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3FGWY9WN2SMCC2549G2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA3FGWY9WN2SMCC2549G2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3F8Q4V5CQPH7Y90FFK0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3F8Q4V5CQPH7Y90FFK0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3EJX6YQQ3Y5KQXRVQE0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA3EJX6YQQ3Y5KQXRVQE0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3ETK13VR7E6RX18KX9B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA3ETK13VR7E6RX18KX9B",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/da415ec3df72fd5e7f8a",
+      "@id": "/.well-known/genid/9e038cf7c38c516a73f9",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bürokrat"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/967dba31563a88e2543f",
+      "@id": "/.well-known/genid/2bd1f68550d12af81b4d",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Adliger"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/e8553e456912d837700b",
+    "@id": "/.well-known/genid/452613e64f571bdfe8cd",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_97/JPG/en_US/be2456e2a5a3e7a55f5d17dd787300b6.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -90,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "ALT_DUSTERCB_P_OR_97_E-DE"
 }

@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7e7a7adccb4948bae3e9",
+      "@id": "/.well-known/genid/026bede7d5bcc4ece751",
       "reference": "SITE",
       "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
       "name": "Lieu"
@@ -109,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/3d7979e54798cb32a123",
+    "@id": "/.well-known/genid/26b1c8b7f97c6b29177f",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_100/JPG/fr_FR/891404fd418f0812992bef81e5e3117c.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -141,10 +140,12 @@
   "elements": {
     "MAIN_COST": "#3#",
     "RECALL_COST": "#3#",
-    "MAIN_EFFECT": "#{J} Épuisez-moi.#  {T} : Mettez une carte de votre main en Réserve, #puis épuisez-la ({T}).# Si vous le faites, piochez une carte."
+    "MAIN_EFFECT": "#{J} Épuisez-moi.#  #{J} Épuisez-moi.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-017-F-FR"
 }

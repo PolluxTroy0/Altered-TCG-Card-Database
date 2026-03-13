@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/fc4297bdef1c3c8c3f4d",
+      "@id": "/.well-known/genid/cd914daa63f3d9bc99fa",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bürokrat"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/26988f3e0f77a6ed0fe2",
+      "@id": "/.well-known/genid/9383863b422727166dd7",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Rebell"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/47900d03bdc8ce6b70bb",
+    "@id": "/.well-known/genid/fee10f64580fe5043f07",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/en_US/3a23dd046b7a97471753950f12c747fd.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -151,10 +150,12 @@
     "OCEAN_POWER": "0",
     "FOREST_POWER": "3",
     "MOUNTAIN_POWER": "3",
-    "MAIN_EFFECT": "Zum Abend — Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich.  #Wenn ich die Expeditionszone verlasse — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in meiner Expedition.#"
+    "MAIN_EFFECT": "Zum Abend — Erschaffe eine [Manasaaten]-Marke in deinem Wahrzeichen-Bereich. (Sie ist eine Bleibende Karte mit „{T}, Opfere mich: Stelle eine Manakugel bereit.“)  #Wenn ich die Expeditionszone verlasse — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in meiner Expedition.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-080-R-DE"
 }

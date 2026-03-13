@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/1G1YRQA22V9HKVXC3JJNZQ4WWT",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2JER3GENDY1YQSRXZ05",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2JER3GENDY1YQSRXZ05",
+          "text": "„Ich zeige dir, wie es ohne Netz geht!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2JR951YDE2971WTDPC0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2JR951YDE2971WTDPC0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2JKRC23DQ353B7PJ4VM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2JKRC23DQ353B7PJ4VM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2J26JN8QPBTM6536KHC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2J26JN8QPBTM6536KHC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2J8J0J5V7TH109CPSJ1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2J8J0J5V7TH109CPSJ1",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/ebfad9525e75cdf34a33",
+      "@id": "/.well-known/genid/12783b33b00dd738aa62",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Adliger"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/4026ac565bfa96d32407",
+    "@id": "/.well-known/genid/41a7d1991adaa3ea21cb",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_98/JPG/en_US/4e5bf6a11ea691bcf2253801a97e1e8c.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -83,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "ALT_DUSTERCB_P_BR_98_E-DE"
 }

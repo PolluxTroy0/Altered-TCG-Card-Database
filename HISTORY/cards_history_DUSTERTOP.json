@@ -7,12 +7,12 @@
       "cardHistories": "CardHistoryData/cardHistories"
     },
     "@type": "CardHistoryData",
-    "@id": "/.well-known/genid/2cb0511491d8b395f06e",
+    "@id": "/.well-known/genid/dfbeb11ee5ad9a9245de",
     "news": {
       "@type": "CardHistory",
-      "@id": "/.well-known/genid/f820c99b0f9131d859d9",
+      "@id": "/.well-known/genid/f39bc75c679ff954037b",
       "id": "48",
-      "fromDate": "2024-09-06T12:56:38+00:00",
+      "fromDate": "2024-09-06T14:08:17+00:00",
       "type": "FUNCTIONAL_ERRATUM",
       "name": "Erratum of Mighty Jinn (Common and Rare)",
       "description": " ",
@@ -22,9 +22,9 @@
     "cardHistories": [
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/586edb2fa91ca42704e0",
-        "id": "51",
-        "fromDate": "2025-02-18T12:56:38+00:00",
+        "@id": "/.well-known/genid/cf06b4e4b96ed61bed3b",
+        "id": "52",
+        "fromDate": "2025-02-18T14:08:17+00:00",
         "type": "RULING",
         "name": "Unique Mighty Jinn sent to hidden zone",
         "description": "https://www.altered.gg/en-us/the-game/how-to-play",
@@ -33,9 +33,9 @@
       },
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/8518b30d626438727b83",
-        "id": "47",
-        "fromDate": "2024-09-15T12:56:38+00:00",
+        "@id": "/.well-known/genid/6e152892d3c340b45120",
+        "id": "51",
+        "fromDate": "2024-09-15T14:08:17+00:00",
         "type": "RULING",
         "name": "Draw a card if you don't activate its effect",
         "answer": "Yes!  You may choose not to use Mighty Jinn's ability and therefore draw the card (it will still go to your Mana Zone because of Mana Reaping).",
@@ -43,9 +43,9 @@
       },
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/f820c99b0f9131d859d9",
+        "@id": "/.well-known/genid/f39bc75c679ff954037b",
         "id": "48",
-        "fromDate": "2024-09-06T12:56:38+00:00",
+        "fromDate": "2024-09-06T14:08:17+00:00",
         "type": "FUNCTIONAL_ERRATUM",
         "name": "Erratum of Mighty Jinn (Common and Rare)",
         "description": " ",
@@ -54,9 +54,9 @@
       },
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/12818299d92f9b65ad3b",
+        "@id": "/.well-known/genid/944db7e928bc1d7c267d",
         "id": "49",
-        "fromDate": "2024-09-06T12:56:38+00:00",
+        "fromDate": "2024-09-06T14:08:17+00:00",
         "type": "RULING",
         "name": "Leave the Expedition zone",
         "answer": "The controller of Mighty Jinn still has the option of sending it to its owner's Mana zone instead.",
@@ -64,13 +64,57 @@
       },
       {
         "@type": "CardHistory",
-        "@id": "/.well-known/genid/b1d2804f88b040f336aa",
+        "@id": "/.well-known/genid/410cd9491b9e7aa053c0",
         "id": "50",
-        "fromDate": "2024-09-06T12:56:38+00:00",
+        "fromDate": "2024-09-06T14:08:17+00:00",
         "type": "FUNCTIONAL_ERRATUM",
         "name": "Replacement effect instead of reaction",
         "answer": "The first printing of Common Mighty Jinn said \"When I leave the Expedition zone — You may put me in my owner's Mana zone (as an exhausted Mana Orb).\"\n\nfuture printings will say:\n\"If I would leave the Expedition zone, you may put me in my owner's Mana zone instead (as an exhausted Mana Orb).\"  This change doesn't affect Unique Mighty Jinn.",
         "question": "Did the wording of this card change?"
+      }
+    ]
+  },
+  "ALT_DUSTERTOP_P_BR_30_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/9be88e95eead4804d299",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/9d2036875d8a8edc450e",
+      "id": "68",
+      "fromDate": "2025-03-21T14:08:17+00:00",
+      "type": "BALANCING_ERRATUM",
+      "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+      "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+      "answer": "No. However, the [Axiom version] of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+      "question": "Did the effect of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/309fc2e67aa937913d53",
+        "id": "70",
+        "fromDate": "2025-10-24T14:08:17+00:00",
+        "type": "RULING",
+        "name": "Your Characters means the cards you own",
+        "answer": "Your Characters mean the Characters you own (regardless of whether they are in Reserve, discard pile, your Expeditions, hand, or even your opponent's Expeditions). For example, if an opponent plays a Character from your Reserve while you have the (Bravos version of) Haven, Bravos Bastion in your Landmarks, that Character will gain a boost.",
+        "question": "What does \"your Characters\" mean?"
+      },
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/9d2036875d8a8edc450e",
+        "id": "68",
+        "fromDate": "2025-03-21T14:08:17+00:00",
+        "type": "BALANCING_ERRATUM",
+        "name": "Erratum of Haven, Bravos Bastion (Rare, Axiom version)",
+        "description": "https://www.altered.gg/fr-fr/news/trial-by-frost-mid-season-patch-introducing-the-watchlist",
+        "answer": "No. However, the [Axiom version] of Haven, Bravos Bastion has been unsuspended and errated with a new text as a result of a balance patch.",
+        "question": "Did the effect of this card change?"
       }
     ]
   }

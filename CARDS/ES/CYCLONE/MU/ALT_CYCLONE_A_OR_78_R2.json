@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_OR_78_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1Q2250J2MQ9X8TWHQ4XQ02QF24",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVMDTZWR9RJ0G93N0GWH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVMDTZWR9RJ0G93N0GWH",
+          "text": "Unión, conectada a los espíritus."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVMWGDPWZ5Z0KD50YPKJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBVMWGDPWZ5Z0KD50YPKJ",
+          "text": "393 AC - \"United in the throng. This is the ultimate meaning of the Gestalt. It is the fruit of a harmonious, shared, immediate and permanent collaboration. Coalescence is the surrendering of individuality in favor of a coming together of multiple spirits. United, bare in thought. United, bare in emotion. United, staunch in fellowship. United, staunch in our virtues. The Gestalt breaks down distance, borders, physical obstacles and the limitations of the self. The Rhombus that marks our flesh is proof of our commitment, proof that we offer up our individuality to the greater good of the community. There is no stronger vow. Our affiliation is one of total devotion and self-sacrifice. When others become part of yourself, the idea of justice is obvious. When others become part of yourself, we can move mountains.\"\r\n\r\nI listen to the officiant as he faces the… congregation. I feel their communion in the melting pot of their shared mind, as their thoughts begin to resonate. There are a few soldiers, clerics, politicians, scribes, scholars and many other identities among them. I move through them like an undetectable wave. I can't help thinking of the entity of the City of Scholars, the one that ultimately strived for a union similar to the Gestalt. It was the city, and it wanted everyone to live in harmony. In it. Within it. I don't think anyone perceived that side of it. Its appetite wasn't driven by an instinct for destruction – quite the opposite, in fact. It was driven by a desire for unity, however flawed that desire was.\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVMM1CTHKJ99WHT88Y6Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVMM1CTHKJ99WHT88Y6Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVKYDFKQ59VTCJBPP24D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBVKYDFKQ59VTCJBPP24D",
+          "text": "UNKNOWN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVM61Y8N9DD5Z4PBQZ3Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVM61Y8N9DD5Z4PBQZ3Q",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "1Q2250J2MQ9X8TWHQ4XQ02QF24",
+      "reference": "ALT_CYCLONE_A_OR_78_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/641408bfe940a4c43820",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/503209b4fecca7ce4cd3",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/es_ES/639ef9a09969b04c80e4b76bb65dcc3c.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_OR_78_R2",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_OR_78_R2",
+  "id": "28AQCWP98H9BNR25KFMAEQ576C",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/fr_FR/ed8ab296d75a2b8cfcfd45607344527a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/en_US/5c2b945794449b07fe1d0a9619011600.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/it_IT/4f194d23e601ce2a9f2ad2b9dfd7bf06.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/es_ES/639ef9a09969b04c80e4b76bb65dcc3c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_OR_78/JPG/de_DE/94ace0c1faf1aa7aeff0a1d1b7f15da9.jpg"
+  },
+  "name": "Sello de Ordis",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[[Fugacidad]].#  Elige #dos opciones:#  • Un personaje objetivo gana [[Sueño]].  • Un personaje objetivo en una expedición o en reserva pierde todos sus potenciadores.  • Cada personaje en la expedición objetivo gana 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_OR_78_R2-ES"
+}

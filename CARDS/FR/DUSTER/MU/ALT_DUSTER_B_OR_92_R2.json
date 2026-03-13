@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/ff37aee5b55d36f6b9a1",
+      "@id": "/.well-known/genid/f899d088ac662a85ac6c",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bureaucrate"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/4a7865beadb6c1109f62",
+      "@id": "/.well-known/genid/f6293e904f60d02538cf",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Gredin"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/838709049ad3953abf7a",
+    "@id": "/.well-known/genid/d72ad4f9c43bcc6392ba",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/fr_FR/6b0958b1b37aa6a70b2afb99fdccf2db.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -151,10 +150,12 @@
     "OCEAN_POWER": "0",
     "FOREST_POWER": "3",
     "MOUNTAIN_POWER": "3",
-    "MAIN_EFFECT": "Au Crépuscule — Créez un jeton [Graine de Mana] dans vos Repères.  #Lorsque je quitte la zone d'Expédition — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.#"
+    "MAIN_EFFECT": "Au Crépuscule — Créez un jeton [Graine de Mana] dans vos Repères. (C'est un Permanent avec « {T}, Sacrifiez-moi : redressez un Orbe de Mana. »)  #Lorsque je quitte la zone d'Expédition — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-080-F-FR"
 }

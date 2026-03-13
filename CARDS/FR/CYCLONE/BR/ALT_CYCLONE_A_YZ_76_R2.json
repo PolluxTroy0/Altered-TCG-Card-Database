@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_YZ_76_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0B9DBJ1K8K8F0BRGF394EN3G7X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVQ51W9GP7TJ1SEPB30S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVQ51W9GP7TJ1SEPB30S",
+          "text": "Le mystère, enfoui dans l'âme."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVQMA9BBCV4DBB00023C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JNRGBVQMA9BBCV4DBB00023C",
+          "text": "393 AC - La vérité. C'est elle que tout Yzmir se doit de rechercher. La vérité derrière les voiles épais des mensonges et des faux-semblants. La puissance. C'est par elle que cette vérité se doit d'être domptée. Car seule la puissance permet d'y faire face. L'abnégation, enfin. Car tous n'ont pas la force de se confronter au vrai visage du monde. Par l'abnégation, les Yzmir s'exposent à la folie, pour que les autres puissent vivre dans la béatitude de l'ignorance. Le savoir est une épée à double tranchant : le pouvoir qui en résulte exige des sacrifices. Peu sont ceux qui continuent de garder espoir tout en regardant la vérité du monde droit dans les yeux. Peu parviennent à faire de leur esprit une forteresse capable de tenir face à la houle des révélations.\r\n\r\nC'est cela, être Yzmir. Nous sommes des vigies anonymes qui bravons la tempête. Et parmi les Yzmir, le Qorgan sera toujours au premier rang, l'œil toujours tourné vers le précipice. Jamais nous ne récolterons les honneurs. Toujours, nous agirons dans l'ombre. L'ennemi est sur tous les fronts, et parfois même, il est à l'intérieur de nous. C'est pourquoi nous devons garder l'esprit clair, et regarder avec attention et lucidité. Comprends-tu ce qui est attendu de nous ? Le zèle, l'inflexibilité, l'impartialité, le renoncement. C'est là notre lot, maintenant et à jamais. Il n'y aura nul éloge, nulle récompense, nulle distinction. Notre seule gratification viendra de la certitude de nous battre pour une cause qui nous dépasse tous, et qui mérite notre dévouement total.\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVQCN6Z8RJ4XSHGAM208",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVQCN6Z8RJ4XSHGAM208",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVPNZ39P7AV3FS9AQXNA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JNRGBVPNZ39P7AV3FS9AQXNA",
+          "text": "INCONNU"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVPX9847MTPHYT4AYAW7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVPX9847MTPHYT4AYAW7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "0B9DBJ1K8K8F0BRGF394EN3G7X",
+      "reference": "ALT_CYCLONE_A_YZ_76_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/378b152cbd719d7d3ae6",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuration"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Odyssée des cieux"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f3cb5f139c987dd5e245",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/fr_FR/c305ef3c9fc414da46d57fede9a0e859.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_76_R2",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_YZ_76_R2",
+  "id": "2QYZY8ZB0G963AQT45J11JYG1S",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/fr_FR/c305ef3c9fc414da46d57fede9a0e859.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/c193849ae5e547a4db67cac629d4cbae.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/it_IT/20644d5cf20a1cbae545ffe59b5adda1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/es_ES/8da73c8171c8aa1b99cc1f289b86ad70.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/de_DE/6dc9444d6b1d37a0e46fcc1d4983dedc.jpg"
+  },
+  "name": "Sceau Yzmir",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[[Fugace]].#  Choisissez #deux :#  • Envoyez en Réserve un Personnage ciblé de Coût de Main {2} ou moins.  • [Sabotez].  • Piochez une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_YZ_76_R2-FR"
+}

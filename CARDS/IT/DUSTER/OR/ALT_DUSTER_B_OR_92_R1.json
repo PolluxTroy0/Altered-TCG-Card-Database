@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b51fc23b86bf3c34d5fa",
+      "@id": "/.well-known/genid/e6727e0140a23b4d878b",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Burocrate"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/5de6e288aeb7979cde37",
+      "@id": "/.well-known/genid/c3fbf7b2c3235f1ffb3f",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Ribelle"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/c1ada80750524d101ccb",
+    "@id": "/.well-known/genid/a5835b63aff4f3cac01d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/en_US/3a23dd046b7a97471753950f12c747fd.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -151,10 +150,12 @@
     "OCEAN_POWER": "0",
     "FOREST_POWER": "3",
     "MOUNTAIN_POWER": "3",
-    "MAIN_EFFECT": "Al crepuscolo — Crea una pedina [Seme di Mana] nei tuoi fulcri.  #Quando lascio l'area delle spedizioni — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella mia spedizione.#"
+    "MAIN_EFFECT": "Al crepuscolo — Crea una pedina [Seme di Mana] nei tuoi fulcri. (È un permanente con \"{T}, sacrificami: ripristina una sfera di mana\".)  #Quando lascio l'area delle spedizioni — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella mia spedizione.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-080-R-IT"
 }

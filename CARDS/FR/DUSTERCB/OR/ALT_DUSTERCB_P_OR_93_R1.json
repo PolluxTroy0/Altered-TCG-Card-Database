@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/0ZDQF8R8BJ9WD96ZCR26AAZMM4",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3DBZDH6VM4DWM9EY2D1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3DBZDH6VM4DWM9EY2D1",
+          "text": "« Derrière les sourires et la liesse, je sens une tension qui grandit... »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3E5F7D3VCJBBN0YPKAK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA3E5F7D3VCJBBN0YPKAK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3DXHGXQ2QVVA3KM93ZQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3DXHGXQ2QVVA3KM93ZQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3CWDYPSQPGJ2NKMJ1A6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA3CWDYPSQPGJ2NKMJ1A6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3D4N7AAQHDRJ9NZ6YCJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA3D4N7AAQHDRJ9NZ6YCJ",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/2a95ca920e5869fdb902",
+      "@id": "/.well-known/genid/a601da6bc89eeca939b1",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldat"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/822b81f68be776f4bc43",
+    "@id": "/.well-known/genid/d54aaf9ea9bbf09a64d7",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_93/JPG/fr_FR/00b8e12a193613d16c514f8d14844c58.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -83,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-020-R-FR"
 }

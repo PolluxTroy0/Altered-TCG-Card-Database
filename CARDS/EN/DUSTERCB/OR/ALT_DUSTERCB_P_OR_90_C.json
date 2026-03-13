@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/1ZK9MBWS1793MSEFGP3H8PH6YX",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3A6RM0DVTM4CZGG1ET0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3A6RM0DVTM4CZGG1ET0",
+          "text": "\"The more I visit this city, the more I love it.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3AVHCP8E9C07JDC6D57",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA3AVHCP8E9C07JDC6D57",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3ACXJRPYSKJXXKKY195",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3ACXJRPYSKJXXKKY195",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA39Q3YA5V05317JCJ8HZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA39Q3YA5V05317JCJ8HZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA39Z90WES4SGDXSQ7KT6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA39Z90WES4SGDXSQ7KT6",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/96c4fdcfc25131f0fcce",
+      "@id": "/.well-known/genid/c5bba61bc4cd602a350d",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Citizen"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/988194984cd651205f9b",
+      "@id": "/.well-known/genid/a87f7fd496a04460505e",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldier"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/b7cb656ecf47195b5e68",
+    "@id": "/.well-known/genid/fb85e4d4788955abfeab",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/en_US/31c3bf424ef266491ed955eabf7ec7bb.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -90,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-017-C-EN"
 }

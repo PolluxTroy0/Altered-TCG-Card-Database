@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/05R4RFG98Y9GCSAQEQT3M7HKWF",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2Q5EQKFQFH5QYDAQ2K9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2Q5EQKFQFH5QYDAQ2K9",
+          "text": "\"I can get in anywhere, VIP list or not.\""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2QK47A5HKY2WAWMT35N",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2QK47A5HKY2WAWMT35N",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2QCGJXNM3QZZSHXCHQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2QCGJXNM3QZZSHXCHQS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2PRTHPFRYPXEVHYWPMN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2PRTHPFRYPXEVHYWPMN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2PY86MHFN75GPTE8P7B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2PY86MHFN75GPTE8P7B",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/5c7bb962b869bdd42982",
+      "@id": "/.well-known/genid/6e1d4044ed485b64af4c",
       "reference": "MAGE",
       "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
       "name": "Mage"
@@ -43,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/0b26a3b9eecf71ee5bc9",
+    "@id": "/.well-known/genid/7591225086fbe28d5855",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/en_US/a49b591674731d708b0c06d5af52db0b.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -84,5 +149,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-011-R-EN"
 }

@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/afa99413b0c120f609a7",
+      "@id": "/.well-known/genid/0b371ac050fa27f828f1",
       "reference": "SITE",
       "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
       "name": "Sito"
@@ -109,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/9adbef1ea481181e84cd",
+    "@id": "/.well-known/genid/f3c2ea7912154b13e087",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_100/JPG/en_US/492f07d059aad9a5aab998093195f158.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -141,10 +140,12 @@
   "elements": {
     "MAIN_COST": "#3#",
     "RECALL_COST": "#3#",
-    "MAIN_EFFECT": "#{J} Consumami.#  {T}: metti una carta dalla tua mano nella Riserva, #poi consumala ({T}).# Se lo fai, pesca una carta."
+    "MAIN_EFFECT": "#{J} Consumami.#  #{J} Consumami.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-017-R-IT"
 }

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTER_A_LY_65_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6J0FBN6ZEH9DFVDHGQQBAQSMGZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHC9BT6YECHYTR8CMKHA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JZ37ZHC9BT6YECHYTR8CMKHA",
+          "text": "« Je me suis inspiré de Klimt. J'espère que ça va vous plaire... »"
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHCQS730AE68VZKQJBW2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01JZ37ZHCQS730AE68VZKQJBW2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHCFQSXAH0ZYEDYTKBZN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JZ37ZHCFQSXAH0ZYEDYTKBZN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHBTZN225HQ2TVYHF9QR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01JZ37ZHBTZN225HQ2TVYHF9QR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JZ37ZHC1ZDJ93EJ9XSZENNMP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JZ37ZHC1ZDJ93EJ9XSZENNMP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "6J0FBN6ZEH9DFVDHGQQBAQSMGZ",
+      "reference": "ALT_DUSTER_A_LY_65_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/DUSTER",
+    "@type": "CardSet",
+    "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+    "reference": "DUSTER",
+    "name": "Les Graines de l'Unité"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2998175193aaa428a073",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_LY_65/JPG/fr_FR/8b94e83bbe39b9cb2cb2ff9617c45e8e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/WEB_5f6b560d2dfed64acffea67682a8070b"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/HERO_WIDE_42ded0e34c09158f41c2a97e4beb3f73"
+    ],
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_B_LY_65/HERO_THUMB_e9323511ad4a9089ec82a0da00cb5858"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_LY_65_C",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTER_A_LY_65_C",
+  "id": "01JZ311VXRMV5XKZ3WKYCW234W",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_LY_65/JPG/fr_FR/8b94e83bbe39b9cb2cb2ff9617c45e8e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_LY_65/JPG/en_US/18490ce85cfac3381ac7586d56d7d023.jpg",
+    "it-it": "",
+    "es-es": "",
+    "de-de": ""
+  },
+  "name": "Nadir & Bubbles",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "",
+    "RESERVE": "",
+    "MAIN_EFFECT": "Je commence la partie avec un marqueur Terrain {V}, un {M} et un {O}.  À Midi — Vous pouvez placer l'un de mes marqueurs sur une région visible ciblée. (Elle gagne le terrain du marqueur et perd ses autres terrains jusqu'à ce que ce marqueur soit retiré.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTER_A_LY_65_C-FR"
+}

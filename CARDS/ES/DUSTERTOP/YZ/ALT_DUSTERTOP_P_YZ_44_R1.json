@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_YZ_44_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7D8647CQWC939TB1DT75ZG836G",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMJEB8VWC7S0667CNXR4P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMJEB8VWC7S0667CNXR4P",
+          "text": "A su luz, las cosas cambian y se tornan ilusiones."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJEN5EVGMFMR0H90EFFW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMJEN5EVGMFMR0H90EFFW",
+          "text": "You can't see your hand in front of your face, say the humans accompanying us. There's no denying the facts: Breaking the spelunker's lamp in the midst of exploring a cave was not the best option. We've been groping our way along for some time now, and the rocky outcrops are becoming more and more dangerous, asymmetrical, jagged and sharp. The members of the expedition have cuts and bruises all over their hands and knees. It's impossible to clearly see what kinds of traps await us in this hole. I suggest to Lindiwe that she come up with an enlightening solution. She stops, reflects and searches through her pockets for an object: a bulb of translucent leaded glass with a small chain at one end. It's a perfectly ordinary item with multiple uses: a container for samples, a vial to be opened or smashed on the ground in an emergency… But at the moment, it is empty. The Alterer unscrews its metal top and slips in her Aether shard, as I instruct her.\n\nShe blows softly into the bulb, producing a shimmering mist, then replaces the cover with a quick twist of her hand. The Mana inside the tube makes the jewel rattle. And all of a sudden, a swarm of luminous moths appear, swirling around the bulb, which turns into a makeshift lamp through the mere presence of these fluttering, glowing creatures. Light is finally restored to the cave, revealing the nature of the path ahead. The sight before us is truly magical to behold, and I grant Lindiwe the pleasure of sensing it. The rocky outcrops are in fact magnificent and impressive crystals, and their acute angles cast bright rays onto every surface in the cavern. The moths are flying around the bulb; now it's time to keep them there. Lindiwe concentrates, places her hands on the lantern glass, and with an abrupt movement driven by a fresh spike of Mana, imparts a twist to the bulb, which draws in and captures the moths. The Alterer smiles, mirroring my own satisfaction."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJEGCVD65V251RG526DA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMJEGCVD65V251RG526DA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJCVTXZPYDX8S4VV1AXC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMJCVTXZPYDX8S4VV1AXC",
+          "text": "MAW"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMJD2K8R96KZ2RTV8TAM5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMJD2K8R96KZ2RTV8TAM5",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZ2WM1WQ8ARN68RNGJZCB",
+        "reference": "EXPEDITION_PERMANENT",
+        "name": "EXPEDITION_PERMANENT"
+      },
+      "id": "7D8647CQWC939TB1DT75ZG836G",
+      "reference": "ALT_DUSTERTOP_P_YZ_44_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+    "@type": "CardType",
+    "reference": "EXPEDITION_PERMANENT",
+    "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+    "name": "Permanente de expedición"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/372eabc98bc50d9f551b",
+      "reference": "GEAR",
+      "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+      "name": "Accesorio"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3a6f8988cdd2b3757bfc",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/es_ES/717a8de8cb758f11a5a44f65574ce34c.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_44_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_YZ_44_R1",
+  "id": "01K57206GC4G687774TQ8RHDQ2",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/fr_FR/04fc976a0dcc7889db65fb42b3360720.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/en_US/932e5e5492e25eb027b96d5d5f1cda54.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/it_IT/10babcca71d2bf7b7a592be023eb1889.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/es_ES/717a8de8cb758f11a5a44f65574ce34c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/de_DE/0bc9587defbed4463c43b74418ccaeaf.jpg"
+  },
+  "name": "Farolilla",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "Cuando sacrifiques un personaje que no sea ilusión — Crea una ficha de ilusión [MANA_MOTH] en mi expedición.  {J} Sacrifica un personaje de mi expedición."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_YZ_44_R1-ES"
+}

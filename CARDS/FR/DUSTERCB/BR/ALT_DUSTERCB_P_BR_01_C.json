@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/3AEWFQJ1K48YHT639RFNNZKVY0",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2C039PN165956682CEA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2C039PN165956682CEA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2CCJB6ADK7VXCN9MJSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KJ5PA2CCJB6ADK7VXCN9MJSH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2C6JG50H2AT9A7433XZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2C6JG50H2AT9A7433XZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2BKVREQK8Q46QGFRDYZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KJ5PA2BKVREQK8Q46QGFRDYZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2BVK7R8EKVQMD85JAGV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2BVK7R8EKVQMD85JAGV",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "@type": "LoreEntryType",
@@ -35,12 +101,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7c924dfaacc0d64993ba",
+    "@id": "/.well-known/genid/025400dbc15ea34a9e4a",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_01/JPG/fr_FR/06a4ec2a3c6df1f54203fe7dc9798334.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -69,10 +134,12 @@
     "RECALL_COST": "0",
     "PERMANENT": "2",
     "RESERVE": "2",
-    "MAIN_EFFECT": "At Noon — If you are first player, create a [2/2/2 Booda] Companion token in your Companion Expedition."
+    "MAIN_EFFECT": "À Midi — Si vous êtes le premier joueur, créez un jeton Compagnon [2/2/2 Booda] dans votre Expédition Compagnon."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "[Code non trouvé]-FR"
 }

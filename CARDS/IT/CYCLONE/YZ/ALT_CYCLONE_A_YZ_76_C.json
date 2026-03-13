@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_YZ_76_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0B9DBJ1K8K8F0BRGF394EN3G7X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVQ51W9GP7TJ1SEPB30S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVQ51W9GP7TJ1SEPB30S",
+          "text": "Mistero, nascosto nell'anima."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVQMA9BBCV4DBB00023C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBVQMA9BBCV4DBB00023C",
+          "text": "393 AC - Truth. It's what every Yzmir is duty-bound to seek. The truth behind the thick veils of lies and false pretenses. Power. It's through power that truth must be harnessed, because only power allows us to confront it. Finally, selflessness. Because not everyone has the strength to confront the world's true face. Through selflessness, the Yzmir expose themselves to the chaos so that others may live in the bliss of ignorance. Knowledge is a double-edged sword, for the power that flows from it demands sacrifice. Few can continue to keep hope alive while staring the world's truth right in the eye. Few can make their mind a fortress, capable of standing firm against the flood of revelations.\r\n\r\nBut that's what it means to be Yzmir. We are anonymous sentries who brave the storm. And among the Yzmir, the Qorgan will always be at the forefront, always looking into the abyss. We will never take credit. We will always operate in the shadows. The enemy is on every front, and sometimes even within ourselves. That's why we must keep a clear mind and observe with concentration and clarity. Do you understand what is expected of us? Zeal, steadfastness, impartiality, renunciation. Such is our lot, now and forever. There will be no praise, no reward and no distinction. Our only gratification will come from the knowledge that we fight for a cause that is more important than all of us, and that deserves our total devotion.\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVQCN6Z8RJ4XSHGAM208",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVQCN6Z8RJ4XSHGAM208",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVPNZ39P7AV3FS9AQXNA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBVPNZ39P7AV3FS9AQXNA",
+          "text": "UNKNOWN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVPX9847MTPHYT4AYAW7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVPX9847MTPHYT4AYAW7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "0B9DBJ1K8K8F0BRGF394EN3G7X",
+      "reference": "ALT_CYCLONE_A_YZ_76_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a7d9fe498e6e4231d4af",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Evocazione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f2cc382e7693357ac5db",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/it_IT/7bfded7343e636b3038dad475bf17544.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_YZ_76_C",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_YZ_76_C",
+  "id": "76EBCSXFKE98RAAXB87TN0T68V",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/fr_FR/242acc3dda0199f18f1f1bc2edd380c8.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/en_US/ca201483af14112b140497fca3c7ae37.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/it_IT/7bfded7343e636b3038dad475bf17544.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/es_ES/90d00848b5d5c6bdfb98889e4f239619.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_YZ_76/JPG/de_DE/04654cae8aa89b6eb87c446a23cf731e.jpg"
+  },
+  "name": "Sigillo Yzmir",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Scegli uno:  • Manda nella Riserva un personaggio bersaglio con costo dalla mano pari o inferiore a {2}.  • [Sabota].  • Pesca una carta."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_YZ_76_C-IT"
+}

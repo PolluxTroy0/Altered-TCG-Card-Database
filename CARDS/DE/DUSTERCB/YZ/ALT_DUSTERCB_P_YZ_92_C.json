@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/4EECNV1D0B8HQTX21W0TBN3WQZ",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3RKF89BH0S4HSGTYHXD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA3RKF89BH0S4HSGTYHXD",
+          "text": "Die Kunst der Überraschung besteht darin, dort aufzutauchen, wo man am wenigsten erwartet wird."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3SQM17B2E8H30J5VASW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA3SQM17B2E8H30J5VASW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3SB1D13GMWRG07MQBB3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA3SB1D13GMWRG07MQBB3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3QRVJ34YZSTF4RPAR6A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA3QRVJ34YZSTF4RPAR6A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA3R6J2J7SGS1X92QMNAF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA3R6J2J7SGS1X92QMNAF",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8dae050d0d122a42e083",
+      "@id": "/.well-known/genid/f5e1b511319b23cd69f9",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldat"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a0b91ad8320c21e50aa3",
+      "@id": "/.well-known/genid/23a031abc410fa470024",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Rebell"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/98956e7cb0978d66dac9",
+    "@id": "/.well-known/genid/d453df46030c373e8cda",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/JPG/en_US/2845a489c7235597093975d944378585.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -85,10 +150,12 @@
     "OCEAN_POWER": "3",
     "FOREST_POWER": "3",
     "MOUNTAIN_POWER": "3",
-    "ECHO_EFFECT": "{D} : Zahle {1} weniger für den nächsten Zauber, den du in dieser Runde spielst, aber mindestens {1}."
+    "ECHO_EFFECT": "{D} : Zahle {1} weniger für den nächsten Zauber, den du in dieser Runde spielst, aber mindestens {1}. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-022-C-DE"
 }

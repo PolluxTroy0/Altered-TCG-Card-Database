@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/970ead4a38c0b2ed2a61",
+      "@id": "/.well-known/genid/e99e7561b4b653d237f5",
       "reference": "BOON",
       "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
       "name": "Bénédiction"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8cda8c73daa1a39046d0",
+      "@id": "/.well-known/genid/612b1aeba1058a872a3e",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manœuvre"
@@ -116,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/f56242c397a497ac52e6",
+    "@id": "/.well-known/genid/ac096c50d96528de37de",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/JPG/fr_FR/da8469abdaa836d28357306c6803446a.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -148,10 +147,12 @@
   "elements": {
     "MAIN_COST": "3",
     "RECALL_COST": "#2#",
-    "MAIN_EFFECT": "#[Rafraîchissement].# (Si je vais en Réserve après résolution de mon effet, épuisez-moi {T}.)  Répartissez 4 boosts parmi les Personnages ciblés de votre choix, en jeu ou en Réserve."
+    "MAIN_EFFECT": "#[Rafraîchissement].# (Si je vais en Réserve une fois mon effet résolu, épuisez-moi {T}.)  Répartissez 4 boosts parmi les Personnages ciblés de votre choix, en jeu ou en Réserve."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDU-069-R-FR"
 }

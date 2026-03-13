@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_CYCLONE_A_LY_78_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2KVVNCGG578JRR1W21WWE6ATDV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01JNRGBVF5A3YWAG20T9HAQCJF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01JNRGBVF5A3YWAG20T9HAQCJF",
+          "text": "Imaginación, sacada de los sueños."
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVFKEZAGPDKKK74ATNE9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01JNRGBVFKEZAGPDKKK74ATNE9",
+          "text": "\"He departs into the void and the chaos within;\r\nEntering the Tumult, he embraces its essence;\r\nHe delights in it, trusting it with every sense;\r\nHe absorbs the energy, into soul and onto skin;\r\n\r\nIn that instant, that moment, the transformation takes place;\r\nThe eager initiate now understands that his nature;\r\nFar from being fixed and unique, is just a signature;\r\nMany-faced and ever-changing, it constantly regenerates;\r\n\r\nHe accepts the burden of his intense transformation;\r\nThe sign of his Faction and the source of its might;\r\nFor all, he wants only to bring joy and to excite;\r\nFrom the magic he creates, art is its expression;\r\n\r\nReturning from this journey and into a new dimension;\r\nHe celebrates Ignescence, and the change it brings;\r\nAnd inspired by the power of all these feelings;\r\nFrom the Tumult reshaped, he becomes its champion.\"\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVFC93GQXSZN70M2C6VA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01JNRGBVFC93GQXSZN70M2C6VA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVEPAVHDKP970B2J8DRK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01JNRGBVEPAVHDKP970B2J8DRK",
+          "text": "UNKNOWN"
+        },
+        {
+          "@id": "/lore_entry_elements/01JNRGBVEYRJY9HVD14FADBP7J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01JNRGBVEYRJY9HVD14FADBP7J",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "2KVVNCGG578JRR1W21WWE6ATDV",
+      "reference": "ALT_CYCLONE_A_LY_78_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d647652c961290dc1b30",
+      "reference": "CONJURATION",
+      "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+      "name": "Conjuro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/CYCLONE",
+    "@type": "CardSet",
+    "id": "01JN9HN8N6WR959TS2XEJWWZ4P",
+    "reference": "CYCLONE",
+    "name": "Skybound Odyssey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a276d4b1d1b31acd8d4e",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/es_ES/e831e567a1c5d2d87662c914ddce7481.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_CYCLONE_A_LY_78_R1",
+  "isOwnerless": false,
+  "reference": "ALT_CYCLONE_A_LY_78_R1",
+  "id": "7FQV4ZS8C99VHT0PGK64M45TSN",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/fr_FR/d6052bae7c37edfcf077bc3b519c012b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/en_US/385bde852cba5b939725b359ef755216.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/it_IT/82d7660dfc2b0c48107ba3e832da8e24.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/es_ES/e831e567a1c5d2d87662c914ddce7481.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CYCLONE/CARDS/ALT_CYCLONE_A_LY_78/JPG/de_DE/266d5e829d6f81801ef6d95d813195fe.jpg"
+  },
+  "name": "Sello de Lyra",
+  "elements": {
+    "MAIN_COST": "#3#",
+    "RECALL_COST": "#3#",
+    "MAIN_EFFECT": "#[[Fugacidad]].#  Elige #dos opciones:#  • Hasta dos personajes objetivo ganan [[Fugacidad]].  • Roba una carta y luego tira un dado. Si sacas 4+, [reabastece].  • El personaje objetivo gana 1 potenciador por cada carta en tu reserva."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_CYCLONE_A_LY_78_R1-ES"
+}

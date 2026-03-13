@@ -28798,74 +28798,6 @@
   },
   {
     "@context": "/contexts/Card",
-    "@id": "/cards/ALT_COREKS_B_OR_01_C",
-    "@type": "Card",
-    "cardType": {
-      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
-      "@type": "CardType",
-      "reference": "HERO",
-      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
-      "name": "Eroe"
-    },
-    "cardSubTypes": [],
-    "cardSet": {
-      "@id": "/card_sets/COREKS",
-      "@type": "CardSet",
-      "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
-      "reference": "COREKS",
-      "name": "Beyond the Gates - KS Edition"
-    },
-    "rarity": {
-      "@type": "Rarity",
-      "@id": "/.well-known/genid/0012b2df1ae816710f2e",
-      "reference": "COMMON",
-      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
-      "name": "Common"
-    },
-    "cardRulings": [],
-    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/it_IT/ab55f6208aeb7a7e6e84bddf05cef94c.jpg",
-    "assets": {
-      "WEB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
-      ],
-      "HERO_THUMB": [
-        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_THUMB_2b3966dee10b73e5c94df30cdc327dc7"
-      ]
-    },
-    "lowerPrice": 0,
-    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_01_C",
-    "reference": "ALT_COREKS_B_OR_01_C",
-    "id": "01HN5TXRECS54E3E8D2NTGS3NQ",
-    "mainFaction": {
-      "@id": "/factions/OR",
-      "@type": "Faction",
-      "reference": "OR",
-      "color": "#0f6593",
-      "id": "01GE7AC9X78DXSNKNB15KCF69X",
-      "name": "Ordis"
-    },
-    "allImagePath": {
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/de_DE/549155334348a8651af011a360d61e4e.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/it_IT/ab55f6208aeb7a7e6e84bddf05cef94c.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/es_ES/2b73e947498e6e2ba71fd03f799e2761.jpg",
-      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/ab63f4a6e5448bb78d07a358c8324a4d.jpg",
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/en_US/4a86176d6fa352254a123692cb56cc6b.jpg"
-    },
-    "name": "Sigismar e Alagrande",
-    "elements": {
-      "MAIN_COST": "0",
-      "RECALL_COST": "0",
-      "PERMANENT": "2",
-      "RESERVE": "2",
-      "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe."
-    },
-    "isSuspended": false,
-    "isErrated": false,
-    "isBanned": false,
-    "collectorNumber": "BTG-121-H-IT"
-  },
-  {
-    "@context": "/contexts/Card",
     "@id": "/cards/ALT_COREKS_B_OR_02_C",
     "@type": "Card",
     "cardType": {
@@ -34483,6 +34415,79 @@
     "isErrated": false,
     "isBanned": false,
     "collectorNumber": "BTG-178-F-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_OR_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+      "@type": "CardType",
+      "reference": "HERO",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "name": "Eroe"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/COREKS",
+      "@type": "CardSet",
+      "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+      "reference": "COREKS",
+      "name": "Beyond the Gates - KS Edition"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/470d166feecbb9ef6a3e",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/it_IT/ab55f6208aeb7a7e6e84bddf05cef94c.jpg",
+    "assets": {
+      "HERO_THUMB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_THUMB_2b3966dee10b73e5c94df30cdc327dc7"
+      ],
+      "HERO_WIDE": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/HERO_WIDE_57ea11e069a699df24955688f1247b29"
+      ],
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_01/WEB_c4424b7abf20989cbb30a260a802724c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_01_C",
+    "isOwnerless": false,
+    "reference": "ALT_COREKS_B_OR_01_C",
+    "id": "01HN5TXRECS54E3E8D2NTGS3NQ",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/fr_FR/ab63f4a6e5448bb78d07a358c8324a4d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/en_US/4a86176d6fa352254a123692cb56cc6b.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/it_IT/ab55f6208aeb7a7e6e84bddf05cef94c.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/es_ES/2b73e947498e6e2ba71fd03f799e2761.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_01/JPG/de_DE/549155334348a8651af011a360d61e4e.jpg"
+    },
+    "name": "Sigismar e Alagrande",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "PERMANENT": "2",
+      "RESERVE": "2",
+      "MAIN_EFFECT": "A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo eroe.  Ignora la mia abilità il primo Giorno."
+    },
+    "isSuspended": false,
+    "isErrated": true,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "BTG-121-H-IT"
   },
   {
     "@context": "/contexts/Card",

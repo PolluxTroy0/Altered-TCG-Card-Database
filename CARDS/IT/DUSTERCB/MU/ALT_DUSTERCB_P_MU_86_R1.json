@@ -6,7 +6,73 @@
     {
       "@id": "/lore_entries/0VBE3ZBJGD8JXAC5WN8JW8B3QG",
       "@type": "LoreEntry",
-      "loreEntryElements": [],
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ZEY2YCF2EKG79VA266",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KJ5PA2ZEY2YCF2EKG79VA266",
+          "text": "Il piacere di dare, la gioia di ricevere."
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ZVE4FV3DW3NG9CHXBS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KJ5PA2ZVE4FV3DW3NG9CHXBS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2ZMZ5XW2JJT0QW6XR0R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KJ5PA2ZMZ5XW2JJT0QW6XR0R",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2YYQNJB33PQTRWPB2T2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KJ5PA2YYQNJB33PQTRWPB2T2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KJ5PA2Z721BBX4EH6GSKAPVP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KJ5PA2Z721BBX4EH6GSKAPVP",
+          "text": ""
+        }
+      ],
       "loreEntryType": {
         "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
         "@type": "LoreEntryType",
@@ -28,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/dbbb81f01ff534bc175f",
+      "@id": "/.well-known/genid/2d5ece20a1b264b2a8f0",
       "reference": "DRUID",
       "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
       "name": "Druido"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/540749c1459d85e4f49b",
+      "@id": "/.well-known/genid/b653c6a761b8aaf08c2b",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animale"
@@ -50,12 +116,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/78717607ed078c95fc81",
+    "@id": "/.well-known/genid/2a927bc77c0c8d5fff36",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/JPG/en_US/34c0dc51e18047889b867b7516fffca9.jpg",
   "assets": [],
   "lowerPrice": 0,
@@ -85,10 +150,12 @@
     "OCEAN_POWER": "#0#",
     "FOREST_POWER": "#1#",
     "MOUNTAIN_POWER": "#1#",
-    "MAIN_EFFECT": "When an opponent receives a [Regalo] — If I have no boosts, I gain 1 boost."
+    "MAIN_EFFECT": "Quando fai un [Regalo] — Se non ho rinforzi, ottengo 1 rinforzo."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "SDUCB-015-R-IT"
 }

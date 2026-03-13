@@ -1,0 +1,151 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_BR_30_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/69VD0GJT8F9S7SYRT750QCZVK5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHT308XH2QCCDQTVJJ7J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHT308XH2QCCDQTVJJ7J",
+          "text": "In Haven werden keine Legenden geboren: Sie leben hier, auf immer und ewig."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHTAPX59DR4DSMTYM6Y1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01K5GZMHTAPX59DR4DSMTYM6Y1",
+          "text": "The emblem of the Phoenix towers over the main gate to Haven, its gold tarnished by the weight of the years. Even so, it still stands proudly, floating above the fog and the fjord down below. How long has it been? The last time I set foot here, I had fewer wrinkles. No doubt about that. Descending the slope that leads to the Bravos sanctuary, I can't help but notice the sturdy columns, the gold-leafed frescoes engraved throughout the precipitous island. Grandiose decor for a larger-than-life Faction. What else would you expect? I can already hear the bursts of laughter from the mess halls, the clatter of cups clinking around the fire. Maybe there'll also be a Lyra bard or two on hand to bring cheer to the austere rooms with their jaunty, ribald tunes…\n\nBut I can't help but feel a hint of sadness as well. Haven is a living space, but it's also a mausoleum to the glory of the fallen. Erregu, Hanta, Guewen, Agunda, Solofa, Dastan… So many comrades, so many friends turned to ashes and dust… Now they all rest in the Parliament of Ashes amid the heroes of yore, in urns or lacquered boxes. And one day, I'll rest among them myself. \"But not yet.\" I smile as Kai's voice echoes in my head. Not yet, indeed. The Basileus himself had come to find me so that I might train his contingents of explorers. Thirty-five is a young age to become a Seiringar. But it's not like I was actually retiring. These recruits and cadets had better brace themselves… I certainly don't intend to let them slack off."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHT6W39DCJ0DA1GHRSV2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHT6W39DCJ0DA1GHRSV2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHSW5QTG03H79EX9NW7K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01K5GZMHSW5QTG03H79EX9NW7K",
+          "text": "Basira"
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHT0ZHEZVDA3M94RFKG2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHT0ZHEZVDA3M94RFKG2",
+          "text": "368 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent"
+      },
+      "id": "69VD0GJT8F9S7SYRT750QCZVK5",
+      "reference": "ALT_DUSTERTOP_P_BR_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Bleibende Karte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e32c830171740aead02c",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Wahrzeichen"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Seeds of Unity - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/748dea6c8dacc5fb8596",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/de_DE/dde104c0491791263c3c47241cf0a3e7.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_30_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_BR_30_R1",
+  "id": "01K57206F6CMY6SY2ZBH8R8KJ5",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/fr_FR/46b1902c86e6a5d85b9a7a4867d0a090.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/en_US/2d3228dbb8b4aeda925dd519662a07ad.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/it_IT/b9ccf85b7e42b7cefec4108a5cc9b560.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/es_ES/27278f7ae00a27e48905946ef6b0ef5a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/de_DE/dde104c0491791263c3c47241cf0a3e7.jpg"
+  },
+  "name": "Haven, Bravos-Bastion",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "#{J} [Nachschub].#  Deine Charaktere haben: „ {R} Ich erhalte 1 Verstärkung.“"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_BR_30_R1-DE"
+}

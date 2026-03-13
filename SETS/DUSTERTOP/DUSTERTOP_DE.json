@@ -1,6 +1,78 @@
 [
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_AX_04_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b823468f30bc24317d61",
+        "reference": "ELEMENTAL",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "name": "Elementar"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/48039714d68a3c743c9b",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/de_DE/bd6abd611a9aba5a8840521b562a8d5f.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_04_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_AX_04_C",
+    "id": "01K57206EG55KZTCPBMJPHG3F9",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/fr_FR/e818ce8cef3594e61f4d8e83cb61e968.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/en_US/674d666d06e01c8630aafc705fa92bc0.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/it_IT/ef62f76254959b68689a8db86af8d8bd.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/es_ES/01602fcb27d191a3d2229489474e6dff.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/de_DE/bd6abd611a9aba5a8840521b562a8d5f.jpg"
+    },
+    "name": "Kelon-Elementar",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Lege eine Karte aus deiner Hand in die Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_AX_04_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_DUSTERTOP_P_AX_20_R1",
     "@type": "Card",
     "cardType": {
@@ -13,7 +85,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/ada2c755a7f97a5058b7",
+        "@id": "/.well-known/genid/5db2b065d6be0ceb0f40",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Manöver"
@@ -28,16 +100,16 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/9fb3b177822b5ebc91d5",
+      "@id": "/.well-known/genid/a1d4a9fdf03cd6e4a602",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/de_DE/39e71ffd1cd6156708effea4d5dfaae3.jpg",
     "assets": [],
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_20_R1",
+    "isOwnerless": false,
     "reference": "ALT_DUSTERTOP_P_AX_20_R1",
     "id": "01K57206ERQ3715XTXVT431JA0",
     "mainFaction": {
@@ -51,9 +123,9 @@
     "allImagePath": {
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/fr_FR/4d912e05344c3e5c86bd2f33fe8b470d.jpg",
       "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/en_US/e1f8d50063b986d456518e65969eebc7.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/it_IT/4530f6fcf164cdafae019027f0fcff00.jpg",
       "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/es_ES/8a926502ede225a7b12d3d2c4e61ebae.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/de_DE/39e71ffd1cd6156708effea4d5dfaae3.jpg",
-      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/it_IT/4530f6fcf164cdafae019027f0fcff00.jpg"
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/de_DE/39e71ffd1cd6156708effea4d5dfaae3.jpg"
     },
     "name": "Am Haken",
     "elements": {
@@ -64,7 +136,150 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUTOP-002-R-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_AX_41_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/42a7ff44de9b28672aa7",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Beschwörung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b01faf99162725324b75",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/de_DE/d0ee5902f47acd33f5c4c9671798707d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_41_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_AX_41_C",
+    "id": "01K57206ERQ3715XTXVT431JA3",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/fr_FR/15d005ea9bf0f9a4919dd59e9aabdc94.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/en_US/6be73cb3336288e9f02dd286c8b44894.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/it_IT/97e8974b35b098b815e429e992ab249e.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/es_ES/80dbf979adb55da0fd29ccfa1a8a631d.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/de_DE/d0ee5902f47acd33f5c4c9671798707d.jpg"
+    },
+    "name": "Gefrorene Lieferung",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "[Abkühlung].  [Nachschub]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_AX_41_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_AX_32_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1fc30dcfe698b880e6c1",
+        "reference": "ROBOT",
+        "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+        "name": "Roboter"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/bf186c565774b41ba5a9",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/de_DE/230baa5b46fb37eb7daca00148f753d4.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_32_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_AX_32_R1",
+    "id": "01K57206F1M4C4XZE3DK4B8PB9",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/fr_FR/2c4663b81a921660b96a9674a64f476a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/en_US/cee87577a4945f729f5df4b462f5bf40.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/it_IT/bc1e2b965dba4a7284eed8e9d1252818.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/es_ES/bdb131cbe456c9d0fe87064004c7c653.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/de_DE/230baa5b46fb37eb7daca00148f753d4.jpg"
+    },
+    "name": "Die Maschine im Eis",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "#4#",
+      "FOREST_POWER": "#4#",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Wenn ich von irgendwoher in die Reserve gehe — Erschöpfe mich ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)  {H} Schicke mich in die Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_AX_32_R1-DE"
   },
   {
     "@context": "/contexts/Card",
@@ -80,7 +295,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/c5efa5d5edb283e247e7",
+        "@id": "/.well-known/genid/6f7183833b57be3a4c2f",
         "reference": "ELEMENTAL",
         "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
         "name": "Elementar"
@@ -95,16 +310,16 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/9b8f86afb02596cdf227",
+      "@id": "/.well-known/genid/9e7adc10aff35cd6deb0",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/de_DE/e4279682edf2f96b3a625f16cebf9b5c.jpg",
     "assets": [],
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_19_C",
+    "isOwnerless": false,
     "reference": "ALT_DUSTERTOP_P_BR_19_C",
     "id": "01K57206F5T1RKNGN42HW0MCN8",
     "mainFaction": {
@@ -116,11 +331,11 @@
       "name": "Bravos"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/en_US/1b26e326d60dfa824e7e4674a495cdce.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/de_DE/e4279682edf2f96b3a625f16cebf9b5c.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/fr_FR/71fb8dc759333bdbe036effd282ef7ac.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/en_US/1b26e326d60dfa824e7e4674a495cdce.jpg",
       "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/it_IT/ee1217678e66b5554d409badb32f5517.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/es_ES/d3250c3d5ac515d22c0dcfa92193af6b.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/es_ES/d3250c3d5ac515d22c0dcfa92193af6b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_19/JPG/de_DE/e4279682edf2f96b3a625f16cebf9b5c.jpg"
     },
     "name": "Mächtiger Dschinn",
     "elements": {
@@ -134,6 +349,1385 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUTOP-003-C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_BR_30_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+      "@type": "CardType",
+      "reference": "PERMANENT",
+      "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+      "name": "Bleibende Karte"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e32c830171740aead02c",
+        "reference": "LANDMARK",
+        "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+        "name": "Wahrzeichen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/748dea6c8dacc5fb8596",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/de_DE/dde104c0491791263c3c47241cf0a3e7.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_30_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_BR_30_R1",
+    "id": "01K57206F6CMY6SY2ZBH8R8KJ5",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/fr_FR/46b1902c86e6a5d85b9a7a4867d0a090.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/en_US/2d3228dbb8b4aeda925dd519662a07ad.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/it_IT/b9ccf85b7e42b7cefec4108a5cc9b560.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/es_ES/27278f7ae00a27e48905946ef6b0ef5a.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_30/JPG/de_DE/dde104c0491791263c3c47241cf0a3e7.jpg"
+    },
+    "name": "Haven, Bravos-Bastion",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "#{J} [Nachschub].#  Deine Charaktere haben: „ {R} Ich erhalte 1 Verstärkung.“"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_BR_30_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_BR_32_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/671277a2be8cd1831423",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/30f1286e8e0b61091291",
+        "reference": "SPIRIT",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "name": "Geist"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3994a6ae908382ecdfc8",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_32/JPG/de_DE/3b469756b923fc1e07ceff48144952c3.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_32_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_BR_32_C",
+    "id": "01K57206F6CMY6SY2ZBH8R8KJ8",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_32/JPG/fr_FR/c7c1357f90c8a009d61078a00baad94c.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_32/JPG/en_US/ac51366eff9939553d99991f81ac6b92.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_32/JPG/it_IT/f7a757b4acf80f535999a365a85e2e8e.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_32/JPG/es_ES/80e5a59d2b30e57a365aaa656527d799.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_32/JPG/de_DE/3b469756b923fc1e07ceff48144952c3.jpg"
+    },
+    "name": "Feuerhase",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} Du darfst mich [[Vergänglich]] erhalten lassen. Falls du das tust, erhält ein anderer Charakter deiner Wahl 1 Verstärkung."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_BR_32_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_BR_38_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a9bdf5c10ded16ed424f",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4838d529408326aa995f",
+        "reference": "SPIRIT",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "name": "Geist"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d54591eb85c38508e8b3",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/de_DE/c0719f60623938721a348c6ce5f270da.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_38_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_BR_38_R1",
+    "id": "01K57206FANCQ07745BX542H6K",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/fr_FR/c8b6cc14158b6e25cba00d027dfb8ffa.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/en_US/8aa7f3d2137c9d359f5ff68a0b18f857.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/it_IT/0f003ea767399ce1a4cf29078b71d352.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/es_ES/8be6b03b0009901c563beabb2c19c55b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/de_DE/c0719f60623938721a348c6ce5f270da.jpg"
+    },
+    "name": "Akhlut",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "#4#",
+      "OCEAN_POWER": "#4#",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "Wenn ich mindestens 1 Verstärkung erhalte — Du darfst eine Karte deiner Wahl in der Reserve erschöpfen ({T}). (Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)  #{J}# Ich erhalte 1 Verstärkung."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_BR_38_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_LY_07_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/78312e13245a2f715d6f",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Künstler"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/beecdafde8aa2f04a18f",
+        "reference": "DEITY",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "name": "Gottheit"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/92420ced5b2313bcb2ad",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/de_DE/9b58b36403d3af461f5bef61c8aac376.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_07_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_LY_07_C",
+    "id": "01K57206FKC8V0S9SVHZ46MXKE",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/fr_FR/b60391f589400e2db748f1ea22017777.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/en_US/2d927bcd917c94d86d5a82d78a4d1640.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/it_IT/3cbaf4223261ae5b60a79b5e1bdc6f36.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/es_ES/0d1d234763a2c6f7ac166b9ba670464c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/de_DE/9b58b36403d3af461f5bef61c8aac376.jpg"
+    },
+    "name": "Hathor",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "ECHO_EFFECT": "{D} : Return another card from your Reserve to your hand. (Discard me from Reserve to do this.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_LY_07_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_LY_04_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/dd6c581384eb1fcc169d",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e420b3a351b195bed74d",
+        "reference": "SPIRIT",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "name": "Geist"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2ca647bb54329bf934d8",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/de_DE/65a44af300091161ecbe3ca339b30940.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_04_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_LY_04_R1",
+    "id": "01K57206FMZFP2DTWKER97ZMJF",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/fr_FR/7ea0cb4210555f8c05e16e2998d7fb7f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/en_US/ebba91537428a4e9aef2fe489af61bc2.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/it_IT/ac4435be46a31ca9f09b39cd6a2a7671.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/es_ES/4e534509910c6c3f9e973dfc83a1d9b9.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/de_DE/65a44af300091161ecbe3ca339b30940.jpg"
+    },
+    "name": "Martengale",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "#Falls du würfeln würdest, darfst du 1 zum Ergebnis addieren.# (Wähle, nachdem du das Ergebnis gesehen hast.)",
+      "ECHO_EFFECT": "{D} : Die nächste Karte, die du in dieser Runde spielst, kostet {1} weniger. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_LY_04_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_LY_31_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2c38fd605985faa95c94",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Tier"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0ee8e6cfb2d19e01f625",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_31/JPG/de_DE/d15fb49b6948bb05b365c0e0826d7f32.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_31_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_LY_31_C",
+    "id": "01K57206FMZFP2DTWKER97ZMJJ",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_31/JPG/fr_FR/c2d3d0cfcd75180065e2cf93d8750e0c.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_31/JPG/en_US/4bb89ad8ad819afc00cff110b187cc4d.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_31/JPG/it_IT/7a6fc8a74e36e8572b0de14375ed5cbe.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_31/JPG/es_ES/a2247da0f456946613795cda00e105b1.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_31/JPG/de_DE/d15fb49b6948bb05b365c0e0826d7f32.jpg"
+    },
+    "name": "Elstuin-Sammler",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{J} Falls du mindestens zwei Karten in der Reserve hast, erhalte ich 1 Verstärkung und [[Vergänglich]]. (Falls ich in die Reserve geschickt werden soll, lege mich stattdessen ab.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_LY_31_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_LY_39_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3e2398a05fbe5c29ae46",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Beschwörung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c3b66994c3a23a80b746",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_39/JPG/de_DE/e8f0d2e47477ede880c9a968cb52596e.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_39_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_LY_39_R1",
+    "id": "01K57206FNE4ZXHZHSRCKTEY8X",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_39/JPG/fr_FR/38cbabda5aaa7f7e573890ac1240066e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_39/JPG/en_US/8752b94990ca4a68324140eef6b621bb.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_39/JPG/it_IT/b07cc990dcdb5dc72d9a98ab212845bb.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_39/JPG/es_ES/f7940961ae7a400a5c952e9edfd626cd.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_39/JPG/de_DE/e8f0d2e47477ede880c9a968cb52596e.jpg"
+    },
+    "name": "Flinke Finger",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "[Abkühlung]. (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Tausche eine #Karte# deiner Wahl in deiner Reserve mit einer Karte aus deiner Hand aus."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_LY_39_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_MU_13_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ddd384ccd069bce063a0",
+        "reference": "DRUID",
+        "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+        "name": "Druide"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d11049da0309e4ed9c8f",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/de_DE/44d426c2425cc90ddb2d6174929c3252.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_13_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_MU_13_C",
+    "id": "01K57206FSANC168HKJWAHN8BF",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/fr_FR/82ff82bf32c81e9b0edfc9cc421481d4.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/en_US/9a4e185adadb4cbc267695ae933b1e17.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/it_IT/ce6a0a5192138d3c00be10924b8b8053.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/es_ES/b19dcac98f3bb74344bd8820023b4e0b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_13/JPG/de_DE/44d426c2425cc90ddb2d6174929c3252.jpg"
+    },
+    "name": "Muna-Druide",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "ECHO_EFFECT": "{D} : Target Character with Hand Cost {3} or less gains [[Verankert]]. (Discard me from Reserve to do this.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_MU_13_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_MU_12_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a3b789d1746eb2cb8f70",
+        "reference": "PLANT",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "name": "Pflanze"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4c49147109a279e72f3a",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/de_DE/4999fbcf99b376cbc0f14a5d74f6426c.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_12_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_MU_12_R1",
+    "id": "01K57206FWYMMHDY2C9WEG1GTH",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/fr_FR/a76d4c03985aaea6a8560643a360a45e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/en_US/78ea31d2e5ccb42d209e3988e1a5040c.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/it_IT/f9251efc7f16935cd8620683ddf57002.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/es_ES/dbdc0781ed92a3888507e14c6d1e0015.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/de_DE/4999fbcf99b376cbc0f14a5d74f6426c.jpg"
+    },
+    "name": "Tochter von Yggdrasil",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "{H} #Jeder Spieler# zieht eine Karte."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_MU_12_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_MU_44_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+      "@type": "CardType",
+      "reference": "EXPEDITION_PERMANENT",
+      "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+      "name": "Bleibende Expeditionskarte"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2f5c6bea23e1686a05b8",
+        "reference": "GEAR",
+        "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+        "name": "Ausrüstung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0266bcc0c76823e10482",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/de_DE/2bd44f3874c7622e01ed9c27e3c52441.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_44_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_MU_44_C",
+    "id": "01K57206FX3TRHGN5613SBJ9K5",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/fr_FR/5ae5cf6b25c0c1d4536f234d34d07b52.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/en_US/7769efab835473bd0c80a9453d542b30.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/it_IT/407391700ad9bf400b9ea0985e1be06d.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/es_ES/9a9a7d6ca37ce38442e7dbf4ed77e7a2.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_44/JPG/de_DE/2bd44f3874c7622e01ed9c27e3c52441.jpg"
+    },
+    "name": "Blütenzelt",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MAIN_EFFECT": "{J} [Nachschub]. (Lege die oberste Karte deines Decks in die Reserve.)  Falls ein Charakter mit [[Verankert]] meine Expedition am Nachmittag verlassen würde, verliert er stattdessen [[Verankert]]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_MU_44_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_MU_33_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/cc6699b2b45efcd326a5",
+        "reference": "DEITY",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "name": "Gottheit"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/31310bfa859f77f4ad3c",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_33/JPG/de_DE/6cb7ad6c751de86e0cf2032a1967dbab.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_33_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_MU_33_R1",
+    "id": "01K57206FYXZNA1YCQM6VQ7EP8",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_33/JPG/fr_FR/2f11c167d7d15cabffce2f8d67eac90b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_33/JPG/en_US/9b608b4f11da5f875848bba03277a1fe.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_33/JPG/it_IT/1dc9d6e976be35059ec1ecb6dc168554.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_33/JPG/es_ES/ac60dd196ea488519c59e01fe0fff286.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_33/JPG/de_DE/6cb7ad6c751de86e0cf2032a1967dbab.jpg"
+    },
+    "name": "Persephone",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "Meine Region #und die Region der mir gegenüberstehenden Expedition# sind {V} #und verlieren ihre anderen Gelände.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_MU_33_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_OR_14_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/6875aea3e3397c2a6f6f",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Bürger"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a1747fa3058e6f6ae697",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_14/JPG/de_DE/43be5862b4249e0f38edc583d32ce1c8.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_OR_14_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_OR_14_C",
+    "id": "01K57206G3A0E9DE11SGBX422M",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_14/JPG/fr_FR/b7e135ac3c14da0c24b4a3b09f70f4bc.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_14/JPG/en_US/cd59cb4bf0403f38d4f9dc94d3b3d621.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_14/JPG/it_IT/38a11fd8329458d7c26c1aa3de9703b8.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_14/JPG/es_ES/11a22898bca66b2cd3d8d81605b721dd.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_14/JPG/de_DE/43be5862b4249e0f38edc583d32ce1c8.jpg"
+    },
+    "name": "Ordis-Spionin",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{H} [Sabotage]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_OR_14_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_OR_08_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d1b58151ef2c0ef0a315",
+        "reference": "BUREAUCRAT",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "name": "Bürokrat"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/40010c0dcd38bec735c8",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/de_DE/78b5b9cf02608fc29058c66760408b7a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_OR_08_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_OR_08_R1",
+    "id": "01K57206G666C8711FXG69685S",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/fr_FR/3d0976f89f2aa3772696fad86d9970cf.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/en_US/3f74cf5868138dfe5ae1be1bfe0ccddc.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/it_IT/ae7d10d20bb45ae452f5587153d98488.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/es_ES/cf58d449a318b4c7adb1be5f5ce71f66.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_08/JPG/de_DE/78b5b9cf02608fc29058c66760408b7a.jpg"
+    },
+    "name": "Monolith-Legatin",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "Wenn meine Expedition sich am Abend nicht vorwärts bewegt — [Sabotage] nach der Ruhepause.",
+      "ECHO_EFFECT": "#{D} : Create an [Ordis-Rekrut 1/1/1] Soldier token in target Expedition.# (Discard me from Reserve to do this.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_OR_08_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_OR_42_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e728deec5f4990bb98ac",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Unterbrechung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/24caa838218e5d566121",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_42/JPG/de_DE/92524fcbb5eb1a436c578f793862bbfc.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_OR_42_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_OR_42_C",
+    "id": "01K57206G666C8711FXG69685W",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_42/JPG/fr_FR/84b17b8d599eabbdcd2b38928e2b7f62.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_42/JPG/en_US/df0b44618afdad3071358be264101f21.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_42/JPG/it_IT/91880e7bf79d3a7a1a3da6f7c5b58c02.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_42/JPG/es_ES/21b9ee468c523b5d6e07d595d35ec451.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_42/JPG/de_DE/92524fcbb5eb1a436c578f793862bbfc.jpg"
+    },
+    "name": "Winziges Gefängnis",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[[Vergänglich]].  Schicke einen Charakter deiner Wahl in die Reserve, der keine Statistik über 3 hat."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_OR_42_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_OR_43_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a8be07a8427b6ea98370",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/002755db7ca74e95f41a",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/de_DE/4bc25f0c3057a4371b466e1d62ad8362.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_OR_43_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_OR_43_R1",
+    "id": "01K57206G78CSCKDZVHFCWK24G",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/fr_FR/50acdab667c31a528362afae4ab7ff58.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/en_US/6cd0135bf752a0b1c524fa85104ccdd5.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/it_IT/026156a0f12aa6165272391c1fafdf79.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/es_ES/f39d25de08a3dfc070321dd6f9b04c75.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_OR_43/JPG/de_DE/4bc25f0c3057a4371b466e1d62ad8362.jpg"
+    },
+    "name": "Unterstützungstruppen",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "#[Abkühlung].# (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}.)  Wähle eine Aktion. Falls alle deine Expeditionen hinten liegen oder gleichauf sind, kannst du beide wählen:  • Ziehe eine Karte.  • Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in einer Expedition deiner Wahl."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_OR_43_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_YZ_06_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/bc5c70c951fa5675b10b",
+        "reference": "FAIRY",
+        "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+        "name": "Fee"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ecb85106542ff06a9e8d",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_06/JPG/de_DE/56ecb5abfc4e614bf90cb2bc21114210.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_06_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_YZ_06_C",
+    "id": "01K57206G93M55HJQS4BMPFVE0",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_06/JPG/fr_FR/5ddfaac0d088138ac2bbfbf743201f9f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_06/JPG/en_US/34b20f3ca92af540058a00abf5d18800.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_06/JPG/it_IT/c24df0e4f479a327fe8d0c2ab83be9a9.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_06/JPG/es_ES/af09670ffea845cd0ce3a854827bf493.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_06/JPG/de_DE/56ecb5abfc4e614bf90cb2bc21114210.jpg"
+    },
+    "name": "Zahnfee",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} [Sabotage]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_YZ_06_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_YZ_12_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Charakter"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b529c770fb7ab71d0b42",
+        "reference": "SCHOLAR",
+        "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+        "name": "Gelehrter"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3d6710675740f7575060",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/de_DE/fc38ac62bd47e354f5eede5982a0109a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_12_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_YZ_12_R1",
+    "id": "01K57206GBXXNGRAJW665K3JVX",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/fr_FR/6031334f97e17107e0e1b231519d2f5a.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/en_US/ef62cf5c930b6bbf0b9aaed6fc0a9577.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/it_IT/d70748e080bbd0102d6a9d35391772fa.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/es_ES/3dda12ee070232521bff6bf249123d0e.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/de_DE/fc38ac62bd47e354f5eede5982a0109a.jpg"
+    },
+    "name": "Kadigir-Alchemist",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} Ich erhalte #3 Verstärkungen#."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_YZ_12_R1-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_YZ_41_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Zauber"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/6db1114a3365bbeff377",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Manöver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9da11cdec2938d434e59",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/de_DE/27feb311aca26ff3a6f8293017ebe669.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_41_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_YZ_41_C",
+    "id": "01K57206GBXXNGRAJW665K3JW0",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/fr_FR/e867c0165202bf9acfbd1b47d4a44898.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/en_US/8b364777ac743be95a31564853145bd4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/it_IT/bda68ea8015f5d8976028491d90cd17b.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/es_ES/84f799fab09df5b3b7a8acd69a1f6e5a.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_41/JPG/de_DE/27feb311aca26ff3a6f8293017ebe669.jpg"
+    },
+    "name": "Motte zum Licht",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[Abkühlung]. (Falls ich in die Reserve gehe, nachdem mein Effekt abgeklungen ist, erschöpfe mich {T}. Erschöpfte Karten können nicht gespielt werden und haben keine Unterstützungsfähigkeiten.)  Erschaffe eine [Mana-Motte 2/2/2]-Illusionsmarke in einer Expedition deiner Wahl."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_YZ_41_C-DE"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTERTOP_P_YZ_44_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+      "@type": "CardType",
+      "reference": "EXPEDITION_PERMANENT",
+      "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+      "name": "Bleibende Expeditionskarte"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/13afd7af8c6c9a78003f",
+        "reference": "GEAR",
+        "id": "01J1QB6WRN6E3REFHBQ6V24VA3",
+        "name": "Ausrüstung"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTERTOP",
+      "@type": "CardSet",
+      "id": "01K571ZHWV0VPWZX736JAJEGAP",
+      "reference": "DUSTERTOP",
+      "name": "Seeds of Unity - Box Topper"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b06a14214c261f451090",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/de_DE/0bc9587defbed4463c43b74418ccaeaf.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_44_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTERTOP_P_YZ_44_R1",
+    "id": "01K57206GC4G687774TQ8RHDQ2",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/fr_FR/04fc976a0dcc7889db65fb42b3360720.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/en_US/932e5e5492e25eb027b96d5d5f1cda54.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/it_IT/10babcca71d2bf7b7a592be023eb1889.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/es_ES/717a8de8cb758f11a5a44f65574ce34c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_44/JPG/de_DE/0bc9587defbed4463c43b74418ccaeaf.jpg"
+    },
+    "name": "Mottenlaterne",
+    "elements": {
+      "MAIN_COST": "#2#",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Wenn du einen Nicht-Illusion-Charakter opferst — Erschaffe eine [MANA_MOTH]-Illusionsmarke in meiner Expedition.  {J} Opfere einen Charakter aus meiner Expedition."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTERTOP_P_YZ_44_R1-DE"
   }
 ]

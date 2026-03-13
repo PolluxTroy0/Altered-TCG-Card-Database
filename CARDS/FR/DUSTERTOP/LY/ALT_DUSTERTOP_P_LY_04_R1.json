@@ -1,0 +1,162 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_DUSTERTOP_P_LY_04_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/64VRMZJAQE9AXB2QB4QWZC9MTG",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01K5GZMHW0S9QCMYQD8X09PCYR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01K5GZMHW0S9QCMYQD8X09PCYR",
+          "text": "Voir passer une martengale est toujours un bon présage."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHW75KKFASMQBDFKAPBS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01K5GZMHW75KKFASMQBDFKAPBS",
+          "text": "Onzième signe du Nouveau Zodiaque : la Martengale\n23 octobre - 22 novembre\n\nReprésenté par une martre ailée aux longues oreilles, on dit du signe de la Martengale qu'il symbolise l'inconstance, l'impermanence des choses. Il a pour élément l'air.\n\nL'individu Martengale est par nature insaisissable et pétri de paradoxes : indépendant, il n'aime pourtant pas être seul ; avide de nouveauté, il a cependant un grand sens des traditions. Tout comme son animal totem, il aime sortir des sentiers battus, mais revient toujours à son point d'origine. On dit souvent qu'un individu Martengale est chanceux, mais c'est généralement qu'il préfère rebondir plutôt que de s'apitoyer sur son sort. Adaptable, il sait pourtant faire preuve d'une grande détermination, et peut parfois s'entêter lorsque la situation l'y contraint. Affublé d'une peur panique de l'ennui, il manifeste un besoin implacable de liberté, quitte à faire des paris osés qui défient tous les pronostics."
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHW4GF5610QE68YSJA12",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01K5GZMHW4GF5610QE68YSJA12",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVSMNKNQAXA3670CYVB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01K5GZMHVSMNKNQAXA3670CYVB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01K5GZMHVXZ1GDM08JC8E20QB6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01K5GZMHVXZ1GDM08JC8E20QB6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "64VRMZJAQE9AXB2QB4QWZC9MTG",
+      "reference": "ALT_DUSTERTOP_P_LY_04_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b96299f6e2dc2a2f3000",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/35f06d9f92d15dfeeb00",
+      "reference": "SPIRIT",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "name": "Esprit"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/DUSTERTOP",
+    "@type": "CardSet",
+    "id": "01K571ZHWV0VPWZX736JAJEGAP",
+    "reference": "DUSTERTOP",
+    "name": "Les Graines de l'Unité - Box Topper"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c55f2af5d2de2c423fad",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/fr_FR/7ea0cb4210555f8c05e16e2998d7fb7f.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_04_R1",
+  "isOwnerless": false,
+  "reference": "ALT_DUSTERTOP_P_LY_04_R1",
+  "id": "01K57206FMZFP2DTWKER97ZMJF",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/fr_FR/7ea0cb4210555f8c05e16e2998d7fb7f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/en_US/ebba91537428a4e9aef2fe489af61bc2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/it_IT/ac4435be46a31ca9f09b39cd6a2a7671.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/es_ES/4e534509910c6c3f9e973dfc83a1d9b9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_04/JPG/de_DE/65a44af300091161ecbe3ca339b30940.jpg"
+  },
+  "name": "Martengale",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#Si vous deviez lancer un dé, vous pouvez ajouter 1 au résultat.# (Choisissez après avoir vu le résultat.)",
+    "ECHO_EFFECT": "{D} : La prochaine carte que vous jouez ce tour coûte {1} de moins. (Défaussez-moi de la Réserve pour ça.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_DUSTERTOP_P_LY_04_R1-FR"
+}

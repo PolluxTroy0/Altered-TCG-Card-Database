@@ -1,6 +1,147 @@
 [
   {
     "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_AX_97_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/12ca17da78887acd970a",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Disruption"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/6d6273058317d35cd44c",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/en_US/c3a8f6714aa1cd27a4eb43606ddf5f38.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_97_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_AX_97_C",
+    "id": "01K4YGECGNA57ENJ74TZQMQ0GJ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/fr_FR/72b53ae3119a660c433d835a7e365308.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_97/JPG/en_US/c3a8f6714aa1cd27a4eb43606ddf5f38.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Failed Demo",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[[Fleeting]].  Exhaust a card in your Reserve. If you do, send to Reserve target Character with Base Cost {3} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_AX_97_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_AX_93_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/fc9233958958973fe7ff",
+        "reference": "BUREAUCRAT",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "name": "Bureaucrat"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/1ae93f336af3c254a82d",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_AX_93_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_AX_93_R1",
+    "id": "01K4YGECGRVP002XYTEWX1RAJM",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/fr_FR/811c41049500cfe78509f3893eabe51e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_AX_93/JPG/en_US/e2632158af9040e69276aba342eacfb2.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka Magnate",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{R} Choose one, #or exhaust a Permanent you control to choose both:#  • [Sabotage].  • Create a [Manaseed] token in your Landmarks."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_AX_93_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
     "@id": "/cards/ALT_DUSTEROP_A_AX_98_C",
     "@type": "Card",
     "cardType": {
@@ -13,14 +154,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/cd87a80782a4666d6ac4",
+        "@id": "/.well-known/genid/b3f0269d22dd3493f212",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/f332169007fa2f467acf",
+        "@id": "/.well-known/genid/7da8e2575740d501169a",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Maneuver"
@@ -35,16 +176,16 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/25038bb1e55b2024c6dc",
+      "@id": "/.well-known/genid/d6697aaa9a84fe5ebda5",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
     "assets": [],
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_C",
+    "isOwnerless": false,
     "reference": "ALT_DUSTEROP_A_AX_98_C",
     "id": "01K4YGECGRVP002XYTEWX1RAJT",
     "mainFaction": {
@@ -56,11 +197,11 @@
       "name": "Axiom"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/8bbf0fee9275f54ed030a8cef1eea9de.jpg",
-      "de-de": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/29d4d0dd1b6f64ae9b43aa0047a7099a.jpg",
       "it-it": "",
-      "es-es": ""
+      "es-es": "",
+      "de-de": ""
     },
     "name": "Technological Encounter",
     "elements": {
@@ -71,6 +212,8 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUOP-014-C-EN"
   },
   {
@@ -87,14 +230,14 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/7b52d6d7f93da0f7779c",
+        "@id": "/.well-known/genid/7d2fd6f946155d9e00f5",
         "reference": "CONJURATION",
         "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
         "name": "Conjuration"
       },
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/1c004369e3af6da3bada",
+        "@id": "/.well-known/genid/d181584f2037c8b3fabc",
         "reference": "MANEUVER",
         "id": "01HKAGPGT0M24AWMMF30CN0NT4",
         "name": "Maneuver"
@@ -109,16 +252,16 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/016f59c104e799bdbbe7",
+      "@id": "/.well-known/genid/9fdd4163e022197d0340",
       "reference": "RARE",
       "id": "01GE7AC9WY6PK56RADXXD6P1T5",
       "name": "Rare"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
     "assets": [],
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_R1",
+    "isOwnerless": false,
     "reference": "ALT_DUSTEROP_A_AX_98_R1",
     "id": "01K4YGECGRVP002XYTEWX1RAJX",
     "mainFaction": {
@@ -130,11 +273,11 @@
       "name": "Axiom"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/0f9cf1ebcb3c45687cca714bd4d1f8c0.jpg",
-      "de-de": "",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/89d7f47aacaa015b0ff4c653a094006d.jpg",
       "it-it": "",
-      "es-es": ""
+      "es-es": "",
+      "de-de": ""
     },
     "name": "Technological Encounter",
     "elements": {
@@ -145,7 +288,440 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUOP-014-R-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_BR_99_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/27df41b77320ad641687",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/518050b8069dd6a096ca",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_BR_99_R2",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ15",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/7d6c7be1b79963b2d611d4d723c97cda.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/a28de82102eb87b3331aacdf05a7d399.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Market Encounter",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Create a [Manaseed] token in your Landmarks.",
+      "ECHO_EFFECT": "{D} : The next Character played from your hand this turn activates one of its {r} abilities."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_BR_99_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_BR_95_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/103764c84753d88e58e5",
+        "reference": "TRAINER",
+        "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+        "name": "Trainer"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/42788e8bbca91b04dbb8",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/en_US/a101150bb6dcfbd707775ed98a6e41d2.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_BR_95_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_BR_95_C",
+    "id": "01K4YGECGTNVYF1A49CQHT1JPY",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/fr_FR/2b620fae222110bcb8bf8130de31884f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_95/JPG/en_US/a101150bb6dcfbd707775ed98a6e41d2.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Deep-Cloud Instructor",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} You may [Rush] a Character. If played from your hand, it activates one of its {r} abilities.  {R} Ottengo 2 rinforzi."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_BR_95_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_BR_94_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ebbb0bf3914b6e01b4f3",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Citizen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/91fd7facbbb0f731e31b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/en_US/09b8f82d9afbcc0d445536c35c82f69b.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_BR_94_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_BR_94_R1",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ0S",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/fr_FR/5ccfbe6df152a9a562cc5ecb54376d35.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_BR_94/JPG/en_US/09b8f82d9afbcc0d445536c35c82f69b.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka Fisherman",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "#{R} Draw a card.#  {R} Create two [Manaseed] tokens in your Landmarks."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_BR_94_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_BR_99_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c9dbd17474dcbc7fa924",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2c19640947beda3cbafe",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/fcd5dafc19a332825e8de3540ec3eb42.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_BR_99_C",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ0Z",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/2c6229f7bed000cc33692b5f89821acf.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/fcd5dafc19a332825e8de3540ec3eb42.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Market Encounter",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "Create a [Manaseed] token in your Landmarks.",
+      "ECHO_EFFECT": "{D} : The next Character played from your hand this turn activates one of its {r} abilities."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_BR_99_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_BR_99_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2e11f7ba8e88a449eb77",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/417e158500813b22acdf",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/1554f5781913dbe1ea2116b896229f25.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_BR_99_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_BR_99_R1",
+    "id": "01K4YGECGVR8KHDVDJ345YYJ12",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/fr_FR/af35b8acdbd3ca42eb6cede3f4f7c556.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_BR_99/JPG/en_US/1554f5781913dbe1ea2116b896229f25.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Market Encounter",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#4#",
+      "MAIN_EFFECT": "#Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).#",
+      "ECHO_EFFECT": "{D} : The next Character played from your hand this turn activates one of its {r} abilities."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_BR_99_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_YZ_97_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/55572b50e9538cc11a86",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Boon"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/cb89fcb7562b5d78d126",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9ea8de61d06d5478543b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_YZ_97_R2",
+    "id": "01K4YGECH75K3EB7FWR6TF39QC",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/e51ba5ea3a11be36b04e603ee4ce92a7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/3ba464afded5a1a39843aa0c4caaa05b.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Sports Encounter",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "#1#",
+      "MAIN_EFFECT": "#[Cooldown].#  Distribute 2 boosts among any target Characters in play #or in Reserve.#",
+      "ECHO_EFFECT": "{D}: [After You]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_YZ_97_R2-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -161,7 +737,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/57f77dde8fb69de2eec4",
+        "@id": "/.well-known/genid/3d4fd56a110da85c7c59",
         "reference": "COMPANION",
         "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
         "name": "Companion"
@@ -176,12 +752,11 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/1fc7f733ccd805556018",
+      "@id": "/.well-known/genid/832b74e6f1127bb912c1",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
     "assets": {
       "WEB": [
@@ -190,6 +765,7 @@
     },
     "lowerPrice": 0,
     "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_B_BR_31_C",
+    "isOwnerless": true,
     "reference": "ALT_DUSTEROP_B_BR_31_C",
     "id": "01K8NQYDYZFEJ4MK8ZT7K4GX3C",
     "mainFaction": {
@@ -201,11 +777,11 @@
       "name": "Bravos"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/fr_FR/cdae7441275e5e38bc8a3ed319b179ca.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/de_DE/2335be934518812a02696b1c4a677326.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/en_US/35387d9175c66957f4e80618ff13d43f.jpg",
       "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/it_IT/4da2632638b850bff4b391669b91c981.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/es_ES/11b94f8b4561b96b93d8cdcb10b47628.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/es_ES/11b94f8b4561b96b93d8cdcb10b47628.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_B_BR_31/JPG/de_DE/2335be934518812a02696b1c4a677326.jpg"
     },
     "name": "Booda",
     "elements": {
@@ -218,7 +794,739 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "SDUOP-022-T-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_LY_87_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f28351fd81aadabe6a3a",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Citizen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5252f5e463a28462cf40",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_87/JPG/en_US/026ea040b5f9d76eddd18f5b97ea46e4.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_LY_87_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_LY_87_C",
+    "id": "01K4YGECGXZMF34SHDVQ6H347Z",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_87/JPG/fr_FR/2d57ad72fb1f6f2347963422a5d3286b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_87/JPG/en_US/026ea040b5f9d76eddd18f5b97ea46e4.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka Guide",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "ECHO_EFFECT": "{D} : Return another Character from your Reserve to your hand."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_LY_87_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_LY_94_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/17b08f39ceb6c2dcac25",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Citizen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0d2d77e1687f9ca0c067",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_94/JPG/en_US/f41a1908268212c5035e4210a5e94765.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_LY_94_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_LY_94_R1",
+    "id": "01K4YGECGY9XSJBXPCXRG95JYX",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_94/JPG/fr_FR/ec3b1a8456c0ae2f58a89b259844ce77.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_LY_94/JPG/en_US/f41a1908268212c5035e4210a5e94765.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Nightclub Bouncer",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{J}# If I'm [In Contact], [Sabotage]. #Otherwise, you may exhaust target card in Reserve.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_LY_94_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_LY_100_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3820f7e091b95c047186",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/9ab8ba7e07f980affde0",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/559bb7dd9c965e1c3f2d195d97cd9c7a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_LY_100_C",
+    "id": "01K4YGECGY9XSJBXPCXRG95JZ3",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/2e52df9b7343c0f47e9306a497fbe597.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/559bb7dd9c965e1c3f2d195d97cd9c7a.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Romantic Encounter",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Target opponent reveals the top four cards of their deck. You may play a Character from these cards for free and it gains [[Fleeting]], then discard the rest."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_LY_100_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_LY_100_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/41a19ea232dc3f9d25aa",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/93f122a5f644d7f4e199",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/b213df7024efc3cf8ab5b9e7dd08fbdb.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_LY_100_R1",
+    "id": "01K4YGECGY9XSJBXPCXRG95JZ6",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/0f30b3967460129a7bf4a8676201f25f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/b213df7024efc3cf8ab5b9e7dd08fbdb.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Romantic Encounter",
+    "elements": {
+      "MAIN_COST": "#7#",
+      "RECALL_COST": "#7#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  #Do this for each player, starting with you:#  • That player reveals the top four cards of their deck. You may play a Character #with Base Cost {3} or less# from these cards for free and it gains [[Fleeting]], then discard the rest."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_LY_100_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_MU_98_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/203c1e6c68a9f7bf9323",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Boon"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0f041f16e60161ac146a",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/388a08a0eb4389aba487",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/43ac5fe2e15c658ed55ac7307f24080d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_MU_98_R2",
+    "id": "01K4YGECH13XFX6RFD000JVSWD",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/36657fbd43767be370ce31f006ff5ec3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/43ac5fe2e15c658ed55ac7307f24080d.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Soul Encounter",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": "#[Cooldown].#  Distribute 4 boosts among any target Characters in play or in Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_MU_98_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_OR_98_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a73fc0497ae8a113beb7",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Disruption"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/13c7652e4513b31bbc03",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8924405a7e98aaa5bdc2",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/637c61241d270f8f0a755e8c6ba3ac94.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_OR_98_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_OR_98_R2",
+    "id": "01K4YGECH5B52PVNSD8WASC8VP",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/fr_FR/75e40cd79bd672beee196f083b683ea8.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/637c61241d270f8f0a755e8c6ba3ac94.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Unfair Encounter",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "[[Fleeting]].  Target a Landmark Permanent with Hand Cost {2} or less. #Its controller [Resupplies],# then you take control of it."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_OR_98_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_MU_94_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/25f23f0c9a781b4529f9",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Citizen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d3df277a642dffd057dc",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/en_US/5850e5bf1869941dbe6de9640567f7db.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_94_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_MU_94_C",
+    "id": "01K4YGECH04GAPYFPJ439PFD7J",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/fr_FR/e995d22ac9dbd56c74741ef837e1a778.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_94/JPG/en_US/5850e5bf1869941dbe6de9640567f7db.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka Gatherer",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "ECHO_EFFECT": "{D} : Create a [Manaseed] token in each player's Landmarks."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_MU_94_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_MU_89_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0a218cbe4d9e14bd3efd",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Citizen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7b659f0a4227038dc658",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_89_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_MU_89_R1",
+    "id": "01K4YGECH13XFX6RFD000JVSW1",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/fr_FR/cdcf51b808dba33750545a8cc8b4ee21.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Charitable Reka",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{J} Create a [Manaseed] token in each player's Landmarks.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_MU_89_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_MU_98_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/fb44085413fe03f28a9e",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Boon"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/74318836d188fc0985ac",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/a7f7fc8c7fb7c0a39684",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/e5c8f77982654e4bc89e261195513cfb.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_MU_98_C",
+    "id": "01K4YGECH13XFX6RFD000JVSW7",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/089e35624713e801f517ab7462a942fb.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/e5c8f77982654e4bc89e261195513cfb.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Soul Encounter",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "Distribute 4 boosts among any target Characters in play or in Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_MU_98_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_MU_98_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/559042e6496928fad9fe",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Boon"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c2efee0dcc6909a607ec",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b80cb2d1aff6a7d10dec",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/270095b36a08d4b17468d4463c0353b3.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_MU_98_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_MU_98_R1",
+    "id": "01K4YGECH13XFX6RFD000JVSWA",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/fr_FR/abfb38bd6ed151acbb84704aa7538555.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_98/JPG/en_US/270095b36a08d4b17468d4463c0353b3.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Soul Encounter",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#2#",
+      "MAIN_EFFECT": "#[Cooldown].#  Distribute 4 boosts among any target Characters in play or in Reserve."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_MU_98_R1-EN"
   },
   {
     "@context": "/contexts/Card",
@@ -234,7 +1542,7 @@
     "cardSubTypes": [
       {
         "@type": "CardSubType",
-        "@id": "/.well-known/genid/986cbe5a57c9d1688df4",
+        "@id": "/.well-known/genid/324d1ad64df7253fa64c",
         "reference": "ANIMAL",
         "id": "01HKAGQS36Z3DP166MZW8KRAEK",
         "name": "Animal"
@@ -249,12 +1557,11 @@
     },
     "rarity": {
       "@type": "Rarity",
-      "@id": "/.well-known/genid/5d5fd0aeda188375b9fa",
+      "@id": "/.well-known/genid/8bf7472690457f94f1d1",
       "reference": "COMMON",
       "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
       "name": "Common"
     },
-    "cardRulings": [],
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
     "assets": [],
     "lowerPrice": 0,
@@ -271,11 +1578,11 @@
       "name": "Muna"
     },
     "allImagePath": {
-      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
       "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/fr_FR/103c5fdf59714cdb3ff6de6922b835b5.jpg",
-      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/de_DE/60a5ad9d8f39e9a82a5b2edfdf22d1ec.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/en_US/245960274810f6bbb44160dd95493255.jpg",
       "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/it_IT/1eec4707d8d41624fefd325ed7e7fb5c.jpg",
-      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/es_ES/61d8f608b9591d5931f1a8d23e54ef54.jpg"
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/es_ES/61d8f608b9591d5931f1a8d23e54ef54.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_MU_83/JPG/de_DE/60a5ad9d8f39e9a82a5b2edfdf22d1ec.jpg"
     },
     "name": "Woollyback",
     "elements": {
@@ -288,6 +1595,883 @@
     "isSuspended": false,
     "isErrated": false,
     "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
     "collectorNumber": "ALT_DUSTEROP_A_MU_83_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_100_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Landmark Permanent"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b010e28f1fd3b440ec53",
+        "reference": "SITE",
+        "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+        "name": "Site"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d32ff87bbced1b8b3a5f",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_100/JPG/en_US/39a83c8f69cdcaa2faaeb04cb07ea1ee.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_100_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_100_C",
+    "id": "01K4YGECH3JKGXH6R3FGTF53H8",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_100/JPG/fr_FR/359c34e33d0bab42eb0b30e629c748e0.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_100/JPG/en_US/39a83c8f69cdcaa2faaeb04cb07ea1ee.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "The Lectern",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "{J} [Resupply].  When I'm sacrificed — Create an [Ordis Recruit 1/1/1] in a Hero Expedition."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_100_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_86_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/821738da7501dcaf2bd2",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Engineer"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/92919cb32d778cdf5676",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_86/JPG/en_US/2140eed250a46842ca0df19e86940960.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_86_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_86_R1",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1F",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_86/JPG/fr_FR/d8a5cb3af0c980fb6f6088c121e775c7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_86/JPG/en_US/2140eed250a46842ca0df19e86940960.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Louis Sullivan",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "#{J}# If there are #three or more# cards in your Landmarks, draw a card."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_86_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_101_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Landmark Permanent"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/774f6863f88d35fc8998",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construction"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/20ec806d87bd9f6dc420",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/507bc8dbcad4c6e0e952712ea55eb43a.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_101_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_101_C",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1N",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/fr_FR/f1c3d829ac09426f82528afb5a42844e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/507bc8dbcad4c6e0e952712ea55eb43a.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "The Reunion",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "MAIN_EFFECT": "{T} : Choose up to the number of cards in your Landmarks:  • Create an [Ordis Recruit 1/1/1] Soldier token in a Companion Expedition.  • Create an [Ordis Recruit 1/1/1] in a Hero Expedition.  • Up to two target Characters gain 1 boost."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_101_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_OR_101_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+      "@type": "CardType",
+      "reference": "LANDMARK_PERMANENT",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "name": "Landmark Permanent"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d3e0c54e68a4552c8bd2",
+        "reference": "CONSTRUCTION",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "name": "Construction"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/bee8d1085e98142c68dc",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/b8f31c0fa5ec521cf4532317c6c2950d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_OR_101_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_OR_101_R1",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1R",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/fr_FR/415615fb2b10c1503fb668639d790342.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_OR_101/JPG/en_US/b8f31c0fa5ec521cf4532317c6c2950d.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "The Reunion",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "MAIN_EFFECT": "{T} : Choose up to the number of cards in your Landmarks:  • Create an [Ordis Recruit 1/1/1] Soldier token in a Companion Expedition.  • Create one in a Hero Expedition.  • Up to two target Characters gain 1 boost.  • #Draw a card.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_OR_101_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_OR_98_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/93e1878d4f4dbd3568cd",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Disruption"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/66aa49a92f582277be7f",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/31f75e2041378fcb48ed",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/640fe4775509172a97a432d3d0675411.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_OR_98_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_OR_98_C",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ1Y",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/fr_FR/2fcf2659c4ae67869061b95bbe375700.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/640fe4775509172a97a432d3d0675411.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Unfair Encounter",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "[[Fleeting]].  Take control of target Landmark Permanent with Hand Cost {2} or less."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_OR_98_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_OR_98_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/bf21b6f508e26eed61a1",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Disruption"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/3416e87427f7b7382bf7",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3f45b3b5e99b09be337b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/f082eefd282fc2ec2511a756d39550ba.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_OR_98_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_OR_98_R1",
+    "id": "01K4YGECH4RMXXTM87KCSRYQ21",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/fr_FR/02098038c920efa24e449d77791e27f5.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_OR_98/JPG/en_US/f082eefd282fc2ec2511a756d39550ba.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Unfair Encounter",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "#3#",
+      "MAIN_EFFECT": "[[Fleeting]].  Target a Landmark Permanent with Hand Cost {2} or less. #Its controller [Resupplies],# then you take control of it."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_OR_98_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_YZ_89_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b4f41260d5c625041e85",
+        "reference": "ROGUE",
+        "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+        "name": "Rogue"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/2097e7630cb0a4231d62",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_89/JPG/en_US/7f50b9712041c64fc7f478291a35348b.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_YZ_89_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_YZ_89_C",
+    "id": "01K4YGECH62QHQJ3ED3T58P4SS",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_89/JPG/fr_FR/7563dfa7b6b5baac1672bed0590fc153.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_89/JPG/en_US/7f50b9712041c64fc7f478291a35348b.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Foul Faker",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} If I'm [In Contact], [Sabotage]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_YZ_89_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_P_YZ_91_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Character"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c8962ccee8d61a6f0701",
+        "reference": "CITIZEN",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "name": "Citizen"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e16c86db322d7131813b",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_91/JPG/en_US/f2afb07238d161ef131526437a842d3d.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_YZ_91_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_P_YZ_91_R1",
+    "id": "01K4YGECH62QHQJ3ED3T58P4T5",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_91/JPG/fr_FR/ada0947490f80eea9200ae61974f6d82.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_YZ_91/JPG/en_US/f2afb07238d161ef131526437a842d3d.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Reka Supporter",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{H} Create a [Manaseed] token in your Landmarks.",
+      "ECHO_EFFECT": "#{D} : [After You].#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_P_YZ_91_R1-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_AX_98_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/6ee448aaf89afac44a64",
+        "reference": "CONJURATION",
+        "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
+        "name": "Conjuration"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/46c6a2bbe673be446a7c",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4e927fd002d0d8227878",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/9bfc1c2ea85175b386c296e653961425.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_AX_98_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_AX_98_R2",
+    "id": "01K4YGECGRVP002XYTEWX1RAK0",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/fr_FR/6fd7b8494e51728ef4aec8a5e25d39d3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_AX_98/JPG/en_US/9bfc1c2ea85175b386c296e653961425.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Technological Encounter",
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[Cooldown].  Draw a card, then create a [Manaseed] token in your Landmarks."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_AX_98_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_LY_100_R2",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d62e3bbe07086e455db0",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4a49007f144a9fb6ed7f",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/ce0e69633f83c1efc6e5b9f604120f43.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_LY_100_R2",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_LY_100_R2",
+    "id": "01K4YGECGY9XSJBXPCXRG95JZ9",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/fr_FR/910ebc417ed7601e8c1aa20edf292755.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_LY_100/JPG/en_US/ce0e69633f83c1efc6e5b9f604120f43.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Romantic Encounter",
+    "elements": {
+      "MAIN_COST": "#7#",
+      "RECALL_COST": "#7#",
+      "MAIN_EFFECT": "#[[Fleeting]].#  #Do this for each player, starting with you:#  • That player reveals the top four cards of their deck. You may play a Character #with Base Cost {3} or less# from these cards for free and it gains [[Fleeting]], then discard the rest."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_LY_100_R2-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_YZ_97_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7831375be83695dccbbc",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Boon"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/328c3eaa505900223001",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5c3370f3796a46d2f9ed",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/1fd4ddedaa44195a1018a58e165beb45.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_C",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_YZ_97_C",
+    "id": "01K4YGECH75K3EB7FWR6TF39Q6",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/bbcfbe1e39454db909dab437062b5e2e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/1fd4ddedaa44195a1018a58e165beb45.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Sports Encounter",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "4",
+      "MAIN_EFFECT": "Distribute 2 boosts among any target Characters in play.",
+      "ECHO_EFFECT": "{D}: [After You]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_YZ_97_C-EN"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_DUSTEROP_A_YZ_97_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Spell"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/36743f4bf56bf667f3a8",
+        "reference": "BOON",
+        "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
+        "name": "Boon"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/abd260c8ecd89c955974",
+        "reference": "MANEUVER",
+        "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+        "name": "Maneuver"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/DUSTEROP",
+      "@type": "CardSet",
+      "id": "01K4YGEBN10S3MMN6J9CW5B4AC",
+      "reference": "DUSTEROP",
+      "name": "Seeds of Unity - Organized Play"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/18c14ce68d35bf67d448",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/57e4604902e8d3ccbfb7939a864ea085.jpg",
+    "assets": [],
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R1",
+    "isOwnerless": false,
+    "reference": "ALT_DUSTEROP_A_YZ_97_R1",
+    "id": "01K4YGECH75K3EB7FWR6TF39Q9",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/fr_FR/0640451ce3b7de27d8ae75b8ca16f177.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/57e4604902e8d3ccbfb7939a864ea085.jpg",
+      "it-it": "",
+      "es-es": "",
+      "de-de": ""
+    },
+    "name": "Sports Encounter",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "#1#",
+      "MAIN_EFFECT": "#[Cooldown].#  Distribute 2 boosts among any target Characters in play #or in Reserve.#",
+      "ECHO_EFFECT": "{D}: [After You]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_DUSTEROP_A_YZ_97_R1-EN"
   }
 ]
