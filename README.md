@@ -37,6 +37,10 @@ Files are stored using the following path pattern :
 ├── HISTORY/                         # English-only history of card changes
 │ ├── cards_history_CORE.json
 │ └── ...
+│
+├── IMAGES/                          # All cards images and arts in every languages
+│ └── ...
+│
 └── ...
 ```
 
