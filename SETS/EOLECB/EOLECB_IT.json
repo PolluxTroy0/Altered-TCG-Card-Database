@@ -1,0 +1,1926 @@
+[
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_AX_106_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c089cf21f5abc83ef4b1",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7dc463c6bbdd3514a075",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/JPG/it_IT/788cc8b297bd28bb7066d836cd6cfa6d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/WEB_e05ffa333c1e29c90354c4371226bfc9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/WEB_98bde1ac0b4268f399e6d87904a386ac",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/WEB_b88132ee5dceb63ccaab67cb273ee9bb"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_AX_106_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_AX_106_C",
+    "id": "01KH6E458GRPX2RSA1N3E772V9",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/JPG/fr_FR/ede58fec650ebff68053e96e8d144cad.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/JPG/en_US/8ae52b3ace6cd3eac2e12b03d29dde19.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/JPG/it_IT/788cc8b297bd28bb7066d836cd6cfa6d.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/JPG/es_ES/91a6fa5a03fcc84f6a5c7bd1fcc2497c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_106/JPG/de_DE/1c9b53226df383900ac3dc5a4c439e36.jpg"
+    },
+    "name": "Salamandra Furtiva",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} Puoi mettere una carta dalla tua mano nella Riserva."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_AX_106_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_AX_108_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8a2abcbc1e576fc24c59",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Avventuriero"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8ac7f6733491799440fd",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5eaeedc18dfac6126825",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/JPG/it_IT/8dfd192510eae9f851e0af059db598a1.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/WEB_77862bf7cba8f1d263ecca435a27300b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/WEB_e85677da5f404002807c3e8fdac13dfc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/WEB_d61e2a2ef05825acd9efabcf6ba99ab1"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_AX_108_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_AX_108_R1",
+    "id": "01KH6E458HGZ79546RNTGA0TYF",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/JPG/fr_FR/73b67f3dc7d9cf786599bf9f681c69e2.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/JPG/en_US/afbddb8a33784fcfcbc2ab31448833a1.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/JPG/it_IT/8dfd192510eae9f851e0af059db598a1.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/JPG/es_ES/57a3f043c0a7b4e274049495f0388c1b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_108/JPG/de_DE/d33aba9dfed211c8a7c84ae80d178fbc.jpg"
+    },
+    "name": "Paju Corrotto",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "#Non puoi giocarmi# se c'è un'altra carta nella tua mano.  #{J}# Crea una pedina [Aerolite] nei tuoi fulcri.",
+      "ECHO_EFFECT": "#{D}: crea una pedina [Aerolite] nei fulcri di un giocatore bersaglio.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_AX_108_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_AX_122_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/16ac97787fbf052316c2",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Ingegnere"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/97b0a2482095d1e1829e",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/JPG/it_IT/ea11872acb5578b7a54587eb8b15e31b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/WEB_015d1363573f8546bc1150db79cb7bc8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/WEB_b2cbca111385622c31a1d8a63ccf37ae",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/WEB_57003c26a1af6ec318c51935ce00eae5"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_AX_122_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_AX_122_R1",
+    "id": "01KH6E458JFR2T4J59P3JYZPWN",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/JPG/fr_FR/dd6c68917ad99810e8fbb4c3c3d592d5.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/JPG/en_US/3bf460d38f70a26ef9c1cd9828234e0f.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/JPG/it_IT/ea11872acb5578b7a54587eb8b15e31b.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/JPG/es_ES/5738db318f36ddf7c2ca96636e3a7590.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_122/JPG/de_DE/bd33e48138d9dd6249b827830d2561b9.jpg"
+    },
+    "name": "Saldatrice Reka",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "Giochi i permanenti per {1} in meno, fino a un minimo di {1}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_AX_122_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_AX_118_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Incantesimo"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e4f14600df8ca4f065bf",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Impedimento"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/fbb9a04e29ed83e56d02",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/JPG/it_IT/c5f42b5c89c22ec6da429280c4f58b8a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/WEB_eac0112d81840568c4971ee9b70a57ae",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/WEB_55f69c58cbee68b27493e945fcb0a0cb"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_AX_118_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_AX_118_C",
+    "id": "01KH6E458HGZ79546RNTGA0TYJ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/JPG/fr_FR/3adf947835641b2b04262d3bec9bfcc2.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/JPG/en_US/7516cccee9a7f52c40831a6c011909d6.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/JPG/it_IT/c5f42b5c89c22ec6da429280c4f58b8a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/JPG/es_ES/086d950b86d31c614685297de695200b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_AX_118/JPG/de_DE/7dfec73ed3ead603866332d4596f310b.jpg"
+    },
+    "name": "Esplosione di Emergenza",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MAIN_EFFECT": "[[Fugace]].  Giocami per {1} in meno se non ci sono altre carte nella tua mano.  Manda nella Riserva un personaggio bersaglio con costo base pari o inferiore a {3}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_AX_118_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_BR_107_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/8aba37603df71d181754",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/350d7b8401a1d0f3336b",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/it_IT/a6d34d15de26ee6a51e335d4a2bca735.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/WEB_af401ab55d8036ec0f05a8abcf78e9f0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/WEB_4aa37eeaa1fac5928ac85654a7fb95fb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/WEB_5d8c2cc5c200ef2deeebcd58085b0baa"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_BR_107_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_BR_107_C",
+    "id": "01KH6E45A0XH110NH8YM10NMM2",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/fr_FR/cbe3284bc69a5024a2cc6914d7ee9fe9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/en_US/0fd14ba211a085c7de2480e7ece9324d.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/it_IT/a6d34d15de26ee6a51e335d4a2bca735.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/es_ES/8a13dc0785896a1f20966d6de27e569b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/de_DE/021df9f97a2c061170714dcb47497019.jpg"
+    },
+    "name": "Ocelot Guida",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{J} Ottengo 1 rinforzo.  Quando un altro personaggio si unisce alle tue spedizioni — Puoi spendere 1 dei miei rinforzi. Se lo fai, ottiene 1 rinforzo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_BR_107_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_BR_108_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/fd90307e0c66dae9e58d",
+        "reference": "ADVENTURER",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "name": "Avventuriero"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/88fd2598853064461fa6",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/10a148a5336f6edb14bc",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/it_IT/34f2ca1829120f9ad8fb2cff8a8bffd5.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/WEB_c289de032c451485b9a9f5b0fe1c54b8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/WEB_d0a18453f5386001e97afcf039baa718",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/WEB_56dbfb4258bc749db04d8de76d36aa80"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_BR_108_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_BR_108_R1",
+    "id": "01KH6E45A0XH110NH8YM10NMMB",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/fr_FR/f74372026643365ed7389afdda05862d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/en_US/d98d3daf3ae6d90afb8919b845a2eae0.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/it_IT/34f2ca1829120f9ad8fb2cff8a8bffd5.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/es_ES/13a31dc07f390b61e9c3d241961087d8.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/de_DE/fba27713e0538a70b861096cc2c10b8d.jpg"
+    },
+    "name": "Aoife Corrotta",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "#2#",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non controlli una Prodezza.  {R} Puoi scegliere come bersaglio un altro personaggio. Perde [[Fugace]] e ottiene 1 rinforzo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_BR_108_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_BR_117_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ba7c2c9945148354719a",
+        "reference": "SOLDIER",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "name": "Soldato"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e903d91f9885014183c1",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/JPG/it_IT/521307e30ff5612036bb87aeb98c06ba.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/WEB_00ff90f37df5c19f2013c7f44b2b98bb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/WEB_07ea910c9bed12ead85e4822c29c8f0d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/WEB_29d6a17ccd51e55dd158e8ecd98689af"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_BR_117_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_BR_117_C",
+    "id": "01KH6E45A18TRPZMC0SJVATD0A",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/JPG/fr_FR/9c15231681309b26acee4893cdbe729d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/JPG/en_US/09d45f729926f563a94fef031a180bc7.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/JPG/it_IT/521307e30ff5612036bb87aeb98c06ba.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/JPG/es_ES/126c2d2a22c7783ff8a6b1f2c7b81603.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_117/JPG/de_DE/b3277752321aef9acae8b45413ba40df.jpg"
+    },
+    "name": "Sentinella Austera",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} [Sabota] una carta con costo dalla Riserva pari o inferiore a {2}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_BR_117_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_BR_113_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b681073de2570226ee34",
+        "reference": "DEITY",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "name": "Divinità"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/f1c97559d6628515a4bb",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/JPG/it_IT/81c480111b724d01c5a97b90fbe36b70.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/WEB_61ebffcce8a631013c73d88584577f1a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/WEB_04c36aa20071ca276782f276c22f73b1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/WEB_15c6be040fc19d54ac34f4c789c9e18a"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_BR_113_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_BR_113_R1",
+    "id": "01KH6E45A18TRPZMC0SJVATD07",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/JPG/fr_FR/d424432ff8f9d07246740feca33083f6.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/JPG/en_US/bf669c82fbbef2b71de4e7cc003018c5.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/JPG/it_IT/81c480111b724d01c5a97b90fbe36b70.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/JPG/es_ES/8580351b01cd7eee72498977e6c4f0b0.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_113/JPG/de_DE/50b009125e62dfbe84a3b9fa6063b46d.jpg"
+    },
+    "name": "Sekhmet",
+    "elements": {
+      "MAIN_COST": "#3#",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{H} Puoi far tornare un personaggio bersaglio che mi affronta con costo base #pari o inferiore a {2}# in mano al suo proprietario.  {R} Ottengo 2 rinforzi."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_BR_113_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_LY_107_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ee39e72269e84db3d050",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Artista"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1da2e3b20a354dda2856",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/c5b15422f678068d2c15",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/it_IT/a33f663572419cf0c86ddec7d822f51b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/WEB_245d525bb3230f123172b3c66e706fe0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/WEB_dea35f8d7c1c4fa5674b7b9391d73fd8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/WEB_19a397b6fd29f9521535b11a641f7a4c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_LY_107_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_LY_107_R1",
+    "id": "01KH6E45BEYBY7MKS8C8BS4SK6",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/fr_FR/c3c2b377a223fb8065c7478f82e2547d.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/en_US/8ddc0de45ab0603eaa91260d185301c7.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/it_IT/a33f663572419cf0c86ddec7d822f51b.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/es_ES/2f88ccfb483b8d3fbec455600324268e.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/de_DE/d8ff886b7950439849c56abf58d679d9.jpg"
+    },
+    "name": "Esmeralda Corrotta",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non sia stata attivata un'abilità {D} in questo turno.  #{J}# [Rifornisci].",
+      "ECHO_EFFECT": "#{D}: paga {1} in meno per il prossimo personaggio che giochi in questo turno, fino a un minimo di {1}.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_LY_107_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_LY_113_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1b469c1141f74223385c",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/d1ed6013937d476cabcc",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/JPG/it_IT/9053edd892fba2d67aea0acf3fe3ab91.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/WEB_afeaa43b2194031ccd214a14554f7055",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/WEB_1a7ff4c2d1e7aca0ea2b7b6445ae3496",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/WEB_01a663cf04693de9323ae1d06647fbba"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_LY_113_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_LY_113_R1",
+    "id": "01KH6E45BEYBY7MKS8C8BS4SKJ",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/JPG/fr_FR/10fb8b23a640af0894bec6431610d16f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/JPG/en_US/f0be6577d6a55eb3aeb05489c5d8984a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/JPG/it_IT/9053edd892fba2d67aea0acf3fe3ab91.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/JPG/es_ES/d32f0665e4b445a6db569bdf5a085af2.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_113/JPG/de_DE/4d5bce5297dffa2af194889beee88c04.jpg"
+    },
+    "name": "Bradipo Generoso",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "{H} Ottengo [[Dormiente]].  #A mezzogiorno — [Rifornisci].#",
+      "ECHO_EFFECT": "{D}: [Dopo di te]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_LY_113_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_LY_108_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/4666cb5c8482d33effcd",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Artista"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/923e83b8c00b2c83097f",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3a63b8cdf46fa9fee435",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/JPG/it_IT/c2d709c2fabf69b05d3909df9db67dc4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/WEB_ca87f59331dd0ba4aa09e7c41f711beb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/WEB_122cc22828ef22edec0bfac21888b9ad",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/WEB_fe211f915c2645c4846032d6c7b60580"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_LY_108_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_LY_108_C",
+    "id": "01KH6E45BEYBY7MKS8C8BS4SK9",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/JPG/fr_FR/5a8a849442fad6f6eddc0fb3a8de64e7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/JPG/en_US/1f47ffecb4f9c4fbcf507631202f37e4.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/JPG/it_IT/c2d709c2fabf69b05d3909df9db67dc4.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/JPG/es_ES/1875cb17276dca31c0a8c42bb2ec6122.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_108/JPG/de_DE/c8f8e72191a82a96e4e5dc533c69794a.jpg"
+    },
+    "name": "Suricato Profumato",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "1"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_LY_108_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_LY_106_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/d9650a5a50acd52153f2",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/b522da8c4bb397532c38",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/JPG/it_IT/cc6cb7e668211aedb33e7057343fe37a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/WEB_23f76eac22cbd2754f950db1cab8c606",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/WEB_80990b920951b7388efb65fe7e1bbb48",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/WEB_b0142e5aa048033f8b44625455d22491"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_LY_106_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_LY_106_C",
+    "id": "01KH6E45BD56PG59JFRVE1YJJ4",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/JPG/fr_FR/3d3aa61a0443c16d3d99c8d276ed8b50.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/JPG/en_US/2f0f12b0baf354b297780e40c6d745e2.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/JPG/it_IT/cc6cb7e668211aedb33e7057343fe37a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/JPG/es_ES/7e649e542b1abf50b386b55a10b711d5.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_106/JPG/de_DE/62fa2d21052af43172c161bfaad4ef4f.jpg"
+    },
+    "name": "Puzzola Fumante",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "ECHO_EFFECT": "{D}: paga {1} in meno per il prossimo personaggio che giochi in questo turno, fino a un minimo di {1}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_LY_106_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_MU_108_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a4a89ed86dda8257e0d1",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/7279dd0d8ba21109fca2",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5c133bbe70362624b1c7",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/it_IT/ebf452c1a61271a7ac336d401f7737b2.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/WEB_ec38d6b68b20e17304a85d660e276c2d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/WEB_9aafb7187d7d3d81a78e62be210b0cb9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/WEB_1b3bc78b6565a468a94fff8b25a82b3e"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_MU_108_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_MU_108_R1",
+    "id": "01KH6E45CV870QRJYZ1B0NJ0QW",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/fr_FR/3fb00e65d311947d70e2418b48390f3f.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/en_US/6c11d8c24b2b43193ab40011a82f197e.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/it_IT/ebf452c1a61271a7ac336d401f7737b2.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/es_ES/1d1b91ff944a919b4919ddc8f8b68a0b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/de_DE/7712229beeeec00e0c16326392731d6f.jpg"
+    },
+    "name": "Lanuvola Corrotta",
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "OCEAN_POWER": "#0#",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "#0#",
+      "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non ci sia un Animale in una spedizione dell'avversario.  #Quando lascio l'area delle spedizioni — Crea una pedina Animale [Lanuvola 1/1/1] nella mia spedizione.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_MU_108_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_MU_110_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2d0d19d6bdbe8daed451",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5af8327ef58abc56738a",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/it_IT/875fbc7a516a27ba4c9f39493994b6b0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/WEB_ccb4e3bf94dd287fc09cbd7a8b089a20",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/WEB_a9d190565afbc18e7da2757d224454bc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/WEB_bc6b89d76e6c9169bb053815fedefd38"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_MU_110_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_MU_110_C",
+    "id": "01KH6E45CV870QRJYZ1B0NJ0QZ",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/fr_FR/5620da47d346111287b826d0dc72f343.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/en_US/6b032afbbcb623a07cb782942cfdf191.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/it_IT/875fbc7a516a27ba4c9f39493994b6b0.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/es_ES/33ddb276d098c70a5d080fd2c35d9083.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/de_DE/fb48e7bcbab0669234b92c7deff4592a.jpg"
+    },
+    "name": "Raksha",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{J} Puoi scegliere come bersaglio un altro personaggio con {V} pari o inferiore alla mia. Ottiene 1 rinforzo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_MU_110_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_MU_120_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/addba013dc9b78d2855f",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3c127a7d5b59f84bc917",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/JPG/it_IT/bb9a0a4d65a5fb9dbae84a0610b874dc.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/WEB_8f4cefdcaba717e7937826df23cc755d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/WEB_df0dc82db49937d68738870440974595",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/WEB_39f6c1d68aea8d3f382f17c6a6378990"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_MU_120_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_MU_120_C",
+    "id": "01KH6E45CW28WABMQN5EGDMBTG",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/JPG/fr_FR/9de14d6eca9599a197e7d2249412de85.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/JPG/en_US/61d67f2ec932c6819e46cefa8e47e634.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/JPG/it_IT/bb9a0a4d65a5fb9dbae84a0610b874dc.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/JPG/es_ES/97cf50c9a884b88716f06a8383858b9f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_120/JPG/de_DE/54ca2c6808d6042795340051d32d17f4.jpg"
+    },
+    "name": "Lupo Cattivo",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{H} [Sabota] un personaggio con {V} pari o inferiore alla mia."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_MU_120_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_MU_116_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/61260652fbfc420fd066",
+        "reference": "DRUID",
+        "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+        "name": "Druido"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/135678d9998aa262aa3e",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/JPG/it_IT/9ef2e21dd1fa8bd332fe75f7c373de82.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/WEB_546f6e3e6702e6fcb4683f83c55a0bfb",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/WEB_c5fe3d8afb82fd73715efbdb0866913a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/WEB_1f39b74162e5d1dfc0f97dcc98a8fa96"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_MU_116_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_MU_116_R1",
+    "id": "01KH6E45CW28WABMQN5EGDMBTD",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/JPG/fr_FR/0dcf40a3cc8b5a1a65f5c68f8d5cfd69.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/JPG/en_US/9ba190a4a204623d211606ff44c94e11.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/JPG/it_IT/9ef2e21dd1fa8bd332fe75f7c373de82.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/JPG/es_ES/7fd77a86bf89ca4d0bb60403f7987b86.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_116/JPG/de_DE/fa5618f939c0c88f4a5ba0b006a260b4.jpg"
+    },
+    "name": "Medico della Natura",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "#3#",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{J}# [Rifornisci]. Se metti un Animale nella Riserva in questo modo, ottiene 1 rinforzo."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_MU_116_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_OR_112_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/397c295e420724d98efc",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/0742e13f53e97401bda5",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/JPG/it_IT/8fb4b5f95a641dd8d40e2cca937cc993.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/WEB_655f83213360d0a4fff66cbb7b859671",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/WEB_c5495906d2ed3cbdc05901b24a01d626",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/WEB_02ed9e425e5d22ca196e537920fd249c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_OR_112_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_OR_112_C",
+    "id": "01KH6E45E953N33VS2HD2TRY67",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/JPG/fr_FR/7206b9aa6733be2cf5b33bacc0c0a8f3.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/JPG/en_US/670576b2ed5b6a99b97502fa8252ceac.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/JPG/it_IT/8fb4b5f95a641dd8d40e2cca937cc993.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/JPG/es_ES/2a43ea283557deb0796c5481e564c4e3.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_112/JPG/de_DE/b6453fdcd8ca28af336ed7ec730e08a1.jpg"
+    },
+    "name": "Ippogrifo",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "1",
+      "MAIN_EFFECT": "{H} La mia spedizione [Ascende].  Quando lascio una spedizione [[Ascesa]] — Crea una pedina Soldato [Recluta Ordis 1/1/1] in quella spedizione."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_OR_112_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_OR_110_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f0b5fa398639d4a12d6c",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7f928b635c95d42d5d8f",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/JPG/it_IT/6291d32c95ae2e13f4d8fb3bcc2cd7f4.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/WEB_df66cb1e50f9b4cf9cf9a7802e878c64",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/WEB_990cb0e130438fab921fe43ec92010c0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/WEB_cf9b02d196209e96330b65e9b937f0cf"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_OR_110_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_OR_110_R1",
+    "id": "01KH6E45E953N33VS2HD2TRY64",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/JPG/fr_FR/886f9506ca4da588589da30ed42a1eb0.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/JPG/en_US/da2f0edeb6e53e6f60b942842d9ae9d2.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/JPG/it_IT/6291d32c95ae2e13f4d8fb3bcc2cd7f4.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/JPG/es_ES/581642706571c58acba35be7c331e235.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_110/JPG/de_DE/9b9b9d9f2ca8ab26258dc9e27730c40d.jpg"
+    },
+    "name": "Uccello del Tuono",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "#{J}# La mia spedizione [Ascende].  Quando la mia spedizione avanza [per via dell'Ascesa] — Pesca una carta."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_OR_110_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_OR_113_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ba420d50e61a4af536e7",
+        "reference": "ANIMAL",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "name": "Animale"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/5749a250bf081961212e",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/JPG/it_IT/1022a9819a26b2da6f25b1400060d5eb.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/WEB_86a130d4d4e1bc54d0082fea879f24c6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/WEB_a4257f35eb14213d3eb45e10d14b16e8",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/WEB_9001a1701e3968062ec7580007ef0e56"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_OR_113_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_OR_113_C",
+    "id": "01KH6E45E953N33VS2HD2TRY6D",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/JPG/fr_FR/9f914676823bcb533d863c76f581e8eb.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/JPG/en_US/7848ea1452b6d2ab4075211bfbe5f26b.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/JPG/it_IT/1022a9819a26b2da6f25b1400060d5eb.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/JPG/es_ES/2eaeeb7de4cfb3ea3eaabc7f64cfbbac.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_113/JPG/de_DE/adc6891b4a0d3c0a138bfc35fc3c7165.jpg"
+    },
+    "name": "Gufo Cercatore",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "Quando lascio l'area delle spedizioni — La mia spedizione [Ascende]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_OR_113_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_OR_114_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/ed80c1997d7597b7f691",
+        "reference": "SOLDIER",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "name": "Soldato"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/c827f4d68babd7a767f5",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/00a054d812f45936bcfd",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/JPG/it_IT/cd036eb0dcdd8009fb142bde1484b8b0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/WEB_4fef83ecbeb2b14cf6fef4e8565550b2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/WEB_9b53e47cdcb653ed9a097a7f9af9056d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/WEB_8712a6f1b73e188637cf124dba12e72c"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_OR_114_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_OR_114_R1",
+    "id": "01KH6E45E953N33VS2HD2TRY6P",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/JPG/fr_FR/f89619f565d18d8d84ece777808c299c.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/JPG/en_US/a626e6287e664c1be7ac0234dd60e662.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/JPG/it_IT/cd036eb0dcdd8009fb142bde1484b8b0.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/JPG/es_ES/a690f07250beb18378d640d8b0c71574.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_OR_114/JPG/de_DE/e5b53059d1403e7fc2323a2dec46e19d.jpg"
+    },
+    "name": "Giovanna Corrotta",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "#2#",
+      "FOREST_POWER": "#2#",
+      "MOUNTAIN_POWER": "#2#",
+      "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non ci sia un altro personaggio in ciascuna delle tue spedizioni.  Quando lascio l'area delle spedizioni — Crea una pedina Soldato [Recluta Ordis 1/1/1] in ciascuna delle tue spedizioni.",
+      "ECHO_EFFECT": "#{D}: crea una pedina Soldato [Recluta Ordis 1/1/1] in una spedizione bersaglio.#"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_OR_114_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_YZ_118_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e55989e55abd12653e1f",
+        "reference": "MAGE",
+        "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+        "name": "Mago"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/dd3ec4f4fd93a4ae20b7",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/JPG/it_IT/ecefabcfff3c7b2277e2f5b322bb1dc6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/WEB_a356c8af52200ed9747a3fe35e80dc3c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/WEB_98fbfa0382844d3c360305d738124aaf",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/WEB_6af1e643d9bee4a3783b7a42a6256db6"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_YZ_118_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_YZ_118_R1",
+    "id": "01KH6E45FPAYPPX02MN6KQ4C8K",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/JPG/fr_FR/4b8d5c170a481c71d23af13282cf59d9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/JPG/en_US/0072a158ae80ff799d0ec2c465b67c4f.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/JPG/it_IT/ecefabcfff3c7b2277e2f5b322bb1dc6.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/JPG/es_ES/fcb27c906840a3e2db2f5dfec5b8ee15.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_118/JPG/de_DE/1c0d05a37ab53060273cb587e2cc843f.jpg"
+    },
+    "name": "Fantasma del Qorgan",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "#{H} Puoi pagare {1}. Se lo fai, attivo la mia abilità {D}.#",
+      "ECHO_EFFECT": "{D}: pesca una carta, poi scarta una carta dalla tua mano."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_YZ_118_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_YZ_108_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/f5ad1b230c70e1f07573",
+        "reference": "FAIRY",
+        "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+        "name": "Folletto"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/01799e0092f1f17b1605",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/bb2165805c6389086060",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/JPG/it_IT/225ae55f3cf5d68828a3b74da7c6824a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/WEB_ebf40ec5fefd48df33416d81c105146a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/WEB_f60e64f12ed2e4a1fc84226ca89d2ccd",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/WEB_7d2b6ca00eeb07c051f53acdd8fb8828"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_YZ_108_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_YZ_108_C",
+    "id": "01KH6E45FNQB51SN6EGRDVZ298",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/JPG/fr_FR/da5f35b2967d3b302bff30391b33f646.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/JPG/en_US/7a374b00c3f4f2419f3b516bc667de14.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/JPG/it_IT/225ae55f3cf5d68828a3b74da7c6824a.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/JPG/es_ES/c9e2d092b22e40a9ee6bff8db6dfa81e.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_108/JPG/de_DE/d30395862954c4f5163d2a9d19a211b0.jpg"
+    },
+    "name": "Fatina dei Denti Corrotta",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "{H} Ottengo [[Fugace]] a meno che non ci siano sei o più carte nella tua pila degli scarti.  {H} [Sabota]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_YZ_108_C-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_YZ_114_R1",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personaggio"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/e49f4f85b5d2f14aa4eb",
+        "reference": "MAGE",
+        "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+        "name": "Mago"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/0a6e702851614cef5cf0",
+        "reference": "CORRUPTION",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "name": "Corruzione"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/559ead18c2a19ab3f4fa",
+      "reference": "RARE",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "name": "Rare"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/JPG/it_IT/695ec0dee0c73af695747bc14ec73e01.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/WEB_eeced02704ffc660b357caf9210c13ea",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/WEB_b1ec30be208c4b23d3945677589387a7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/WEB_4793a16552ab93b9512739c974e008bb"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_YZ_114_R1",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_YZ_114_R1",
+    "id": "01KH6E45FNQB51SN6EGRDVZ29H",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/JPG/fr_FR/0c2f1b78736a3567772b150424951ab7.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/JPG/en_US/f11c2f01d3257cf2eb5b124c2520ebac.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/JPG/it_IT/695ec0dee0c73af695747bc14ec73e01.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/JPG/es_ES/1f098487cb1c4b6da5984a7a9fa93d91.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_114/JPG/de_DE/530717d63b579bfb8b9424d5aa287535.jpg"
+    },
+    "name": "Baba Yaga Corrotta",
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "OCEAN_POWER": "#3#",
+      "FOREST_POWER": "#3#",
+      "MOUNTAIN_POWER": "#3#",
+      "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non ci siano sei o più carte nella tua pila degli scarti.  {H} Pesca una carta."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_YZ_114_R1-IT"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_EOLECB_A_YZ_117_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+      "@type": "CardType",
+      "reference": "SPELL",
+      "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+      "name": "Incantesimo"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/abf96dc36bd3695efbeb",
+        "reference": "DISRUPTION",
+        "id": "01HKAGPH80FC347E2P8841D298",
+        "name": "Impedimento"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/EOLECB",
+      "@type": "CardSet",
+      "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+      "reference": "EOLECB",
+      "name": "Roots of Corruption - Collector Booster"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7ef6f6d2d87b01edb9dd",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Common"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/JPG/it_IT/e016769687da12d59814960018c5cd38.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/WEB_1770189e478b7a46d05126464701dc3f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/WEB_44aed40b3bfe3fd10b66a759536dcdde"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_YZ_117_C",
+    "isOwnerless": true,
+    "reference": "ALT_EOLECB_A_YZ_117_C",
+    "id": "01KH6E45FNQB51SN6EGRDVZ29M",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/JPG/fr_FR/8a4dcb3ad53ad36bee824d32d6f64a0c.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/JPG/en_US/5c9d7a2cabf5e671ba55a95df7e48ada.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/JPG/it_IT/e016769687da12d59814960018c5cd38.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/JPG/es_ES/31cd7982908b5e35fb4c46ed18fefcde.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_YZ_117/JPG/de_DE/581da3bcbba003a73e206e44e765a406.jpg"
+    },
+    "name": "Per il Bene Superiore",
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MAIN_EFFECT": "[[Fugace]].  Scarta una carta dalla tua mano. Se lo fai, scarta una carta bersaglio in gioco con costo base pari o inferiore a {3}."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_EOLECB_A_YZ_117_C-IT"
+  }
+]
