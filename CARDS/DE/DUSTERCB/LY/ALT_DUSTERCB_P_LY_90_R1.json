@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/6013c1a53ca0bb81c77c",
+      "@id": "/.well-known/genid/ce3c311bbb2670336c28",
       "reference": "MAGE",
       "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
       "name": "Magier"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/6dcbe8abf34f807951ad",
+    "@id": "/.well-known/genid/fcb388c3438a7feb5059",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/en_US/a49b591674731d708b0c06d5af52db0b.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/WEB_931052689d79b599470eb9a49ee4816d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/WEB_f7f2797b9ea2e403ae56beaa00380ef8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/WEB_76ff3e1c16787d23836f96660f020e1a"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_90_R1",
   "isOwnerless": false,

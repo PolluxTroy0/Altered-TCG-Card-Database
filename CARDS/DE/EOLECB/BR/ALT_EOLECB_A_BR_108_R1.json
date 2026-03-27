@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLECB_A_BR_108_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0H0G47FEPW8H8AGE6CF6Z1W9G5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KHBKDKAM27XV2WQ7MPMP7ZA9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KHBKDKAM27XV2WQ7MPMP7ZA9",
+          "text": "„Unterschätze meinen brennenden Blick nicht.“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKAZ10V5YNSAH3EK89X5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KHBKDKAZ10V5YNSAH3EK89X5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKATAH6S0C29PV783N00",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KHBKDKATAH6S0C29PV783N00",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKA9QZQY3GP0YJ09XWXN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KHBKDKA9QZQY3GP0YJ09XWXN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKAGP1AZSXSTBJ6FWZKZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KHBKDKAGP1AZSXSTBJ6FWZKZ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "0H0G47FEPW8H8AGE6CF6Z1W9G5",
+      "reference": "ALT_EOLECB_A_BR_108_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a903411d30be90346102",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Abenteurer"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b7db28726276c164762f",
+      "reference": "CORRUPTION",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "name": "Verfall"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLECB",
+    "@type": "CardSet",
+    "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+    "reference": "EOLECB",
+    "name": "Roots of Corruption - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/963bb29c50fe31518c3d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/de_DE/fba27713e0538a70b861096cc2c10b8d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/WEB_c289de032c451485b9a9f5b0fe1c54b8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/WEB_d0a18453f5386001e97afcf039baa718",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/WEB_56dbfb4258bc749db04d8de76d36aa80"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_BR_108_R1",
+  "isOwnerless": true,
+  "reference": "ALT_EOLECB_A_BR_108_R1",
+  "id": "01KH6E45A0XH110NH8YM10NMMB",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/fr_FR/f74372026643365ed7389afdda05862d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/en_US/d98d3daf3ae6d90afb8919b845a2eae0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/it_IT/34f2ca1829120f9ad8fb2cff8a8bffd5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/es_ES/13a31dc07f390b61e9c3d241961087d8.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_108/JPG/de_DE/fba27713e0538a70b861096cc2c10b8d.jpg"
+  },
+  "name": "Verderbte Aoife",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "#Ich kann nicht gespielt werden,# es sei denn, du kontrollierst eine Heldentat.  {R} Du darfst einen anderen Charakter wählen. Er verliert [[Vergänglich]] und erhält 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLECB_A_BR_108_R1-DE"
+}

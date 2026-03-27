@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/d12ae8adf8d77eae7cd1",
+      "@id": "/.well-known/genid/3f563bdf1192da6ae582",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Folletto"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/ca757463fef4c8c3aabe",
+    "@id": "/.well-known/genid/6997c7b48eee7d0a650e",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/JPG/en_US/3105ef17919381e49b38e6cb8d8ed161.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/WEB_09c2e0a6e7314ea015e7532b06309bd7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/WEB_7fbf5ea35fa1d045361835b4347304b6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/WEB_0368e4c53897cda7f80b604d9682eb66"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_96_C",
   "isOwnerless": false,

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/dde10eb2a240770c5646",
+      "@id": "/.well-known/genid/cf0d0dbaf2fcb34fb66c",
       "reference": "ADVENTURER",
       "id": "01HKAGPC92CGHANVSRSC8R8ES6",
       "name": "Aventurier"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f0eb50c570f5c90ea1e2",
+      "@id": "/.well-known/genid/08dc0138b0d75adeef1f",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Gredin"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/f345f19e3ceb12e7a7d5",
+    "@id": "/.well-known/genid/793c6892f5777a501e47",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_91/JPG/fr_FR/a47221e0462ec9fb3d8f95f9fda10d16.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_91/WEB_761534ba41853eb111cefdec80f52d59",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_91/WEB_8976818f6a508ab066479516cc1eee91",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_91/WEB_e85404336c49bc611d499c98f9e48daa"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_91_R1",
   "isOwnerless": false,

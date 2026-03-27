@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/4934dd888cac3b07ad80",
+      "@id": "/.well-known/genid/e15f9484dd0284460c7e",
       "reference": "MERCHANT",
       "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
       "name": "Marchand"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/0ffe3634e4601cb43115",
+    "@id": "/.well-known/genid/b5b2f2034dd365233801",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/fr_FR/befbd33fa31fc1ef7bb02338c1fd7c95.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_ea563317ed5975de1b68df23bb242f85",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_693a832e557f2cada098fd82e685378a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_ee431e6f3e1e066c193b81590bb649b0"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_92_R2",
   "isOwnerless": false,

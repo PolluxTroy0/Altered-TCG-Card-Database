@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/cb35285d08dca71a7a4c",
+      "@id": "/.well-known/genid/419192163ca7ebc4a8de",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Burócrata"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/6e9569386a1f53f68b3d",
+      "@id": "/.well-known/genid/daf29f8e302c48e402cf",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Noble"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7451a3fddf33cd720871",
+    "@id": "/.well-known/genid/4e72abf948f4bc29991c",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_OR_97/JPG/en_US/52cd835324d840ec6560317c92405831.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_OR_97/WEB_ae5e2299447ecabff200861868c67641",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_OR_97/WEB_f3a3d39355990f36b1e60b630bd0cb6f"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_OR_97_E",
   "isOwnerless": false,

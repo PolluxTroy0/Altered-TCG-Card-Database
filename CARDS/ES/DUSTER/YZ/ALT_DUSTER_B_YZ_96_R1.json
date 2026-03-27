@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/1b03552bafb8fcc9c782",
+      "@id": "/.well-known/genid/dac45c5586e3632a4d94",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Artista"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/099b343a465983ba93af",
+    "@id": "/.well-known/genid/48233d971223216b8d5a",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_96/JPG/en_US/795ec32ae6cd1d288dddd780be7f5fa0.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_96/WEB_596c9b02dd7118a971203bbf40b11002",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_96/WEB_63259a433980747e02a00ec575829be4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_96/WEB_9d4e9e2caaebfb80c2440919d041b7d2"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_96_R1",
   "isOwnerless": false,

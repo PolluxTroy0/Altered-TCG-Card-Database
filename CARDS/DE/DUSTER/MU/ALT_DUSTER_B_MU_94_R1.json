@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8a7824485063959d0f5b",
+      "@id": "/.well-known/genid/e235b3a200fb574f3206",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Bürger"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/4656cb8c6dac8c94419a",
+    "@id": "/.well-known/genid/df29323f998a08a977e1",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_94/JPG/en_US/cc9560446d2139a9fb1aa3bdac2de136.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_94/WEB_6c59cb0d940ea0046a3eada7a181f46b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_94/WEB_d11898ffdef17cf7035d9719e756f23c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_94/WEB_88e0ff5b844b4a31393be2951e7ad82a"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_94_R1",
   "isOwnerless": false,

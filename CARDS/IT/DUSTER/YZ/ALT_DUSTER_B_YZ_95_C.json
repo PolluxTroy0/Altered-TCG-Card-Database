@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/096b613756266ebf2684",
+      "@id": "/.well-known/genid/25c2e1b8a42bb9fe9bcd",
       "reference": "DISRUPTION",
       "id": "01HKAGPH80FC347E2P8841D298",
       "name": "Impedimento"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/c4f72b5e11930c1a3722",
+      "@id": "/.well-known/genid/408284e1a552039cb8e6",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Stratagemma"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/cfe3700ffe4d184a6f9d",
+    "@id": "/.well-known/genid/60478efcadda0f183ab0",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/en_US/47cf6cadcc60ee48302bb55dfdc7d493.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/WEB_bf11568b3617f4e6614e05dc2914bfad",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/WEB_94754dfb31f1903ffa639e29749ce907"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_95_C",
   "isOwnerless": false,

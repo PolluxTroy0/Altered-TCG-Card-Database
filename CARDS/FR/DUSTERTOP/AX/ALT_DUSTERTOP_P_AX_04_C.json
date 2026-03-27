@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/fb7a6ef8e4a7cb016eb9",
+      "@id": "/.well-known/genid/9a6d6d59b3c9e2289a9a",
       "reference": "ELEMENTAL",
       "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
       "name": "Élémentaire"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/4cca3aeaf18e59a02c30",
+    "@id": "/.well-known/genid/54bbb5d5f8131b4782f8",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/fr_FR/e818ce8cef3594e61f4d8e83cb61e968.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/WEB_09a805d2e00e6ca54061900fd3931bbc",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/WEB_a8800aeed23f18c629e071cad4f5ab86",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/WEB_671e5aace4308836d220e6c1bb09f975"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_04_C",
   "isOwnerless": false,

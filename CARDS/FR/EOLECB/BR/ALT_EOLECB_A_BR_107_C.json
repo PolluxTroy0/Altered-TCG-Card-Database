@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLECB_A_BR_107_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/14FZBM5EZF8PZANTPWTBASMCFN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KHBKDK9QK35FMRT85C0MKHH4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KHBKDK9QK35FMRT85C0MKHH4",
+          "text": "Qui mieux que lui pour jouer au chat et à la souris ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKA12W89T8JX00S9NZ77",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KHBKDKA12W89T8JX00S9NZ77",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDK9W72KV15AF6VYN1BC1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KHBKDK9W72KV15AF6VYN1BC1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDK99Y3QW3TFXBZ5FT085",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KHBKDK99Y3QW3TFXBZ5FT085",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDK9HDYHVR8BN5BQY5P2V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KHBKDK9HDYHVR8BN5BQY5P2V",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "14FZBM5EZF8PZANTPWTBASMCFN",
+      "reference": "ALT_EOLECB_A_BR_107_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c73a3a38c92989780cfd",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLECB",
+    "@type": "CardSet",
+    "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+    "reference": "EOLECB",
+    "name": "Les Racines de la Corruption - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/85e855ddf7c868a789aa",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/fr_FR/cbe3284bc69a5024a2cc6914d7ee9fe9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/WEB_af401ab55d8036ec0f05a8abcf78e9f0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/WEB_4aa37eeaa1fac5928ac85654a7fb95fb",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/WEB_5d8c2cc5c200ef2deeebcd58085b0baa"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_BR_107_C",
+  "isOwnerless": true,
+  "reference": "ALT_EOLECB_A_BR_107_C",
+  "id": "01KH6E45A0XH110NH8YM10NMM2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/fr_FR/cbe3284bc69a5024a2cc6914d7ee9fe9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/en_US/0fd14ba211a085c7de2480e7ece9324d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/it_IT/a6d34d15de26ee6a51e335d4a2bca735.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/es_ES/8a13dc0785896a1f20966d6de27e569b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_BR_107/JPG/de_DE/021df9f97a2c061170714dcb47497019.jpg"
+  },
+  "name": "Ocelot Aiguilleur",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{J} Je gagne 1 boost.  Lorsqu'un autre Personnage rejoint vos Expéditions — Vous pouvez dépenser 1 de mes boosts. Si vous le faites, il gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLECB_A_BR_107_C-FR"
+}

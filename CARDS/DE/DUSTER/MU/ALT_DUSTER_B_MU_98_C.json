@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/cc823d250e8fcbc7a01e",
+      "@id": "/.well-known/genid/bd90b7e369e2ca7bcf8a",
       "reference": "BOON",
       "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
       "name": "Segen"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/28f8e5845df74bd885de",
+      "@id": "/.well-known/genid/c5932e6fd1a49096facb",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manöver"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/546b16edeb0b608569c9",
+    "@id": "/.well-known/genid/6c1890224196697fac6e",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/JPG/en_US/1b55114b9babbefabd13bdac73eb0d41.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/WEB_1b5d317613eaf57660d6ed300280e202",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/WEB_35db4d71e73557bf69a6c51be2ee5581"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_98_C",
   "isOwnerless": false,

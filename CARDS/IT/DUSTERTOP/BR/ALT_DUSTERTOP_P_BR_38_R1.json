@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a8fc9d446bbf24684dd9",
+      "@id": "/.well-known/genid/7c3dc6c62c9ee9640a5b",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animale"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/df8ff91de2e28b208126",
+      "@id": "/.well-known/genid/1f489553be155582aa0c",
       "reference": "SPIRIT",
       "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
       "name": "Spirito"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/940239fadb97057a54fe",
+    "@id": "/.well-known/genid/7a089e3bc0509b3e55b1",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/JPG/it_IT/0f003ea767399ce1a4cf29078b71d352.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/WEB_637179e42268830a49599db852177c1c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/WEB_940ed4106a2c6aace0c649d3763dd4e4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_BR_38/WEB_f7589c953de140cd00ba001025c6a636"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_BR_38_R1",
   "isOwnerless": false,

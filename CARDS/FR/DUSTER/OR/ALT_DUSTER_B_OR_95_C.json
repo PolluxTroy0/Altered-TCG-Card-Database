@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/d3b6fed4f65354074657",
+      "@id": "/.well-known/genid/2b67ff076c2f436d6171",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animal"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/9f977329d2fe7aad2a95",
+      "@id": "/.well-known/genid/0856863e39905d9745b3",
       "reference": "SPIRIT",
       "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
       "name": "Esprit"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/3e14e4a7f05686e23e73",
+    "@id": "/.well-known/genid/bcc5995470d17acc89ad",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/fr_FR/5ec0273e1c8cdd1def035e18eefc1896.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_516b68f901862760970cda732f05fa19",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_20e394620d2d3af48e56454789a18a4d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_ead981e4b02208a030c3562ee1843396"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_95_C",
   "isOwnerless": false,

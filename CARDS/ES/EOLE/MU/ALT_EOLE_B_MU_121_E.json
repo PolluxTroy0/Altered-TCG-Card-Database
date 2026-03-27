@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_MU_121_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5H4M1EN6SP8TKVXBM00ZTAKJSF",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HTEKP1QE0WY2HYTFMVTZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HTEKP1QE0WY2HYTFMVTZ",
+          "text": "«No queda otra que meterse en la boca del lobo»."
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HTF9MHZV5NKTX9GF80ZT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94HTF9MHZV5NKTX9GF80ZT",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HTF0PADBFEBP3AYDY0Z6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HTF0PADBFEBP3AYDY0Z6",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HTCQ81JW3TN5H2A74A0Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94HTCQ81JW3TN5H2A74A0Q",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HTCZA58SCHVHHD08YZTB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HTCZA58SCHVHHD08YZTB",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "5H4M1EN6SP8TKVXBM00ZTAKJSF",
+      "reference": "ALT_EOLE_B_MU_121_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1f03227315a0a8ecb537",
+      "reference": "FEAT",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "name": "Proeza"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/9bb02d194c092f317185",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/JPG/es_ES/8479787ee2eebbf1af64f848d7ed8605.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/WEB_24bde7087424d82de7ce37ed425740af",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/WEB_f4876a22bc7b6c3043da9b99bab34789"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_121_E",
+  "isOwnerless": true,
+  "reference": "ALT_EOLE_B_MU_121_E",
+  "id": "01K9YWHY9N0WQ2GPBPPZEKFSAH",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/JPG/fr_FR/9c5db92ebf0d0616235f3faa5fccc3ae.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/JPG/en_US/e1dee6a178c4fbb45b8e271157270cfe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/JPG/it_IT/a8ba0bca541515713002c1b97de0ae88.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/JPG/es_ES/8479787ee2eebbf1af64f848d7ed8605.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_121/JPG/de_DE/4d3275f1b35a2e982a78b19a5279d658.jpg"
+  },
+  "name": "Proferir el aullido",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} Crea una ficha de animal [Lanudo 1/1/1] en una expedición objetivo. Gana [[Anclaje]].  Cuando pases — Si tres o más animales en tus expediciones tienen una estadística de {V} diferente, complétame.",
+    "ECHO_EFFECT": "[[Completada]], {T} : El siguiente animal que juegues este turno gana 1 potenciador."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_MU_121_E-ES"
+}

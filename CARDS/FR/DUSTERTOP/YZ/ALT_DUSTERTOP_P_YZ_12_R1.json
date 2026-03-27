@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/e9db2c538e5d5477bf52",
+      "@id": "/.well-known/genid/4711bbab8f4c868bfa16",
       "reference": "SCHOLAR",
       "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
       "name": "Érudit"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/98924b3fd01623d0e1f0",
+    "@id": "/.well-known/genid/2dc75afe7d2ce1a21cde",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/JPG/fr_FR/6031334f97e17107e0e1b231519d2f5a.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/WEB_907b9dbc771a7bffaeabff9b053f8cd8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/WEB_a457bbea1e0abc720c8a95df91bfb9db",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_YZ_12/WEB_c653c09e110ec80ef1905e2f856b425c"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_YZ_12_R1",
   "isOwnerless": false,

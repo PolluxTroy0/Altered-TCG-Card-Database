@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_BR_107_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2T4668B1T68RV9N4S4KFG7F3FE",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HPWW824Y54F25GJ33Q18",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HPWW824Y54F25GJ33Q18",
+          "text": "Wer wäre besser bei Katz-und-Maus-Spielen?"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HPY2JYYGMAWQCMC8N2XG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94HPY2JYYGMAWQCMC8N2XG",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HPXPXCDXRG0G5N6ZGQ21",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HPXPXCDXRG0G5N6ZGQ21",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HPWJCBVE7FBBTXGVBPFW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94HPWJCBVE7FBBTXGVBPFW",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HPWPYFEJ4K76VZ8AQD5T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HPWPYFEJ4K76VZ8AQD5T",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "2T4668B1T68RV9N4S4KFG7F3FE",
+      "reference": "ALT_EOLE_B_BR_107_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6f7a3c5d9ff7ca47b7ab",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Tier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/33c0e255682ea972dbbd",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/JPG/de_DE/987d7d623563359d4814bfc3f94d0487.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/WEB_dfce10354d7f5da6564ec30d49b3e78d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/WEB_125e1ad266d7d78511e1254296187538",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/WEB_991ada157a0e9b718ad4f2346ed62f1b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_BR_107_R1",
+  "isOwnerless": true,
+  "reference": "ALT_EOLE_B_BR_107_R1",
+  "id": "01K9YWHY8R9ZSJ89HC5Z0YZGCF",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/JPG/fr_FR/47112adc63e4a529f4be3573cd69be12.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/JPG/en_US/d3f373d0adbdf8f6cd6fc0ad99123f9c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/JPG/it_IT/4e2a45fd9291233819e32a20fccce517.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/JPG/es_ES/7c758c15f0ef1b1b8ac477dbb97e684f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_107/JPG/de_DE/987d7d623563359d4814bfc3f94d0487.jpg"
+  },
+  "name": "Wegweisender Ozelot",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#0#",
+    "FOREST_POWER": "#0#",
+    "MOUNTAIN_POWER": "#0#",
+    "MAIN_EFFECT": "{J} Ich erhalte #2 Verstärkungen.#  Wenn ein anderer Charakter sich deinen Expeditionen anschließt — Du darfst 1 Verstärkung #eines Charakters, den du kontrollierst,# ausgeben, um ihm 1 Verstärkung zu geben."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_BR_107_R1-DE"
+}

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/38eb0f62dbcc00b32c95",
+      "@id": "/.well-known/genid/56f8e590f69b6448a3f2",
       "reference": "ADVENTURER",
       "id": "01HKAGPC92CGHANVSRSC8R8ES6",
       "name": "Aventurero"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7afcb638d40002bc13ef",
+      "@id": "/.well-known/genid/166af520707424f3c8e5",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animal"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/35b90818564d6253c646",
+    "@id": "/.well-known/genid/ee998c8a52698f1cce9c",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/en_US/2ee405fea8d2c9f35abbc8988b9def73.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_d44d8942e4d11d7ead00ccd33af8e78b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_b4bc054970c267c4aa258f606d17257d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_1e567a471c44cb18bb230a28285f9035"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_86_C",
   "isOwnerless": false,

@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLECB_A_MU_108_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3ZQ3XG4PPH9P4ANB7SN5PJWNMK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KHBKDKJCRDAR9EDB03V6EJE6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KHBKDKJCRDAR9EDB03V6EJE6",
+          "text": "Non dovresti mai affidare il gregge a un lupo."
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKJPPBFZTMV07GFHGAXS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KHBKDKJPPBFZTMV07GFHGAXS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKJHQRPG927TPQ9S4YW4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KHBKDKJHQRPG927TPQ9S4YW4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKJ1W9T6RHE3KRNX45X8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KHBKDKJ1W9T6RHE3KRNX45X8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKJ7KAHX9MAKYYPHB8VP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KHBKDKJ7KAHX9MAKYYPHB8VP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "3ZQ3XG4PPH9P4ANB7SN5PJWNMK",
+      "reference": "ALT_EOLECB_A_MU_108_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a4a89ed86dda8257e0d1",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7279dd0d8ba21109fca2",
+      "reference": "CORRUPTION",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "name": "Corruzione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLECB",
+    "@type": "CardSet",
+    "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+    "reference": "EOLECB",
+    "name": "Roots of Corruption - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5c133bbe70362624b1c7",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/it_IT/ebf452c1a61271a7ac336d401f7737b2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/WEB_ec38d6b68b20e17304a85d660e276c2d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/WEB_9aafb7187d7d3d81a78e62be210b0cb9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/WEB_1b3bc78b6565a468a94fff8b25a82b3e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_MU_108_R1",
+  "isOwnerless": true,
+  "reference": "ALT_EOLECB_A_MU_108_R1",
+  "id": "01KH6E45CV870QRJYZ1B0NJ0QW",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/fr_FR/3fb00e65d311947d70e2418b48390f3f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/en_US/6c11d8c24b2b43193ab40011a82f197e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/it_IT/ebf452c1a61271a7ac336d401f7737b2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/es_ES/1d1b91ff944a919b4919ddc8f8b68a0b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_108/JPG/de_DE/7712229beeeec00e0c16326392731d6f.jpg"
+  },
+  "name": "Lanuvola Corrotta",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "#0#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "#0#",
+    "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non ci sia un Animale in una spedizione dell'avversario.  #Quando lascio l'area delle spedizioni — Crea una pedina Animale [Lanuvola 1/1/1] nella mia spedizione.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLECB_A_MU_108_R1-IT"
+}

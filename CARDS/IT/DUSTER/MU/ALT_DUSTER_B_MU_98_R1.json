@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/fd5ac14cb78de6c564af",
+      "@id": "/.well-known/genid/5b04b2903d879fd302e7",
       "reference": "BOON",
       "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
       "name": "Vantaggio"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/66988938d654020488c0",
+      "@id": "/.well-known/genid/366091af01e132a730f7",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Stratagemma"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a4a63c91069494e27dce",
+    "@id": "/.well-known/genid/854dca0f654d07910b81",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/JPG/en_US/66662e172fca81ddd26be2a16149935e.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/WEB_1b5d317613eaf57660d6ed300280e202",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_98/WEB_35db4d71e73557bf69a6c51be2ee5581"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_98_R1",
   "isOwnerless": false,

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f899d088ac662a85ac6c",
+      "@id": "/.well-known/genid/4fca271494f938f2b623",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bureaucrate"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f6293e904f60d02538cf",
+      "@id": "/.well-known/genid/4df6584d48c346bb410e",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Gredin"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d72ad4f9c43bcc6392ba",
+    "@id": "/.well-known/genid/b896c2c5d7d7ec6a768d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/JPG/fr_FR/6b0958b1b37aa6a70b2afb99fdccf2db.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/WEB_4143f0b785270ca58e3e884196b072ff",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/WEB_f683ea5f58d7d2f9438e279b2faf6d30",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_92/WEB_b949608be2c269b6978b2386fa01b5dc"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_92_R2",
   "isOwnerless": false,

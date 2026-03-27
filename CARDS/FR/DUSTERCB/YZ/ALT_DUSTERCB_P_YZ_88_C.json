@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f811cd3951fcbaf46921",
+      "@id": "/.well-known/genid/70755e5e9bdb03a34cc1",
       "reference": "MAGE",
       "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
       "name": "Mage"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/40bde7da58f870132709",
+      "@id": "/.well-known/genid/2d1943b303b3ad053566",
       "reference": "SCHOLAR",
       "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
       "name": "Érudit"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/f006081d66546eb47fba",
+    "@id": "/.well-known/genid/6ec85d301617977121cc",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/JPG/fr_FR/f700d22378200916eb5f2a285bb5931c.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/WEB_0986b9452d10c2bb19c86b3d87896279",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/WEB_190a7d399fe3be95008a685a6f879545",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_88/WEB_b8ecd05572500b12518842aa37b586e8"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_88_C",
   "isOwnerless": false,

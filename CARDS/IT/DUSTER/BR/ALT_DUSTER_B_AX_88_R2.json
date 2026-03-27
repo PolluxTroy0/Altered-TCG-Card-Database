@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/37b525281a52da9711fd",
+      "@id": "/.well-known/genid/9634dc0a105b7e0ef37c",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Cittadino"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/55e6ef75e16055b15df1",
+    "@id": "/.well-known/genid/58aff6c88c0fb6e6c3e1",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/en_US/214ea2ace590e72bbd73ed2c4a9beb0f.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/WEB_55a0ea3ef3dd38e82ae2577c25a9c6a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/WEB_4b2dc1e8480e6c1753aad127c5d5c310",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/WEB_5c4da22ecab34aafc59dbb4ad026e9ed"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_88_R2",
   "isOwnerless": false,

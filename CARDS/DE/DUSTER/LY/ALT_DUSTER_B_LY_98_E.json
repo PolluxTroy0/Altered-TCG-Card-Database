@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/9e4e97a4f7c85f7ed632",
+      "@id": "/.well-known/genid/f95a67ecab3e49610e06",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Künstler"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/614c7dc6d210d83474bb",
+      "@id": "/.well-known/genid/c620ad37da9088f62263",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Adliger"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a1c2e73e9ed75e75a33d",
+    "@id": "/.well-known/genid/013f069c4b9ce258fcab",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/JPG/en_US/5608f61c83e837f795e8570dd2d16cee.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/WEB_0cb7e01293cda465b3da8644e1367895",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_98/WEB_1a1355d6567b4f3227d618cd251caf7f"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_98_E",
   "isOwnerless": false,

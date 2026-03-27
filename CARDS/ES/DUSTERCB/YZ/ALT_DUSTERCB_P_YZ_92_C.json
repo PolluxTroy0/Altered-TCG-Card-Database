@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/347d3d061d87cd37505b",
+      "@id": "/.well-known/genid/a3a4bfc03ddcf6e4bb09",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldado"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/e74a93d28f99fb31e80d",
+      "@id": "/.well-known/genid/1aebdae9ece575e6b68b",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Pícaro"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/08dbc8655d5354cc8de4",
+    "@id": "/.well-known/genid/3e7d73857a5f0dac6978",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/JPG/en_US/2845a489c7235597093975d944378585.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/WEB_0d444b4f455966154091c265ffcca362",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/WEB_db89f16028ca9a6d2bc7640bf091896d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_YZ_92/WEB_1c38b14f118e22fd56b308b9beb4699c"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_YZ_92_C",
   "isOwnerless": false,

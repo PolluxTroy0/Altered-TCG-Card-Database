@@ -1,0 +1,157 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_BR_121_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2PNXRRACD78H8REJM4KTKXCXRN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HQJ3S1QPM05KHV47Z1EW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HQJ3S1QPM05KHV47Z1EW",
+          "text": "Après Kojo, elle est la deuxième à avoir accompli cet exploit."
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQJFVR7FVCG6NFN0N9W4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KC94HQJFVR7FVCG6NFN0N9W4",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQJ9SKMG2WDRRMAWDBJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HQJ9SKMG2WDRRMAWDBJ5",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQHRAEV56VR5FJ4XTD0M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KC94HQHRAEV56VR5FJ4XTD0M",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HQHY3JZFPB0BKFWDMMDY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HQHY3JZFPB0BKFWDMMDY",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "2PNXRRACD78H8REJM4KTKXCXRN",
+      "reference": "ALT_EOLE_B_BR_121_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Repère Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/54442908c1914bb9cbcf",
+      "reference": "FEAT",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "name": "Prouesse"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Les Racines de la Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8a687f151999e5fe0b55",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/JPG/fr_FR/4ca15ac18a2129908a57b1af231e4b30.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/WEB_94dd893ec2c37b43f1a514e3bcceebed",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/WEB_c72fde5b379377745e6815b4feb45172"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_BR_121_R1",
+  "isOwnerless": true,
+  "reference": "ALT_EOLE_B_BR_121_R1",
+  "id": "01K9YWHY918C89A4RCX48RQSDT",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/JPG/fr_FR/4ca15ac18a2129908a57b1af231e4b30.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/JPG/en_US/40f22ef5c891141c73e6683f75b65a21.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/JPG/it_IT/5441610003fc7271c3743a5cdd3bfd65.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/JPG/es_ES/d1e4f6f1fc6c2b9cc26c45189aa25e87.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_121/JPG/de_DE/bb0611a27b6631c3bbcbcf0e1a9dec08.jpg"
+  },
+  "name": "Moissonner le Mana",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MAIN_EFFECT": "{J} Vous pouvez mettre une carte de votre Réserve dans votre zone de Mana, épuisée. #Si vous le faites, [Ravitaillez].#  Lorsque vous passez — S'il y a au moins douze Orbes de Mana dans votre zone de Mana, accomplissez-moi.",
+    "ECHO_EFFECT": "[[Accomplie]] : Si l'une de vos Expéditions devait avancer pendant le Crépuscule, vous pouvez m'épuiser ({T}) pour l'avancer d'une région supplémentaire à la place."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_BR_121_R1-FR"
+}

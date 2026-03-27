@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/836e0edbda6a293fe89b",
+      "@id": "/.well-known/genid/fa44e3d26f5a0ca72eb1",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Citoyen"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/706f5a2bd00429c1ec02",
+      "@id": "/.well-known/genid/fbe5f70211545a9d8680",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldat"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/ff3a7f32de8d0559e471",
+    "@id": "/.well-known/genid/6d71b3a68fd1114da09d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_90/JPG/fr_FR/b77901b8de34fca4c006c8ae6f178e3c.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_90/WEB_265e0b0c99303e9749acef98e2fc0fc9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_90/WEB_9ea6270b1fe82217cfa5e9f5d6e1dd79",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_90/WEB_a44d1fd646374c470290a56d93c840ae"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_90_R2",
   "isOwnerless": false,

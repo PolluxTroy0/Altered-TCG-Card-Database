@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/5f43df3352d664aa2b62",
+      "@id": "/.well-known/genid/dc7fe1cf6b008cd42c64",
       "reference": "ELEMENTAL",
       "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
       "name": "Elementar"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/233054d24cc06bd8ebe5",
+    "@id": "/.well-known/genid/4d2ffdf1a26c49df58de",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_88/JPG/en_US/45c1c27e0fd6178a650d51f1f9504227.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_88/WEB_b464f2b6b247e05bfa2741d8e25455a8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_88/WEB_38fdb1c608094124ed03c57414f2401d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_88/WEB_ac5ff4933f0c8f4fa94b4a73347f05e0"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_88_C",
   "isOwnerless": false,

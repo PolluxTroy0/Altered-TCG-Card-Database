@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f7784e2c69cd6d93c4de",
+      "@id": "/.well-known/genid/f772d9591a418b7c9b9d",
       "reference": "PLANT",
       "id": "01HKAGSB49H24XWW17AAY441MT",
       "name": "Pianta"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/38dc0004d03a604536e2",
+    "@id": "/.well-known/genid/52206034f401d7f3104e",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/JPG/it_IT/f9251efc7f16935cd8620683ddf57002.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/WEB_8387b5c8ccf4f4014554e2b7929d8098",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/WEB_8e935d2324dc8d1d553331a4fa62c5a7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_MU_12/WEB_75077ffcd9bcb945d332c6743393ae2f"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_MU_12_R1",
   "isOwnerless": false,

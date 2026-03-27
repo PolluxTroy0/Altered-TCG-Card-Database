@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/89f063f7f0b2bed769a6",
+      "@id": "/.well-known/genid/71b3fd4bf6fdd4fae4f3",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Tier"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/e652e61c3f3214ca4a50",
+    "@id": "/.well-known/genid/40ddb7417283a0f79dce",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_95/JPG/en_US/d69fd0ea8d8f8e0f3966ca7c43d41a3d.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_95/WEB_963dba6192eeb1acbf6351fcccb24397",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_95/WEB_650ecc2bd0efd7c5a6cfc81889788cbf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_95/WEB_608e3af5746bf095c56a4e04bb4f1358"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_95_R1",
   "isOwnerless": false,

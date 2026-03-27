@@ -1,0 +1,168 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLECB_A_LY_107_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3QVXYRD2EP8DQA8068Z88TS57P",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KHBKDKF7EDP9TDCEM9CV5YXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KHBKDKF7EDP9TDCEM9CV5YXV",
+          "text": "Non hai indovinato chi ero, Fen?"
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKFJPZ4H8VK8FZAB4BHA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KHBKDKFJPZ4H8VK8FZAB4BHA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKFCDZTA6P8JWGD7BJ87",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KHBKDKFCDZTA6P8JWGD7BJ87",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKE396PFTZKBCQJB32BV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KHBKDKE396PFTZKBCQJB32BV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKEVJ1XW9MNFFG88T6TR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KHBKDKEVJ1XW9MNFFG88T6TR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "3QVXYRD2EP8DQA8068Z88TS57P",
+      "reference": "ALT_EOLECB_A_LY_107_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ee39e72269e84db3d050",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artista"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1da2e3b20a354dda2856",
+      "reference": "CORRUPTION",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "name": "Corruzione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLECB",
+    "@type": "CardSet",
+    "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+    "reference": "EOLECB",
+    "name": "Roots of Corruption - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c5b15422f678068d2c15",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/it_IT/a33f663572419cf0c86ddec7d822f51b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/WEB_245d525bb3230f123172b3c66e706fe0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/WEB_dea35f8d7c1c4fa5674b7b9391d73fd8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/WEB_19a397b6fd29f9521535b11a641f7a4c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_LY_107_R1",
+  "isOwnerless": true,
+  "reference": "ALT_EOLECB_A_LY_107_R1",
+  "id": "01KH6E45BEYBY7MKS8C8BS4SK6",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/fr_FR/c3c2b377a223fb8065c7478f82e2547d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/en_US/8ddc0de45ab0603eaa91260d185301c7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/it_IT/a33f663572419cf0c86ddec7d822f51b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/es_ES/2f88ccfb483b8d3fbec455600324268e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_LY_107/JPG/de_DE/d8ff886b7950439849c56abf58d679d9.jpg"
+  },
+  "name": "Esmeralda Corrotta",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#Non puoi giocarmi# a meno che non sia stata attivata un'abilità {D} in questo turno.  #{J}# [Rifornisci].",
+    "ECHO_EFFECT": "#{D}: paga {1} in meno per il prossimo personaggio che giochi in questo turno, fino a un minimo di {1}.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLECB_A_LY_107_R1-IT"
+}

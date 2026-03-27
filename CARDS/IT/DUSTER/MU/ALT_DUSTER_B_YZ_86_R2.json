@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f0c0e0c15d89a8020f9a",
+      "@id": "/.well-known/genid/0c29d38f313c89453d76",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Artista"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/27327087102f3fc6f144",
+      "@id": "/.well-known/genid/c16dd2662d116efbb283",
       "reference": "MAGE",
       "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
       "name": "Mago"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/8009d4ca6fa029a50311",
+    "@id": "/.well-known/genid/339f75442278cadf29cc",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/JPG/en_US/9630c81aae13426ab00f93885d7b0ebd.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/WEB_9c76d31bd4339d1bb1c368034bce38d2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/WEB_5e5f82679b39f97aeeeba23a39b25ad6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_86/WEB_708d93a4697d486f1758c415fb70c65b"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_86_R2",
   "isOwnerless": false,

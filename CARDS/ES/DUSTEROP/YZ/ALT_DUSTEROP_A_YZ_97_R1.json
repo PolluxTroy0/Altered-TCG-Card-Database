@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/68834944f6bd2573921f",
+      "@id": "/.well-known/genid/9e7239c2e406d9ee6e05",
       "reference": "BOON",
       "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
       "name": "Ayuda"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/fdd948aa8c5491f60e2a",
+      "@id": "/.well-known/genid/33f747d092dd5cbbb12a",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Maniobra"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/9235f169e8f23f4a60dd",
+    "@id": "/.well-known/genid/d1f1a5747d6334f62ba3",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/JPG/en_US/57e4604902e8d3ccbfb7939a864ea085.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/WEB_2e7c7af59dda181e0d940fd32adebb2b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_A_YZ_97/WEB_13dc7089e63dfd3469017779459c3194"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_A_YZ_97_R1",
   "isOwnerless": false,

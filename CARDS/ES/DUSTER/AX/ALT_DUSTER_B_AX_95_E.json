@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/292ddcb6fbef1dc852fa",
+      "@id": "/.well-known/genid/664a1086356e43cd206c",
       "reference": "ENGINEER",
       "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
       "name": "Ingeniero"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/c946cc450a3b3a64dd09",
+      "@id": "/.well-known/genid/6eb7eb376b1f0f9e5c24",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Noble"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/f4ba496ee3a501552a37",
+    "@id": "/.well-known/genid/f273846ddc7deb94887c",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_95/JPG/en_US/04f6654e25d6fdf540e1b8233f4cc0b7.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_95/WEB_965786f0d973d0ae45fe6c3182a05b35",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_95/WEB_d80a9e8c357ac9d6e722b18a0b1d8cf8"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_95_E",
   "isOwnerless": false,

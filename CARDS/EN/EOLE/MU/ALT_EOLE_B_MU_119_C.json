@@ -1,0 +1,163 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_B_MU_119_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/18YSZMQT9Y8J2RKQYC66N8WZ79",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KC94HT8FFS7QNGA5P7BZQWAY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KC94HT8FFS7QNGA5P7BZQWAY",
+          "text": "If you run with the wolves, you'd best learn to howl!"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HT90JFRJWR1YHCFMWKMG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KC94HT90JFRJWR1YHCFMWKMG",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HT8RYKWPW497AAYNAY5Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KC94HT8RYKWPW497AAYNAY5Z",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HT6G1GVPG619P3VPJ023",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KC94HT6G1GVPG619P3VPJ023",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KC94HT7X5CAATPG7G1992MST",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KC94HT7X5CAATPG7G1992MST",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "18YSZMQT9Y8J2RKQYC66N8WZ79",
+      "reference": "ALT_EOLE_B_MU_119_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/bb75dc309de27b638380",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Maneuver"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/057679199e037330e30a",
+      "reference": "SONG",
+      "id": "01HKAGRNJ8WF0FSG4M2MEW7AJ2",
+      "name": "Song"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cae2730447e4a2742d15",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/en_US/c01166ce576c856fd9614d0ac320d399.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/WEB_99bf4e48d8412ce010c040df249d3adc",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/WEB_7b2e1c797e5347e49ca9766945f40949"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_119_C",
+  "isOwnerless": true,
+  "reference": "ALT_EOLE_B_MU_119_C",
+  "id": "01K9YWHY9MQF67MKZCA9FZFD9P",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/fr_FR/255be1119a9f4a97c5644a813d1940bf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/en_US/c01166ce576c856fd9614d0ac320d399.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/it_IT/95fc74bab4dd37d3962ae32ad18283d3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/es_ES/4f8690f0af09ea633f242da40ed5163a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/de_DE/5486214efef9ecb7ba833e977d8df866.jpg"
+  },
+  "name": "Running with the Wolves",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "MAIN_EFFECT": "[[Fleeting]].  Reveal the top five cards of your deck. Choose Animals from them with total Hand Cost {7} or less and play them for free. (Don't activate their {h} abilities.) Discard the rest."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_B_MU_119_C-EN"
+}

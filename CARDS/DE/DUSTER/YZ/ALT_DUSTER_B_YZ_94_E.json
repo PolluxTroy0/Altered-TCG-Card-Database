@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/93e91fa48eaef377f99e",
+      "@id": "/.well-known/genid/4b8a56b93441d7770d70",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Adliger"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/15bd98bb9d12582bd8d5",
+      "@id": "/.well-known/genid/14979510ba19c44a1215",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Rebell"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/979afd58f2c3a3d979cb",
+    "@id": "/.well-known/genid/92ed4c42738b417fb182",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalted"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_94/JPG/en_US/06132bdcdda399f03b4b25796e2e3c21.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_94/WEB_f64d320fc9682cbda381b99e7f0be279",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_94/WEB_c4c1090e5107515c180406f12a9eb4d3"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_94_E",
   "isOwnerless": false,

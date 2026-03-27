@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/78312e13245a2f715d6f",
+      "@id": "/.well-known/genid/8151427c5b690b233f16",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Künstler"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/beecdafde8aa2f04a18f",
+      "@id": "/.well-known/genid/b80b1890c0341abbd9a7",
       "reference": "DEITY",
       "id": "01HKAGPAJFS4YDQVKY6AB16614",
       "name": "Gottheit"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/92420ced5b2313bcb2ad",
+    "@id": "/.well-known/genid/b3029ab47f6e8c184b6c",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/JPG/de_DE/9b58b36403d3af461f5bef61c8aac376.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/WEB_18b95affebdacda15110f210587fcaaf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/WEB_ed22fc96db01157e405d5093d25164ab",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_LY_07/WEB_d33d3c07abe76a82ed7c852d61e1dced"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_LY_07_C",
   "isOwnerless": false,

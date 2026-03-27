@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/9cb9caeb98650b0c5d02",
+      "@id": "/.well-known/genid/cbadf884d01bfa4acef8",
       "reference": "SITE",
       "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
       "name": "Site"
@@ -109,13 +109,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/8a0a4db98a01d7a845d3",
+    "@id": "/.well-known/genid/fe6e59d8e3e29b6368e6",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_100/JPG/en_US/60d431bb387555eb6709adcc6f011d8c.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_100/WEB_d9880f08e9a6d446d6d514fea669822d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_100/WEB_3f33fb82f30ed01cbceb0ac627f9c07d"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_100_R1",
   "isOwnerless": false,

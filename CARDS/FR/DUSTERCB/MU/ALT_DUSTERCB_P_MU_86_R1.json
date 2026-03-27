@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b21384549428a4db0f13",
+      "@id": "/.well-known/genid/b581d4f422396f72550b",
       "reference": "DRUID",
       "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
       "name": "Druide"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/84853882391c292279fa",
+      "@id": "/.well-known/genid/6ff5c4f7b225d2a33af8",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animal"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/64c896143ace60da7b46",
+    "@id": "/.well-known/genid/4558442193af86c8d644",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/JPG/fr_FR/568cb4496945990088ed89f109cd7eb5.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/WEB_8e0089f58fe0663dda804711b4d649b4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/WEB_1ec5c6ebf2ed87c3b75172ed52b38344",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_MU_86/WEB_151d6dd94535d5612b3dab63b3e1e8c5"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_MU_86_R1",
   "isOwnerless": false,

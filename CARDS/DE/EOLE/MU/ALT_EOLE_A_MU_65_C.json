@@ -1,0 +1,149 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLE_A_MU_65_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4MWEFZSWM68H1R7CRQ9KGS914M",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KG2J8CTWJ1A6N0EP0CDGZ5CS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KG2J8CTWJ1A6N0EP0CDGZ5CS",
+          "text": "„Pech für euch, ich bin nicht allein gekommen!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8CXXR1BJ4V9VX8G5HZ0E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KG2J8CXXR1BJ4V9VX8G5HZ0E",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8CVMVNNMNGGM1212NRZG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KG2J8CVMVNNMNGGM1212NRZG",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8CQJD442R1GF446G4XN1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KG2J8CQJD442R1GF446G4XN1",
+          "text": "#N/A"
+        },
+        {
+          "@id": "/lore_entry_elements/01KG2J8CRRBJMKE3WRZTM2N2YQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KG2J8CRRBJMKE3WRZTM2N2YQ",
+          "text": "#N/A"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "4MWEFZSWM68H1R7CRQ9KGS914M",
+      "reference": "ALT_EOLE_A_MU_65_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/EOLE",
+    "@type": "CardSet",
+    "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+    "reference": "EOLE",
+    "name": "Roots of Corruption"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/860c248c56f78d4a094a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/JPG/de_DE/c828308aa96380575cc7240e0f6a1506.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/WEB_a2f0e00ea8c5e2504b1cff7ad5fd2ae4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_MU_65_C",
+  "isOwnerless": true,
+  "reference": "ALT_EOLE_A_MU_65_C",
+  "id": "01KFRQ5ZD4AM5FT10WG94P0HMR",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/JPG/fr_FR/744f5b127d5f6423225e44e60f5e0c5b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/JPG/en_US/8256e2e7a04a36d312293068e5e041e1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/JPG/it_IT/9767fd133520c9fa673b57bc915242b8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/JPG/es_ES/5f729d07e4fa4d4368bae24eb6635d92.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_MU_65/JPG/de_DE/c828308aa96380575cc7240e0f6a1506.jpg"
+  },
+  "name": "Kauri & Flausch",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "MAIN_EFFECT": "Zum Mittag — Falls du der Startspieler bist, erschaffe eine [Wollrücken 1/1/1]-Tiermarke in der Gefährten-Expedition eines Gegners deiner Wahl, ziehe dann eine Karte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLE_A_MU_65_C-DE"
+}

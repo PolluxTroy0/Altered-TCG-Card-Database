@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/150375b3b8ffdce980bf",
+      "@id": "/.well-known/genid/965aa4eb7dbd0bda1947",
       "reference": "CONJURATION",
       "id": "01HKAGQJMGEVS21MCGWDGG8KW0",
       "name": "Conjuro"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/4fd272f459a9085566c5",
+      "@id": "/.well-known/genid/c20f0367c607ccce7fd2",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Maniobra"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a3534fbf285f5e368500",
+    "@id": "/.well-known/genid/febe8a83eaafe9eb4e7b",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/JPG/en_US/32c8d8b62ef3d16350b696b4d7282575.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/WEB_78647a7ce943af65fdfc00756b90307a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_98/WEB_981b1e119f3d43d9f801a6ceab549d8e"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_98_R2",
   "isOwnerless": false,

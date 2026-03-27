@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a72be4a5f7ec351bae4f",
+      "@id": "/.well-known/genid/cfabd63011b13fd1e301",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bureaucrat"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/04e25d8807c8e5ea0c21",
+      "@id": "/.well-known/genid/2e29095bc6677a3401ef",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Rogue"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/f8202eca7e0a558c6bdc",
+    "@id": "/.well-known/genid/020a91124954a2185a44",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_93/JPG/en_US/088a882df34f4ae93d35e69f61299cfb.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_93/WEB_09e37e05d1910d562c59706c128eb2ce",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_93/WEB_a3ac1ed5c57b6b6ba2522aa0c98e24b6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_93/WEB_92ad7cd76ed8dc710004ddc87826b826"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_93_C",
   "isOwnerless": false,

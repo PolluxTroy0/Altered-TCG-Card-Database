@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8e1c44a7803b1b65eda4",
+      "@id": "/.well-known/genid/36714a3109981c11d1bb",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Cittadino"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/4a9e0979ed72b93a4df8",
+    "@id": "/.well-known/genid/50766c0579c165b459b4",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/JPG/en_US/14e9a2b06ab368bf062ed012fcf21b25.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/WEB_0b0f405d331a720240420950455dc2c8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/WEB_17dcb69af0ff5383fa17905c6a171a36",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTEROP/CARDS/ALT_DUSTEROP_P_MU_89/WEB_3d59fad97aa8a13800e965373e5f3d0b"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTEROP_P_MU_89_R1",
   "isOwnerless": false,

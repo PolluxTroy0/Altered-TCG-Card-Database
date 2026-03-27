@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_EOLECB_A_MU_110_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7DVS5HXEFW85AR4BXEHS32K9G5",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KHBKDKKFK5DAP71QART4ZSXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KHBKDKKFK5DAP71QART4ZSXM",
+          "text": "„Der Kleine gehört mir! Er wird mit dem Rudel laufen und mit dem Rudel jagen!“"
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKKTZX95C2B6PK85F389",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KHBKDKKTZX95C2B6PK85F389",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKKNJXAYQA1B749NBT77",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KHBKDKKNJXAYQA1B749NBT77",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKK0TG4KZ7ZR3ZTBQHB2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KHBKDKK0TG4KZ7ZR3ZTBQHB2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KHBKDKK9BPXSKFDCZMFGMJVR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KHBKDKK9BPXSKFDCZMFGMJVR",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "7DVS5HXEFW85AR4BXEHS32K9G5",
+      "reference": "ALT_EOLECB_A_MU_110_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2bfcfd06afd15ad9eb3e",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Tier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/EOLECB",
+    "@type": "CardSet",
+    "id": "01KH6E44GRCVN6CHNG9FY4KNXQ",
+    "reference": "EOLECB",
+    "name": "Roots of Corruption - Collector Booster"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cb8b1fb6b8a1e8a34147",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/de_DE/fb48e7bcbab0669234b92c7deff4592a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/WEB_ccb4e3bf94dd287fc09cbd7a8b089a20",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/WEB_a9d190565afbc18e7da2757d224454bc",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/WEB_bc6b89d76e6c9169bb053815fedefd38"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_EOLECB_A_MU_110_C",
+  "isOwnerless": true,
+  "reference": "ALT_EOLECB_A_MU_110_C",
+  "id": "01KH6E45CV870QRJYZ1B0NJ0QZ",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/fr_FR/5620da47d346111287b826d0dc72f343.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/en_US/6b032afbbcb623a07cb782942cfdf191.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/it_IT/875fbc7a516a27ba4c9f39493994b6b0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/es_ES/33ddb276d098c70a5d080fd2c35d9083.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLECB/CARDS/ALT_EOLECB_A_MU_110/JPG/de_DE/fb48e7bcbab0669234b92c7deff4592a.jpg"
+  },
+  "name": "Raksha",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{J} Du darfst einen anderen Charakter wählen, dessen {V} gleich oder niedriger als meines ist. Er erhält 1 Verstärkung."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_EOLECB_A_MU_110_C-DE"
+}

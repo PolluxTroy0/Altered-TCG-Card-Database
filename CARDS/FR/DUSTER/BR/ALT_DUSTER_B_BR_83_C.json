@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/73a9c0c170a8550ce70d",
+      "@id": "/.well-known/genid/a15722bdc3be28a24b5e",
       "reference": "COMPANION",
       "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
       "name": "Compagnon"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/86d7063e7279821e03f5",
+      "@id": "/.well-known/genid/038245b57bd79aaa1882",
       "reference": "LEVIATHAN",
       "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
       "name": "Léviathan"
@@ -116,13 +116,17 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/57e772a05f727214e371",
+    "@id": "/.well-known/genid/e55e780f1eeafdab67a2",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/fr_FR/5a25862ff7bf91b8017ef4567eb03332.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/WEB_7d2649edc74ba70f492320014f2747c6"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_83_C",
   "isOwnerless": true,

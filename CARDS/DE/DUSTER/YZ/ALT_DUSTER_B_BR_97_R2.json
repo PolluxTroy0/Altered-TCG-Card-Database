@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/78f5423a3d8ca30e577c",
+      "@id": "/.well-known/genid/178d3e839b450958edfb",
       "reference": "TRAINER",
       "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
       "name": "Trainer"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/ead7d333e7f4d79c24ac",
+    "@id": "/.well-known/genid/028e25fddc1853499cb0",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/en_US/2ae212d2558b4f6b9b6b8effbe839eb4.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_05005324da2ae4bdac893431c296efc0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_e2b4842f367090ed49e82d1988eb1e9b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_25d01a2f9d98fe2a8e01c166e6326fe1"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_97_R2",
   "isOwnerless": false,

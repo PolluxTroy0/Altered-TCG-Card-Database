@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/c11db94142fb233773b3",
+      "@id": "/.well-known/genid/2d9ee43bc615e4162f08",
       "reference": "BOON",
       "id": "01HKAGPHVVK20XKBXKCZNGRTFD",
       "name": "Bénédiction"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/60fabe895294090aa83e",
+      "@id": "/.well-known/genid/b202f9b0d2967a52a9d6",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manœuvre"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/07aba2e8a703c260d7cd",
+    "@id": "/.well-known/genid/bbab280714b47102b228",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/fr_FR/65cf6423d84b0d538b51d9a42d4f41f9.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/WEB_80fc03c3cad19418528272bd6a4b7465",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/WEB_64b9059d8e71e5354a3f6be9fab61932"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_97_R2",
   "isOwnerless": false,

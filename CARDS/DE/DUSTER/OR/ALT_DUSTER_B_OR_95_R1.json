@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/9453a5639f91a3398fb2",
+      "@id": "/.well-known/genid/469905b9c1ac2ccde780",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Tier"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/0fb86d61700dcbcbd24e",
+      "@id": "/.well-known/genid/b5df1987e9fb9feef0a0",
       "reference": "SPIRIT",
       "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
       "name": "Geist"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/3a715b38e79ab6c7cca0",
+    "@id": "/.well-known/genid/d88d0f06de5f5e0c5011",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/en_US/1338d6b2192ca63bb1e844783c909d18.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_516b68f901862760970cda732f05fa19",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_20e394620d2d3af48e56454789a18a4d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_ead981e4b02208a030c3562ee1843396"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_95_R1",
   "isOwnerless": false,

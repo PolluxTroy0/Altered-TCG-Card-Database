@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/67ae8c02fdd3177fb063",
+      "@id": "/.well-known/genid/7fa20bfbc269dbb888a7",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Künstler"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/92f04ad8ed001580b9fb",
+      "@id": "/.well-known/genid/04f3fab5022949503fc3",
       "reference": "ENGINEER",
       "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
       "name": "Ingenieur"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/5a099f6a06e29725b0d4",
+    "@id": "/.well-known/genid/5e71c35db48bf29d7183",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_94/JPG/en_US/f487639566c074668acac8d6c9addea9.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_94/WEB_2ea2433e7444e5140a9c518f7a8cfc75",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_94/WEB_8a59c1bfafdfd30f8d6feeff99272253",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_94/WEB_388d8d5ff6e5cdbe4ae019350369f188"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_94_R1",
   "isOwnerless": false,

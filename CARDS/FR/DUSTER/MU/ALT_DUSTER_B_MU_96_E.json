@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/0fb1b1ed160650e0ffce",
+      "@id": "/.well-known/genid/466630707d54880565a6",
       "reference": "DRUID",
       "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
       "name": "Druide"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f485285e13848023ec0b",
+      "@id": "/.well-known/genid/31592764d9b395f6e8df",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Noble"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/842aa7ec0aeab07ba28c",
+    "@id": "/.well-known/genid/71b1164d469aad8ef9c2",
     "reference": "EXALTED",
     "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
     "name": "Exalté"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_96/JPG/fr_FR/11c0aaaefaca56623e1773201d74c176.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_96/WEB_70e5b638924ba9dfbd0618d4b1393301",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_96/WEB_20e08c04314284d49ad2d66cce185abd"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_96_E",
   "isOwnerless": false,

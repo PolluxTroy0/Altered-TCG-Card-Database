@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7c0ad75cad001aedf9f9",
+      "@id": "/.well-known/genid/6f5c58fad096b24c6434",
       "reference": "ADVENTURER",
       "id": "01HKAGPC92CGHANVSRSC8R8ES6",
       "name": "Adventurer"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/01309c43f8999f3e665a",
+      "@id": "/.well-known/genid/c2306078270441f4c8ea",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Rogue"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/bc567189f060921963d6",
+    "@id": "/.well-known/genid/c070b26b0ad1f7529787",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/en_US/b5558fd706bcf84ab8448453ca7f6a07.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_c2c53dc44aa48eb858e51aae4478c08b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_1ca099275c1b3a72907b8ef83dc7f75f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_3c2bb779ec3ebd417f8fd14e6960feef"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_91_R2",
   "isOwnerless": false,

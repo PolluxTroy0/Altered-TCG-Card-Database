@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/ce3a40ec00d4faf07857",
+      "@id": "/.well-known/genid/a2d5f82fa5114ddacd06",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Hada"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/c7b0031928de850abe44",
+    "@id": "/.well-known/genid/ba798d280dfdbde9505d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/en_US/df7dc84a377e0d4d5088da2f47e82658.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/WEB_bf2a2e3d6e63b3d665af1da8778d6796",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/WEB_4fe34fb9f771b1bc023ae006292dccc2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/WEB_1000a7be97bd1281d21b6c8227477897"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_93_R2",
   "isOwnerless": false,

@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/777207e62aedac929dda",
+      "@id": "/.well-known/genid/df22c7e4a20692c57a50",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldato"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/41592bd9eefc1d5aa95b",
+      "@id": "/.well-known/genid/80dec8e16bd668b8d83f",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Ribelle"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/8d786166cac0e1d6cbfa",
+    "@id": "/.well-known/genid/25571b12b1c4602595ee",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/JPG/en_US/9a48b7d1fc36731194cf7ca922f6ed98.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/WEB_cce3c33a573860571f289161f564238b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/WEB_09e1960235c8e3bc810e375a342a023c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_92/WEB_93118235f01040d3f3b6f85207b7ef5d"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_92_R2",
   "isOwnerless": false,

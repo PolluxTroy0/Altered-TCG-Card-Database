@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f385e1de47c407cfd3a2",
+      "@id": "/.well-known/genid/7d74ac5b6fb490a0b507",
       "reference": "SAP",
       "id": "01JZJQ0C1BVB8RC7BGECPEVBE7",
       "name": "Sap"
@@ -109,16 +109,20 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/c571c58322f4c3da691e",
+    "@id": "/.well-known/genid/f11b698ba1f018c516a1",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_NE_04/JPG/en_US/f4f4681b4ad07c00763feb585de850ed.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_NE_04/WEB_e891fab31d29d7e0beb32e05173f3486"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_NE_04_C",
-  "isOwnerless": false,
+  "isOwnerless": true,
   "reference": "ALT_DUSTER_B_NE_04_C",
   "id": "01JZJFDPZVREEGQWW0842STW07",
   "mainFaction": {

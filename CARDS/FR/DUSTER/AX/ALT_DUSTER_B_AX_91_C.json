@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8aee091bfc73ff1bcff6",
+      "@id": "/.well-known/genid/48b4f3b03fa423877f8e",
       "reference": "ROBOT",
       "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
       "name": "Robot"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/ec91710c98263c207a77",
+      "@id": "/.well-known/genid/b2cce75fcdf9eaa3c1df",
       "reference": "MERCHANT",
       "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
       "name": "Marchand"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/b3f21d0e91a442abc801",
+    "@id": "/.well-known/genid/4f7128189bcfb64bb00c",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/JPG/fr_FR/bd2ed1bdf1e42b18255eacb74bdfafa0.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/WEB_6e330406d596d16e184acd5c3c0c4ddd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/WEB_78e0a1e26d4dbed05a7e7c51c98b011a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/WEB_29c62c6b70b9721c920fda4a2d57ba42"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_91_C",
   "isOwnerless": false,

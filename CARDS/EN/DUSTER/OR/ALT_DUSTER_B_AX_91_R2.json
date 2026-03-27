@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/2caa9a58bc9531dd95bf",
+      "@id": "/.well-known/genid/a6a356770206a97cd53b",
       "reference": "ROBOT",
       "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
       "name": "Robot"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/991805b5c4f7af773d13",
+      "@id": "/.well-known/genid/ebe5c784dec2ef0cc51e",
       "reference": "MERCHANT",
       "id": "01JZ2JZ7RFPB09RFMMFXBG3GZ5",
       "name": "Merchant"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d91abd48b701df8182a5",
+    "@id": "/.well-known/genid/2db949928dec33c4d66d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/JPG/en_US/ec692fc6a3092541c5de11123390285c.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/WEB_6e330406d596d16e184acd5c3c0c4ddd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/WEB_78e0a1e26d4dbed05a7e7c51c98b011a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_91/WEB_29c62c6b70b9721c920fda4a2d57ba42"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_91_R2",
   "isOwnerless": false,

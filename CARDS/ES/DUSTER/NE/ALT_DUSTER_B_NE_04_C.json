@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a6c98026eb74c9ecffb1",
+      "@id": "/.well-known/genid/0ca526a1d8c21cac39f2",
       "reference": "SAP",
       "id": "01JZJQ0C1BVB8RC7BGECPEVBE7",
       "name": "Savia"
@@ -109,16 +109,20 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/2f4d31e9dec1d2ea2d16",
+    "@id": "/.well-known/genid/59b73939f30c14cc9f76",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_NE_04/JPG/en_US/f4f4681b4ad07c00763feb585de850ed.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_NE_04/WEB_e891fab31d29d7e0beb32e05173f3486"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_NE_04_C",
-  "isOwnerless": false,
+  "isOwnerless": true,
   "reference": "ALT_DUSTER_B_NE_04_C",
   "id": "01JZJFDPZVREEGQWW0842STW07",
   "mainFaction": {

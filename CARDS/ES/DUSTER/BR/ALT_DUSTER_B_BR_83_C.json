@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/db3dca9e8ced61e23abf",
+      "@id": "/.well-known/genid/47dedb3149719d8d1688",
       "reference": "COMPANION",
       "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
       "name": "Compañero"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/d8f8d9299f2fe1ea3120",
+      "@id": "/.well-known/genid/2fdd33f89b5e0aa30975",
       "reference": "LEVIATHAN",
       "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
       "name": "Leviatán"
@@ -116,13 +116,17 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/b797f8fac93ae9604023",
+    "@id": "/.well-known/genid/6c703c7a63ab16f89ac7",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/en_US/7b5fe037597d5e95da5f7048470c7ac5.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/WEB_7d2649edc74ba70f492320014f2747c6"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_83_C",
   "isOwnerless": true,

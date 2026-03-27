@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/467de7428970ce009db3",
+      "@id": "/.well-known/genid/cffb3b6cd13a043683e1",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Fée"
@@ -109,13 +109,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/ae49161ba215aefdac8b",
+    "@id": "/.well-known/genid/c32b6fa404529b3e6bd7",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/JPG/fr_FR/0bb8dabc3f9aa8a8e16d345bfce4aca8.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/WEB_09c2e0a6e7314ea015e7532b06309bd7",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/WEB_7fbf5ea35fa1d045361835b4347304b6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_BR_96/WEB_0368e4c53897cda7f80b604d9682eb66"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_BR_96_C",
   "isOwnerless": false,

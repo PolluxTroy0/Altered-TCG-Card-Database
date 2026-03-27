@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/c4a697aa7a5faa56cb9b",
+      "@id": "/.well-known/genid/1152aaa62bbc67b0e29f",
       "reference": "MAGE",
       "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
       "name": "Mage"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/782975c0c38551fc45b4",
+      "@id": "/.well-known/genid/8924992f0fd739f6e4d8",
       "reference": "SCHOLAR",
       "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
       "name": "Scholar"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/c7ad058747c6047cffe4",
+    "@id": "/.well-known/genid/ebc08ade3a82bc043215",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/JPG/en_US/091a0fb0395d6ada1371c50a3f01d1c3.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/WEB_f9be3bd27ca82493eb6bf8e77d0b7708",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/WEB_7effd5477a179def359563f3ae609775",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_88/WEB_b6de31b4df35afafc03432873303e8a3"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_88_C",
   "isOwnerless": false,

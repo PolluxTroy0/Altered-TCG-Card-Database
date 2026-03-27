@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/3c4f09b248a2c9f26efc",
+      "@id": "/.well-known/genid/d95f6598a02c7d0991ec",
       "reference": "SAP",
       "id": "01JZJQ0C1BVB8RC7BGECPEVBE7",
       "name": "Sève"
@@ -109,16 +109,20 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/9361accd7125c5747f87",
+    "@id": "/.well-known/genid/aa4ef2f91c46ba05451a",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_NE_04/JPG/fr_FR/53366a008d0cb3905770ce2a6156572c.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_NE_04/WEB_e891fab31d29d7e0beb32e05173f3486"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_NE_04_C",
-  "isOwnerless": false,
+  "isOwnerless": true,
   "reference": "ALT_DUSTER_B_NE_04_C",
   "id": "01JZJFDPZVREEGQWW0842STW07",
   "mainFaction": {

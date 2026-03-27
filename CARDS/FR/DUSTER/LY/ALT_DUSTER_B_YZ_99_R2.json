@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/339c9b7bf32f2d5cc5e3",
+      "@id": "/.well-known/genid/0359d60f112f15712c25",
       "reference": "DISRUPTION",
       "id": "01HKAGPH80FC347E2P8841D298",
       "name": "Interférence"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/848e4cb2b4b8ab2a1ffa",
+      "@id": "/.well-known/genid/1d1aae136a5a648237cb",
       "reference": "MANEUVER",
       "id": "01HKAGPGT0M24AWMMF30CN0NT4",
       "name": "Manœuvre"
@@ -116,13 +116,18 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a1a609e174863d87a812",
+    "@id": "/.well-known/genid/e0823c4f2789c350a7a4",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/JPG/fr_FR/05af6f51e3b37d988b3597a44a13e200.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/WEB_af52d3061356c04ad360e16aec58d6af",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_99/WEB_688f0cdc1ba8694d1695c070c3991448"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_99_R2",
   "isOwnerless": false,

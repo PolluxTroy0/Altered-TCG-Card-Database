@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a879fa633894da0a1d71",
+      "@id": "/.well-known/genid/d1d9d0d1d16ab513ff40",
       "reference": "ENGINEER",
       "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
       "name": "Ingeniero"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/0fa51e83bed4a34a85c0",
+      "@id": "/.well-known/genid/f38fdaf2a217ce3d9f43",
       "reference": "ROGUE",
       "id": "01JZ2K0A1NZSGT69DP1WS2917B",
       "name": "Pícaro"
@@ -116,13 +116,19 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7be5d795a1aa26de226f",
+    "@id": "/.well-known/genid/d8122bc73c013343a7c4",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/en_US/7331917a9e7e77941a5232d51a8ace99.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/WEB_711636d5385cffc258e9f117eadba8ae",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/WEB_46eb9406b6efbb07e5997daccaa59dc0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/WEB_462f2b38150b2071dc5c07d6f0c922e1"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_90_C",
   "isOwnerless": false,
