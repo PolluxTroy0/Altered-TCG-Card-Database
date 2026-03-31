@@ -94,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7c97a977cc02d2c6fd43",
+      "@id": "/.well-known/genid/966283c2f1f778a3502f",
       "reference": "CORRUPTION",
       "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
       "name": "Corruption"
@@ -109,16 +109,22 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d1d9e6691c29ea55b5c3",
+    "@id": "/.well-known/genid/afa5bd1294a73776fa42",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/JPG/en_US/bdcd1a5e930e80640f13eb9c6a850003.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/WEB_19c32f7d802c990c44de065c156bec5f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/WEB_36f094d5bb6fab94486477bca9227d9d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_BR_114/WEB_9d2b69a482dc6159bca279ca230127ad"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_BR_114_R1",
-  "isOwnerless": false,
+  "isOwnerless": true,
   "reference": "ALT_EOLE_A_BR_114_R1",
   "id": "01KFRQ5ZCW7ECMA10PJAM8VR54",
   "mainFaction": {
@@ -150,5 +156,5 @@
   "isBanned": false,
   "isSerialized": false,
   "isParentSerialized": false,
-  "collectorNumber": "ALT_EOLE_A_BR_114_R1-EN"
+  "collectorNumber": "ROC-V-030-R-EN"
 }
