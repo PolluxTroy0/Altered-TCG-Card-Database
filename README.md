@@ -48,6 +48,8 @@ Files are stored using the following path pattern :
 - **SETS** → Contains all card data grouped by set code, each set has its own folder, and inside, one file per language.  
 - **META** → Contains only metadata (types, sets, factions, rarities, etc.).  
 - **HISTORY** → Contains versioned history of card changes (English only, per set).
+- **IMAGES** → Contains all cards images in all languages, arts, etc...
+- **LORE** → Contains all lore data (cards and website)...
 
 ---
 
@@ -66,8 +68,8 @@ The only manually added information is the collectorNumber, which is no longer p
 
 ---
 
-## 🖼️ Card Images
-Card images are available here : https://drive.google.com/drive/folders/1cVqqV2HCRXk9PtipW144H-i7ObmG9TXy?usp=sharing
+## 🖼️ Card Images for Web Usage
+Card images in a web-optimized format are available here: https://img.altered-db.com/explorer.php
 
 ---
 
