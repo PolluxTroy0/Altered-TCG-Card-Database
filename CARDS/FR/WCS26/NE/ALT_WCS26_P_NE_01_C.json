@@ -1,0 +1,146 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS26_P_NE_01_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5FVKH3S5XA9C0TK99QW6RFFPV2",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMED9V0CW4JY6Q87SPCD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KH3ZWMED9V0CW4JY6Q87SPCD",
+          "text": "Mana is the cement that binds ideas and reality."
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMEQ9J125P8XWVXGY93F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KH3ZWMEQ9J125P8XWVXGY93F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMEJ6RK35W6B0JV0J2JZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KH3ZWMEJ6RK35W6B0JV0J2JZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWME03KDMDVSY7VJRV0CS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KH3ZWME03KDMDVSY7VJRV0CS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWME7RZMRD76APK6VRFT0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KH3ZWME7RZMRD76APK6VRFT0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J21DT90AFB9Y6TNNK7CTA4DR",
+        "@type": "LoreEntryType",
+        "id": "01J21DT90AFB9Y6TNNK7CTA4DR",
+        "reference": "TOKEN_MANA",
+        "name": "Mana"
+      },
+      "id": "5FVKH3S5XA9C0TK99QW6RFFPV2",
+      "reference": "ALT_WCS26_P_NE_01_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN_MANA",
+    "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+    "name": "Mana"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/WCS26",
+    "@type": "CardSet",
+    "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+    "reference": "WCS26",
+    "name": "World Championship Series 2026"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4292e68693fa0d17fe69",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/fr_FR/10e6a5ef478d78dc7f3463dd1a62094e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/WEB_87369f3f6d7b8e956de2571d1b51b7b9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_NE_01_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS26_P_NE_01_C",
+  "id": "01KGWCPAVMGB11YPKG7TEEM00H",
+  "mainFaction": {
+    "@id": "/factions/NE",
+    "@type": "Faction",
+    "reference": "NE",
+    "color": "#8f95b2",
+    "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+    "name": "Neutre"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/fr_FR/10e6a5ef478d78dc7f3463dd1a62094e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/en_US/5839c8a25d8532bb84bbb1a0fa33d90a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/it_IT/26bf1274ac32cb91d11b1de60ad22aba.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/es_ES/4391724dbf708da468abb192bd4ecbb9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/de_DE/2249848eb4afa754a8e0d1d6a97d0430.jpg"
+  },
+  "name": "Afflux de Mana",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_WCS26_P_NE_01_C-FR"
+}

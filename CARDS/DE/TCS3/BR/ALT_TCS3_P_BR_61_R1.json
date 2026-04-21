@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YWDQJMHNXV999HX7V1P",
         "reference": "SPELL",
-        "name": "Spell",
-        "description": ""
+        "name": "Spell"
       },
       "id": "2R0YV87GG694QRDKAS7032E3TW",
       "reference": "ALT_TCS3_P_BR_61_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b9a01a63d2f2e893e437",
+      "@id": "/.well-known/genid/4d97b86c79cd34bd66bf",
       "reference": "DISRUPTION",
       "id": "01HKAGPH80FC347E2P8841D298",
       "name": "Unterbrechung"
@@ -110,16 +109,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7a7c77dd4340386568fd",
+    "@id": "/.well-known/genid/64eaec928b7d53d460b1",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/de_DE/ea3082ea8b9719032c83116137b107e2.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_BR_61_R1",
+  "isOwnerless": false,
   "reference": "ALT_TCS3_P_BR_61_R1",
   "id": "01JTJSDF1J1G7TQ6MSRX4TZXWB",
   "mainFaction": {
@@ -131,11 +130,11 @@
     "name": "Bravos"
   },
   "allImagePath": {
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/es_ES/7c7b901207defb8dafa8cf69165f40b5.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/it_IT/0774ba606a6e273c9ff19cb40f56e93a.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/de_DE/ea3082ea8b9719032c83116137b107e2.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/fr_FR/d4b28b9b16b868d770cdea4353563dc7.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/en_US/77d623699773148f4eb7ee2ead930c3c.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/en_US/77d623699773148f4eb7ee2ead930c3c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/it_IT/0774ba606a6e273c9ff19cb40f56e93a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/es_ES/7c7b901207defb8dafa8cf69165f40b5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_BR_61/JPG/de_DE/ea3082ea8b9719032c83116137b107e2.jpg"
   },
   "name": "Zähes Duell",
   "elements": {
@@ -146,5 +145,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "TCS3-02-R-DE"
 }

@@ -1,0 +1,155 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS26_P_NE_03_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/632S6NRN6099XBDRRTDNJ10M4D",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM8Z43AKVYZSVMX0FQGM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KH3ZWM8Z43AKVYZSVMX0FQGM",
+          "text": "Grazie all'aerolite, la gravità non è più un ostacolo quando si costruisce."
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM9AB516QB5TZ1FBF6R2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KH3ZWM9AB516QB5TZ1FBF6R2",
+          "text": "393 AC - My days as a lapidary are long behind me, yet there’s something soothing about the relationship a stonecutter has with a piece of rock. I study its texture, its transparency, its crevices — and all its flaws. It’s a difficult material to shape — far less so than the pebbles found near the Mirror, granted, but still. Nothing can chip those stones. Even so, focus is essential. If the Aerolith begins to resonate, it will reveal its exothermic properties, and that could prove dangerous — both for me and for the vessel I’ve made my home. To polish and facet these crystals, you need specialized equipment capable of absorbing residual energy. And even then, the process remains risky…\r\n\r\nBe that as it may, the airships of the armada rely on these new supplies — and what better way to pass the time than by devoting myself to such work? These are welcome pauses before plunging back into the turbulence of guild assemblies. I set the mineral down on its stand, and my eyes drift to the letter lying across my workbench. I pick it up and examine it, studying the seals of the Ordis and the Tagmata. It seems to be from Zhen. I smile. Of course I remembered her — her parents’ estate, our studies, our long conversations on the patio… I was young then, with my whole life ahead of me. How old was she — ten, maybe? That was before the founding of the Axiom. Before the debates and the politics…\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM94BCQ7677TK125YZRM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KH3ZWM94BCQ7677TK125YZRM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM8HX313WQAF1449B8K5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KH3ZWM8HX313WQAF1449B8K5",
+          "text": "BASEM"
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM8SPJE5YW0WX78FJW1X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KH3ZWM8SPJE5YW0WX78FJW1X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01JNQX5X4AEEJEWFBR2KWF7WB8",
+        "@type": "LoreEntryType",
+        "id": "01JNQX5X4AEEJEWFBR2KWF7WB8",
+        "reference": "TOKEN_LANDMARK_PERMANENT",
+        "name": "TOKEN_LANDMARK_PERMANENT"
+      },
+      "id": "632S6NRN6099XBDRRTDNJ10M4D",
+      "reference": "ALT_WCS26_P_NE_03_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01JN9T9WB3A67XPW9251FVSS60",
+    "@type": "CardType",
+    "reference": "TOKEN_LANDMARK_PERMANENT",
+    "id": "01JN9T9WB3A67XPW9251FVSS60",
+    "name": "Permanente Fulcro Pedina"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c75e26db08fa8f2c2f85",
+      "reference": "ORE",
+      "id": "01JPYFRDDD06XC6SP7K6W89CTE",
+      "name": "Pietra"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCS26",
+    "@type": "CardSet",
+    "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+    "reference": "WCS26",
+    "name": "World Championship Series 2026"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2f3b4d61f0ad5aee831a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/it_IT/af68218b083aba6ce3f7d49ee41d49f1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/WEB_d542166a0f1e26fddfe00475c172e118"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_NE_03_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS26_P_NE_03_C",
+  "id": "01KGWCPAVE9A1PWYRJ9BBPAMV8",
+  "mainFaction": {
+    "@id": "/factions/NE",
+    "@type": "Faction",
+    "reference": "NE",
+    "color": "#8f95b2",
+    "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+    "name": "Neutral"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/fr_FR/a4e957632d8ac0d3e02b2ee4a5ab8862.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/en_US/64764defdb730d1967776663de46378a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/it_IT/af68218b083aba6ce3f7d49ee41d49f1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/es_ES/6ebe6250936026d809be9b5f775c711b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/de_DE/b3cfaff5481d2879f94ed765e71c9910.jpg"
+  },
+  "name": "Aerolite",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "MAIN_EFFECT": "Quando mi sacrifichi — [Rifornisci]. (I fulcri in eccesso vengono sacrificati alla fine della giornata.)  {T}, {1}: sacrificami."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_WCS26_P_NE_03_C-IT"
+}

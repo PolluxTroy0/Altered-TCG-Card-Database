@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS26_P_YZ_47_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1Z5QS488Y68QGBHVBVPEQRAJQJ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMB9NNYKF9B4JNNTE3YR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KH3ZWMB9NNYKF9B4JNNTE3YR",
+          "text": "Una pioggia di mana, una fonte di magia."
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMBNDPQP406572CF38EV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KH3ZWMBNDPQP406572CF38EV",
+          "text": "393 AC - I have to act fast. I thread the chimeran silk into the automated spool and engage the rewinding mechanism. Better to use the Alter Ego’s threads than my own. Silk’s filament wraps around my needle, which I hold like a rapier. Before me, above the rippling waters, a monstrous moth has taken form, its mandibles snapping shut. It has never known hunger before, and thus cannot understand what it feels now. I glance at the Exalt—they have already begun to act. I need to synchronize with them to banish this abomination. I lunge, piercing one of its wings, then anchor a thread into the ground to prevent it from taking flight.\r\n\r\nThe Alterer plunges his hand into the Empyrean, seeking to grasp the very concept of evaporation. He intends to dissipate the water, purify the idea, and return it to its original state. No—there’s no time for that. I draw my pins from their sheath and fling them at the mutated insect. Not that I want to start an entomological collection, but better to ensure the Muna, frozen a few steps away, doesn’t become an impromptu snack. My needles pin it to the rocky wall. Silk swivels toward me, exuding reproach. Nearby, I feel Sam’s presence, ready to intervene. Her eyes glint in the night, but I signal that I’ve got the situation under control.\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMBF2MJ2MFKAFGYKCG7K",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KH3ZWMBF2MJ2MFKAFGYKCG7K",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMASP3TT0CD380QRQGX2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KH3ZWMASP3TT0CD380QRQGX2",
+          "text": "TAIMA"
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMB27ZNCJ7KCVG3YVN2X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KH3ZWMB27ZNCJ7KCVG3YVN2X",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token"
+      },
+      "id": "1Z5QS488Y68QGBHVBVPEQRAJQJ",
+      "reference": "ALT_WCS26_P_YZ_47_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Pedina Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/988ccd69c4f7cb9ba2a0",
+      "reference": "ILLUSION",
+      "id": "01J1QBG2268GSN3G0S560XZGZY",
+      "name": "Illusione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCS26",
+    "@type": "CardSet",
+    "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+    "reference": "WCS26",
+    "name": "World Championship Series 2026"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/314e15f9f25c05677bb6",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/it_IT/d47e78d30e2db6a452e1d3644b8ecf93.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/WEB_762a04e5367fe938b2c2ae1e979fa813"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_YZ_47_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS26_P_YZ_47_C",
+  "id": "01KGWD3M05KEJT83ECF2KA5QBD",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/fr_FR/082896205248daad5d032be79bee5507.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/en_US/04b38b5f22d5b6ce778d58ea38080f49.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/it_IT/d47e78d30e2db6a452e1d3644b8ecf93.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/es_ES/d1d15a9380a7f57a04b26d64e4df0f81.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/de_DE/e7e6f11b55b82dc0fb57406a9da50cb2.jpg"
+  },
+  "name": "Falena di Mana",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "(Se lascio l'area delle spedizioni, rimuovimi dalla partita.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_WCS26_P_YZ_47_C-IT"
+}

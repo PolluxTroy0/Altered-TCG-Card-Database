@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "4FZG3K3CPY8KSSRCF21N8HYMJ3",
       "reference": "ALT_WCQ25_P_OR_05_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/dec6a46d08492ce7d826",
+      "@id": "/.well-known/genid/fa27c98b7d347dcfc76d",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldat"
@@ -110,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/423b51fcfdb0b726502a",
+    "@id": "/.well-known/genid/17e71d6744b6a82ae883",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/fr_FR/5592f6bb8c39ca8fd5246129ddae79b0.jpg",
   "assets": {
     "WEB": [
@@ -126,6 +124,7 @@
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_OR_05_R1",
+  "isOwnerless": false,
   "reference": "ALT_WCQ25_P_OR_05_R1",
   "id": "01JTJSZMEHWPT44KW6KXG7W0NN",
   "mainFaction": {
@@ -137,11 +136,11 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/it_IT/7644024256cb26b9c5cd4b21dc6a5e43.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/de_DE/a7ed6694d38050211c809adde84d27dd.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/fr_FR/5592f6bb8c39ca8fd5246129ddae79b0.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/en_US/738c1d534ce0cc6675dc76cda7d5b406.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/es_ES/c5a360f77adfb7256dc12e1c330fe9c5.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/it_IT/7644024256cb26b9c5cd4b21dc6a5e43.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/es_ES/c5a360f77adfb7256dc12e1c330fe9c5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_OR_05/JPG/de_DE/a7ed6694d38050211c809adde84d27dd.jpg"
   },
   "name": "Troupière Ordis",
   "elements": {
@@ -154,5 +153,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCQ25-05-R-FR"
 }

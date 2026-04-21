@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "3DX7MKF5FB849RNKRKCJWWS3WB",
       "reference": "ALT_MUSUBI_B_MU_22_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/6aa2e11aa40b04fdd981",
+      "@id": "/.well-known/genid/0d818abdef2825ac1153",
       "reference": "DRAGON",
       "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
       "name": "Dragon"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/9fad4265bcaa40861b79",
+      "@id": "/.well-known/genid/a46490c2c15dfd44eca0",
       "reference": "PLANT",
       "id": "01HKAGSB49H24XWW17AAY441MT",
       "name": "Plant"
@@ -117,16 +116,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/92830a1f0fe079a9558e",
+    "@id": "/.well-known/genid/ac05e5741fadcf6cc262",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/en_US/679c1b19bf601f6202778ba0b067ce2d.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/WEB_3c61376f2780eb6594840abf31b9416b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/WEB_c73817c7072ec45b28e0840b0aca542c"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_MU_22_R1",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_MU_22_R1",
   "id": "01K4W8PE32W06C5FDX27J50M6A",
   "mainFaction": {
@@ -139,10 +143,10 @@
   },
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/fr_FR/e29695e66009777161664fb1daf2a16c.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/de_DE/224edb2515b885d2b1f3912b5d4d85ea.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/it_IT/008f0cbc5c84bd22dfa755e59d30f881.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/en_US/679c1b19bf601f6202778ba0b067ce2d.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/es_ES/918a9565a30d20af17169b083c0ec212.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/it_IT/008f0cbc5c84bd22dfa755e59d30f881.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/es_ES/918a9565a30d20af17169b083c0ec212.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/de_DE/224edb2515b885d2b1f3912b5d4d85ea.jpg"
   },
   "name": "Hydracaena",
   "elements": {
@@ -151,10 +155,12 @@
     "OCEAN_POWER": "0",
     "FOREST_POWER": "0",
     "MOUNTAIN_POWER": "0",
-    "MAIN_EFFECT": "[Eternal].  #[Tough X], where X is the number of plants you control.#  {J} I gain 4 boosts.  At Noon — I gain 4 boosts."
+    "MAIN_EFFECT": "[Eternal].  #[Tough X], where X is the number of Plants you control.#  {J} I gain 4 boosts.  At Noon — I gain 4 boosts."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-04-R-EN"
 }

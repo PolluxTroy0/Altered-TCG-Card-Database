@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "24K5J1GVS69G7RNZJARFVCJN2G",
       "reference": "ALT_MUSUBI_B_LY_06_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/e5125a5b061563bd4cda",
+      "@id": "/.well-known/genid/475bfda1acea6b517111",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Citizen"
@@ -110,16 +109,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/2331e32026704cdc1443",
+    "@id": "/.well-known/genid/de4541e556649f519d63",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/en_US/f52c67a4ae599630d54a43d5f69bbb97.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/WEB_a15dd1767795f4126a24eab9e6051548",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/WEB_35d6d65bd746d9cacb765a47968193ba"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_LY_06_R1",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_LY_06_R1",
   "id": "01K4W8PE30C0PTG8MB1Z52M1CP",
   "mainFaction": {
@@ -132,10 +136,10 @@
   },
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/fr_FR/3ae2b9988f803ab7efba31d1e58f9974.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/de_DE/074cabb5e1a96a51afe91c17c1e24f8c.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/it_IT/faf5cfa782b1c389ca4d488b25b4fab5.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/en_US/f52c67a4ae599630d54a43d5f69bbb97.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/es_ES/ae6fc9884c63e3d404b24ad34578b1bf.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/it_IT/faf5cfa782b1c389ca4d488b25b4fab5.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/es_ES/ae6fc9884c63e3d404b24ad34578b1bf.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/de_DE/074cabb5e1a96a51afe91c17c1e24f8c.jpg"
   },
   "name": "Ouroboros Trickster",
   "elements": {
@@ -149,5 +153,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-03-R-EN"
 }

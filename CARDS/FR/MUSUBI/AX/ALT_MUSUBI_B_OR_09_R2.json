@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "4WBB99R08K8WWRBSCKDKHA04JN",
       "reference": "ALT_MUSUBI_B_OR_09_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8a17c2468dda2d0c4fe6",
+      "@id": "/.well-known/genid/6d07fef2b87f88324a43",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bureaucrate"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/70a1d937ae88f34cd0e4",
+      "@id": "/.well-known/genid/b197f6643168f69755dc",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Noble"
@@ -117,16 +116,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/b2f407dc96b2e6c5577e",
+    "@id": "/.well-known/genid/71894f9ff302f2592d3b",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/fr_FR/f8b8a7f7759858464e16c9533a8f5743.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/WEB_5072bc7bda736329debf586a8fba87a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/WEB_0d65f1bde7fd07a4ab6bcefee08443e2"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_OR_09_R2",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_OR_09_R2",
   "id": "01K4W8PE33TGKXZF0ZJHGZHKHS",
   "mainFaction": {
@@ -140,9 +144,9 @@
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/fr_FR/f8b8a7f7759858464e16c9533a8f5743.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/en_US/d3a31b38b50bfa9e7589a69c3409693a.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/64c9e38102b551c535829006b274ce0a.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/it_IT/6d1ecb77632fb4de93c2a947b829f6d8.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/es_ES/165e437d53568b7207b2e67432f1656f.jpg"
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/es_ES/165e437d53568b7207b2e67432f1656f.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/64c9e38102b551c535829006b274ce0a.jpg"
   },
   "name": "Le Roi-Grenouille",
   "elements": {
@@ -156,5 +160,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-05-F-FR"
 }

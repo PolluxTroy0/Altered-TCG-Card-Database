@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "5BKY05HA7E9ZRAWN3HGV4FTM4F",
       "reference": "ALT_WCS25_P_MU_01_C"
@@ -102,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7e9d86047c94fd0d98f2",
+    "@id": "/.well-known/genid/44e4b27565d7e0fe663e",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/de_DE/9e4f2466acabec44891703aba560d8d1.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_MU_01_C",
+  "isOwnerless": false,
   "reference": "ALT_WCS25_P_MU_01_C",
   "id": "01JTJV89XEZH9PJRCXQ18FPFW2",
   "mainFaction": {
@@ -123,20 +122,22 @@
     "name": "Muna"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/de_DE/9e4f2466acabec44891703aba560d8d1.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/fr_FR/9a246eb0b7dc4087454c291eb8531c77.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/en_US/eb08e42753f9d139df482a5462102a5e.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/it_IT/70918ae99d32e6b48a0f21dc783c599d.jpg",
     "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/es_ES/6cff9f83ce5d89acd7c066215610b566.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/en_US/eb08e42753f9d139df482a5462102a5e.jpg"
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_MU_01/JPG/de_DE/9e4f2466acabec44891703aba560d8d1.jpg"
   },
   "name": "Teija & Nauraa",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "Der erste Charakter, den du jeden Nachmittag spielst, erhält 1 Verstärkung[]. (Eine Verstärkung ist ein +1/+1/+1-Zähler. Entferne sie, wenn sie die Expeditionszone verlässt.)"
+    "MAIN_EFFECT": "Der erste Charakter, den du jeden Nachmittag spielst, erhält 1 Verstärkung[BB]."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCS25-MU-01-C-DE"
 }

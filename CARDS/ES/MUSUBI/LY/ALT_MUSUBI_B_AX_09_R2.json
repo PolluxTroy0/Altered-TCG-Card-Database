@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "1S48HNYYAK88ATHP5977T4A6RK",
       "reference": "ALT_MUSUBI_B_AX_09_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/294d40112adab8d97a37",
+      "@id": "/.well-known/genid/b20b4b34babe6c89b01b",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Hada"
@@ -110,16 +109,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/38867e4e761eaf09f0a4",
+    "@id": "/.well-known/genid/df6b1ace925dd21b5d6d",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/es_ES/ef5c8bbbe8a91cf4487753cefbcf70f4.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_a4b0163391ab07aa3820e154b059222c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_6db86b86f65463557d5507758f0afdc3"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_AX_09_R2",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_AX_09_R2",
   "id": "01K4W8PE2XV30V3RDBMGS6PJEN",
   "mainFaction": {
@@ -131,11 +135,11 @@
     "name": "Lyra"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/de_DE/4b19f5b9bb6a3a6924728290eaf85203.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/b8eeb4ff470e8ce8e68735783550b050.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/b6bd73455cc0efec5658c556edd98724.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/it_IT/cac678f5777e811149c5a856a6e8f7f6.jpg",
     "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/es_ES/ef5c8bbbe8a91cf4487753cefbcf70f4.jpg",
-    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/b8eeb4ff470e8ce8e68735783550b050.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/b6bd73455cc0efec5658c556edd98724.jpg"
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/de_DE/4b19f5b9bb6a3a6924728290eaf85203.jpg"
   },
   "name": "Campanilla",
   "elements": {
@@ -149,5 +153,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-01-F-ES"
 }

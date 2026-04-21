@@ -1,0 +1,864 @@
+[
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_A_AX_31_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN",
+      "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+      "name": "Jeton Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/30911cbd41bf80101684",
+        "reference": "ROBOT",
+        "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+        "name": "Robot"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/8b43f9bf5e0ae296d022",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/fr_FR/92a88335f3355ee0f18a0df792eea866.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/WEB_abe0298ebae89f684c5f0c21e669ae20"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_A_AX_31_C",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_A_AX_31_C",
+    "id": "01KGWCPAV6A3W6WYR6A68PYWMJ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/fr_FR/92a88335f3355ee0f18a0df792eea866.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/en_US/dc9e89003404e4485f4d12cb257fc865.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/it_IT/1c5cb4a1f774d4eaf39b14c33825ae80.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/es_ES/e527bddf6fb313bdd5a59c8d0ff2f56d.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/de_DE/e4ebcd92ce35aaef862de6d1af202acc.jpg"
+    },
+    "name": "Scarabot",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_A_AX_31_C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_AX_31_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN",
+      "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+      "name": "Jeton Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/b76bc675edca12bfcc3f",
+        "reference": "ROBOT",
+        "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+        "name": "Robot"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/30aee1517b71eba4406d",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/fr_FR/26bfd5225de457c4ce830227c53a0b80.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/WEB_81d841717c8c39bffd9e0c624b503395"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_AX_31_C",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_AX_31_C",
+    "id": "01KGWCPAV8R1WPHH580YN7JSVZ",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/fr_FR/26bfd5225de457c4ce830227c53a0b80.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/en_US/a62bf245f8e0fdf43bc3083745ab12e3.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/it_IT/7e799cf3ec2845bc56e6ff7c745f83c4.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/es_ES/44977410f17e206ac47bf51fafec718c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/de_DE/01138c583e2203695c850fd4ee562adc.jpg"
+    },
+    "name": "Scarabot",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_AX_31_C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_AX_95_E",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2e694e8be2d48a6748fc",
+        "reference": "ENGINEER",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "name": "Ingénieur"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/1cdfdbae4c3a3982a4e5",
+        "reference": "NOBLE",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "name": "Noble"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/7122d445e447c6f65b65",
+      "reference": "EXALTED",
+      "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+      "name": "Exalté"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/fr_FR/a653118eed7313c6204074d505188d14.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/WEB_7ff2d0ae4352df051f528ecd50cbb339",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/WEB_6f669d95c0f23b9ac54d0c762b7d09df"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_AX_95_E",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_AX_95_E",
+    "id": "01KGWCPAV2BJKD1ZV08X10MHDK",
+    "mainFaction": {
+      "@id": "/factions/AX",
+      "@type": "Faction",
+      "reference": "AX",
+      "color": "#8c432a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "name": "Axiom"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/fr_FR/a653118eed7313c6204074d505188d14.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/en_US/32473176fc4163ee652fcea7808f9ffe.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/it_IT/039ec2225a460f898ca72436b862461c.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/es_ES/28e7422b89cdc12882c08336fa2a8745.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/de_DE/5ce7788119fd1c0dac578e3d516d4abb.jpg"
+    },
+    "name": "Sphura, Hexarque Reka",
+    "elements": {
+      "MAIN_COST": "5",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "4",
+      "MOUNTAIN_POWER": "4",
+      "MAIN_EFFECT": "Jouez-moi pour {1} de moins si vous contrôlez au moins un Permanent épuisé.  Jouez-moi pour {1} de moins s'il y a au moins une carte épuisée dans votre Réserve.  {J} S'il y a au moins quatre cartes épuisées parmi les Permanents que vous contrôlez et les cartes de votre Réserve, redressez-en jusqu'à deux."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_AX_95_E-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_BR_98_E",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9e59d7884599ab47bf95",
+        "reference": "NOBLE",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "name": "Noble"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/6a462e10171cf55b9cc5",
+      "reference": "EXALTED",
+      "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+      "name": "Exalté"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/JPG/fr_FR/89a49690050ba406642535f2c08c5a9b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/WEB_043deb649725027cce40b4e5c7db84d9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/WEB_a35ada9f40a5351e141085c9c7f0834f"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_BR_98_E",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_BR_98_E",
+    "id": "01KGWCPAV7T65XTNS2F3GKVXN8",
+    "mainFaction": {
+      "@id": "/factions/BR",
+      "@type": "Faction",
+      "reference": "BR",
+      "color": "#c32637",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "name": "Bravos"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/JPG/fr_FR/89a49690050ba406642535f2c08c5a9b.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/JPG/en_US/f2e067592e55c53d7d516b71733dacbe.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/JPG/it_IT/ccc5e8fc5b4d62ccdddc6a5bfa2730c8.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/JPG/es_ES/ad91afbf0a521fbf1cc8399526edc23f.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_BR_98/JPG/de_DE/d01dfd5ef8153fd4f691d0de57e57045.jpg"
+    },
+    "name": "Wanax, Hexarque Reka",
+    "elements": {
+      "MAIN_COST": "5",
+      "RECALL_COST": "5",
+      "OCEAN_POWER": "6",
+      "FOREST_POWER": "6",
+      "MOUNTAIN_POWER": "6",
+      "MAIN_EFFECT": "Jouez-moi pour {1} de moins par autre carte que vous avez jouée ce tour-ci.  {J} Passez. (Ne jouez plus de tours ce Jour-ci.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_BR_98_E-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_LY_98_E",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/002713ea7cea918b2b91",
+        "reference": "ARTIST",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "name": "Artiste"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a5c814f7c1f01e20e732",
+        "reference": "NOBLE",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "name": "Noble"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/ef503c8cd63a0c740ec1",
+      "reference": "EXALTED",
+      "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+      "name": "Exalté"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/JPG/fr_FR/31cd1125ffa651971105f89d4af5e948.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/WEB_e0ae01a197f8651545774f0f1c297779",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/WEB_9f1720857ce4753fd4a3eabcf105e6cd"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_LY_98_E",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_LY_98_E",
+    "id": "01KGWCPAVDP8Y4M39GCQRSVK5Q",
+    "mainFaction": {
+      "@id": "/factions/LY",
+      "@type": "Faction",
+      "reference": "LY",
+      "color": "#cf4171",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "name": "Lyra"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/JPG/fr_FR/31cd1125ffa651971105f89d4af5e948.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/JPG/en_US/7884a233b7f0c955410523262916a11b.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/JPG/it_IT/5aa36f3aa5a8408274aa48f067d70cfa.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/JPG/es_ES/39418d31e7be2e7cf0818e2659b9236d.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_LY_98/JPG/de_DE/41fa49efcf0e9e3e9878ffa217233929.jpg"
+    },
+    "name": "Phoibos, Hexarque Reka",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "4",
+      "OCEAN_POWER": "6",
+      "FOREST_POWER": "6",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Un adversaire ciblé révèle une carte aléatoire de sa main. Si je suis [En Contact], vous pouvez immédiatement la jouer gratuitement, et elle gagne [[Fugace]]. Si vous ne le faites pas, défaussez-la."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_LY_98_E-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_MU_96_E",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/03ea6b3e4ccc5ba8e8c3",
+        "reference": "DRUID",
+        "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+        "name": "Druide"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2c90cc766bafc1dc2ac2",
+        "reference": "NOBLE",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "name": "Noble"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/e32ee23a5cadd888657e",
+      "reference": "EXALTED",
+      "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+      "name": "Exalté"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/fr_FR/c4d9f99488c0cf85248ee329fbfa00d9.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/WEB_43dfdf6b164df5ecf3f4ae76139c477e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/WEB_62c4b21732972f144a8b7f9fb28c1f5f"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_MU_96_E",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_MU_96_E",
+    "id": "01KGWCPAVMGB11YPKG7TEEM00E",
+    "mainFaction": {
+      "@id": "/factions/MU",
+      "@type": "Faction",
+      "reference": "MU",
+      "color": "#3d6b42",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "name": "Muna"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/fr_FR/c4d9f99488c0cf85248ee329fbfa00d9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/en_US/924bc9f692939642d55452ad127ddc50.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/it_IT/345c1c4a065d3c9434c41ff2c7e2c938.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/es_ES/c5926bdc3d10a3bb69a9b868db078889.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/de_DE/8b2418da8fa2136cb11f6f69bd7414b4.jpg"
+    },
+    "name": "Ploutos, Hexarque Reka",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "7",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MOUNTAIN_POWER": "5",
+      "MAIN_EFFECT": "{J} Un joueur ciblé [Ravitaille Épuisé].  Lorsque vous faites un [Don] — Un Personnage ciblé gagne [[Ancré]]."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_MU_96_E-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_OR_97_E",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/49e1c5689c2af28ed26f",
+        "reference": "BUREAUCRAT",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "name": "Bureaucrate"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/a85fadf75105b77f0569",
+        "reference": "NOBLE",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "name": "Noble"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/676c3765f3dfc7d4b1af",
+      "reference": "EXALTED",
+      "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+      "name": "Exalté"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/JPG/fr_FR/141d7f205282f25c9f112f0c0515bbd9.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/WEB_92fdd22e85108bf6e541ce30157b9f2b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/WEB_86d86a6ac95759a20079221f359fa116"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_OR_97_E",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_OR_97_E",
+    "id": "01KGWCPAVTA8PS1R73GYSKNHQX",
+    "mainFaction": {
+      "@id": "/factions/OR",
+      "@type": "Faction",
+      "reference": "OR",
+      "color": "#0f6593",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "name": "Ordis"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/JPG/fr_FR/141d7f205282f25c9f112f0c0515bbd9.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/JPG/en_US/83a9df97d67a9bbba717a383b3c27322.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/JPG/it_IT/870b9fad8cc988102847c54ee51ce57d.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/JPG/es_ES/00ff275f136d8ca9eb4ed2a89c7fa48c.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_OR_97/JPG/de_DE/dbf3b980989fcedece1a47ed82c7d4ce.jpg"
+    },
+    "name": "Astrape, Hexarque Reka",
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MOUNTAIN_POWER": "0",
+      "MAIN_EFFECT": "{J} Créez trois jetons [Graine de Mana] dans vos Repères. Puis, je gagne 1 boost par carte dans vos Repères."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_OR_97_E-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_YZ_47_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN",
+      "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+      "name": "Jeton Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/da0dfab67eca43fbc206",
+        "reference": "ILLUSION",
+        "id": "01J1QBG2268GSN3G0S560XZGZY",
+        "name": "Illusion"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/aa3b822e77a5738c4b1f",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/fr_FR/082896205248daad5d032be79bee5507.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/WEB_762a04e5367fe938b2c2ae1e979fa813"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_YZ_47_C",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_YZ_47_C",
+    "id": "01KGWD3M05KEJT83ECF2KA5QBD",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/fr_FR/082896205248daad5d032be79bee5507.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/en_US/04b38b5f22d5b6ce778d58ea38080f49.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/it_IT/d47e78d30e2db6a452e1d3644b8ecf93.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/es_ES/d1d15a9380a7f57a04b26d64e4df0f81.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_47/JPG/de_DE/e7e6f11b55b82dc0fb57406a9da50cb2.jpg"
+    },
+    "name": "Phalène de Mana",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MOUNTAIN_POWER": "2",
+      "MAIN_EFFECT": "(Si je quitte la zone d'Expédition, retirez-moi du jeu.)"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_YZ_47_C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_YZ_94_E",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+      "@type": "CardType",
+      "reference": "CHARACTER",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "name": "Personnage"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/af9dffa9f017e524091b",
+        "reference": "NOBLE",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "name": "Noble"
+      },
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/2e2d0caedae248cb701a",
+        "reference": "ROGUE",
+        "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+        "name": "Gredin"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/3c530b7d4a53c68bbc40",
+      "reference": "EXALTED",
+      "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+      "name": "Exalté"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/JPG/fr_FR/1fb4369c3b58411676e49fd0d850dae0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/WEB_3d84da44092f3b207305ec7358306082",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/WEB_43e6f70937e78e3ce910c068557bf4ef"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_YZ_94_E",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_YZ_94_E",
+    "id": "01KGWCPAVVP2KBW0WKH5DE3CYR",
+    "mainFaction": {
+      "@id": "/factions/YZ",
+      "@type": "Faction",
+      "reference": "YZ",
+      "color": "#764891",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "name": "Yzmir"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/JPG/fr_FR/1fb4369c3b58411676e49fd0d850dae0.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/JPG/en_US/4832e6fcb7bb110c7bc982d22391365c.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/JPG/it_IT/b3dff3e488b7c798303b376630d7851c.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/JPG/es_ES/b07d561739f615fe004713c320264e45.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_YZ_94/JPG/de_DE/90b46dbf608e563cb2a36027ede5df76.jpg"
+    },
+    "name": "Maleros, Hexarque Reka",
+    "elements": {
+      "MAIN_COST": "7",
+      "RECALL_COST": "3",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "3",
+      "MOUNTAIN_POWER": "3",
+      "MAIN_EFFECT": "{H} Payez {7} de moins pour le prochain Sort que vous jouez cet Après-midi."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_YZ_94_E-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_NE_01_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "@type": "CardType",
+      "reference": "TOKEN_MANA",
+      "id": "01H0FV1VGP4ACD3DFEJW3PWTQT",
+      "name": "Mana"
+    },
+    "cardSubTypes": [],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/4292e68693fa0d17fe69",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/fr_FR/10e6a5ef478d78dc7f3463dd1a62094e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/WEB_87369f3f6d7b8e956de2571d1b51b7b9"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_NE_01_C",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_NE_01_C",
+    "id": "01KGWCPAVMGB11YPKG7TEEM00H",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutre"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/fr_FR/10e6a5ef478d78dc7f3463dd1a62094e.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/en_US/5839c8a25d8532bb84bbb1a0fa33d90a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/it_IT/26bf1274ac32cb91d11b1de60ad22aba.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/es_ES/4391724dbf708da468abb192bd4ecbb9.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_01/JPG/de_DE/2249848eb4afa754a8e0d1d6a97d0430.jpg"
+    },
+    "name": "Afflux de Mana",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0"
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_NE_01_C-FR"
+  },
+  {
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_WCS26_P_NE_03_C",
+    "@type": "Card",
+    "cardType": {
+      "@id": "/card_types/01JN9T9WB3A67XPW9251FVSS60",
+      "@type": "CardType",
+      "reference": "TOKEN_LANDMARK_PERMANENT",
+      "id": "01JN9T9WB3A67XPW9251FVSS60",
+      "name": "Jeton Repère Permanent"
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubType",
+        "@id": "/.well-known/genid/9f70f4b6a6a35d4b35c2",
+        "reference": "ORE",
+        "id": "01JPYFRDDD06XC6SP7K6W89CTE",
+        "name": "Roc"
+      }
+    ],
+    "cardSet": {
+      "@id": "/card_sets/WCS26",
+      "@type": "CardSet",
+      "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+      "reference": "WCS26",
+      "name": "World Championship Series 2026"
+    },
+    "rarity": {
+      "@type": "Rarity",
+      "@id": "/.well-known/genid/74c9a0079b03fe545e16",
+      "reference": "COMMON",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "name": "Commun"
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/fr_FR/a4e957632d8ac0d3e02b2ee4a5ab8862.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/WEB_d542166a0f1e26fddfe00475c172e118"
+      ]
+    },
+    "lowerPrice": 0,
+    "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_NE_03_C",
+    "isOwnerless": false,
+    "reference": "ALT_WCS26_P_NE_03_C",
+    "id": "01KGWCPAVE9A1PWYRJ9BBPAMV8",
+    "mainFaction": {
+      "@id": "/factions/NE",
+      "@type": "Faction",
+      "reference": "NE",
+      "color": "#8f95b2",
+      "id": "01HKAFVTTJFNBREV3V8Z4NR3Z9",
+      "name": "Neutre"
+    },
+    "allImagePath": {
+      "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/fr_FR/a4e957632d8ac0d3e02b2ee4a5ab8862.jpg",
+      "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/en_US/64764defdb730d1967776663de46378a.jpg",
+      "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/it_IT/af68218b083aba6ce3f7d49ee41d49f1.jpg",
+      "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/es_ES/6ebe6250936026d809be9b5f775c711b.jpg",
+      "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_NE_03/JPG/de_DE/b3cfaff5481d2879f94ed765e71c9910.jpg"
+    },
+    "name": "Aérolithe",
+    "elements": {
+      "MAIN_COST": "0",
+      "RECALL_COST": "0",
+      "MAIN_EFFECT": "Lorsque je suis sacrifié — [Ravitaillez]. (Les Repères excédentaires sont sacrifiés à la fin du Jour.)  {T}, {1} : Sacrifiez-moi."
+    },
+    "isSuspended": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "collectorNumber": "ALT_WCS26_P_NE_03_C-FR"
+  }
+]

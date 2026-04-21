@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "3THTHB26H587HB9SBG8GX8KTBR",
       "reference": "ALT_WCS25_P_OR_02_C"
@@ -102,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/5b65f59d531582610710",
+    "@id": "/.well-known/genid/a595e081478f81935f4d",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/es_ES/00b7c32262191ccd116da8b039f7e1ab.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_OR_02_C",
+  "isOwnerless": false,
   "reference": "ALT_WCS25_P_OR_02_C",
   "id": "01JTJV9P7WVYT20EMX3CQ2XXFB",
   "mainFaction": {
@@ -123,20 +122,22 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/en_US/48857fe398f77be5c6277cd978020e66.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/fr_FR/8005c29f37f8f3f69ed925de2b89037e.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/de_DE/b989c9d92ff7df20c75b523b9f3d5c1d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/en_US/48857fe398f77be5c6277cd978020e66.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/it_IT/e9a699a1a1b1110c1b8bc1bae92144f3.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/es_ES/00b7c32262191ccd116da8b039f7e1ab.jpg"
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/es_ES/00b7c32262191ccd116da8b039f7e1ab.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_OR_02/JPG/de_DE/b989c9d92ff7df20c75b523b9f3d5c1d.jpg"
   },
   "name": "Waru y Mack",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "When you play a Bureaucrat — It gains [[Sueño]]. (During Dusk, ignore its statistics. During Rest, it doesn't go to Reserve and it loses Asleep.)"
+    "MAIN_EFFECT": "Cuando juegues un burócrata — Gana [[Sueño]]. (Durante el anochecer, ignora sus estadísticas. Durante el descanso, no va a la reserva y pierde sueño)."
   },
   "isSuspended": false,
   "isErrated": true,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCS25-OR-02-C-ES"
 }

@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "69KSF3MA0V9W5SBY7XGXQ4ZXG3",
       "reference": "ALT_MUSUBI_B_BR_04_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/2c82cb03035e2a9aa574",
+      "@id": "/.well-known/genid/73ed48b6b8e665edb40d",
       "reference": "MESSENGER",
       "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
       "name": "Messaggero"
@@ -110,16 +109,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/fa1995bebc625bc3071c",
+    "@id": "/.well-known/genid/0be13d02a8ca966ef2c3",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/it_IT/06bee1de8a88ee0c3b4c9d506f7a7a15.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/WEB_495c985b08cbe26f802902fa39b7a548",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/WEB_ab68b964d68d5b9c66c8e3aaf2229285"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_BR_04_R1",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_BR_04_R1",
   "id": "01K4W8PE2Z39T8P4TX6TR6PEX3",
   "mainFaction": {
@@ -131,11 +135,11 @@
     "name": "Bravos"
   },
   "allImagePath": {
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/en_US/e2424b3d30b77c39f64ecacc0ced8deb.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/fr_FR/82dd71e481a28d7682455af970fbe53f.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/de_DE/15e1d2f43a22438e454b79dba1f5c978.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/en_US/e2424b3d30b77c39f64ecacc0ced8deb.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/it_IT/06bee1de8a88ee0c3b4c9d506f7a7a15.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/es_ES/b4abef9b07ca36eaf505a5d68e87ebf2.jpg"
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/es_ES/b4abef9b07ca36eaf505a5d68e87ebf2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/de_DE/15e1d2f43a22438e454b79dba1f5c978.jpg"
   },
   "name": "Ratatoskr",
   "elements": {
@@ -144,10 +148,12 @@
     "OCEAN_POWER": "1",
     "FOREST_POWER": "1",
     "MOUNTAIN_POWER": "1",
-    "MAIN_EFFECT": "{R} Ottengo #3 rinforzi#."
+    "MAIN_EFFECT": "{R} Ottengo #3 rinforzi.#"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-02-R-IT"
 }

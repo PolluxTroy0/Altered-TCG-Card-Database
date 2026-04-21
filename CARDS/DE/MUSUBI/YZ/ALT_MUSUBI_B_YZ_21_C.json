@@ -1,0 +1,156 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_MUSUBI_B_YZ_21_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4TX1J0NXXR8RD9Q72SXMA7373K",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KMMRJQP8657FJTRHF7X25VBP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KMMRJQP8657FJTRHF7X25VBP",
+          "text": "Zeit, sich von Kansas zu verabschieden."
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQPM0RNT8V7GDJVZ2X7Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KMMRJQPM0RNT8V7GDJVZ2X7Y",
+          "text": "The martengale lands on the balustrade and begins to groom its ears with its paws. I turn towards the little animal – a cross between a marten, a rabbit and a jay – and place myself in between it and Ozma. It seems frail and sickly, but looks can be deceiving. I know perfectly well who's hiding behind this intentionally plain form. I greet Loki with a nod, but he just licks his paws while staring at me with golden eyes. What could he possibly want? What could have persuaded him to leave his domain and enter ours? As I approach, he uncurls his long, bushy tail, revealing a message hanging from it. With one long canine tooth, he unties the knot holding the little note and lets it drop into my hand, giving me a hint of a smile that perfectly captures his mischievous temperament.\n\nI open the note and start to decipher his words, which are full of strikethroughs, scribbles and spelling mistakes. I read it, then read it again, gradually unfurling the seemingly endless scroll. It's full of speculation, stylistic verbiage and nonsensical digressions. Tiring of his childishness, I skip – or try to skip – to the end... only to realize that it's a never-ending scroll. I scold him as he rolls around on the railing, almost falling into the void a few times. Then he finally decides to let me continue reading. With wide eyes, I finally read the end of the message. With a wave of my hand, I create a tornado to whisk him away to his own realm. I turn to Ozma, who is looking at me quizzically after my rather violent reaction. If what Loki says is true, some nasty business is afoot in the shadows..."
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQPD29TH6N508D83NGDB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KMMRJQPD29TH6N508D83NGDB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQNV2HJH3FZ9SQ8HQZD7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KMMRJQNV2HJH3FZ9SQ8HQZD7",
+          "text": "Dorothy"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQP2RAZ3TGS1Q2KKJJVV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KMMRJQP2RAZ3TGS1Q2KKJJVV",
+          "text": "392 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "4TX1J0NXXR8RD9Q72SXMA7373K",
+      "reference": "ALT_MUSUBI_B_YZ_21_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8067ef702b60f221559d",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/MUSUBI",
+    "@type": "CardSet",
+    "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+    "reference": "MUSUBI",
+    "name": "Musubi"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/92a3ce21083ec29a45c0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/de_DE/5db103b1ac393e3eaf0ca435cc9c4328.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/WEB_79b10cf9c912d22fb260debca9cead61",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/WEB_4e83fac697556718ef06a1f488995d6e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_YZ_21_C",
+  "isOwnerless": false,
+  "reference": "ALT_MUSUBI_B_YZ_21_C",
+  "id": "01KMGFTDKJ05X1XV5ACA6ZH5B1",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/fr_FR/e142c4ea64fc17f8cd23c5a7ed0c9362.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/en_US/96eb23ae477945fb67d1acedcc55c5f7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/it_IT/48926da7b53722a75cbfb919988451d3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/es_ES/b6ce6864ed604655d72beaf418d5ee21.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/de_DE/5db103b1ac393e3eaf0ca435cc9c4328.jpg"
+  },
+  "name": "Ab mit dir!",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "4",
+    "MAIN_EFFECT": "Schicke einen Charakter deiner Wahl mit Handkosten {3} oder weniger in die Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "MUSUBI-XS-012-C-DE"
+}

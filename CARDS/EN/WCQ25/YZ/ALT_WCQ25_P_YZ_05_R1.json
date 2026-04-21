@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "1G80VY9WBN9NWT9PMPJR4J016V",
       "reference": "ALT_WCQ25_P_YZ_05_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b5c4a9a19c3c0310fdf9",
+      "@id": "/.well-known/genid/af0cbc265915df9fdaf2",
       "reference": "SPIRIT",
       "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
       "name": "Spirit"
@@ -110,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/dc537b389c816ef70a60",
+    "@id": "/.well-known/genid/fa06f8ea2338374935a1",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/en_US/0cbab5200ada2477bf5f820f03600730.jpg",
   "assets": {
     "WEB": [
@@ -126,6 +124,7 @@
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_YZ_05_R1",
+  "isOwnerless": false,
   "reference": "ALT_WCQ25_P_YZ_05_R1",
   "id": "01JTJT04XPN848S4D3Z0RNRH2W",
   "mainFaction": {
@@ -137,11 +136,11 @@
     "name": "Yzmir"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/de_DE/db9e1729167a4bce793a9f41fa0f7467.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/fr_FR/f664b8bd3c4e0a3c13066927b7bd9fdd.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/en_US/0cbab5200ada2477bf5f820f03600730.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/it_IT/d3a460d6d01134a9d046fce02f5a9627.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/es_ES/e43e2ce31eafe86a4590aa136ade1ea0.jpg"
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/es_ES/e43e2ce31eafe86a4590aa136ade1ea0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/de_DE/db9e1729167a4bce793a9f41fa0f7467.jpg"
   },
   "name": "Moonlight Jellyfish",
   "elements": {
@@ -155,5 +154,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCQ25-06-R-EN"
 }

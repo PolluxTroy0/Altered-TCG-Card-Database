@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS26_P_MU_96_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6EMNJZMN8X928ACNFGNDQ1QG3V",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM7FQ9TZZTPJYCSJ93X4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KH3ZWM7FQ9TZZTPJYCSJ93X4",
+          "text": "Ploutos wacht über den Naos und kontrolliert die Verteilung seiner Früchte."
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM83ZTFD1N1YP0RC1SVJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KH3ZWM83ZTFD1N1YP0RC1SVJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM7VC84PJ5HQCDJKS94C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KH3ZWM7VC84PJ5HQCDJKS94C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM6YG8EC982V1YPYC8CT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KH3ZWM6YG8EC982V1YPYC8CT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM7ASC0AJG4C4QSJD0VJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KH3ZWM7ASC0AJG4C4QSJD0VJ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6EMNJZMN8X928ACNFGNDQ1QG3V",
+      "reference": "ALT_WCS26_P_MU_96_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a842a4547952ddfdc013",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b5cd873dd191e189bf95",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Adliger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCS26",
+    "@type": "CardSet",
+    "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+    "reference": "WCS26",
+    "name": "World Championship Series 2026"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/d09bee1b9651920c766c",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/de_DE/8b2418da8fa2136cb11f6f69bd7414b4.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/WEB_43dfdf6b164df5ecf3f4ae76139c477e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/WEB_62c4b21732972f144a8b7f9fb28c1f5f"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_MU_96_E",
+  "isOwnerless": false,
+  "reference": "ALT_WCS26_P_MU_96_E",
+  "id": "01KGWCPAVMGB11YPKG7TEEM00E",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/fr_FR/c4d9f99488c0cf85248ee329fbfa00d9.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/en_US/924bc9f692939642d55452ad127ddc50.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/it_IT/345c1c4a065d3c9434c41ff2c7e2c938.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/es_ES/c5926bdc3d10a3bb69a9b868db078889.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/de_DE/8b2418da8fa2136cb11f6f69bd7414b4.jpg"
+  },
+  "name": "Ploutos, Reka-Hexarch",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "7",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "{J} Ein Spieler deiner Wahl nutzt [Erschöpfter Nachschub].  Wenn du ein [Geschenk] gibst — Ein Charakter deiner Wahl erhält [[Verankert]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_WCS26_P_MU_96_E-DE"
+}

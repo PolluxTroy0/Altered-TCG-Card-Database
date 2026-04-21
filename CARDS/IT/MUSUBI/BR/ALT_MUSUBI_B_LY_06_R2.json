@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "24K5J1GVS69G7RNZJARFVCJN2G",
       "reference": "ALT_MUSUBI_B_LY_06_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/74a27f6ae82168cb5e60",
+      "@id": "/.well-known/genid/a2503e5c623042d54a6f",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Cittadino"
@@ -110,16 +109,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/6cea72c1f17a94be1445",
+    "@id": "/.well-known/genid/dfd3e55520c84fbeb4f5",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/it_IT/2f5a7805e58dcaedd7d93b90b540df57.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/WEB_a15dd1767795f4126a24eab9e6051548",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/WEB_35d6d65bd746d9cacb765a47968193ba"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_LY_06_R2",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_LY_06_R2",
   "id": "01K4W8PE30C0PTG8MB1Z52M1CS",
   "mainFaction": {
@@ -131,11 +135,11 @@
     "name": "Bravos"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/de_DE/f902b9d3984d3b123b3bdcd3d5d2078a.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/es_ES/b9c09915175031d5c63a5b312d4765ed.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/it_IT/2f5a7805e58dcaedd7d93b90b540df57.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/fr_FR/0fea7ea601cd270d398cac4e2c29969b.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/en_US/61aa7b255c7b68f04821352d7ba25c2b.jpg",
-    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/fr_FR/0fea7ea601cd270d398cac4e2c29969b.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/it_IT/2f5a7805e58dcaedd7d93b90b540df57.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/es_ES/b9c09915175031d5c63a5b312d4765ed.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_LY_06/JPG/de_DE/f902b9d3984d3b123b3bdcd3d5d2078a.jpg"
   },
   "name": "Mistificatrice dell'Uroboro",
   "elements": {
@@ -149,5 +153,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-03-F-IT"
 }

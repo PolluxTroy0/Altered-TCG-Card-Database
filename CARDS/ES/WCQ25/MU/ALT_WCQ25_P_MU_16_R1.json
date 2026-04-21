@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "20VJ4YQMJS860A26KRHYJP8V58",
       "reference": "ALT_WCQ25_P_MU_16_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/a462f41733dc06ea9ef8",
+      "@id": "/.well-known/genid/f5157a7d29c2e552c94c",
       "reference": "PLANT",
       "id": "01HKAGSB49H24XWW17AAY441MT",
       "name": "Planta"
@@ -110,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/013392071959e971cc06",
+    "@id": "/.well-known/genid/c326b6debba226155fdb",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/es_ES/36499c9a7903357ede9a886712f30c11.jpg",
   "assets": {
     "WEB": [
@@ -126,6 +124,7 @@
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_MU_16_R1",
+  "isOwnerless": false,
   "reference": "ALT_WCQ25_P_MU_16_R1",
   "id": "01JTJSZ04RPJFYEWJ6KQ8NZ3D1",
   "mainFaction": {
@@ -138,10 +137,10 @@
   },
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/fr_FR/dbcfc7dd2c24d4f6486d1efaf65ad6ef.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/es_ES/36499c9a7903357ede9a886712f30c11.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/en_US/e0c336ec0252a8614aca5ec0605fb786.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/de_DE/2a956a2b95016b02e790299e63f45be5.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/it_IT/5265129c8064d6bdf3e97537b0a83bfc.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/it_IT/5265129c8064d6bdf3e97537b0a83bfc.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/es_ES/36499c9a7903357ede9a886712f30c11.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_MU_16/JPG/de_DE/2a956a2b95016b02e790299e63f45be5.jpg"
   },
   "name": "Aloe vera",
   "elements": {
@@ -155,5 +154,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCQ25-04-R-ES"
 }

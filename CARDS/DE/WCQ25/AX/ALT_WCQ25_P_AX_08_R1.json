@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "4PDX6Z1MQ78YFB0CQ1HHF6KM8C",
       "reference": "ALT_WCQ25_P_AX_08_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/efdfb52fa4b6a2f1f01f",
+      "@id": "/.well-known/genid/f3b250d5dbed12c79e5f",
       "reference": "ENGINEER",
       "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
       "name": "Ingenieur"
@@ -110,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/d4c8c18ecfbc6ccd3365",
+    "@id": "/.well-known/genid/bb2b47e8dee24ecb8a85",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/de_DE/90aa7f3a0482f3f740a2cb8bba5ecb98.jpg",
   "assets": {
     "WEB": [
@@ -126,6 +124,7 @@
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_AX_08_R1",
+  "isOwnerless": false,
   "reference": "ALT_WCQ25_P_AX_08_R1",
   "id": "01JTJSX4QTW5P8923GR58KVA1T",
   "mainFaction": {
@@ -137,11 +136,11 @@
     "name": "Axiom"
   },
   "allImagePath": {
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/it_IT/e526a01af324504fb5e31346327b2cb0.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/de_DE/90aa7f3a0482f3f740a2cb8bba5ecb98.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/en_US/0d743dc2fbadbf325e2bbe915e01ba8d.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/fr_FR/afccc0f35bbcda6db739b9a74c14d7aa.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/es_ES/7b5ac0f0f27634704658359f9617388d.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/en_US/0d743dc2fbadbf325e2bbe915e01ba8d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/it_IT/e526a01af324504fb5e31346327b2cb0.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/es_ES/7b5ac0f0f27634704658359f9617388d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_AX_08/JPG/de_DE/90aa7f3a0482f3f740a2cb8bba5ecb98.jpg"
   },
   "name": "Axiom-Bergungsarbeiter",
   "elements": {
@@ -155,5 +154,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCQ25-01-R-DE"
 }

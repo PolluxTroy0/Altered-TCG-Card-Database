@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "3RQGD4ETSE92GVW6NDYK8C92KX",
       "reference": "ALT_TCS3_P_OR_54_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/e1ac198441eefa69573f",
+      "@id": "/.well-known/genid/bce07f728508df10ab9f",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldato"
@@ -110,16 +109,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/ce6b44e10a0187a085a7",
+    "@id": "/.well-known/genid/f7a4589bbd16380d4d29",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/it_IT/c1c912be0cb7f5988eff16e849744da2.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_OR_54_R1",
+  "isOwnerless": false,
   "reference": "ALT_TCS3_P_OR_54_R1",
   "id": "01JTJSG7D63B04MS41FP6Q1Q30",
   "mainFaction": {
@@ -131,11 +130,11 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/it_IT/c1c912be0cb7f5988eff16e849744da2.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/de_DE/056a1be601e4c7e7ec18192081e8cffe.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/es_ES/d23891784a4d6ef7a7568d18b16e0769.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/fr_FR/ee1609c890f7fd4450e6885fe35e0f94.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/en_US/1c435fec1ffbe099ec4756ca9a5dfb5d.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/en_US/1c435fec1ffbe099ec4756ca9a5dfb5d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/it_IT/c1c912be0cb7f5988eff16e849744da2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/es_ES/d23891784a4d6ef7a7568d18b16e0769.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_OR_54/JPG/de_DE/056a1be601e4c7e7ec18192081e8cffe.jpg"
   },
   "name": "Templare Aegis",
   "elements": {
@@ -149,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "TCS3-05-R-IT"
 }

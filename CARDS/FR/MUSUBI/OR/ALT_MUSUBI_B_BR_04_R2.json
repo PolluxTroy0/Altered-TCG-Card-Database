@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "69KSF3MA0V9W5SBY7XGXQ4ZXG3",
       "reference": "ALT_MUSUBI_B_BR_04_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/55d2f067695d2735a64d",
+      "@id": "/.well-known/genid/717f16b7a185bb582efb",
       "reference": "MESSENGER",
       "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
       "name": "Émissaire"
@@ -110,16 +109,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/45dbd3de2c33704dde60",
+    "@id": "/.well-known/genid/e37f40cfa9f05b93ff10",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/fr_FR/4f1006524aaefece4897a6add89a27c8.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/WEB_495c985b08cbe26f802902fa39b7a548",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/WEB_ab68b964d68d5b9c66c8e3aaf2229285"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_BR_04_R2",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_BR_04_R2",
   "id": "01K4W8PE2Z39T8P4TX6TR6PEX6",
   "mainFaction": {
@@ -131,10 +135,10 @@
     "name": "Ordis"
   },
   "allImagePath": {
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/it_IT/854b961220d994197700d334dd756569.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/es_ES/aa323f4c8106f2c484b15a9d85c50818.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/fr_FR/4f1006524aaefece4897a6add89a27c8.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/en_US/af07178e3e0503442d5298f9a8e1954c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/it_IT/854b961220d994197700d334dd756569.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/es_ES/aa323f4c8106f2c484b15a9d85c50818.jpg",
     "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_04/JPG/de_DE/6e1f61431299712504e1a34a89658f98.jpg"
   },
   "name": "Ratatosk",
@@ -149,5 +153,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-02-F-FR"
 }

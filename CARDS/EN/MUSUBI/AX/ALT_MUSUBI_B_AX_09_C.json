@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "1S48HNYYAK88ATHP5977T4A6RK",
       "reference": "ALT_MUSUBI_B_AX_09_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/f301d8a268056eb00645",
+      "@id": "/.well-known/genid/e61c6c4cd47df05ed6f1",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Fairy"
@@ -110,16 +109,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/df82e70ac96a35f5cb4c",
+    "@id": "/.well-known/genid/d615e939eec1528ea227",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/1ff7deb2c4740724eb679476164ac85a.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_a4b0163391ab07aa3820e154b059222c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/WEB_6db86b86f65463557d5507758f0afdc3"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_AX_09_C",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_AX_09_C",
   "id": "01K4W8PE2VXA59WX5M1J7Y1YRS",
   "mainFaction": {
@@ -131,11 +135,11 @@
     "name": "Axiom"
   },
   "allImagePath": {
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/de_DE/ac430fde7ae054a6cb5b1d5fad285bc9.jpg",
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/094c63ecb8980de127c7ea83b8e12b15.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/1ff7deb2c4740724eb679476164ac85a.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/it_IT/2a0ca84fd9453ba5c6f99f463568e16c.jpg",
     "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/es_ES/21007504f0f9dc77d86dcf63a1fa8316.jpg",
-    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/fr_FR/094c63ecb8980de127c7ea83b8e12b15.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/en_US/1ff7deb2c4740724eb679476164ac85a.jpg"
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_09/JPG/de_DE/ac430fde7ae054a6cb5b1d5fad285bc9.jpg"
   },
   "name": "Tinker Bell",
   "elements": {
@@ -149,5 +153,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-01-C-EN"
 }

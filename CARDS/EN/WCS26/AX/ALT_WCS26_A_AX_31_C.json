@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS26_A_AX_31_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6Y926YB7S08W9VSSYEZ1P9DWMY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMDD60BJBZVCA59J5YSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KH3ZWMDD60BJBZVCA59J5YSH",
+          "text": "10,000 feet... 9,500 feet... 9,000 feet..."
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMDQGCMWN0KZDHRNH1TK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KH3ZWMDQGCMWN0KZDHRNH1TK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMDJN12K7N2X79GXVZGD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KH3ZWMDJN12K7N2X79GXVZGD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMD2XKDSYDJ98RN7M6ZV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KH3ZWMD2XKDSYDJ98RN7M6ZV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWMD8R5F3PKHGCXJM4MHQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KH3ZWMD8R5F3PKHGCXJM4MHQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z5J75JCWRB6V94E57W3",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z5J75JCWRB6V94E57W3",
+        "reference": "TOKEN",
+        "name": "Token"
+      },
+      "id": "6Y926YB7S08W9VSSYEZ1P9DWMY",
+      "reference": "ALT_WCS26_A_AX_31_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Token Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7fff03be67cc45e52889",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCS26",
+    "@type": "CardSet",
+    "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+    "reference": "WCS26",
+    "name": "World Championship Series 2026"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/0faad1c4ecbee3230352",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/en_US/dc9e89003404e4485f4d12cb257fc865.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/WEB_abe0298ebae89f684c5f0c21e669ae20"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_A_AX_31_C",
+  "isOwnerless": false,
+  "reference": "ALT_WCS26_A_AX_31_C",
+  "id": "01KGWCPAV6A3W6WYR6A68PYWMJ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/fr_FR/92a88335f3355ee0f18a0df792eea866.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/en_US/dc9e89003404e4485f4d12cb257fc865.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/it_IT/1c5cb4a1f774d4eaf39b14c33825ae80.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/es_ES/e527bddf6fb313bdd5a59c8d0ff2f56d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/de_DE/e4ebcd92ce35aaef862de6d1af202acc.jpg"
+  },
+  "name": "Brassbug",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "(If I leave the Expedition zone, remove me from the game.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_WCS26_A_AX_31_C-EN"
+}

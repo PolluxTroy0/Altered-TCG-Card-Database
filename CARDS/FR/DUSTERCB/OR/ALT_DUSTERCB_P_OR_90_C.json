@@ -94,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/1f65b361b633b6756aea",
+      "@id": "/.well-known/genid/012f6ada83ffa1517138",
       "reference": "CITIZEN",
       "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
       "name": "Citoyen"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/ed5842e94e39095a70f7",
+      "@id": "/.well-known/genid/f9ab31b9e4038513129a",
       "reference": "SOLDIER",
       "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
       "name": "Soldat"
@@ -116,7 +116,7 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/1d3b71fd1e950903fb4c",
+    "@id": "/.well-known/genid/76c46dedd558420000fa",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
@@ -145,9 +145,9 @@
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/fr_FR/476733f7269cc8480661fa20411e2447.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/en_US/31c3bf424ef266491ed955eabf7ec7bb.jpg",
-    "it-it": "",
-    "es-es": "",
-    "de-de": ""
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/it_IT/b6910363446d8f5444be0df2111ec8d2.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/es_ES/ba897b1e490839f8b19310b98ada3069.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_OR_90/JPG/de_DE/a1dd87812130970995f7636177c19d10.jpg"
   },
   "name": "Touriste Ordis",
   "elements": {
@@ -156,7 +156,7 @@
     "OCEAN_POWER": "2",
     "FOREST_POWER": "1",
     "MOUNTAIN_POWER": "2",
-    "MAIN_EFFECT": "{J} S'il y a au moins deux cartes dans vos Repères, je gagne 1 boost."
+    "MAIN_EFFECT": "{J} S'il y a au moins deux cartes dans vos Repères, je gagne 1 boost."
   },
   "isSuspended": false,
   "isErrated": false,

@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "2KAV9PF3M88G49HM7K5YT9N95T",
       "reference": "ALT_MUSUBI_B_YZ_09_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/09f9f1a61e3fda2e4e6a",
+      "@id": "/.well-known/genid/869013d1ba6622e6e78f",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Folletto"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/8c96058fe09e0e9e7104",
+      "@id": "/.well-known/genid/0fcd0a3357e36c205544",
       "reference": "SPIRIT",
       "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
       "name": "Spirito"
@@ -117,16 +116,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/6d6fece0de1d774fadc6",
+    "@id": "/.well-known/genid/c08adff1cb7acc717880",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/it_IT/dbd8e34641e534d218ea3b8a29afc714.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_3e45cd869ab9297618e003063c0a0caf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_14666be41a40b11f418edb9e129967f5"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_YZ_09_C",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_YZ_09_C",
   "id": "01K4W8PE341XSKT2MZP4E8RJP8",
   "mainFaction": {
@@ -138,11 +142,11 @@
     "name": "Yzmir"
   },
   "allImagePath": {
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/it_IT/dbd8e34641e534d218ea3b8a29afc714.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/fr_FR/0cf7ecc0365bc711d9b5c00270d6d121.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/de_DE/5c77a2ef969af7f1de3bbab2921b9851.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/093214809c6fdf12a34cb7520b465c0e.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/es_ES/4ccfa07f0bac0c841db74ecebb65b87e.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/it_IT/dbd8e34641e534d218ea3b8a29afc714.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/es_ES/4ccfa07f0bac0c841db74ecebb65b87e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/de_DE/5c77a2ef969af7f1de3bbab2921b9851.jpg"
   },
   "name": "Dama del Lago",
   "elements": {
@@ -155,5 +159,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-06-C-IT"
 }

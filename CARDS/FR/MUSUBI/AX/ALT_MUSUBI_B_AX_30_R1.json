@@ -1,0 +1,156 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_MUSUBI_B_AX_30_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5NP7AYHT3J8A6R5V1JSGHAW0GH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KMMRJQBVMGH4E67QXA2HZ7C0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KMMRJQBVMGH4E67QXA2HZ7C0",
+          "text": "Un petit robot autonome, mignon, autoréplicateur... Qu'est-ce qui pourrait mal se passer ?"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQC6R3C829H2Q647XN5S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KMMRJQC6R3C829H2Q647XN5S",
+          "text": "J'écarquille les yeux en pénétrant dans la sphère alvéolée. Elle était plus imposante que les autres, et tous les Scarabots semblaient converger ici. Mais je m'attendais pas à ça. Au milieu de la capsule métallique, un Scarabot aux dimensions colossales est avachi, comme s'il souffrait. Des dizaines et des dizaines d'insectes robotiques s'affairent et se relaient autour de lui, comme s'ils étaient en train d'en prendre soin. Une complainte métallique résonne au sein de l'anfractuosité, et son compartiment arrière s'ouvre pour déverser de nombreuses boules bleutées. Euh... c'est vraiment ce que je crois ? Marmo renifle le tas de perles. Quelques Scarabots le poussent gentiment pour récupérer les billes et vérifier qu'elles sont en bon état. Il y en a d'autres qui apportent du Kélon liquide au mastodonte, comme pour le nourrir gorgée après gorgée.\n\nEt là, dans un coin de l'orbite métallique, un autre contingent de bestioles est en train de construire des enveloppes où enchâsser les précieuses sphères. C'est pas vrai... Est-ce que je suis en train d'assister à leur méthode de reproduction ? J'ai envie de rire. Ils ont donc une reine. Quand on les voit tous les jours nous aider, on peut vite les prendre pour de simples machines chargées de nous assister. Mais ils le font pas parce qu'on leur en donne l'ordre, juste parce qu'ils se plaisent à nous dépanner. Ils ont toute une organisation sociale, et des besoins liés à leur nature. Ils sont pas malades. Y'a pas de dysfonctionnement. Tout ce qu'on a à faire, c'est attendre que le processus se termine, et on aura alors plein d'autres bébés Scarabots sur les bras, à plus savoir quoi en faire. Je me pose dans un coin. La bonne nouvelle, c'est que mon job de maintenance a pas lieu d'être. La mauvaise, c'est que j'ai amené tous mes outils pour rien."
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQC0Z28E01FNN3V60Y44",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KMMRJQC0Z28E01FNN3V60Y44",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQAWJJXKZDPCRAZWG6RV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KMMRJQAWJJXKZDPCRAZWG6RV",
+          "text": "Subhash"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQBM365VJYDR2XFT85NW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KMMRJQBM365VJYDR2XFT85NW",
+          "text": "378 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4Z2EX56Q0HANCMJDSZN6",
+        "reference": "PERMANENT",
+        "name": "Permanent"
+      },
+      "id": "5NP7AYHT3J8A6R5V1JSGHAW0GH",
+      "reference": "ALT_MUSUBI_B_AX_30_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X78DXSNKNB15KCF69Z",
+    "@type": "CardType",
+    "reference": "PERMANENT",
+    "id": "01GE7AC9X78DXSNKNB15KCF69Z",
+    "name": "Permanent"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/96e5b43ce5214157c81e",
+      "reference": "LANDMARK",
+      "id": "01HKAGPK6DPRTGYCYJG9XHTRXG",
+      "name": "Repère"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/MUSUBI",
+    "@type": "CardSet",
+    "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+    "reference": "MUSUBI",
+    "name": "Musubi"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/abcc8581d398ff339391",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/JPG/fr_FR/0ebe1fb28248a82c036c94a68be0fab2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/WEB_1b73391fe0a81d1f8ed027b7f0a8cf99",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/WEB_a9d839f4d9bf3162543e59e204cf0f36"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_AX_30_R1",
+  "isOwnerless": false,
+  "reference": "ALT_MUSUBI_B_AX_30_R1",
+  "id": "01KMGFGEGJWVEJNQHX5E36SSZS",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/JPG/fr_FR/0ebe1fb28248a82c036c94a68be0fab2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/JPG/en_US/8a0e343086f8cf092ff628a83ab326d8.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/JPG/it_IT/ced95488c8f767342714fa0b16aa957a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/JPG/es_ES/ed0b9e5af9be047a06790810db81de1a.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_AX_30/JPG/de_DE/744ecf1be8e2ffd1eed222b66e930e65.jpg"
+  },
+  "name": "Ruche des Scarabots",
+  "elements": {
+    "MAIN_COST": "#6#",
+    "RECALL_COST": "#6#",
+    "MAIN_EFFECT": "{J} Créez un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée.  À Midi — Créez un jeton Robot [2/2/2 Scarabot] dans une Expédition ciblée.  #Lorsqu'un Robot rejoint vos Expéditions — Il gagne 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "MUSUBI-XS-007-R-FR"
+}

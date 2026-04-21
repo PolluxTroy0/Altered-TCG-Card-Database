@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_MUSUBI_B_BR_74_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/504F6ERZXD82H8T8PNFTC6XTQB",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KMMRJQDDYRWE4N1M4K62S65E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KMMRJQDDYRWE4N1M4K62S65E",
+          "text": "«El objetivo es simple: ¡hacer que Halua aparezca!». — Sol"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQDQS13P1VPE1DA4KEQH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KMMRJQDQS13P1VPE1DA4KEQH",
+          "text": "393 AC - The Aerolith fragments float above the flying islands as the day draws to a close. Magda removes her helmet and folds up her parachute. Her sweat-soaked hair sticks to her forehead. Next to me, Veora yawns while taking an energy bar out of her jacket, her ear glued to the radio receiver. Priya glances at me, and I nod my assent. She stands up and stretches, then pulls the pin out of her flare. The torch lights up the gloom with an orange glow that turns pink, while its colored smoke drifts across the small, fragmented islands. She raises her hand and waves it in the direction of the Axiom towboat, which has started its descent. With these new supplies, the next phase of the plan can start…\r\n\r\nThe lancer had been mobilized several days ago to show the Axiom where the flying stone deposits were. She usually used her talents to locate Leviathans so we knew where they were at all times, regardless of how thick the cloud cover was. In a few days, she would be on the front, guiding the AES Tempest to the ambush site… And she was prepared for it, as we all were. Whenever we were deployed, she would kiss a piece of jewelry hanging around her neck, carefully hidden under her many scarves. It was a locket, which she would sometimes open devoutly when we were about to leave for somewhere or even when we were in our barracks, but I didn't know what was inside it. It was probably a photo of a loved one– and the reason why she was with us."
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQDJJMA7ADFBTQ0V038Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KMMRJQDJJMA7ADFBTQ0V038Z",
+          "text": "Quote of an Altered Lore character - Gender : Femal"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQCZVW6Q94V1EEASPXEY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KMMRJQCZVW6Q94V1EEASPXEY",
+          "text": "SOLEDAD"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQD8ZB0ZS2AV9DPM6V1W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KMMRJQD8ZB0ZS2AV9DPM6V1W",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "504F6ERZXD82H8T8PNFTC6XTQB",
+      "reference": "ALT_MUSUBI_B_BR_74_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c6f0d68ff40b21b0c90e",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/MUSUBI",
+    "@type": "CardSet",
+    "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+    "reference": "MUSUBI",
+    "name": "Musubi"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4b51d043f5806d96dc1c",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/JPG/es_ES/d28802d1b71f71dd4f44395cc2a1ae41.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/WEB_ab614b11e489c59869c4b988be8d1b37",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/WEB_b51d685301c9b0c797be30a0748ef7e5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/WEB_4de95b21a5bf6804eedc47546b77ccbd"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_BR_74_R1",
+  "isOwnerless": false,
+  "reference": "ALT_MUSUBI_B_BR_74_R1",
+  "id": "01KMGFKEN2YRZ54C4R61M9SBQ2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/JPG/fr_FR/b8ff0146a580c3c434e8db2133b42c59.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/JPG/en_US/05f276f236e3b11cbaa4208889502308.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/JPG/it_IT/139c0724db8d96ba1b3709d340c2c4c6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/JPG/es_ES/d28802d1b71f71dd4f44395cc2a1ae41.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_BR_74/JPG/de_DE/4639fc5b7f574eec9ec08b20bb2df190.jpg"
+  },
+  "name": "Priya, señalizadora de Bravos",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "#5#",
+    "MOUNTAIN_POWER": "5",
+    "MAIN_EFFECT": "#[Resistencia 1].#  Cuando mi expedición avance — Crea una ficha de [Aerolito] en tus hitos."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "MUSUBI-XS-008-R-ES"
+}

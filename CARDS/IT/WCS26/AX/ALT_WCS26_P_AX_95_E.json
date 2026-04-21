@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_WCS26_P_AX_95_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4HKV6T7REP9SESRFR8QXYX0RNA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM43P9AN3N4YNP1J4S39",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KH3ZWM43P9AN3N4YNP1J4S39",
+          "text": "In quanto capo del Consorzio, Sphura supervisiona tutte le innovazioni dei Reka."
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM4E8EVASX8YYEEX5Z2M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KH3ZWM4E8EVASX8YYEEX5Z2M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM47TKF7PYCM5AKQXQ62",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KH3ZWM47TKF7PYCM5AKQXQ62",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM3N133R4FFAZ86BF728",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KH3ZWM3N133R4FFAZ86BF728",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KH3ZWM3YN69FGN2430K5YZTP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KH3ZWM3YN69FGN2430K5YZTP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4HKV6T7REP9SESRFR8QXYX0RNA",
+      "reference": "ALT_WCS26_P_AX_95_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b1c08edfb719fea7aaed",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingegnere"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b7048c33148a2826e49d",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Nobile"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/WCS26",
+    "@type": "CardSet",
+    "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+    "reference": "WCS26",
+    "name": "World Championship Series 2026"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e6a7af149db0a3775e37",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/it_IT/039ec2225a460f898ca72436b862461c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/WEB_7ff2d0ae4352df051f528ecd50cbb339",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/WEB_6f669d95c0f23b9ac54d0c762b7d09df"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_AX_95_E",
+  "isOwnerless": false,
+  "reference": "ALT_WCS26_P_AX_95_E",
+  "id": "01KGWCPAV2BJKD1ZV08X10MHDK",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/fr_FR/a653118eed7313c6204074d505188d14.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/en_US/32473176fc4163ee652fcea7808f9ffe.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/it_IT/039ec2225a460f898ca72436b862461c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/es_ES/28e7422b89cdc12882c08336fa2a8745.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/de_DE/5ce7788119fd1c0dac578e3d516d4abb.jpg"
+  },
+  "name": "Sphura, Esarca Reka",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "Giocami per {1} in meno se controlli un permanente consumato.  Giocami per {1} in meno se c'è una carta consumata nella tua Riserva.  {J} Se ci sono quattro o più carte consumate tra i permanenti che controlli e le carte nella tua Riserva, ripristina fino a due di quelle carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "ALT_WCS26_P_AX_95_E-IT"
+}

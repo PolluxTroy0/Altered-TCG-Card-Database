@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "3DX7MKF5FB849RNKRKCJWWS3WB",
       "reference": "ALT_MUSUBI_B_MU_22_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/7d4025fc1f43ce7960ba",
+      "@id": "/.well-known/genid/b78aeeec755326db5aad",
       "reference": "DRAGON",
       "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
       "name": "Drago"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/687bee24d8b889231b64",
+      "@id": "/.well-known/genid/38290747a8a1c4c2de36",
       "reference": "PLANT",
       "id": "01HKAGSB49H24XWW17AAY441MT",
       "name": "Pianta"
@@ -117,16 +116,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/8b13e442667f2bfb5e25",
+    "@id": "/.well-known/genid/42f250a77a452914a18e",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/it_IT/a65f3f20e9347a76b32635f06e20da0e.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/WEB_3c61376f2780eb6594840abf31b9416b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/WEB_c73817c7072ec45b28e0840b0aca542c"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_MU_22_R2",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_MU_22_R2",
   "id": "01K4W8PE32W06C5FDX27J50M6D",
   "mainFaction": {
@@ -138,11 +142,11 @@
     "name": "Lyra"
   },
   "allImagePath": {
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/es_ES/f2ae8cb1b241095f8ad5f522bd8360fd.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/en_US/f90a8265c2d58866edfbbd1207f3e97b.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/fr_FR/0d61593013cb40027ea43634fcaa3da3.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/de_DE/2b34b1c53cba8a8d6113f3f41e49d035.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/it_IT/a65f3f20e9347a76b32635f06e20da0e.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/en_US/f90a8265c2d58866edfbbd1207f3e97b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/it_IT/a65f3f20e9347a76b32635f06e20da0e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/es_ES/f2ae8cb1b241095f8ad5f522bd8360fd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_22/JPG/de_DE/2b34b1c53cba8a8d6113f3f41e49d035.jpg"
   },
   "name": "Idracaena",
   "elements": {
@@ -156,5 +160,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-04-F-IT"
 }

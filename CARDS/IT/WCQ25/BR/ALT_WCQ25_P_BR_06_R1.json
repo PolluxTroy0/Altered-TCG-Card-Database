@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "16XRJFPCF794T9EJ0EDEBY7S98",
       "reference": "ALT_WCQ25_P_BR_06_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b2b1bb04763e875533e9",
+      "@id": "/.well-known/genid/c206e8c2f72aab282062",
       "reference": "ELEMENTAL",
       "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
       "name": "Elementale"
@@ -110,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/fdfa413614b518b072d0",
+    "@id": "/.well-known/genid/11abc8e9268601ca6a76",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/it_IT/6eefdce0c011f59973f864f26e8ad2b3.jpg",
   "assets": {
     "WEB": [
@@ -126,6 +124,7 @@
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_BR_06_R1",
+  "isOwnerless": false,
   "reference": "ALT_WCQ25_P_BR_06_R1",
   "id": "01JTJSXTDGWEHTSNFWBRNQPP0N",
   "mainFaction": {
@@ -137,11 +136,11 @@
     "name": "Bravos"
   },
   "allImagePath": {
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/it_IT/6eefdce0c011f59973f864f26e8ad2b3.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/en_US/800553cfbcdb5be8f002f10cf3b93564.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/fr_FR/4ec1e534be758dbaed10665b950abc35.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/de_DE/4c279a927b703fdd56c3ac9e280240a4.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/es_ES/ed4c875ab430ac2a1bcb8e17e2443e70.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/en_US/800553cfbcdb5be8f002f10cf3b93564.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/it_IT/6eefdce0c011f59973f864f26e8ad2b3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/es_ES/ed4c875ab430ac2a1bcb8e17e2443e70.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_BR_06/JPG/de_DE/4c279a927b703fdd56c3ac9e280240a4.jpg"
   },
   "name": "Piccolo Jinn",
   "elements": {
@@ -152,8 +151,10 @@
     "MOUNTAIN_POWER": "#2#",
     "MAIN_EFFECT": "Se sto per lasciare l'area delle spedizioni quando ho [[Rinforzato]], mettimi invece nell'area del mana del mio proprietario (come una sfera di mana consumata).  {R} Ottengo 1 rinforzo."
   },
-  "isSuspended": false,
-  "isErrated": true,
+  "isSuspended": true,
+  "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCQ25-02-R-IT"
 }

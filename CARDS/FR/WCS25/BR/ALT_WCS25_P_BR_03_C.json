@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "0R2VARCX6589QAFPXAABJQNHVK",
       "reference": "ALT_WCS25_P_BR_03_C"
@@ -102,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/b855609207aa4d69ad57",
+    "@id": "/.well-known/genid/24dc7d77508733f05121",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Commun"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/fr_FR/3b158398013ae510b30a5084a88c77a1.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_BR_03_C",
+  "isOwnerless": false,
   "reference": "ALT_WCS25_P_BR_03_C",
   "id": "01JTJV5PKWS9B60M8F1GN4P3H2",
   "mainFaction": {
@@ -123,20 +122,22 @@
     "name": "Bravos"
   },
   "allImagePath": {
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/en_US/56c785563879de29564b144adc393bf7.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/de_DE/54fda18fa2b9a9810bb32864cc394318.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/it_IT/c7e8ce1877f9813b44a9b33240e61ab7.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/fr_FR/3b158398013ae510b30a5084a88c77a1.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/es_ES/3535732018e2e235f167b5e158264797.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/en_US/56c785563879de29564b144adc393bf7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/it_IT/c7e8ce1877f9813b44a9b33240e61ab7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/es_ES/3535732018e2e235f167b5e158264797.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_BR_03/JPG/de_DE/54fda18fa2b9a9810bb32864cc394318.jpg"
   },
   "name": "Basira & Kaizaimon",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "When a Character you control gains 1 or more boosts — You may exhaust me ({T}) to give target Character 1 boost.[]. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
+    "MAIN_EFFECT": "Lorsqu'un Personnage que vous contrôlez gagne au moins 1 boost — Vous pouvez m'épuiser ({T}) pour donner 1 boost à un Personnage ciblé. (Un boost est un compteur +1/+1/+1. Retirez-le lorsqu'il quitte la zone d'Expédition.)"
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCS25-BR-03-C-FR"
 }

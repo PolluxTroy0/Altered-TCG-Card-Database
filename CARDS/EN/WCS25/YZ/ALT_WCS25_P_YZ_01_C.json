@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
         "reference": "HERO",
-        "name": "Hero",
-        "description": ""
+        "name": "Hero"
       },
       "id": "106WV28Y6193MBAPR2TGPQRXYZ",
       "reference": "ALT_WCS25_P_YZ_01_C"
@@ -102,16 +101,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a4f8e55b36db81d297b6",
+    "@id": "/.well-known/genid/bbee6c8c17e7bdbaea05",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/en_US/440b869ac4abc7f250d63e614e357560.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCS25_P_YZ_01_C",
+  "isOwnerless": false,
   "reference": "ALT_WCS25_P_YZ_01_C",
   "id": "01JTJVASH61YQD5BQEX7E1753G",
   "mainFaction": {
@@ -123,20 +122,22 @@
     "name": "Yzmir"
   },
   "allImagePath": {
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/en_US/440b869ac4abc7f250d63e614e357560.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/fr_FR/8736ec10ef134f3f013816dad28394e4.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/de_DE/e008f436cedeb6b771eb7786f22fc0eb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/en_US/440b869ac4abc7f250d63e614e357560.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/it_IT/b3aa19030ce27932fb8a1614b80d49c1.jpg",
     "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/es_ES/e111583f445590881b57ebfc772b7352.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/it_IT/b3aa19030ce27932fb8a1614b80d49c1.jpg"
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS25/CARDS/ALT_WCS25_P_YZ_01/JPG/de_DE/e008f436cedeb6b771eb7786f22fc0eb.jpg"
   },
   "name": "Akesha & Taru",
   "elements": {
     "MAIN_COST": "0",
     "RECALL_COST": "0",
-    "MAIN_EFFECT": "{T} : [After You]. You can only activate this if you are the first player. (End your turn as if you had played a card. You may still play cards later this Day.)"
+    "MAIN_EFFECT": "{T} : [After You]. You can only activate this if you are the first player."
   },
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCS25-YZ-01-C-EN"
 }

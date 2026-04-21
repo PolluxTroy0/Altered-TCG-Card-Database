@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "2TZKJ6QW769WB8YH9QAR2V6MQ3",
       "reference": "ALT_TCS3_P_MU_51_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/d97aae3ef169a8e5344e",
+      "@id": "/.well-known/genid/9478d728fe4a9f4f6727",
       "reference": "ANIMAL",
       "id": "01HKAGQS36Z3DP166MZW8KRAEK",
       "name": "Animal"
@@ -110,16 +109,16 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/e185e0ac708771bbd7aa",
+    "@id": "/.well-known/genid/cc851057f266b68d1ebf",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/en_US/b1395abf81979c208d02ebce4abe1b64.jpg",
   "assets": [],
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_MU_51_R1",
+  "isOwnerless": false,
   "reference": "ALT_TCS3_P_MU_51_R1",
   "id": "01JTJSFT2PMY7KGCEG0S8PPE6F",
   "mainFaction": {
@@ -131,11 +130,11 @@
     "name": "Muna"
   },
   "allImagePath": {
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/es_ES/ad082bbd5f81ce7d5ffa79f364e7ce01.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/it_IT/340a12330ace0e8846b849b3e57ce1b6.jpg",
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/fr_FR/b88a8dae866de3936bcf0e0bd2544b7e.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/de_DE/ce549de14edf6866f39dbe4918b8438c.jpg",
-    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/en_US/b1395abf81979c208d02ebce4abe1b64.jpg"
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/en_US/b1395abf81979c208d02ebce4abe1b64.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/it_IT/340a12330ace0e8846b849b3e57ce1b6.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/es_ES/ad082bbd5f81ce7d5ffa79f364e7ce01.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_MU_51/JPG/de_DE/ce549de14edf6866f39dbe4918b8438c.jpg"
   },
   "name": "Fair Fox",
   "elements": {
@@ -149,5 +148,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "TCS3-04-R-EN"
 }

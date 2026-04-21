@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "2KAV9PF3M88G49HM7K5YT9N95T",
       "reference": "ALT_MUSUBI_B_YZ_09_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/1e7a1c7f691f679ddc8c",
+      "@id": "/.well-known/genid/5ccef65ded80da203b26",
       "reference": "FAIRY",
       "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
       "name": "Fairy"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/fd364f76347b4d36e2b6",
+      "@id": "/.well-known/genid/ae20580a389f871a4271",
       "reference": "SPIRIT",
       "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
       "name": "Spirit"
@@ -117,16 +116,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/a8197908b5b99b0b9eba",
+    "@id": "/.well-known/genid/e1d62505245a92ba99dd",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/b20d1bc45a19ba879741a028f9d2c859.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_3e45cd869ab9297618e003063c0a0caf",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_14666be41a40b11f418edb9e129967f5"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_YZ_09_R2",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_YZ_09_R2",
   "id": "01K4W8PE341XSKT2MZP4E8RJPE",
   "mainFaction": {
@@ -139,10 +143,10 @@
   },
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/fr_FR/0a0c31e5e02174737506e2ca8e2fc6cc.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/de_DE/154089c72ddaff468d5f90c4dc81bad7.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/b20d1bc45a19ba879741a028f9d2c859.jpg",
     "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/it_IT/cd7eebc19317501f666f4fd0dce5de8e.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/es_ES/c1f4f717a202296da0f63bffd214303d.jpg"
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/es_ES/c1f4f717a202296da0f63bffd214303d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/de_DE/154089c72ddaff468d5f90c4dc81bad7.jpg"
   },
   "name": "Lady of the Lake",
   "elements": {
@@ -156,5 +160,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-06-F-EN"
 }

@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "4WBB99R08K8WWRBSCKDKHA04JN",
       "reference": "ALT_MUSUBI_B_OR_09_C"
@@ -95,14 +94,14 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/b9aa1f61a78f579a4ea9",
+      "@id": "/.well-known/genid/c8924e4dc867a50a5e9c",
       "reference": "BUREAUCRAT",
       "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
       "name": "Bürokrat"
     },
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/3bbb85d84bfde22270d0",
+      "@id": "/.well-known/genid/3e8cc74fb15c2c55ab37",
       "reference": "NOBLE",
       "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
       "name": "Adliger"
@@ -117,16 +116,21 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/61be5c92b13a6fa57dbe",
+    "@id": "/.well-known/genid/d45f0d21267d9a871382",
     "reference": "COMMON",
     "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
     "name": "Common"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/50ed00056a0bc0555847bda0fa4d190e.jpg",
-  "assets": [],
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/WEB_5072bc7bda736329debf586a8fba87a0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/WEB_0d65f1bde7fd07a4ab6bcefee08443e2"
+    ]
+  },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_OR_09_C",
+  "isOwnerless": true,
   "reference": "ALT_MUSUBI_B_OR_09_C",
   "id": "01K4W8PE33TGKXZF0ZJHGZHKHK",
   "mainFaction": {
@@ -139,10 +143,10 @@
   },
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/fr_FR/0d4473def443157414e693fdec682448.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/it_IT/b536e5511cbe9efcd0244ebea682e4ea.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/50ed00056a0bc0555847bda0fa4d190e.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/en_US/23caf41ccede408b0b6a817050053d5d.jpg",
-    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/es_ES/5fb6893a55d6346d630fa794bb78595c.jpg"
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/it_IT/b536e5511cbe9efcd0244ebea682e4ea.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/es_ES/5fb6893a55d6346d630fa794bb78595c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_OR_09/JPG/de_DE/50ed00056a0bc0555847bda0fa4d190e.jpg"
   },
   "name": "Der Froschprinz",
   "elements": {
@@ -155,5 +159,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "MUSUBI-05-C-DE"
 }

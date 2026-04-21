@@ -78,8 +78,7 @@
         "@type": "LoreEntryType",
         "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
         "reference": "CHARACTER",
-        "name": "Character",
-        "description": ""
+        "name": "Character"
       },
       "id": "61ZXN1MN7B90PVKNG16T5TWBM8",
       "reference": "ALT_WCQ25_P_LY_10_C"
@@ -95,7 +94,7 @@
   "cardSubTypes": [
     {
       "@type": "CardSubType",
-      "@id": "/.well-known/genid/9bd25e1ac6cef2ddfa90",
+      "@id": "/.well-known/genid/bb43828af70121ba1531",
       "reference": "ARTIST",
       "id": "01HKAGQTJ167DYCKKGR8MCESNT",
       "name": "Artista"
@@ -110,12 +109,11 @@
   },
   "rarity": {
     "@type": "Rarity",
-    "@id": "/.well-known/genid/7b1b6a715a73d553720e",
+    "@id": "/.well-known/genid/124df3598f20513dabc4",
     "reference": "RARE",
     "id": "01GE7AC9WY6PK56RADXXD6P1T5",
     "name": "Rare"
   },
-  "cardRulings": [],
   "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/es_ES/a22b2eb5962e75458cfd25163ecc2546.jpg",
   "assets": {
     "WEB": [
@@ -126,6 +124,7 @@
   },
   "lowerPrice": 0,
   "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_LY_10_R1",
+  "isOwnerless": false,
   "reference": "ALT_WCQ25_P_LY_10_R1",
   "id": "01JTJSYASFMA9CQSVNETJBPBA9",
   "mainFaction": {
@@ -139,9 +138,9 @@
   "allImagePath": {
     "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/fr_FR/937cf8a4d13d461ec59641c59dff37ef.jpg",
     "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/en_US/2d998a5d59511c76480f7dcd12ab9757.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/it_IT/57ad68bd2fd9ce31566830f8c35ef997.jpg",
     "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/es_ES/a22b2eb5962e75458cfd25163ecc2546.jpg",
-    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/de_DE/9f66318118c2fe42b8bfa134a570f155.jpg",
-    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/it_IT/57ad68bd2fd9ce31566830f8c35ef997.jpg"
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_LY_10/JPG/de_DE/9f66318118c2fe42b8bfa134a570f155.jpg"
   },
   "name": "Tejetintas del Uroboros",
   "elements": {
@@ -156,5 +155,7 @@
   "isSuspended": false,
   "isErrated": false,
   "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
   "collectorNumber": "WCQ25-03-R-ES"
 }

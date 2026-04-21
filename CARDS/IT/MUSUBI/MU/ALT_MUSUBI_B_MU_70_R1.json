@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_MUSUBI_B_MU_70_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/092CCZDNSA94KABVZTWJ3KXWPT",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KMMRJQHPF19AE0RD6Y6WDR8E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KMMRJQHPF19AE0RD6Y6WDR8E",
+          "text": "Anche i più timidi diventano un po' meno riservati quando sentono il suo canto."
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQJ00D1A1NWMW7V9W9DT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KMMRJQJ00D1A1NWMW7V9W9DT",
+          "text": "393 AC - As I watch the cuckoo's egg crack and hatch, I think to myself how it's a bit like what happened to Papa. I was dumped on his doorstep one day, totally out of the blue. If he'd had other children, I would have monopolized his attention to the detriment of my hypothetical brothers and sisters. Although I don't think I would have gone as far as kicking them out of the house. But who knows… Hypothetically, they could have been so unbearable to live with that I had no other choice! Anyway… That's not what I'm here for. The egg breaks, and a beak emerges uncertainly from the shell. I came here to categorize the endemic species of the various Quadrants, and I had my work cut out for me!\r\n\r\nWhen you look at the archipelago's islands, you can see a similar phenomenon across all the ecosystems: a slow succession of species. One would replace another, like a giant game of musical chairs. But the process was happening much faster here than in the Katkera, probably because of the drifting atolls and the Tumult tides, which were having a major impact on the living conditions on the surface of the islands… The pieces of broken shell fall away, and a head pushes through the gap. The chick doesn't yet have the colorful plumage of the adult cuckoos, just a few grayish feathers to help it blend into its environment. Suddenly, the sky darkens. I look up, puzzled. It's as if the clouds had changed color. As if something had blocked the sun's rays…\r"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQHVVESV7K7EK1E18660",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KMMRJQHVVESV7K7EK1E18660",
+          "text": "We use 'reserve' as a nudge to the Reserve mechanic in Altered. It illustrates exactly the effect of the card"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQHA0T39SA291JK2DPJ3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KMMRJQHA0T39SA291JK2DPJ3",
+          "text": "RIN"
+        },
+        {
+          "@id": "/lore_entry_elements/01KMMRJQHHGHXNRRMCS5V7QYCK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KMMRJQHHGHXNRRMCS5V7QYCK",
+          "text": "393 AC"
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "092CCZDNSA94KABVZTWJ3KXWPT",
+      "reference": "ALT_MUSUBI_B_MU_70_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/053c679a9edabfff5da6",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/MUSUBI",
+    "@type": "CardSet",
+    "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+    "reference": "MUSUBI",
+    "name": "Musubi"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cd8f15987ad2a63534d2",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/JPG/it_IT/9b9a303b13d911c451c9f52c7f9a05b8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/WEB_a6303e1703afa5755a1e7e761ef6f5b4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/WEB_0686c928b82967670fd7ef95cc1fa90f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/WEB_837fdc95e81a740bed954ba7a14a7538"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_MU_70_R1",
+  "isOwnerless": false,
+  "reference": "ALT_MUSUBI_B_MU_70_R1",
+  "id": "01KMGFQSZYVXS2ART3R43SEQ0J",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/JPG/fr_FR/413bc9ddaa2daebf723fbb51b998b6c4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/JPG/en_US/34aecfb66dcd62b286c5370b7a240c24.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/JPG/it_IT/9b9a303b13d911c451c9f52c7f9a05b8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/JPG/es_ES/a63ce5a57ee811e88b3f6e345dafedcd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_MU_70/JPG/de_DE/404a7ad320e7e06fab4302931d86b86e.jpg"
+  },
+  "name": "Cuculo Colorato",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{J} Ottengo [[Ancorato]].  Quando un personaggio si unisce alla spedizione che mi affronta — Ottengo 1 rinforzo.  #Quando vado nella tua Riserva dall'area delle spedizioni, se avevo 2 o più rinforzi — Puoi mettere una carta dalla tua Riserva nella tua area del mana.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "MUSUBI-XS-010-R-IT"
+}
