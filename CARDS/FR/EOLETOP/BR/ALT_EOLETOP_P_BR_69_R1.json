@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_BR_69_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZC1Q5KXP99GSQEGHQBC",
+  "reference": "ALT_EOLETOP_P_BR_69_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/e25763bd4b89ef876913",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personnage",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/10fcdc128844aecb7065",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Les Racines de la Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/8ffab659b0081f6f855e",
+      "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+      "reference": "MESSENGER",
+      "name": "Émissaire"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{R} Vous pouvez révéler un Personnage de Coût de Main {4} ou plus de votre main. Si vous le faites, piochez une carte.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/9c3f77ef84eb53fc2f14",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/JPG/fr_FR/2f459f07fb19d8df880075cfa8f1f820.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/WEB_60fcab6b3b5cad0aa36d85efefa62e63",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/WEB_4b3a1ea2a95a00c058273434114cc468",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/WEB_83b16e936100e79ade2687408bc75607"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/0e76d0d6c38d35045f34",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "reference": "BR",
+    "name": "Bravos",
+    "color": "#c32637"
+  },
+  "name": "Personnage Bravos Rare_05_1",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_BR_69_R1-FR"
+}

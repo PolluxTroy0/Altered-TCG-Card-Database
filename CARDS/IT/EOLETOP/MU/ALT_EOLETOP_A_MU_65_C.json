@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_A_MU_65_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCAXQ42M2GD8MXF0GBQ",
+  "reference": "ALT_EOLETOP_A_MU_65_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/80fe9f88a4d7348a8810",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "reference": "HERO",
+    "name": "Eroe",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/c84a8e2f5aa4a22fbd89",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [],
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "A mezzogiorno — Se sei il primo giocatore, crea una pedina Animale [Lanuvola 1/1/1] nella spedizione del compagno di un avversario bersaglio, poi pesca una carta.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/2f49be090ebcdc17e237",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_MU_65/JPG/it_IT/3115bf1977cacf01b9130c44039dde8f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_MU_65/WEB_30eecaba5b63ada2dcc99b05f1eab1de"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/4d37411a7dfbd8e69fa5",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "Kauri y Pompón",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_A_MU_65_C-IT"
+}

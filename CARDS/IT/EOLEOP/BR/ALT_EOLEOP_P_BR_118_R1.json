@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_BR_118_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMF2YRD3GYYM8GTH5GS",
+  "reference": "ALT_EOLEOP_P_BR_118_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/3ea3252dd2e3b67c60d0",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "reference": "LANDMARK_PERMANENT",
+    "name": "Permanente Fulcro",
+    "sequence": 2
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/98b1eda9e4eab669d480",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/acd8ccc95da2f1503081",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "reference": "FEAT",
+      "name": "Prodezza"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Manda nella Riserva un personaggio bersaglio con costo base pari o inferiore a {2}.  Quando passi — Se controlli un'altra Prodezza, eseguimi.",
+    "ECHO_EFFECT": "[[Eseguita]]: il limite dei tuoi fulcri è quattro."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/37965fd781b0db584132",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/JPG/it_IT/dac653a875a989cdda975b35398182a5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/WEB_5e8a2924383195910977a707c85a82d9",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/WEB_6c081b5d61105953592b65f3418d4ec8"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/805ae44abc55fe30da62",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "reference": "BR",
+    "name": "Bravos",
+    "color": "#c32637"
+  },
+  "name": "Ultima Resistenza",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_BR_118_R1-IT"
+}

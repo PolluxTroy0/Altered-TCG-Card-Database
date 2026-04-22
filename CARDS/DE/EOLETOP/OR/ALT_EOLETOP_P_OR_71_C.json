@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_OR_71_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCFB1P7KC6VD26TMG3K",
+  "reference": "ALT_EOLETOP_P_OR_71_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/d92670603845f98caacc",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/9851919d88e5beceb280",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/9088683a0d7e9fe315d4",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "reference": "ELEMENTAL",
+      "name": "Elementar"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} Eine Expedition deiner Wahl ist [Aufsteigend]. (Kann sich bis zur Ruhepause vorwärts bewegen, selbst falls beide über gleich viele Gelände in den Regionen verfügen.)",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/177281ab8d068d07c865",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/JPG/de_DE/c6b1522b79e9a57affd51a4b2028e2fd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_48e9cf25e31201cc0566b5e24de64e4b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_f68270cf0be5d03a18db54acce2cfed5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_e589cf761a4ab014744bdf1d7b894544"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/fa7e88f71d955fd15d8d",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "Gargoyle",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_OR_71_C-DE"
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_LY_111_C",
+  "@type": "PublicCard",
+  "id": "01KGH9QGKRCQW83A8AGQT150MJ",
+  "reference": "ALT_EOLEOP_A_LY_111_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/9c5d425ae6be5398c9d8",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/e0629e9c8d0c5b02f028",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/2dd0dd9e3019e2c9532d",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "reference": "DEITY",
+      "name": "Gottheit"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "",
+    "ECHO_EFFECT": "{D} : Der nächste Charakter, den du in dieser Runde mit Basiskosten {3} oder weniger spielst, erhält [[Verankert]]."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/b335db85ade5ac8bf63d",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_111/JPG/de_DE/94867f5b37b647d04ac9ffed4a92d50a.jpg",
+  "assets": [],
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/8339017aa4f7b8e663c5",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Bastet",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_LY_111_C-DE"
+}

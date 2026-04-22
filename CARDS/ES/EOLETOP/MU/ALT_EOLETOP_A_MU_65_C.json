@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_A_MU_65_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCAXQ42M2GD8MXF0GBQ",
+  "reference": "ALT_EOLETOP_A_MU_65_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/952836fbbc818939773b",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "reference": "HERO",
+    "name": "Héroe de",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/3bd3ae36999077721243",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [],
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Al mediodía — Si eres el primer jugador, crea una ficha de animal [Lanudo 1/1/1] en la expedición del compañero del oponente objetivo y luego roba una carta.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/f5e52ec56bfbd07cf0d4",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_MU_65/JPG/es_ES/1e8944289019ff164312240b1baffcae.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_MU_65/WEB_30eecaba5b63ada2dcc99b05f1eab1de"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/e7031a9ea1fb45071e91",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "Kauri e Batuffolo",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_A_MU_65_C-ES"
+}

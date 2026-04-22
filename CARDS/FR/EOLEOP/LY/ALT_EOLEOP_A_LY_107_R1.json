@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_LY_107_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMHXS7F2QJMVJ5RN29Q",
+  "reference": "ALT_EOLEOP_A_LY_107_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/0fabebe8de7b961a5b62",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personnage",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/1d24145c55b240d18396",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Les Racines de la Corruption - Jeu Organisé",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/46ebf69dbe71d45e2355",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "reference": "ARTIST",
+      "name": "Artiste"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/9c052f8769b130318bbc",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Corruption"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "Je ne peux pas être jouée, sauf si une capacité {D} a été activée ce tour-ci.  {J} [Ravitaillez].",
+    "ECHO_EFFECT": "{D} : Payez {1} de moins pour le prochain Personnage que vous jouez ce tour-ci, jusqu'à un minimum de {1}."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/efdcac4a633b48857b75",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/JPG/fr_FR/ef1b98e54cf4fb9bf7c585384eb91c6b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_3ee340ad84ae409c2183231ce434ee6d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_7daa429ba7049783c38ad4457c1d76b7"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/39f47706e0157702ce48",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Esmeralda Corrompue",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_LY_107_R1-FR"
+}

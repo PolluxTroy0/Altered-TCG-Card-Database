@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_OR_121_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMRANQ36KWRYXNAXJQT",
+  "reference": "ALT_EOLEOP_P_OR_121_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/417fb476a003de39ff3b",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "reference": "LANDMARK_PERMANENT",
+    "name": "Bleibende Wahrzeichenkarte",
+    "sequence": 2
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/5f38953e1a6b5ada54aa",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/8b836bf44304d00ab6cb",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "reference": "FEAT",
+      "name": "Heldentat"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Erschaffe zwei [Ordis-Rekrut 1/1/1]-Soldatenmarken und verteile sie auf beliebige Expeditionen.  Wenn du passt — Falls mindestens sechs Charaktere in deinen Expeditionen sind, vollbringe mich.",
+    "ECHO_EFFECT": "[[Vollbracht]]: Wenn du einen Marken-Charakter erschaffst — Du darfst mich erschöpfen ({T}), um ihm 1 Verstärkung zu geben."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/f5a454d692a97f7bab6c",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/JPG/de_DE/f9b5bb9a98b39736ef2e48ba2dc90126.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/WEB_d5b86c733e5b28be7adaa5031e1ccfd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/WEB_6a48d27b699fc15bc3454e4321f2f286"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/c232f755484d147d785f",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "Sichert den Rückzug",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_OR_121_R1-DE"
+}

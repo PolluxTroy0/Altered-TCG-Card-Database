@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_YZ_56_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCKMHKMY2E1G23YSSAQ",
+  "reference": "ALT_EOLETOP_P_YZ_56_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/35d8863bde474955192c",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/583c151af998f67427ca",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/2e3e881637cdc2bed4c0",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "reference": "SPIRIT",
+      "name": "Geist"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "6",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Lege alle anderen Karten im Spiel oder in der Reserve ab.  Wenn eine Karte auf den Ablagestapel gelegt wird — Ich erhalte 1 Verstärkung.  Falls ich [[Vergänglich]] bin, bin ich [Gigantisch].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/03ba26a45a801ea6eff3",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/JPG/de_DE/ce77fa15aa7bae779def831f51a99975.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_cd55e968a48600a9c3e8c245b77e99e5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_2b0b62c6dd9ba58422382ed56eb0ff90",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_a184adbd144819b290d656fd70da884d"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/d20cbc774fe97e9c0cd2",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "reference": "YZ",
+    "name": "Yzmir",
+    "color": "#764891"
+  },
+  "name": "The Hunger",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_YZ_56_R1-DE"
+}

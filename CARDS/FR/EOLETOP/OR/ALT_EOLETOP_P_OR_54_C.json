@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_OR_54_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCFB1P7KC6VD26TMG37",
+  "reference": "ALT_EOLETOP_P_OR_54_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/902762cff276c396152a",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personnage",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/bb2f13a192d7628e94fb",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Les Racines de la Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/95748f0f1bd0bb703d13",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "reference": "SOLDIER",
+      "name": "Soldat"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "[Repérage] {1}. (Vous pouvez me jouer de votre main pour {1} avec «{h} Envoyez-moi en Réserve ».)  Lorsque je quitte la zone d'Expédition — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/40c6dcf0fea608b623e5",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Commun",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/JPG/fr_FR/1fecf63c6b1110c74cd2b9eaf4ebc206.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/WEB_acfe9b05cbe2af88e7a95d505dc71378",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/WEB_18363b80fc3d8ccffdba2583e210b263",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/WEB_c6b82b2e441862da3354b096eec4fb7c"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/52ccd14d2d7bc308e47e",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "Personnage Ordis Commun_02",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_OR_54_C-FR"
+}

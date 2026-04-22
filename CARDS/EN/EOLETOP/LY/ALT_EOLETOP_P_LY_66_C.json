@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_LY_66_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZC7VDE31TJC1C9JABYG",
+  "reference": "ALT_EOLETOP_P_LY_66_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/830d8da4abaf9805ea42",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Character",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/45da8d1bec0a4fe2cb9f",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/9f740bf5dad1165b9abe",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "reference": "ANIMAL",
+      "name": "Animal"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/4e4a866ab4d442d9a6f9",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/JPG/en_US/0d0bc70a91158bedd7a8261020781785.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/WEB_4288b5ad9a18957be81280feaa4cc834",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/WEB_18b8b6024b7fcd01dadf3c0154fd04f3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/WEB_3c192f098c81fcabd4567a8b7ffcec36"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/173fd0a8cffe7bf450ae",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_LY_66_C-EN"
+}

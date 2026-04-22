@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_LY_111_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMHXS7F2QJMVJ5RN29X",
+  "reference": "ALT_EOLEOP_P_LY_111_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/6077c075ddbbd167553b",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Character",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/52d4c78a03a8350a454a",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/a2197ad5a2931dcfd991",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "reference": "DEITY",
+      "name": "Deity"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "",
+    "ECHO_EFFECT": "{D} : The next Character with Base Cost {3} or less you play this turn gains [[Anchored]]."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/5aeffcee08af73d6d253",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/JPG/en_US/2e9dce3ae10dfe0e589d16fca64394c1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/WEB_ed459c352ec44b6b9d45e8bd1bf63dd6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/WEB_2429a893be767a7a5daec141d3bc4c3a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/WEB_664ea17f08b49eaa695d30ddf152bf6f"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/09aa9b6966df6cf2b3e8",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Bastet",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_LY_111_C-EN"
+}

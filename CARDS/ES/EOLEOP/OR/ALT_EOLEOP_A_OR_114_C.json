@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_OR_114_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMQRN677YMSW2KHH416",
+  "reference": "ALT_EOLEOP_A_OR_114_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/5be3274ac7c2ab4505c5",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaje",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/a63fcb8d17b66dc17e47",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/79b20c99ecfd8dbd8321",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "reference": "SOLDIER",
+      "name": "Soldado"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/5790a5b3d9406a473e58",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Corrupción"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Gano [[Fugacidad]] a menos que haya otro personaje en cada una de tus expediciones.  Cuando abandone la zona de expedición — Crea una ficha de soldado [Recluta de Ordis 1/1/1] en cada una de tus expediciones.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/e4bcefd1e32dfe9e85ba",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/JPG/es_ES/ce6ef60b4dc4c2c75ce9136e933b63a0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_39d5e98bda14fe0dfd3f93a16e55b561",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_5b3c78b470be86e41a0b02773341c18c"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/ec5f9f4708b3f5fe3058",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "Jeanne corrompida",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_OR_114_C-ES"
+}

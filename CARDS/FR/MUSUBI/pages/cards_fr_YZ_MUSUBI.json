@@ -1,0 +1,206 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 3,
+  "hydra:member": [
+    {
+      "id": "01KMGFTDKJ05X1XV5ACA6ZH5B1",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/MUSUBI",
+        "@type": "CardSet",
+        "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+        "reference": "MUSUBI",
+        "name": "Musubi"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0ff42872b1498e1af0eb",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/en_US/96eb23ae477945fb67d1acedcc55c5f7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/WEB_79b10cf9c912d22fb260debca9cead61",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/WEB_4e83fac697556718ef06a1f488995d6e"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_YZ_21_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Off You Go!",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_21",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/fr_FR/e142c4ea64fc17f8cd23c5a7ed0c9362.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/en_US/96eb23ae477945fb67d1acedcc55c5f7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/it_IT/48926da7b53722a75cbfb919988451d3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/es_ES/b6ce6864ed604655d72beaf418d5ee21.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_21/JPG/de_DE/5db103b1ac393e3eaf0ca435cc9c4328.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_MUSUBI_B_YZ_21_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_MUSUBI_B_YZ_21_C"
+    },
+    {
+      "id": "01K4W8PE341XSKT2MZP4E8RJP8",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/MUSUBI",
+        "@type": "CardSet",
+        "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+        "reference": "MUSUBI",
+        "name": "Musubi"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0ff42872b1498e1af0eb",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/093214809c6fdf12a34cb7520b465c0e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_3e45cd869ab9297618e003063c0a0caf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_14666be41a40b11f418edb9e129967f5"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_YZ_09_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Lady of the Lake",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "YZ_09",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/fr_FR/0cf7ecc0365bc711d9b5c00270d6d121.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/093214809c6fdf12a34cb7520b465c0e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/it_IT/dbd8e34641e534d218ea3b8a29afc714.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/es_ES/4ccfa07f0bac0c841db74ecebb65b87e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/de_DE/5c77a2ef969af7f1de3bbab2921b9851.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_MUSUBI_B_YZ_09_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_MUSUBI_B_YZ_09_C"
+    },
+    {
+      "id": "01K4W8PE341XSKT2MZP4E8RJPB",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/MUSUBI",
+        "@type": "CardSet",
+        "id": "01K4W8PCZ8QND7585GEK66EFJ9",
+        "reference": "MUSUBI",
+        "name": "Musubi"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/252bc2bf11ba3b92aa6b",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/bd6d65e88108db66ec33dfae51ff8f1d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_3e45cd869ab9297618e003063c0a0caf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/WEB_14666be41a40b11f418edb9e129967f5"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_MUSUBI_B_YZ_09_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Lady of the Lake",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "YZ_09",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/fr_FR/798f22d333f169749ac0102095dfef96.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/en_US/bd6d65e88108db66ec33dfae51ff8f1d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/it_IT/70dea48102c90f60b74d339027623177.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/es_ES/aa02069ea18f67e6d9e8d9e3d50c4238.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/MUSUBI/CARDS/ALT_MUSUBI_B_YZ_09/JPG/de_DE/e3b5e3df66cb7e2bfd67c560033a1727.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_MUSUBI_B_YZ_09_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_MUSUBI_B_YZ_09_R1"
+    }
+  ]
+}

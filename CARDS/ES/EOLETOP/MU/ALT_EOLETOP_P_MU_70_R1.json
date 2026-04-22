@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_MU_70_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCCVJRVX10CK6A82K18",
+  "reference": "ALT_EOLETOP_P_MU_70_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/7179f6da99e98ca1a603",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaje",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/e6d5ec48e0575e35444d",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/9e88e420cc2d8e33b287",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "reference": "ANIMAL",
+      "name": "Animal"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{J} Gano [[Anclaje]].  Cuando un personaje se incorpore a la expedición enfrentada a mí — Gano 1 potenciador.  Cuando vaya a la reserva desde la zona de expedición, si tenía 2 o más potenciadores — Puedes colocar una carta de tu reserva en tu zona de maná",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/af3c2d774cb2b0f8880b",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/JPG/es_ES/3f273c201ed0e5b6cff34fee56472644.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/WEB_b5db444d2464d3da3a8d72c64a018c58",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/WEB_38a0c704725e713cf3e9e969ea6fb8ba",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/WEB_f379051dab5cab13c838a91b3cbdb18c"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/aa5fddd76eb11b6deb3b",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_MU_70_R1-ES"
+}

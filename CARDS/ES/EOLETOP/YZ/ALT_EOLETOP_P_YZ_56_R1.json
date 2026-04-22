@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_YZ_56_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCKMHKMY2E1G23YSSAQ",
+  "reference": "ALT_EOLETOP_P_YZ_56_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/525488331dbba8cf2a86",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaje",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/a500d685acd73f851e79",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/034ec71dd1310c240a03",
+      "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+      "reference": "SPIRIT",
+      "name": "Espíritu"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "8",
+    "RECALL_COST": "6",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MAIN_EFFECT": "{H} Descarta todas las otras cartas en juego o en reserva.  Cuando una carta vaya a la pila de descartes — Gano 1 potenciador.  Si tengo [[Fugacidad]], soy [Gigante].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/43d95183678bf6a5f093",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/JPG/es_ES/e233ecbe9ea7ae97839eb5e156bea3fd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_cd55e968a48600a9c3e8c245b77e99e5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_2b0b62c6dd9ba58422382ed56eb0ff90",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_a184adbd144819b290d656fd70da884d"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/3bf4c252c7fb5beb3562",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "reference": "YZ",
+    "name": "Yzmir",
+    "color": "#764891"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_YZ_56_R1-ES"
+}

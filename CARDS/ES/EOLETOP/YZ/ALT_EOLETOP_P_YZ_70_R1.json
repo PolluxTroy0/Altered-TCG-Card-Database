@@ -1,0 +1,87 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_YZ_70_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCKMHKMY2E1G23YSSB3",
+  "reference": "ALT_EOLETOP_P_YZ_70_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/b1470d5c6195b5513a68",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaje",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/408fdbff802e490996f6",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/ebd77443efcb7d6db927",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "reference": "BUREAUCRAT",
+      "name": "Burócrata"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/9481fa50c9d53def23c9",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "reference": "MAGE",
+      "name": "Mago"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "0",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Gano 2 potenciadores.  Cuando vaya a la reserva desde la zona de expedición — [Sabotea].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/ebeb3abb472b255b30c7",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/JPG/es_ES/58d7c1fe25a90e72ed668834ad4927e0.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_453c148521290c002307bf47d4af841a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_c155d82abc61a09b7b06a2635f57e815",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_2f628a9cab2ee18c989a03d80ab676ae"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/9233a252f3a5a31f6c3a",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "reference": "YZ",
+    "name": "Yzmir",
+    "color": "#764891"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_YZ_70_R1-ES"
+}

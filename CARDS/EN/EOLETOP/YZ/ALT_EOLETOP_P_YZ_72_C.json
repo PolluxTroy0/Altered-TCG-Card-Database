@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_YZ_72_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCKMHKMY2E1G23YSSAT",
+  "reference": "ALT_EOLETOP_P_YZ_72_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/62a212fb742b9abefd5d",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Character",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/13ec7ea8f6e4d9736c2d",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/f2d0a171fe6b76e6716e",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "reference": "ANIMAL",
+      "name": "Animal"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} You may send to Reserve target Character with Hand Cost {2} or less.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/f1f069f63b244b1fb8a0",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/JPG/en_US/a9e0fab89343dc28b610f150a3ad26d1.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/WEB_fde2e0f29712254db6b7fc438deb8781",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/WEB_a95f9af7bd846e37082a88d90752bb75",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/WEB_2f0a8bafc2b94f04319b9006c464ff64"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/69fcfe00cdae5c07c326",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "reference": "YZ",
+    "name": "Yzmir",
+    "color": "#764891"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_YZ_72_C-EN"
+}

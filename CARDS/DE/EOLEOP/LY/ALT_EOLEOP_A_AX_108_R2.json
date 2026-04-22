@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_AX_108_R2",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMBVRADW7N683F8AH2N",
+  "reference": "ALT_EOLEOP_A_AX_108_R2",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/3e4ae0486245950a277e",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/580c5570e681c6b65418",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/922e5f1b3837536d7de3",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "reference": "ADVENTURER",
+      "name": "Abenteurer"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/a0cc394c85ac9530b7b2",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Verfall"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} Ich erhalte [[Vergänglich]], es sei denn, deine Hand ist leer.  {J} Erschaffe eine [Aerolit]-Marke in deinem Wahrzeichen-Bereich.",
+    "ECHO_EFFECT": "{D} : Erschaffe eine [Aerolit]-Marke im Wahrzeichen-Bereich eines Spielers deiner Wahl."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/733742df24dc171adc1d",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/JPG/de_DE/7ae6d066aa699face6175c3d1f89aa82.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_bcfa85c0f522f908ac0975d6ede6ca82",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_d583998de5e643203b8705b5fa93ccb9"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/781f38a8fcfd18d8a09c",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Verderbter Paju",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_AX_108_R2-DE"
+}

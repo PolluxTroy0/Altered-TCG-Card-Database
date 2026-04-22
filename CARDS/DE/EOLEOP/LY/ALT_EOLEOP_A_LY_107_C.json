@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_LY_107_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMHXS7F2QJMVJ5RN29M",
+  "reference": "ALT_EOLEOP_A_LY_107_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/338131e827d2b7ff902d",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/bda96cea95935fba1df9",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/22cc1ead6c3a126a5516",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "reference": "ARTIST",
+      "name": "Künstler"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/29e996606fd1329e4158",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Verfall"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{H} Ich erhalte [[Vergänglich]], es sei denn, eine {D} Fähigkeit wurde in dieser Runde aktiviert.  {H} [Nachschub].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/f62c6116dccea48b5c41",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/JPG/de_DE/a561637d275ecb904778b165371bd5ad.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_3ee340ad84ae409c2183231ce434ee6d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_7daa429ba7049783c38ad4457c1d76b7"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/23e24738278ce104d56e",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Verderbte Esmeralda",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_LY_107_C-DE"
+}

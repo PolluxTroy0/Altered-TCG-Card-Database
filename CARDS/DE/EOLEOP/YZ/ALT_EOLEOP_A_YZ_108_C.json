@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_YZ_108_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMSCEQ7EHXJM5VCXZ63",
+  "reference": "ALT_EOLEOP_A_YZ_108_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/91f9c6b6a1879c0dd30c",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/afe14dc9bf553176aaad",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/fb57517469a9ab665e05",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "reference": "FAIRY",
+      "name": "Fee"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/39b1612fbfa749c82cbe",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Verfall"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Ich erhalte [[Vergänglich]], es sei denn, es befinden sich mindestens sechs Karten auf deinem Ablagestapel.  {H} [Sabotage].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/432042e9ed052d30ae6c",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/JPG/de_DE/6ce733b934ead6c6ab162d31bb343ed8.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_0c273038e5aef8d41f190f9dc4015250",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_d002bbcb732b8055d26e13cc31c68dad"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/41f690bee0a5279f406e",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "reference": "YZ",
+    "name": "Yzmir",
+    "color": "#764891"
+  },
+  "name": "Verderbte Zahnfee",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_YZ_108_C-DE"
+}

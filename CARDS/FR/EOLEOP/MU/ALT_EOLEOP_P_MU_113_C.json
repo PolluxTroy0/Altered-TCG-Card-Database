@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_MU_113_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMM76V48ETX1YHKVN3P",
+  "reference": "ALT_EOLEOP_P_MU_113_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/4077a8700309d5db1daf",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personnage",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/0fd1c6f818d5e566b808",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Les Racines de la Corruption - Jeu Organisé",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/61bfb1970fb63f9e3ccd",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "reference": "ANIMAL",
+      "name": "Animal"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} Si vous contrôlez un autre Animal, piochez une carte.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/bdea1f7d137c6b0890e6",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Commun",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/JPG/fr_FR/8ab30884130b4ffd2a44d77afa45b269.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/WEB_a61a5fc26ace1a7073cd7c3c155201aa",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/WEB_35d16759f40d58de97e5c667660b78ed",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/WEB_2fc4ed081e016ac42d64eed3759f8d6b"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/c1e2c7a24dd8a7c8334c",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "Karhu, Seigneur des Ours",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_MU_113_C-FR"
+}

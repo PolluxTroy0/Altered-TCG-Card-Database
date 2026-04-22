@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_A_AX_65_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZBQGMQ5111HCEZJ9KVG",
+  "reference": "ALT_EOLETOP_A_AX_65_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/14c97aa5cf947b10a7c6",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "reference": "HERO",
+    "name": "Eroe",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/9ff7b1c299cf47b924e9",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [],
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "A mezzogiorno — Se sei il primo giocatore, crea una pedina [Aerolite] nei tuoi fulcri.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/4c674f82bc55c62d0223",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_AX_65/JPG/it_IT/6855d14599fe96e8867ac7e9e8819f2f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_AX_65/WEB_2ffa532c008e8b53edc38f0962209f61"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/27c95c2a4e3a0a7b9894",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "reference": "AX",
+    "name": "Axiom",
+    "color": "#8c432a"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_A_AX_65_C-IT"
+}

@@ -1,0 +1,2884 @@
+[
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_AX_121_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMCE1DABC50TBXBJGSC",
+    "reference": "ALT_EOLEOP_P_AX_121_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/c6cf7f8ef4ef54b17098",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/7d26b06bfe915dfaf883",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/2e70d27d9884fabbd629",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Mettez une carte de votre main en Réserve.  Lorsque vous passez — Si votre main est vide, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]], {T} : Si votre main est vide, [Ravitaillez]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/5e21bb6d09bb549d0b4f",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_121/JPG/fr_FR/5d51410658ee1b511b69037b0cefdbcd.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_121/WEB_df710d73dd343d6aff1bdfb3ae0f2fe1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_121/WEB_c20d90e43c513ef3d34a3c0980df5708"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/1d689230a7ea94ae1f4d",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Quand Faut y Aller",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_AX_121_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_AX_111_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMBVRADW7N683F8AH2R",
+    "reference": "ALT_EOLEOP_P_AX_111_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/5d018d6b6af8a61c833d",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/0ef2e433aee1819d56ab",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/cdd8d187932299db5da9",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "reference": "ENGINEER",
+        "name": "Ingénieur"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{H} Vous pouvez mettre une carte de votre main en Réserve pour [Saboter].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/28dbf0272b896c2ebba7",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/JPG/fr_FR/c6674d988474daed084c92d577abc4d2.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/WEB_43327b5e5ed59cda7e61165506f6335f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/WEB_7b33d24d7f0ea5f550ff176fbcf3653e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/WEB_c14327f5ad6f00004447ab96077c7162"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/e7baea6e32355fcef28b",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Shiramun, Techno-moine",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_AX_111_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_AX_108_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTM92RSDA77AP5G28GFF",
+    "reference": "ALT_EOLEOP_A_AX_108_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/6abee2fc3d6c3335246e",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/f77fe592af75cbff5781",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/390b74107050241961f1",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/4563a69e28f025af1b00",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf si votre main est vide.  {R} Créez un jeton [Aérolithe] dans vos Repères.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/194dc3634b208e538de3",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/JPG/fr_FR/20c53eb1d1e350626afd9272716f34d3.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_bcfa85c0f522f908ac0975d6ede6ca82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_d583998de5e643203b8705b5fa93ccb9"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/60a913642b6af56fed7a",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Paju Corrompu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_AX_108_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_AX_108_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMBVRADW7N683F8AH2J",
+    "reference": "ALT_EOLEOP_A_AX_108_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/cd0a51b735285a9ebf5b",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/3a976771454612057b55",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/09e057512caaec1d7c30",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/272d5f136b08bdbfdb4c",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "Je ne peux pas être joué s'il y a une autre carte dans votre main.  {J} Créez un jeton [Aérolithe] dans vos Repères.",
+      "ECHO_EFFECT": "{D} : Créez un jeton [Aérolithe] dans les Repères d'un joueur ciblé."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/f882a72a8c32bb0755ee",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/JPG/fr_FR/57ae2ae5bfb15d24b4a2c655a5317fd6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_bcfa85c0f522f908ac0975d6ede6ca82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_d583998de5e643203b8705b5fa93ccb9"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/3b13773cada018073128",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Paju Corrompu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_AX_108_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_BR_108_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMEJPEEAYWK17J4047K",
+    "reference": "ALT_EOLEOP_A_BR_108_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/58ad8e91d6691ccb8ff0",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/58f5d3b3cba6c9ff082f",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/3b446873a6a95bcd2451",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/e833ff22b23c50cfab6d",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf si vous contrôlez une Prouesse.  {R} Vous pouvez cibler un autre Personnage. Il perd [[Fugace]] et gagne 1 boost.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/ae45222088b252d5389e",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/JPG/fr_FR/01fb7cb3de2e5d072ba194a28df42b21.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/WEB_8706c634d8e1ce620a7dafef1a03b4f7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/WEB_d872fa6210c64088f9304eda13639d71"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/53a0215ccbfe7260109d",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Aoife Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_BR_108_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_LY_107_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMHXS7F2QJMVJ5RN29T",
+    "reference": "ALT_EOLEOP_A_LY_107_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/5acb7fcc9db562cb7054",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/8ded49a989b599c565b8",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/16e634043ddf6b38c2ff",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "reference": "ARTIST",
+        "name": "Artiste"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/c444721ccbcd93251c89",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf si une capacité {D} a été activée ce tour-ci.  {J} [Ravitaillez].",
+      "ECHO_EFFECT": "{D} : Payez {1} de moins pour le prochain Personnage que vous jouez ce tour-ci, jusqu'à un minimum de {1}."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/1763369979b1479c64b0",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/JPG/fr_FR/a46513db001875e506434ecdf270d6ac.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_3ee340ad84ae409c2183231ce434ee6d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_7daa429ba7049783c38ad4457c1d76b7"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/00ebacc1f9fa21e51783",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Esmeralda Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_LY_107_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_BR_118_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMF2YRD3GYYM8GTH5GS",
+    "reference": "ALT_EOLEOP_P_BR_118_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/09cf61fc1308854ead29",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/c6617750046098b224a7",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/2f1a77c5460ffa9c7435",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Envoyez en Réserve un Personnage ciblé de Coût de Base {2} ou moins.  Lorsque vous passez — Si vous contrôlez une autre Prouesse, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]] : Votre limite de Repères est quatre."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/9dcb14c1759cd14245e4",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/JPG/fr_FR/1a337daba8eff2ae392e3c8404ed40ba.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/WEB_5e8a2924383195910977a707c85a82d9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/WEB_6c081b5d61105953592b65f3418d4ec8"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/855336ab5cc09605c1c5",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "La Dernière Défense",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_BR_118_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_BR_119_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMF2YRD3GYYM8GTH5H2",
+    "reference": "ALT_EOLEOP_P_BR_119_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/f4ba9955cc10e5bb2921",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/4919e22b3080c6050090",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/60edcd10ea471bd749fe",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Jusqu'à un Personnage ciblé gagne 1 boost et perd [[Fugace]].  À Midi — S'il y a au moins deux cartes dans votre Réserve, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]] : Les Personnages dans votre Réserve sont [Coriaces 1]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/d48a0532e7e5a25a24d5",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_119/JPG/fr_FR/74bd888ae182fbb75f329b5095a5f02b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_119/WEB_71bfa9d08701141127274ebbc7f40357",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_119/WEB_18e3cf7bfb51bda5001581c9ea071a4e"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/7f1862a357b52dfb1985",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Protéger les Actifs",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_BR_119_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_BR_115_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMEJPEEAYWK17J4047P",
+    "reference": "ALT_EOLEOP_P_BR_115_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/5fa91df04329040fe42f",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/b8ed8917d37b4b43ec69",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/d5d9791d374a94741955",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "{R} Si vous contrôlez une Prouesse, [Ravitaillez].",
+      "ECHO_EFFECT": "{D} : Le prochain Personnage que vous jouez ce tour-ci gagne 1 boost."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/085ca81778b3fd06b180",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/JPG/fr_FR/503916c554a0bc38947e79cd4cbea940.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/WEB_5e99453b9317dd593bb6e9d45b42daa3",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/WEB_2f30e04cc8fb35363ad154ab4caf3100",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/WEB_b76bc605fa0dff24a901d48567ec28ed"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/eff3223c14c053e5efe5",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Ravitailleur Reka",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_BR_115_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_BR_108_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMEJPEEAYWK17J4047D",
+    "reference": "ALT_EOLEOP_A_BR_108_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/429b4493bce7f35a0a62",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/23d2415dba8fa7cd74dc",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/5b6b833974314002f0b2",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/bac98c67f3ea9f156fad",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf si vous contrôlez une Prouesse.  {R} Vous pouvez cibler un autre Personnage. Il perd [[Fugace]] et gagne 1 boost.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/77cd1ecc1413e598d6bf",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/JPG/fr_FR/25f58ad7f163dbaf3b6d8d37e3019bb6.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/WEB_8706c634d8e1ce620a7dafef1a03b4f7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/WEB_d872fa6210c64088f9304eda13639d71"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/9501b1a08e6658688193",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Aoife Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_BR_108_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_BR_108_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMEJPEEAYWK17J4047G",
+    "reference": "ALT_EOLEOP_A_BR_108_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/1c18091e5e8a5442e336",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/28040896a38d5fb4d068",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/99c21e2a46b2b2bd3da2",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/d1158ed091eb14fd09eb",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf si vous contrôlez une Prouesse.  {R} Vous pouvez cibler un autre Personnage. Il perd [[Fugace]] et gagne 1 boost.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/483701bfc021519596ad",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/JPG/fr_FR/9df1ae2d2dac513bbd1f99bdfde9fa42.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/WEB_8706c634d8e1ce620a7dafef1a03b4f7",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_BR_108/WEB_d872fa6210c64088f9304eda13639d71"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/b6fee0563be886499fba",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Aoife Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_BR_108_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_YZ_108_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMT2NQDYEP7RX0FHY5R",
+    "reference": "ALT_EOLEOP_A_YZ_108_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/bf1fdcc8abbafd2db370",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/15e0973e6228d0b7a544",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/cdf1243a06aef0443799",
+        "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+        "reference": "FAIRY",
+        "name": "Fée"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/7fd24b126f499cbb29bb",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf s'il y a au moins six cartes dans votre défausse.  {H} [Sabotez].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/0c1b08444160777c96c9",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/JPG/fr_FR/5e3038b443a22da611f18323d7b4cce0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_0c273038e5aef8d41f190f9dc4015250",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_d002bbcb732b8055d26e13cc31c68dad"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/38b9e6edb7b56006399a",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Fée des Dents Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_YZ_108_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_LY_121_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMJNB0VA1SZSM9WWVWB",
+    "reference": "ALT_EOLEOP_P_LY_121_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/a12511211824c7e587f9",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/0f6d0138c684c8fc6249",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/9d957a903b9ebb374580",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Piochez une carte, puis mettez une carte de votre main en Réserve.  Lorsque deux capacités {D} sont activées pendant l'un de vos tours — Accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]], {T} : La prochaine fois qu'une capacité {D} est activée ce tour-ci, un Personnage ciblé en jeu ou en Réserve gagne 1 boost."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/db91b770212abb4bf274",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_121/JPG/fr_FR/d092cb2ab0d2ca58e15e744dbcc02c36.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_121/WEB_49629c2b0c08dfaffef56f2b69ab6688",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_121/WEB_91b361513d6b56858362ffa6f23ff352"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/3750c4c70857448a1183",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Enfumez-les",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_LY_121_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_LY_111_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMHXS7F2QJMVJ5RN29X",
+    "reference": "ALT_EOLEOP_P_LY_111_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/ee991ca47c1ed8de3e55",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/adb669b8c22c47a9a48f",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/0d38fc2b26722fae6160",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "reference": "DEITY",
+        "name": "Divinité"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": "{D} : Le prochain Personnage de Coût de Base {3} ou moins que vous jouez ce tour-ci gagne [[Ancré]]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/b318495dc390c6dc4963",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/JPG/fr_FR/ffda857f3549846c9cfdbf1504e94665.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/WEB_ed459c352ec44b6b9d45e8bd1bf63dd6",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/WEB_2429a893be767a7a5daec141d3bc4c3a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_111/WEB_664ea17f08b49eaa695d30ddf152bf6f"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/97f167821bb1b4e049cb",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Bastet",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_LY_111_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_AX_108_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMBVRADW7N683F8AH2N",
+    "reference": "ALT_EOLEOP_A_AX_108_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/bc3111b850942418c1bf",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/602572e6d4d1dc672d93",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/863529d9110a770eb915",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Aventurier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/fed985680494efa1193d",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf si votre main est vide.  {J} Créez un jeton [Aérolithe] dans vos Repères.",
+      "ECHO_EFFECT": "{D} : Créez un jeton [Aérolithe] dans les Repères d'un joueur ciblé."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/1bffa1dd46e2025343a9",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/JPG/fr_FR/f49967a7377d999eaeadb5e66f9397ca.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_bcfa85c0f522f908ac0975d6ede6ca82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_d583998de5e643203b8705b5fa93ccb9"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/a3de6af8a1cb174e2b7c",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Paju Corrompu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_AX_108_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_LY_107_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMHXS7F2QJMVJ5RN29M",
+    "reference": "ALT_EOLEOP_A_LY_107_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/38de8372d8bfe31ecbdb",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/6f27f7afe66da51233b4",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/86a10b4ae3807ba08d7a",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "reference": "ARTIST",
+        "name": "Artiste"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/7c0c9c4693617a480e59",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf si une capacité {D} a été activée ce tour-ci.  {H} [Ravitaillez].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/a606cdcc68664c72f537",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/JPG/fr_FR/f27c013073ec279479e75ab950e9c9c7.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_3ee340ad84ae409c2183231ce434ee6d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_7daa429ba7049783c38ad4457c1d76b7"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/206fe00355955f162db5",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Esmeralda Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_LY_107_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_LY_107_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMHXS7F2QJMVJ5RN29Q",
+    "reference": "ALT_EOLEOP_A_LY_107_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/0fabebe8de7b961a5b62",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/1d24145c55b240d18396",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/46ebf69dbe71d45e2355",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "reference": "ARTIST",
+        "name": "Artiste"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/9c052f8769b130318bbc",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf si une capacité {D} a été activée ce tour-ci.  {J} [Ravitaillez].",
+      "ECHO_EFFECT": "{D} : Payez {1} de moins pour le prochain Personnage que vous jouez ce tour-ci, jusqu'à un minimum de {1}."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/efdcac4a633b48857b75",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/JPG/fr_FR/ef1b98e54cf4fb9bf7c585384eb91c6b.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_3ee340ad84ae409c2183231ce434ee6d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_107/WEB_7daa429ba7049783c38ad4457c1d76b7"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/39f47706e0157702ce48",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Esmeralda Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_LY_107_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_LY_111_C",
+    "@type": "PublicCard",
+    "id": "01KGH9QGKRCQW83A8AGQT150MJ",
+    "reference": "ALT_EOLEOP_A_LY_111_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/e3f44f0810e2771ee020",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/b974a9184f96f379455b",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/cfff6ae4c028802a65fa",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "reference": "DEITY",
+        "name": "Divinité"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": "{D} : Le prochain Personnage de Coût de Base {3} ou moins que vous jouez ce tour-ci gagne [[Ancré]]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/2552dd1e986fe9c31223",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_111/JPG/fr_FR/d1e88b30ba20756b1ddfe07258b02273.jpg",
+    "assets": [],
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/4aa69e15ff2c666748c6",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Bastet",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_LY_111_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_LY_111_R1",
+    "@type": "PublicCard",
+    "id": "01KGH9T9GHEHA79E8B4DMNVX9Y",
+    "reference": "ALT_EOLEOP_A_LY_111_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/3ca0b2a8d1712277d91e",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/d74c80ecadd37b765314",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/55ae8dba4320f7975e8b",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "reference": "DEITY",
+        "name": "Divinité"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": "{D} : Le prochain Personnage de Coût de Base {3} ou moins que vous jouez ce tour-ci gagne [[Ancré]]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/4a1dec17f5719b25f092",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_111/JPG/fr_FR/7d179dc83e3e93afba610ef953626bf5.jpg",
+    "assets": [],
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/3a79f7b76e9b47fc1606",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Bastet",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_LY_111_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_MU_122_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMNWBQFFTE2KF2MFA87",
+    "reference": "ALT_EOLEOP_P_MU_122_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/033d78a0f2e4ecd7aa9d",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/d40ffa585d070b6a0706",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/95e6dbd8d78e00ca8b44",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Un Personnage ciblé de Coût de Base {4} ou moins gagne [[Ancré]].  Lorsque vous passez — Si au moins trois Animaux dans vos Expéditions ont un Coût de Base différent, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]] : Tous les Personnages dans vos Expéditions sont [Coriaces 1]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/f5f7b2649ceb76d3437e",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_122/JPG/fr_FR/81c7c3c5fb5154ec0d0251da3378e705.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_122/WEB_4a1cc4ef8dda2e95a59d3c78676d10a4",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_122/WEB_d8bf550deae1a1af42b9fbb73a30d731"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/bd563e2ddfc0454bce09",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Rassembler la Meute",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_MU_122_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_MU_113_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMM76V48ETX1YHKVN3P",
+    "reference": "ALT_EOLEOP_P_MU_113_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/4077a8700309d5db1daf",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/0fd1c6f818d5e566b808",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/61bfb1970fb63f9e3ccd",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Animal"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{H} Si vous contrôlez un autre Animal, piochez une carte.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/bdea1f7d137c6b0890e6",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/JPG/fr_FR/8ab30884130b4ffd2a44d77afa45b269.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/WEB_a61a5fc26ace1a7073cd7c3c155201aa",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/WEB_35d16759f40d58de97e5c667660b78ed",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_113/WEB_2fc4ed081e016ac42d64eed3759f8d6b"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/c1e2c7a24dd8a7c8334c",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Karhu, Seigneur des Ours",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_MU_113_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_MU_108_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMM76V48ETX1YHKVN3D",
+    "reference": "ALT_EOLEOP_A_MU_108_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/8600f5efbcda48be9272",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/18f73d5007befda0838c",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/29ad205308aaed35818b",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Animal"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/4af674e4b50a23865b66",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf s'il y a un Animal dans l'Expédition d'un adversaire.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/e4277ecfc806b9c107d2",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/JPG/fr_FR/7abd209ce01458856904e7ad206393bc.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/WEB_d1e2944a6ac66c38756fe06eca374c35",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/WEB_17731c9d9c09f5abf49ea33753694a1d"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/2743328469047692ad57",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Dotouffu Corrompu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_MU_108_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_MU_108_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMM76V48ETX1YHKVN3G",
+    "reference": "ALT_EOLEOP_A_MU_108_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/9a352b3e5b65af29fac8",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/342521938d2e3e9b97df",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/d8b1cbf0e0a100947b6e",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Animal"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/495816b1658442ba5ad3",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "Je ne peux pas être joué, sauf s'il y a un Animal dans l'Expédition d'un adversaire.  Lorsque je quitte la zone d'Expédition — Créez un jeton Animal [Dotouffu 1/1/1] dans mon Expédition.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/217614a32106a38674ea",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/JPG/fr_FR/25e56a898124baf9ab5898cef8bb9039.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/WEB_d1e2944a6ac66c38756fe06eca374c35",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/WEB_17731c9d9c09f5abf49ea33753694a1d"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/e53fb0832bd927b7807d",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Dotouffu Corrompu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_MU_108_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_OR_114_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMQRN677YMSW2KHH41C",
+    "reference": "ALT_EOLEOP_A_OR_114_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/65a2e9bb1dae583fe6c9",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/2cd1244c74c55e9d384a",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/891f5832ac8b07da9ac3",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "reference": "SOLDIER",
+        "name": "Soldat"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/eef2af964708cbbc9139",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf s'il y a un autre Personnage dans chacune de vos Expéditions.  Lorsque je quitte la zone d'Expédition — Créez un jeton Animal [Dotouffu 1/1/1] dans chacune de vos Expéditions.",
+      "ECHO_EFFECT": "{D} : Créez un jeton Animal [Dotouffu 1/1/1] dans une Expédition ciblée."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/2c8fd95a3bf9082d32f4",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/JPG/fr_FR/f0fdc62b51ff0aa57e95d9815cc9c5cc.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_39d5e98bda14fe0dfd3f93a16e55b561",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_5b3c78b470be86e41a0b02773341c18c"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/03e3a1ea22cf99466594",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Jeanne Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_OR_114_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_BR_118_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMF2YRD3GYYM8GTH5GW",
+    "reference": "ALT_EOLEOP_P_BR_118_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/b85b193a9c0beb11effa",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/cdb9767ab38a4c1d8800",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/5208861b87a051701557",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Envoyez en Réserve un Personnage ciblé de Coût de Base {2} ou moins.  Lorsque vous passez — Si vous contrôlez une autre Prouesse, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]] : Votre limite de Repères est quatre."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/1ec8e60edbcebcf1a977",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/JPG/fr_FR/f45ec695282122b80d7d71252c9da305.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/WEB_5e8a2924383195910977a707c85a82d9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_118/WEB_6c081b5d61105953592b65f3418d4ec8"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/d10e801a1f3a47ab20d6",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "La Dernière Défense",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_BR_118_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_OR_121_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMRANQ36KWRYXNAXJQT",
+    "reference": "ALT_EOLEOP_P_OR_121_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/e8c590e6abc985744f46",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/a67afae5bfc4e5201007",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/a7391c14508ce4382936",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Créez deux jetons Soldat [1/1/1 Recrue Ordis], distribués dans n'importe quel nombre d'Expéditions.  Lorsque vous passez — S'il y a au moins six Personnages dans vos Expéditions, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]] : Lorsque vous créez un jeton Personnage — Vous pouvez m'épuiser pour lui donner 1 boost."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/81161b4b4be869f2bfe2",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/JPG/fr_FR/4b3ab0b027f3dba708805315e277c54d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/WEB_d5b86c733e5b28be7adaa5031e1ccfd0",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/WEB_6a48d27b699fc15bc3454e4321f2f286"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/fd69c3fbcbf86e1afed5",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Couvrir la Retraite",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_OR_121_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_OR_111_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMQRN677YMSW2KHH41F",
+    "reference": "ALT_EOLEOP_P_OR_111_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/717c6303395717fba81b",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/1fb67ad9a0d2f2f62e8d",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/82c2c775a408f463a1ea",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Animal"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{J} Je gagne 1 boost par Expédition [[Élevée]] que vous contrôlez.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/c758ad0d09e650169bed",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_111/JPG/fr_FR/2b36194dd407f7a7d154225fa387f0de.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_111/WEB_371870af87060f064f76b572c1c91463",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_111/WEB_ab8c6e28ff2117dc20ea437c84b184b3",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_111/WEB_f7732a8db83a7cfebc9f48b0be686357"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/f000b16bfbaec58ab546",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Kiwi Sémaphoriste",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_OR_111_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_OR_114_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMQRN677YMSW2KHH416",
+    "reference": "ALT_EOLEOP_A_OR_114_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/3dbd82d1426f2a486809",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/57b075f281cfc3e79fbb",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/8da1b0d616117ab23be4",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "reference": "SOLDIER",
+        "name": "Soldat"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/dcef4c8b8fdc122d140a",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf s'il y a un autre Personnage dans chacune de vos Expéditions.  Lorsque je quitte la zone d'Expédition — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans chacune de vos Expéditions.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/202ee852d8d3bb6bebaf",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/JPG/fr_FR/6b047c1a9f25c3dfe76a57dbc4d1db2d.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_39d5e98bda14fe0dfd3f93a16e55b561",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_5b3c78b470be86e41a0b02773341c18c"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/7493708353ea32cc8aa5",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Jeanne Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_OR_114_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_OR_114_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMQRN677YMSW2KHH419",
+    "reference": "ALT_EOLEOP_A_OR_114_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/edd8f4b2605bb1286598",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/ad08d46b577d399191a4",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/22e2e8d99a9a475df3ba",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "reference": "SOLDIER",
+        "name": "Soldat"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/ddc96e510070393d850d",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf s'il y a un autre Personnage dans chacune de vos Expéditions.  Lorsque je quitte la zone d'Expédition — Créez un jeton Soldat [1/1/1 Recrue Ordis] dans chacune de vos Expéditions.",
+      "ECHO_EFFECT": "{D} : Créez un jeton Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/9145713c26f1fb1343f5",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/JPG/fr_FR/0e3db6aab0eba7957dd528f9ae680873.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_39d5e98bda14fe0dfd3f93a16e55b561",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_5b3c78b470be86e41a0b02773341c18c"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/6419821cd367c41fe22b",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Jeanne Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_OR_114_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_YZ_121_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMVXATVYS2YJ7AAA074",
+    "reference": "ALT_EOLEOP_P_YZ_121_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/ec0f609e23e52335a51a",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Permanent de Repère",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/78022490c7bb992a36a6",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/34445bef257d712275da",
+        "id": "01KA0Z8VM97X93CWTMFTM976E4",
+        "reference": "FEAT",
+        "name": "Prouesse"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Piochez une carte, puis défaussez une carte de votre main.  À Midi — S'il y a au moins six cartes dans votre défausse, accomplissez-moi.",
+      "ECHO_EFFECT": "[[Accomplie]] : Lorsqu'une carte est défaussée de votre main — Vous pouvez m'épuiser pour créer un jeton Illusion [2/2/2 Phalène de Mana] dans une Expédition ciblée."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/d39c93f20fd83b4c7cc1",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_121/JPG/fr_FR/49a7d03ff24162e8e42b477dc5068007.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_121/WEB_8b9e400fa27440b063d4f38feee68d56",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_121/WEB_9235727c1909e0ea7dcccee259a42b02"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/5ae43fe306d7871f60ab",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Repousser la Nuit",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_YZ_121_R1-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_P_YZ_112_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMT2NQDYEP7RX0FHY5V",
+    "reference": "ALT_EOLEOP_P_YZ_112_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/a38d4021f216ab16ce91",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/3b17b3dd14d1fbb8a88f",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/aa6736e59a18be632d30",
+        "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+        "reference": "MAGE",
+        "name": "Mage"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{H} Défaussez la première carte de votre deck.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/d6ac42152d2582311de4",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_112/JPG/fr_FR/150a56f9029e6f0c9b98896e2254971f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_112/WEB_7e10be39098962bacfadebf39ba5473a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_112/WEB_fc0a838f539ad4d88430a65cffe182d9",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_YZ_112/WEB_51c4e3e7151511ff33b2b3d0a1d07852"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/3b03e885cf39d2e8e3bd",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Exorciste du Qorgan",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_P_YZ_112_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_LY_111_R2",
+    "@type": "PublicCard",
+    "id": "01KGH9WSN2AGZQ4H9NW870FCB1",
+    "reference": "ALT_EOLEOP_A_LY_111_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/5fe2e50298040a9678a4",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/a938fe7e7a68fe266f8a",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/575865e7969b9f1aeb7f",
+        "id": "01HKAGPAJFS4YDQVKY6AB16614",
+        "reference": "DEITY",
+        "name": "Divinité"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "4",
+      "OCEAN_POWER": "4",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": "{D} : Le prochain Personnage de Coût de Base {3} ou moins que vous jouez ce tour-ci gagne [[Ancré]]."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/251e2140bd7472ea0886",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_LY_111/JPG/fr_FR/961634dbc2ebc8d06c06c706233f4ea5.jpg",
+    "assets": [],
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/c05d48417e9132c02c5b",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Bastet",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_LY_111_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_MU_108_R2",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMM76V48ETX1YHKVN3K",
+    "reference": "ALT_EOLEOP_A_MU_108_R2",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/dd4d9e9784eda99716c8",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/b3ac7f7a80da403892f8",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/e89194260a09e0bf6dfb",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Animal"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/0dcd7b3c62c3148911bf",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf s'il y a au moins six cartes dans votre défausse.  Lorsque je quitte la zone d'Expédition — Créez un jeton Animal [Dotouffu 1/1/1] dans mon Expédition.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/9aa947af788ed6c214ad",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/JPG/fr_FR/eee6c3db05b8255c6a5c5bd7586a309e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/WEB_d1e2944a6ac66c38756fe06eca374c35",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_MU_108/WEB_17731c9d9c09f5abf49ea33753694a1d"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/e9485989c9fd8f0846d8",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Dotouffu Corrompu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_MU_108_R2-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_YZ_108_C",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMSCEQ7EHXJM5VCXZ63",
+    "reference": "ALT_EOLEOP_A_YZ_108_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/c63f93ab39f37efc6488",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/9e4489ac4bc1910997da",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/c05434b2d50f9564b38a",
+        "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+        "reference": "FAIRY",
+        "name": "Fée"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/39746f883cb1ef4d0712",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{H} Je gagne [[Fugace]], sauf s'il y a au moins six cartes dans votre défausse.  {H} [Sabotez].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/696cd1a5ad19f3426553",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Commun",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/JPG/fr_FR/68635ffd82b7551b9f1a179f2ab685a5.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_0c273038e5aef8d41f190f9dc4015250",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_d002bbcb732b8055d26e13cc31c68dad"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/30398ed9de653e052497",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Fée des Dents Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_YZ_108_C-FR"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLEOP_A_YZ_108_R1",
+    "@type": "PublicCard",
+    "id": "01KGH7QTMT2NQDYEP7RX0FHY5N",
+    "reference": "ALT_EOLEOP_A_YZ_108_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/25f544c9c3420e9a2c8f",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Personnage",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/36c6a99905f589f1f05b",
+      "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+      "reference": "EOLEOP",
+      "name": "Les Racines de la Corruption - Jeu Organisé",
+      "description": null,
+      "code": "ROCOP",
+      "isActive": true,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/f59d91e2a16edb67dd12",
+        "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+        "reference": "FAIRY",
+        "name": "Fée"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/d1eb1506561654d1f9f8",
+        "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+        "reference": "CORRUPTION",
+        "name": "Corruption"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "Je ne peux pas être jouée, sauf s'il y a au moins six cartes dans votre défausse.  {H} [Sabotez].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/b64427463ef5f23ac1bf",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/JPG/fr_FR/81d39aa79892b9fe055fad02097d0fba.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_0c273038e5aef8d41f190f9dc4015250",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_YZ_108/WEB_d002bbcb732b8055d26e13cc31c68dad"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/258c883e3a8d4469ca37",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Fée des Dents Corrompue",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLEOP_A_YZ_108_R1-FR"
+  }
+]

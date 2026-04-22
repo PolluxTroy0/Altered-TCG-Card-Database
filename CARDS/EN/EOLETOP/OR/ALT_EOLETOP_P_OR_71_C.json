@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_OR_71_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCFB1P7KC6VD26TMG3K",
+  "reference": "ALT_EOLETOP_P_OR_71_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/894df1b99e95244a19e8",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Character",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/e5f8fa320d4469f42134",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/f5e863573c4a9c45afdd",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "reference": "ELEMENTAL",
+      "name": "Elemental"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} Target Expedition [Ascends]. (Until Rest, it can move forward even if matched in its region's terrains by the opponent's Expedition.)",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/d571eb84e67f63fd073d",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/JPG/en_US/3e06c0e05fa21d576f6c878f0b0c71ca.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_48e9cf25e31201cc0566b5e24de64e4b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_f68270cf0be5d03a18db54acce2cfed5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_e589cf761a4ab014744bdf1d7b894544"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/d180fe0cf828b253e150",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_OR_71_C-EN"
+}

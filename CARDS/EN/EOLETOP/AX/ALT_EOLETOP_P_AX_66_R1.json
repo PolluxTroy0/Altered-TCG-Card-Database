@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_AX_66_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZBW0601C1S7C6G9WHXB",
+  "reference": "ALT_EOLETOP_P_AX_66_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/d3bf1cc9b80c7f4d5e7f",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Character",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/aec44da35a6aaf9800eb",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/63e89ddfeb9dfdb94716",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "reference": "CITIZEN",
+      "name": "Citizen"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{R} You may sacrifice a Permanent to create an [Aerolith] token in your Landmarks.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/ac2d46cb133f445e51ba",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/JPG/en_US/c1c28bd7f1df878a6563f6092619d7df.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/WEB_04a23c7142a4ff7411aa78f8b04a60c5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/WEB_e2930a8ff4d63de243d991f7b1d357b2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/WEB_10824e3066556cffbdaa076cceab52d8"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/bcbd768d763e716c4edd",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "reference": "AX",
+    "name": "Axiom",
+    "color": "#8c432a"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_AX_66_R1-EN"
+}

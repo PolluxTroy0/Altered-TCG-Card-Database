@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_AX_108_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMBVRADW7N683F8AH2J",
+  "reference": "ALT_EOLEOP_A_AX_108_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/cd0a51b735285a9ebf5b",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personnage",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/3a976771454612057b55",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Les Racines de la Corruption - Jeu Organisé",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/09e057512caaec1d7c30",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "reference": "ADVENTURER",
+      "name": "Aventurier"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/272d5f136b08bdbfdb4c",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Corruption"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "Je ne peux pas être joué s'il y a une autre carte dans votre main.  {J} Créez un jeton [Aérolithe] dans vos Repères.",
+    "ECHO_EFFECT": "{D} : Créez un jeton [Aérolithe] dans les Repères d'un joueur ciblé."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/f882a72a8c32bb0755ee",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/JPG/fr_FR/57ae2ae5bfb15d24b4a2c655a5317fd6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_bcfa85c0f522f908ac0975d6ede6ca82",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_AX_108/WEB_d583998de5e643203b8705b5fa93ccb9"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/3b13773cada018073128",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "reference": "AX",
+    "name": "Axiom",
+    "color": "#8c432a"
+  },
+  "name": "Paju Corrompu",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_AX_108_R1-FR"
+}

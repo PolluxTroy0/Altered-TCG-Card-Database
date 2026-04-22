@@ -1,0 +1,3475 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 52,
+  "hydra:member": [
+    {
+      "id": "01J1Q4P4RV2A0EQ68788JASAZH",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/en_US/ed88e868b7850822dfabad8637d3a90b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_02b429af3e45d982c4fe0993d9c6cb6a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/WEB_acec68849c7cfc7f913a921b046fae49"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_42_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Avalanche",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/fr_FR/287f34c5e6b466087709bb7c18e5bfad.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/en_US/ed88e868b7850822dfabad8637d3a90b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/it_IT/b980816c9ce0ed3ca6898909482fe7a5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/es_ES/e72af8406a99d5f847623eed272bcef7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_42/JPG/de_DE/4e15c0a3d7fb64d86e521018ff8d714f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_AX_42_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_AX_42_R2"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HEK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/b3ca994c9a5f25caee2c09efbca0d92a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d865360de938c343bfd21be56818dca5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_4101215de65acd5aecd43196530dc333",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d6bc73bb04247722faba819da0ae4fe6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_34_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Haven Seiringar",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/fr_FR/1e71a99eabf6aeef4d98363044ae8e54.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/b3ca994c9a5f25caee2c09efbca0d92a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/it_IT/bc908bb13a51a1aee8fe40b41aa53142.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/es_ES/93c881a58b2932f6bfa98321dec2be24.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/de_DE/d6cbcb34ceadef6751f73541f34ce712.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_34_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_34_R2"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HEW",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/bd0a1dea67f69ec7cd478db976240c70.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_aaa6686002e7acd962fbd6ba1553b83e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_e17e17996b43565b3ff9397cc1defa39",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_5ec0e03b5a1389a867d4128c6c1b0f40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_35_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Bravos Trailblazer",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/fr_FR/9fe12926e4f303ee3e37646e9be28dff.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/bd0a1dea67f69ec7cd478db976240c70.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/it_IT/d4b0825457592af04e01b3b2512dc27b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/es_ES/8f414b450d1b5183a1fdd8e386b02c29.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/de_DE/8330c613584a721408ac3214d84f8e1b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_35_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_35_R2"
+    },
+    {
+      "id": "01J3GR3VQNGC7DEGP8XMFY66WC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/en_US/776e76cfa8bd0e73c321bfd220b36900.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_3d00216d0ed0cbdde307af3590b55dca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_20599b71ed48f0778f89a7e61d817f29",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_d7e30df8414ad334bd1990f62f9a8878"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_BR_37_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Gericht, Revered Duelist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/fr_FR/5b0f8ec6fe96d76a820c435520683812.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/en_US/776e76cfa8bd0e73c321bfd220b36900.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/it_IT/8a03d0ab7069c4782513f74482c7f8d8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/es_ES/c5921c911d119a80aa3003335fdfccad.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/de_DE/e62ba0413f776c4fb8aac97438249df8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_BR_37_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_BR_37_R2"
+    },
+    {
+      "id": "01J1Q4P4S252NTDGDSJ5AV5V5B",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/6e63d5c233606b4f88f3f5ff117cf763.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_a477e8714effca6d21e0e4352d77c88c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_3a1fa859f2bc4925d6dfef9e5547b0a1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_b4d1091b60e80de4e02a43fbac01437c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_37_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Gericht, Revered Duelist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/fr_FR/6f535d51d350e823fe4e031395932823.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/6e63d5c233606b4f88f3f5ff117cf763.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/it_IT/5353824bec0fdc1eb023359e155fa655.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/es_ES/385103182484d568afcd63f32b26930b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/de_DE/ce9dca2ec04786ba1ba4896b2d7e0362.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_37_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_37_R2"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMX5",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/957a2ba13e013ec76fdf855c81c106c6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_cb1253ea3f514e5d953a7722481ea999",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_c6bbe0c97c23fac3b09bbc79ca452729"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_45_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Eat Me Energy Bars",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/fr_FR/c8c1fc7c3729ab934a473020f2ff5c74.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/957a2ba13e013ec76fdf855c81c106c6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/it_IT/b9eb021ca0609918db356c8dee80ef61.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/es_ES/fc7b00719b452a9961ced4c4dd46257e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/de_DE/af8f297361efd9e7899871aca6af0bbe.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_45_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_45_R2"
+    },
+    {
+      "id": "01J1Q6KYCBJMANFXM1VQZVF0F2",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/en_US/96101559b3ae91cb6025ccba53d07f1d.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/HERO_THUMB_fe20cff9f5507dad76eb52c872f9e278"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/HERO_WIDE_8932b9f854289310c1c9ba6b0e94bb00"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/WEB_1170777d30c90d28a126da895f04655b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_03_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Fen & Crowbar",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_03",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/fr_FR/0036158b10556d14f06cbcd63b5dc0a0.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/en_US/96101559b3ae91cb6025ccba53d07f1d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/it_IT/9f2b65cc2abc0a3560b231f217d1509b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/es_ES/2bb643325da6ac6c3cced2fb9976d488.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_03/JPG/de_DE/16d3766e07a8b1b063bd661ccce792bf.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_03_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_03_C"
+    },
+    {
+      "id": "01J1Q6JYQ3QER0W46YB6C5E3YG",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/en_US/770ca7b8f0593e704b689852c2eae894.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/HERO_THUMB_7319b8fcdafc1d7ec2cc52c7953e6927"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/HERO_WIDE_4d1d7428fafe64f7387cedb96358684d"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/WEB_70191d53c244b51a7d5753a6f9aaf592"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_02_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Auraq & Kibble",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_02",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/fr_FR/04a0b0eb08cd0f3a18ad7f698493600c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/en_US/770ca7b8f0593e704b689852c2eae894.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/it_IT/d1c6f6d64003fec62768186f5c7d49cd.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/es_ES/58971e0c23c9735e80fa45a2ee0d7bc8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_02/JPG/de_DE/c07ac0f00c7139a11e1a89f9bbdfd4f0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_02_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_02_C"
+    },
+    {
+      "id": "01J1Q4P4S72ESJDYMMDMPKH5NE",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/77fc88f17e8bd33224a1fe6506f80b88.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_33_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "The Snowman",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_33",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/d4dbce3296175f8240c6b828d0b754a0.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/77fc88f17e8bd33224a1fe6506f80b88.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/8be0c210d718175812250880334093a8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/cc10b734f761727bf7c73270bf0f98e9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/0b3f24bc577e7fca545a8f385d8491a9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_33_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_33_C"
+    },
+    {
+      "id": "01J1Q4P4S72ESJDYMMDMPKH5NH",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/e6388d9b8748f1d8b8aa5a9107d6b5b7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_33_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "The Snowman",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_33",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/5a2b1e209a985033570ad9285ac0d738.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/e6388d9b8748f1d8b8aa5a9107d6b5b7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/0db61eda10edbc51a8e59050708587ab.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/1eed6df93cf68211de1d1b1075f7ca57.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/48c461c61e2e76965f9d749b31f9189e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_33_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_33_R1"
+    },
+    {
+      "id": "01J1Q4P4S6CG2A1GDVWHN4REPF",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/en_US/3d3c92698b23849d751b7099de2de03d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_4626e31df9becf5c45d500fb3bb7e8c2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_ceb98b0a2fb2f0e86727523cc289377d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_905c28b5e337d9769ef26b93c2a451aa"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_31_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Magpeng Hoarder",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_31",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/fr_FR/36a251d5396f33a870e2d7c39a39f36d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/en_US/3d3c92698b23849d751b7099de2de03d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/it_IT/f3a8f08c7e06efb02fca16013d3a30d4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/es_ES/d1ceb4138a73f668d07e36db09bd58b2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/de_DE/8e88ae60433c3bab8e14777bfbc25fd7.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_31_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_31_C"
+    },
+    {
+      "id": "01J1Q4P4S6CG2A1GDVWHN4REPJ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/en_US/bc4a960b318eb3290634fdfee1b71066.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_4626e31df9becf5c45d500fb3bb7e8c2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_ceb98b0a2fb2f0e86727523cc289377d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/WEB_905c28b5e337d9769ef26b93c2a451aa"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_31_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Magpeng Hoarder",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_31",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/fr_FR/4a111a187da4a865a89d69cd38609f68.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/en_US/bc4a960b318eb3290634fdfee1b71066.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/it_IT/72cca5bafc4cb47e3a9988da41d22267.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/es_ES/1c3755e87a11db7819baef4dfd77c751.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_31/JPG/de_DE/4343121f8d6d42a4e0a0a844a1ba82cb.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_31_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_31_R1"
+    },
+    {
+      "id": "01J1Q4P4S6CG2A1GDVWHN4REPR",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/en_US/cbca022c26622a5ad84b22fbd04078c4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_f87c38d0ad01b3e276dfae3242f5aa76",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_af998bad6365de95d04ba05335179a40",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_621452a22fa86fc7d5eba6974aaadb40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_32_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Snowball Commando",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_32",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/fr_FR/24a48662e78193469121436b7a7198f1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/en_US/cbca022c26622a5ad84b22fbd04078c4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/it_IT/654c9c3adced6e77d1149047503e1e8a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/es_ES/284cd7bfa091471e6fbfd0f3547da36c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/de_DE/4f48af36b36480b24360aac964486ec4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_32_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_32_C"
+    },
+    {
+      "id": "01J1Q4P4S72ESJDYMMDMPKH5N8",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/en_US/a4ebe5b1069f550c352d6fad1fc3e6e0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_f87c38d0ad01b3e276dfae3242f5aa76",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_af998bad6365de95d04ba05335179a40",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/WEB_621452a22fa86fc7d5eba6974aaadb40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_32_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Snowball Commando",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_32",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/fr_FR/a6d05b4ea57e70c1efb169eb5795f387.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/en_US/a4ebe5b1069f550c352d6fad1fc3e6e0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/it_IT/f5902567187a3613b563ba5e36271b04.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/es_ES/11963e6503c5ceb3c71fa6ac60ef073e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_32/JPG/de_DE/d76669bf6f410a9129b775c00debddce.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_32_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_32_R1"
+    },
+    {
+      "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/ac97fd6f1729de7da06fc64ac270d52f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Will-o'-the-Wisp",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/535b26a9a2b43dbd587e339a8179014f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/ac97fd6f1729de7da06fc64ac270d52f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/8b135fba2dfeeccda3980b0ead278c38.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/98f64011a3b0269cc4234c33a4b201e2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/9624f360320aba4c9f014f7aa3e5f36a.jpg"
+      },
+      "cardHistoryStatus": "BALANCING_ERRATUM",
+      "isSuspended": false,
+      "isErrated": true,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_35_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_35_C"
+    },
+    {
+      "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/f787c3855d05222b29e473b82e6ac130.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_10eb076f6aab8585608dbd5d6e419beb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_c85e43c93433154b635f3d2935f59f6c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/WEB_48212de12f3c15b774889ab27a9cc14d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_35_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Will-o'-the-Wisp",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/fr_FR/dd5b043f54399cb0386d6c16da3bd6f6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/en_US/f787c3855d05222b29e473b82e6ac130.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/it_IT/f090891dac0d0ca0cb4fb70a0ea4cb58.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/es_ES/d1d8a33e411a1e7ffa6937a4bc7dfc6a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_35/JPG/de_DE/84168996c34904219b9d1cb01b8a6483.jpg"
+      },
+      "cardHistoryStatus": "BALANCING_ERRATUM",
+      "isSuspended": false,
+      "isErrated": true,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_35_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_35_R1"
+    },
+    {
+      "id": "01J3GRARFN573STFVNCPGAJZ9P",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/en_US/4db563ca0b36ec5685251727e6e15df8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/WEB_809cdb8eb021f0a3e85e534f6baaff25",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/WEB_3ab63f553ee38e7b3e3ded1ef916d25e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/WEB_b0794dbb2daefecfe61ec0c2fc3f90fd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_LY_34_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nyala, Gifted Conjurer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/fr_FR/9a0daab16b2047f4abce20bb87aee72e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/en_US/4db563ca0b36ec5685251727e6e15df8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/it_IT/7a8bc3d441834084a7593b71d3592b7d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/es_ES/30ecca7564ab9e37a254aaaae78c03e5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/de_DE/ae8c22db64b03d429dc620be7d981063.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_LY_34_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_LY_34_C"
+    },
+    {
+      "id": "01J1Q4P4S72ESJDYMMDMPKH5NQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/cb5ae7740e101d1b4c2f46d72ca73291.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_15e18972de3fed635c40f9d8ccbd3e41",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_5cb65cb01922f3544f60445e91bc376f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_f6e417ebecbd0cae5f44791d4a9a3402"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_34_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nyala, Gifted Conjurer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/fr_FR/1466e6e577158ebcd81ee0c3f8eac03c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/cb5ae7740e101d1b4c2f46d72ca73291.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/it_IT/f10d56fe26f711847c6901545fc3e8d9.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/es_ES/ffa99e3252b72090143ef0132d1fc164.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/de_DE/107f0d325672ca156d7091b8dbb696b8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_34_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_34_C"
+    },
+    {
+      "id": "01J3GRD5HN9TFSDEYVNNHSEPYT",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/en_US/b4d6bc8bc5baa234578b90ef4313c175.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/WEB_809cdb8eb021f0a3e85e534f6baaff25",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/WEB_3ab63f553ee38e7b3e3ded1ef916d25e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/WEB_b0794dbb2daefecfe61ec0c2fc3f90fd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_LY_34_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nyala, Gifted Conjurer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/fr_FR/a99cae528bffcc71b8d6c3afd01e648c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/en_US/b4d6bc8bc5baa234578b90ef4313c175.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/it_IT/e89e4ee69634f17db52a2f7f5f3b062b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/es_ES/1ab58ecec66c8347cf2cb2e1b6c9fe3d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_34/JPG/de_DE/709219409f3b8d378f58d25d28eee7c6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_LY_34_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_LY_34_R1"
+    },
+    {
+      "id": "01J1Q4P4S72ESJDYMMDMPKH5NT",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/2b1d3450cd96eb9aef705dfd9901d34b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_15e18972de3fed635c40f9d8ccbd3e41",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_5cb65cb01922f3544f60445e91bc376f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/WEB_f6e417ebecbd0cae5f44791d4a9a3402"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_34_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nyala, Gifted Conjurer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/fr_FR/2d46eb21464a0fde22c43872a0e16855.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/en_US/2b1d3450cd96eb9aef705dfd9901d34b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/it_IT/c3ec001a42f5b2ba0651d521f5e42492.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/es_ES/eb914284bf5dea5b2d861d15976c4f45.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_34/JPG/de_DE/38e8576b92d55d1708271485e893250e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_34_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_34_R1"
+    },
+    {
+      "id": "01J1Q4P4S8VRS4MQ8C3VSJRWPX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/en_US/17f1b5925518afa52e2f5f4a16f3dbd7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_1959d03cce1d9aabf8723dc49934e1e1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_ecdf41146bf0874dce6a7147f97721ec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_52fc7d1046a416c0403cc7f38a5845da"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_36_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nisse",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/fr_FR/448f13d6794793096f3744792cff4746.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/en_US/17f1b5925518afa52e2f5f4a16f3dbd7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/it_IT/0ea919b5077388585529f2c9b56eb824.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/es_ES/a15b196a348c93c50161d94f5bccafee.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/de_DE/d89e9bdfa8b230f60fb3c6b4027bfffb.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_36_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_36_C"
+    },
+    {
+      "id": "01J1Q4P4S8VRS4MQ8C3VSJRWQ0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/en_US/82a2b5b164667099aa842bd02bf87ccc.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_1959d03cce1d9aabf8723dc49934e1e1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_ecdf41146bf0874dce6a7147f97721ec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/WEB_52fc7d1046a416c0403cc7f38a5845da"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_36_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nisse",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/fr_FR/9645e0d4405a9c1315b311d482c6d94d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/en_US/82a2b5b164667099aa842bd02bf87ccc.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/it_IT/b69f56984f3b9dfb5f072028faddb710.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/es_ES/01dcfe6c33fce252d13740f4262000d4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_36/JPG/de_DE/d124285cba5c5486663d52b2e8066302.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_36_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_36_R1"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHCJ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/en_US/1d1021f91a186605a279af73ebacd6d3.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_9207577aa48ea126cc345ac85550d439",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c04651d7f573cb5c152d08eecea4cd0d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c77d6de55d9fd325e292dbf60a3890d4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_38_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Heimdall",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_38",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/fr_FR/7522fe55aea0dc69ae96094b90231546.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/en_US/1d1021f91a186605a279af73ebacd6d3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/it_IT/6e3df1219b03f26dbed570b3a1f7e558.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/es_ES/399560bd3a3d51592eadba8c5dbd75de.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/de_DE/95f32bc245755021b1e164219153fa54.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_38_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_38_C"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHCN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/en_US/04ca7394c40c2015f228f8a95cf97b47.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_9207577aa48ea126cc345ac85550d439",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c04651d7f573cb5c152d08eecea4cd0d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c77d6de55d9fd325e292dbf60a3890d4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_38_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Heimdall",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_38",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/fr_FR/2e35427926db0d3298500b5d199ed6d8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/en_US/04ca7394c40c2015f228f8a95cf97b47.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/it_IT/9dd044a18c544adaf19c251175f82df5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/es_ES/ea3cbb73287b0b68a0690e5ba66dc4f3.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/de_DE/01179a8c1edc69f1891d6edbf240b6dc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_38_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_38_R1"
+    },
+    {
+      "id": "01J1Q4P4S8VRS4MQ8C3VSJRWQ6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/en_US/affcf0ea0ded471ef29c598ccbda566c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_15ab4f2b79431d987f2dd7d3e09f05a3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_9204d9997b88b430b14dd4822db0b2b2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_f4750b009af6b901b5e7655d6b74c39f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_37_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Santa Claus",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/fr_FR/25de14c46dedd617f719584237de9b79.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/en_US/affcf0ea0ded471ef29c598ccbda566c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/it_IT/dd5cb4ae4f4638232b9af0f13920f03e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/es_ES/d5bda542c0daa930fa1c9c50cbc17981.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/de_DE/edfade286461d4260c8f269ee3d2425a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_37_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_37_C"
+    },
+    {
+      "id": "01J1Q4P4S8VRS4MQ8C3VSJRWQ9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/en_US/412b64fd80af49e46165af2c338ad426.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_15ab4f2b79431d987f2dd7d3e09f05a3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_9204d9997b88b430b14dd4822db0b2b2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/WEB_f4750b009af6b901b5e7655d6b74c39f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_37_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Santa Claus",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/fr_FR/acfb81cd2839ebd313b803786ca398c9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/en_US/412b64fd80af49e46165af2c338ad426.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/it_IT/d5faa1bf3c094229f21e965c0d1f3980.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/es_ES/e3f8047dcc537fe313a77de7f9d4f995.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_37/JPG/de_DE/7e8320c934bf4cdda5445a3313353f59.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_37_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_37_R1"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHCV",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/en_US/471e34974349ccb8507f04a45504f163.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/WEB_693c226fa48e979cf56fd220500e4182",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/WEB_7a1063669c7a5ba646d26cf63fab784d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_39_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Sleight of Hand",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_39",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/fr_FR/af5c9dc232c89806eacaed83add60c73.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/en_US/471e34974349ccb8507f04a45504f163.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/it_IT/d89c6039e3307edf051043d0a242de50.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/es_ES/36593d1feb0d3ed3db8b39edf64f00fe.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/de_DE/4f115af312b085f80693b2bc630b176d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_39_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_39_C"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHCY",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/en_US/400e72b711885aa57aa41f9859e9c5d9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/WEB_693c226fa48e979cf56fd220500e4182",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/WEB_7a1063669c7a5ba646d26cf63fab784d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_39_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Sleight of Hand",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_39",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/fr_FR/28ef3dfec492e851cfad335e16823452.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/en_US/400e72b711885aa57aa41f9859e9c5d9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/it_IT/34982142b1416a0155eb9c1c191fa94a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/es_ES/92e9f9ba03425429a1b52c7d49b18b2d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_39/JPG/de_DE/13b57889f90cc8161549e86e8c554746.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_39_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_39_R1"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD4",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/30c96aea2978ce20b430fecbcdc6d394.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Joyride",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/4a24594400f2607d5f9917c4af874f87.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/30c96aea2978ce20b430fecbcdc6d394.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/2da3d733cd093e80d972007e79f419d5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/e831c4e6c07849baafb5828aa98af61a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/8209af456a578a105f8054f4d541bc1c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_40_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_40_C"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHD7",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/315292e42dfc4a89e5f40108889968d0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_71e54bfd0a9009355db9605e7147973c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/WEB_63dd4bd755024bafdf8c34c2099dea3d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_40_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Joyride",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/fr_FR/651975ed4d32d3eaad11986ceb91028a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/en_US/315292e42dfc4a89e5f40108889968d0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/it_IT/1689701e9ff1efb0b59135aad842cb90.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/es_ES/7b6e5b0c1166528877a0b49346af76d6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_40/JPG/de_DE/ff9eeddddc4756a28b198f48dadcbf4f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_40_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_40_R1"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHDD",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/en_US/ba2c7c4dde65ab0267ce6bf31b238d5d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/WEB_fc2732d6acb2a43995baf22665389b0b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/WEB_a1df46ae388dc428e843c27a93ea6fd1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_41_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Silent Night",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_41",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/fr_FR/f4d0b9fa5a5efcb92dce4401985e3d63.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/en_US/ba2c7c4dde65ab0267ce6bf31b238d5d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/it_IT/f54c9d63bc6d064022e05fac93873170.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/es_ES/291e31fa146545d36e89860c3c7b77d7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/de_DE/5f922ceb06f35bcf7e6ff9f0bb48ef06.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_41_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_41_C"
+    },
+    {
+      "id": "01J1Q4P4S9JQZW8ANWA2ZKEHDG",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/en_US/94525da2e38e46c10d68833fdcc3e0d7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/WEB_fc2732d6acb2a43995baf22665389b0b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/WEB_a1df46ae388dc428e843c27a93ea6fd1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_41_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Silent Night",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_41",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/fr_FR/760e00423b75f18f92210494c1d43c61.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/en_US/94525da2e38e46c10d68833fdcc3e0d7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/it_IT/cfe5bebec90da6aea1b9d5cb28f2c14c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/es_ES/b6d5ce8be6f04ad6d80da9b74ba38f4b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_41/JPG/de_DE/72a28f3e5bca5bce7a3983a1cdaf35ae.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_41_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_41_R1"
+    },
+    {
+      "id": "01J1Q4P4SA983VFNNBWVRZT9SZ",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/20741aa2d3facb20e39caab9c8515fdc.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_42_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Break the Ice",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/84215bbb306f975ba34decff7d66a635.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/20741aa2d3facb20e39caab9c8515fdc.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/5364554dadbe2409211e78a2b54b501c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/26e974730ababc8ed1d8f2c41c5e2394.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/ec8328e9aa3f092039657ad7677f1e68.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_42_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_42_C"
+    },
+    {
+      "id": "01J1Q4P4SA983VFNNBWVRZT9T2",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/f6cee6c82ba2be642db653c04368f80a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_2aa59a81bdb10404830a5cd76f2190cf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/WEB_dd7d9e26c76106bb83b2db4b31ff23d2"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_42_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Break the Ice",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/fr_FR/8426fa72ca16b996da470b159570d138.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/en_US/f6cee6c82ba2be642db653c04368f80a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/it_IT/ac8b77220e8bc38d8826a55d9aef6102.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/es_ES/284c3e76f843d0282e5c4438b933abbe.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_42/JPG/de_DE/cbeb052260a11b680d4a25f707749274.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_42_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_42_R1"
+    },
+    {
+      "id": "01J1Q4P4SA983VFNNBWVRZT9T8",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/0f9e009492c479b8a5eec8ca3fb2252d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_43_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Winter Outfits",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_43",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/c65bb1b6a90557f7325b22619839c282.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/0f9e009492c479b8a5eec8ca3fb2252d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/8e20533c903989b8b6e45c209005be95.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/c792361458edf9730f91ac1cfab545b4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/d5e6dfef08d77346ee1e326ed99658c4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_43_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_43_C"
+    },
+    {
+      "id": "01J1Q4P4SA983VFNNBWVRZT9TB",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/f51ee8edf31d2ce46ac2353d4283e607.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_7770bce90f20095343d5a5cc7056564a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/WEB_ded96dd95ea45267682cb63009777587"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_43_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Winter Outfits",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_43",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/fr_FR/ceea7b0bbc725de1b095d66844a6d75f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/en_US/f51ee8edf31d2ce46ac2353d4283e607.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/it_IT/18601b4e9ae8958dd5748182f3d9c100.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/es_ES/bb85b8f0dc85e9bce16bcc1dabfd48ff.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_43/JPG/de_DE/26189e3dc95bc395a37a3e4d3850ac21.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_43_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_43_R1"
+    },
+    {
+      "id": "01J1Q4P4SA983VFNNBWVRZT9TH",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/d9df7e4395f1f88bfc17ffc097192350.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_ccb4575781332b5698ed7c4ec64d6ccf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_1345d111af230d95ede0853cd4264082"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_44_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "The Magic Sleigh",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/fr_FR/610a2ed063487ac768c6745c0204d95f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/d9df7e4395f1f88bfc17ffc097192350.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/it_IT/71869cdbd49d2854eddc4bc7460b82a1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/es_ES/b79781a12924e3d82adf1b6b2ac168f6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/de_DE/4319c175db6a24c7863e0f7d54023482.jpg"
+      },
+      "cardHistoryStatus": "FUNCTIONAL_ERRATUM",
+      "isSuspended": false,
+      "isErrated": true,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_44_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_44_C"
+    },
+    {
+      "id": "01J1Q4P4SA983VFNNBWVRZT9TM",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/eb90a906ed101a8547d64d369a621e42.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_ccb4575781332b5698ed7c4ec64d6ccf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_1345d111af230d95ede0853cd4264082"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_44_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "The Magic Sleigh",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/fr_FR/155940a7d7cd9612c9dd29ae9286a6be.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/eb90a906ed101a8547d64d369a621e42.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/it_IT/bf13e68993b96fb92ec314eb3c871066.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/es_ES/e40369b8076c44c3e82e58e6ee128a84.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/de_DE/6d1afdec57f93a1880c18e08cf718943.jpg"
+      },
+      "cardHistoryStatus": "FUNCTIONAL_ERRATUM",
+      "isSuspended": false,
+      "isErrated": true,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_44_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_44_R1"
+    },
+    {
+      "id": "01J1Q4P4SBPWTN13PW61X9B2AE",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/357ed2df0559d888e2229dd40b05f3c4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_77b7d27e4b3fff4a63372448069fca42",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_a2351caf25f187ce38209b18ea7b1f3d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_45_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Icebound Tundra",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/fr_FR/918d7cbf9f81b0e89f7cd2e4cb47cc65.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/357ed2df0559d888e2229dd40b05f3c4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/it_IT/ca0667ed4335b46991616898acea9135.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/es_ES/10f65ff17690cf12be596cb3b7f5d72d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/de_DE/8ab27188b5ada66291f1956c7b7ebc59.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_45_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_45_C"
+    },
+    {
+      "id": "01JH1KM57QJVK4W76AGJEQH6J2",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9bc03805715da9a89d58",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/en_US/a481b137a8839ac4149b9cc50a4b63c7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/WEB_0ac23ac3d29f020721133620a5a3215c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/WEB_09631413d274a80857cf488634d8f2ff"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_LY_45_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Icebound Tundra",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/fr_FR/8023e556213a31946359ac85eec1a0ad.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/en_US/a481b137a8839ac4149b9cc50a4b63c7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/it_IT/a5bb7a4ecd14d1cea99aab1673456c64.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/es_ES/abf058faacaca311ffe7e2aa2e0d6c50.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/de_DE/4b7e4f8c9c86ea652c7100ef4c32f46e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_LY_45_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_LY_45_C"
+    },
+    {
+      "id": "01J1Q4P4SBPWTN13PW61X9B2AH",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/d7bbef55fe793ac1f27c70e29f9738c1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_77b7d27e4b3fff4a63372448069fca42",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/WEB_a2351caf25f187ce38209b18ea7b1f3d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_45_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Icebound Tundra",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/fr_FR/be6a762024f8ca30608c3a5410d5cc41.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/en_US/d7bbef55fe793ac1f27c70e29f9738c1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/it_IT/dbc4af7286e53d5fd4ab631a3f94784f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/es_ES/bb472a0273cc0815afc0968d0a26bb1a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_45/JPG/de_DE/ae654db1a65d352963d046e87c7c5c77.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_45_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_45_R1"
+    },
+    {
+      "id": "01JH1KM57QJVK4W76AGJEQH6J5",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/en_US/cd3f2fbf0de45adffb7cfd7ca56693e9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/WEB_0ac23ac3d29f020721133620a5a3215c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/WEB_09631413d274a80857cf488634d8f2ff"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_LY_45_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Icebound Tundra",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/fr_FR/ee248dec8aa2213ed58886412570f03c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/en_US/cd3f2fbf0de45adffb7cfd7ca56693e9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/it_IT/f0203927da372194371cf149e2c818db.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/es_ES/115a5b1535f77a7a4f3d3b291f256444.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_LY_45/JPG/de_DE/864a98359641e0e53e1457c099e7648a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_LY_45_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_LY_45_R1"
+    },
+    {
+      "id": "01J1Q4P4SDA8SPK4V8SP1KVFBM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/en_US/0f8ab38309eb1b0041865d4e473fc65d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_dd3ca128cd9a8859c87e916005fd5466",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_a29913a460868f171aa09a5bd3ef6a5c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/WEB_b2f8829799c6ae3c7310533d78346b6e"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_33_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Persephone",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_33",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/fr_FR/50c4b803c212ab58df8ab1b13d635fa3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/en_US/0f8ab38309eb1b0041865d4e473fc65d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/it_IT/20b4f949d5ba59949ad7c462abbf12af.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/es_ES/3d1974cfef8f6bd55b42d804a540c058.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_33/JPG/de_DE/6829f5c99781ff8c1e0cfd3686a9c1f2.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_33_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_33_R2"
+    },
+    {
+      "id": "01J1Q4P4SGG6TEVFRSKNDKQK6K",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/fbf4cb6ab906d6ba0bb946eab5f92568.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_2262155b2f5b863e293219b0f9b49411",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/WEB_d9b689e66ce65e4dde1bfe6c108f59c9"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_42_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Lost in the Woods",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/fr_FR/f226489d8b633d047726c0f61926b282.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/en_US/fbf4cb6ab906d6ba0bb946eab5f92568.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/it_IT/969a08562ec327238b7c8b9c28e7850f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/es_ES/0162f66b7984e15afd6aba0757b6d571.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_42/JPG/de_DE/b9545a54bef2e152148eb402c9e29236.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_42_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_42_R2"
+    },
+    {
+      "id": "01J1Q4P4SGG6TEVFRSKNDKQK6W",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/en_US/539a08460463f025e403f4f408955ea5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/WEB_cc91157330dda52e83400129a47071f2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/WEB_78ae7ad6a907d483e0b0cfe8c6b55366"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_43_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Magic Beans",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_43",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/fr_FR/aa3c5b944597f78d17671dc0b8f2df99.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/en_US/539a08460463f025e403f4f408955ea5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/it_IT/7a704edd8432afc55a309f9f92d538ca.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/es_ES/240f4189c11958e7fb5ed10668906230.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_43/JPG/de_DE/ea89cdd783441b87c4215a463e92a439.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_43_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_43_R2"
+    },
+    {
+      "id": "01J1Q4P4SHH5PQKMZMP6NZNHXF",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/en_US/4d0174a88170900fb0f45198aa5be5ab.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/WEB_871b124253ceaf289f0c45f5a5e6d361",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/WEB_561a2a31e2f4a90f93f401aa791195fd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_45_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Icebound Taiga",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/fr_FR/2160ada6049dba45adb121612cf6bb7d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/en_US/4d0174a88170900fb0f45198aa5be5ab.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/it_IT/283d702124084c9378a53e60cfaa3d80.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/es_ES/4a87bcd8194b289d6602940f9dfb8bcc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_45/JPG/de_DE/68477def566c938503836a0f394f0cda.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_45_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_45_R2"
+    },
+    {
+      "id": "01JH1KM57RCH0JHSAJZ657N9A7",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/JPG/en_US/98826d9831d8f64e4f0ffb507159c080.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/WEB_d0d3adc8e3fdd72f9f874029a69941f5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/WEB_f5612cf8c587a194f7a9ca3711cade61"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_MU_45_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Icebound Taiga",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/JPG/fr_FR/fdb13feda6fb247daab913c8f4dd4405.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/JPG/en_US/98826d9831d8f64e4f0ffb507159c080.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/JPG/it_IT/9fa7a62f7af6ffd054d18659797a453e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/JPG/es_ES/9b9969f78268c36e0d0851f5478d29bb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_45/JPG/de_DE/74b48fdd4d0dd1628633bf329ec8f1ea.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_MU_45_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_MU_45_R2"
+    },
+    {
+      "id": "01J1Q4P4SKAF9A6PP6VDW6X2PR",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/en_US/00c7f4dfdb2b30c3eb2da91dcfdf115e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/WEB_478ef76550d920c591cd79ba35020c81",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/WEB_02bf54b82cf138d58a92cf2e9b6c3dc1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/WEB_4e116fd9cbd2b735a7cebc1e624832a7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_36_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Ordis Nightwarden",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/fr_FR/55becfb87f1d38a82b30c49a9b7030da.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/en_US/00c7f4dfdb2b30c3eb2da91dcfdf115e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/it_IT/0b783777c2a5993df953d49d3c93070d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/es_ES/cfb394c31cfa32fef04d4b54fba405a3.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_36/JPG/de_DE/8b6a39979ef5520b693ce0a50419a194.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_OR_36_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_OR_36_R2"
+    },
+    {
+      "id": "01J1Q4P4SPGZZS4TK0CWMVFXSD",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/en_US/8b732524ffa51bec826df7280d5d1cca.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/WEB_c5b9a8fbf48006e6e38ab438cc616076",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/WEB_8920b25e0c956255d684794a38c0f34a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_44_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Rallying Call",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/fr_FR/b1d85fd31f2dd32ae2432096b70e2a4c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/en_US/8b732524ffa51bec826df7280d5d1cca.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/it_IT/9cf547a4dc18bc543352d3dd55c784f3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/es_ES/e5adf7f9946dc2061ab66daed96866ac.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_44/JPG/de_DE/f251bc5de5270d3050c92aa0e5787973.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_OR_44_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_OR_44_R2"
+    },
+    {
+      "id": "01J1Q4P4SN8RYANNFV99ET5V41",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/35d6689c21e612a712d03231cfab5ceb.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_5da96e97aec9961cde03c79e3fe053d9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/WEB_8698b5ee26be342663239a1fbebfb064"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_40_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Hypothermia",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/fr_FR/40bd7f3eb4d234d209d7f9c3e3224559.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/en_US/35d6689c21e612a712d03231cfab5ceb.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/it_IT/5b5bde69ac0c6484de1b0cc46a37dbb5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/es_ES/13fac7506b30011fdd76a0366a533cc8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_40/JPG/de_DE/4d784f106cbc2f86b5754ba7e8884952.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_OR_40_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_OR_40_R2"
+    },
+    {
+      "id": "01J1Q4P4SS1510DW0H3674JC8V",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/en_US/f2841d29e85d9a433c71aaba8924d85c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/WEB_06adce73ea533144a8508b48979e2635",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/WEB_8473b35d6fcb7c74da16f1a9de458307",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/WEB_695e42314cae552c9b70e2eb65bc142d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_34_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Pamola",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/fr_FR/13008c1ad4953ab28e68da22937238f5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/en_US/f2841d29e85d9a433c71aaba8924d85c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/it_IT/5f3e7dacc7aac23f0930e6e5e13274fd.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/es_ES/319f91ab8a91e4d6e8c66d5f1deb7f16.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_34/JPG/de_DE/fa99a206d7f4b2d47dbe698d87298366.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_YZ_34_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_YZ_34_R2"
+    },
+    {
+      "id": "01J1Q4P4STVYKQPX3X8SF0WVAA",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/99d7815afeb41b4d5069",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/en_US/7fe9ef667834eddfc14217480dc32f68.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/WEB_5c0d4932c8e1f4ed3f66013d6fa87ced",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/WEB_3b0931125661939b3d75ac48d30ad665"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_37_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Winter Nova",
+      "elements": {
+        "MAIN_COST": "8",
+        "RECALL_COST": "8",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/fr_FR/070e9764f2debc7c3dcf0154cd905bcd.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/en_US/7fe9ef667834eddfc14217480dc32f68.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/it_IT/1bb7cdfe69b44983039bcd8cbdde8c60.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/es_ES/96ec5697ab7c2bbf692f6c27a1cf5d94.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_37/JPG/de_DE/448141bced7d357dc7da6be74d952328.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_YZ_37_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_YZ_37_R2"
+    }
+  ]
+}

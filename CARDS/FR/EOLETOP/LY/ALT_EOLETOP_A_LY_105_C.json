@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_A_LY_105_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZC61V6DPZ9NVWJQ0N2G",
+  "reference": "ALT_EOLETOP_A_LY_105_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/4246119ed5638a298c40",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "reference": "HERO",
+    "name": "Héros",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/97d27c57407ccaa0e7ed",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Les Racines de la Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [],
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{T} : Ciblez un Personnage que vous contrôlez, puis lancez un dé. Vous pouvez ensuite dépenser n'importe quel nombre de mes compteurs Chance pour augmenter le résultat. Sur un résultat de :  • 4+ : Il active sa capacité {D}.  • 1-3 : Je gagne 1 compteur Chance.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/28b4774c06873f88e353",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Commun",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_LY_105/JPG/fr_FR/d402b1b09439729904ecceadd443dcfd.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_LY_105/WEB_97ed13bae00735db0d41c663e077bfa7"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/8d844bbb5233831c2aa2",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Héros Lyra Commun_01",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_A_LY_105_C-FR"
+}

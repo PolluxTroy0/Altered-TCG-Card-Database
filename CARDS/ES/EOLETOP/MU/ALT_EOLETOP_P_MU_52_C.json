@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_MU_52_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCBRTSP39Y33TT15M9W",
+  "reference": "ALT_EOLETOP_P_MU_52_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/c84694bc916892bf599e",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaje",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/239cd3adf97ade17e9dc",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/4cfec7d4e11cd00771bd",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "reference": "ANIMAL",
+      "name": "Animal"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "Cuando un personaje que controles gane [[Anclaje]] — Gano 1 potenciador.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/e865e9e5c9c4424d238a",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/JPG/es_ES/615a4b12993091d90e01606ddedb22d2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/WEB_c270fa91c9df61138d2e95d5a1bf61ef",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/WEB_c904084a07a5381a8f5e5060ae4dc1de",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/WEB_932fd48d13f904f9a8a440a462a0e854"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/57dab31b269684713526",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_MU_52_C-ES"
+}

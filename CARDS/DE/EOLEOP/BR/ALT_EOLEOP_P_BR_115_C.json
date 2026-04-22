@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_BR_115_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMEJPEEAYWK17J4047P",
+  "reference": "ALT_EOLEOP_P_BR_115_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/d8c4a6837a551d3b3fc6",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/2d42a10d9c002e13fbaf",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/1026d7e62a532e07063e",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "reference": "ADVENTURER",
+      "name": "Abenteurer"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MAIN_EFFECT": "{R} Falls du eine Heldentat kontrollierst, nutze [Nachschub].",
+    "ECHO_EFFECT": "{D} : Der nächste Charakter, den du in dieser Runde spielst, erhält 1 Verstärkung."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/53ab7bbd2e1f1cd72eed",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/JPG/de_DE/69eea008294de0cb7b5b991dce7c6485.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/WEB_5e99453b9317dd593bb6e9d45b42daa3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/WEB_2f30e04cc8fb35363ad154ab4caf3100",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_BR_115/WEB_b76bc605fa0dff24a901d48567ec28ed"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/91cfc5b122e45f023fcb",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "reference": "BR",
+    "name": "Bravos",
+    "color": "#c32637"
+  },
+  "name": "Reka-Zwischenhändler",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_BR_115_C-DE"
+}

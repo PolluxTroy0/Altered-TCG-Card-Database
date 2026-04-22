@@ -1,0 +1,467 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 7,
+  "hydra:member": [
+    {
+      "id": "01K60PWD2YF6CPQMAD3RCR988V",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/f4ca28d29ebb30d62f45",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/en_US/b7be0319364ee5dbdc24e3a0365d4f9f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/WEB_7edbadbf22bb34d9a9bb3c90bea51f31",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/WEB_160e6efe5f4c400a23c749414849375a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/WEB_c6bab915a2e1061fd77013216ea600d7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_93_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Diocles, Chariot Racer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_93",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/fr_FR/1179779d5d8789bd818ce63c12760b42.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/en_US/b7be0319364ee5dbdc24e3a0365d4f9f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/it_IT/915faa820308941cd4a12573bc189b9b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/es_ES/b4174bae3971db90c63e489f9fb76a57.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_93/JPG/de_DE/e0be958a19d4b76bf5222baa4ea89d68.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_93_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_93_C"
+    },
+    {
+      "id": "01K60PWD2YF6CPQMAD3RCR9891",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/f4ca28d29ebb30d62f45",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/en_US/37f1dc306fba4724e7f22177bdcaf75e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/WEB_fad70f0833b30dde4dd184d05556bc55",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/WEB_639d229094aaec054519838ccf02d52f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_102_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Cable-Car Station",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_102",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/fr_FR/77e099da7c4fa115f3d056842a117248.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/en_US/37f1dc306fba4724e7f22177bdcaf75e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/it_IT/82d33008774be2c696297e10e499c086.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/es_ES/ecba1e1d00b6488368bc9d6bca6b5f4c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_102/JPG/de_DE/d1ff5b35afdd9e935697ae256c268283.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_102_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_102_C"
+    },
+    {
+      "id": "01K60PWD2X3YDG38RBY20C0Q5Z",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0365a01dafaced5ad492",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/en_US/a49b591674731d708b0c06d5af52db0b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/WEB_931052689d79b599470eb9a49ee4816d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/WEB_f7f2797b9ea2e403ae56beaa00380ef8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/WEB_76ff3e1c16787d23836f96660f020e1a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_90_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nyala, Night Reveler",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_90",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/fr_FR/ab65e3fb63799ccc6e320adf13c4bfef.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/en_US/a49b591674731d708b0c06d5af52db0b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/it_IT/1731e72dd2ee712540d4e79d63f24d6b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/es_ES/9d64f80c73cfd784403f853a7efce52d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_90/JPG/de_DE/86f6405a87dbb644bcf77ce79ea55d8d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_90_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_90_R1"
+    },
+    {
+      "id": "01K60PWD2X3YDG38RBY20C0Q65",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0365a01dafaced5ad492",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/JPG/en_US/036b63d573fc02f3ec870a2dd992be7e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/WEB_bf5843df0310d43a3f09ad6f39a69ef8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/WEB_696c674e535b683468533c9d4107d26d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/WEB_5409c62176051fcc5e9af57d43a01c20"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_89_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Reka Barmaid",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_89",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/JPG/fr_FR/65746b14d759a4305a46158d45e62d5a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/JPG/en_US/036b63d573fc02f3ec870a2dd992be7e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/JPG/it_IT/3085d4e2331a08d4e3353422038c953f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/JPG/es_ES/67fdff437ff3122c0d2a5b810a2303d6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_89/JPG/de_DE/a260654e3ceeceba8cd90878617a1f1e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_89_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_89_R1"
+    },
+    {
+      "id": "01K60PWD2WYTEGA63BK95J3SJZ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/540dc5b485faef33a7ea",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/JPG/en_US/d89fba67217bd087905d6c3ad43140f9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/WEB_8b40eee609c0eaadf96b6d34b317dc91",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/WEB_f9041b1247afacf9b6b9d13fbb87dfcc"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_98_E",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Phoibos, Reka Hexarch",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "6"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_98",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/JPG/fr_FR/babf8d691111806218c559ca2bcfdcb9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/JPG/en_US/d89fba67217bd087905d6c3ad43140f9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/JPG/it_IT/c4ae76b5962a149205a3a9302bc2e50e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/JPG/es_ES/444258061003d76a84c84ebee63a58a8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_98/JPG/de_DE/5d405503398cb1c4524ce663fd891fbd.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_98_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_98_E"
+    },
+    {
+      "id": "01K60PWD2WYTEGA63BK95J3SJQ",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/f4ca28d29ebb30d62f45",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/en_US/f18ba085f3b1a471f86b8bd6d8a7e920.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/WEB_5a7d7e4266960dfdd0d0609f3396e878"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_01_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nevenka & Blotch",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_01",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/fr_FR/98640333af8840de723e9b4bcbe325cf.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/en_US/f18ba085f3b1a471f86b8bd6d8a7e920.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/it_IT/29ebf2a7638d7d584c1a19d66d34b839.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/es_ES/d4bb8aa56c61f8a7e6899ee4ae3416bc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_01/JPG/de_DE/77c02afd7cb5ff659b8dc08c98a65b29.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_01_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_01_C"
+    },
+    {
+      "id": "01KHKGJ8FR805JC0Z8K3T2Y1RS",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERCB",
+        "@type": "CardSet",
+        "id": "01K60PWBQRTWXF3M650SKAQEBE",
+        "reference": "DUSTERCB",
+        "name": "Seeds of Unity - Collector Booster"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/f4ca28d29ebb30d62f45",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERCB_P_LY_65_C_XXX",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nadir & Bubbles",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_65",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/fr_FR/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERCB/CARDS/ALT_DUSTERCB_P_LY_65/JPG/en_US/ab4e9c1d7f2a4086b3c1d9e5f7a2c8e4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERCB_P_LY_65_C_XXX",
+      "isSerialized": true,
+      "isParentSerialized": true,
+      "@id": "/cards/ALT_DUSTERCB_P_LY_65_C_XXX"
+    }
+  ]
+}

@@ -1,0 +1,3476 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 52,
+  "hydra:member": [
+    {
+      "id": "01K9YWHY8D8FTK038DSMYN0XCK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/JPG/en_US/5982115a920b17c4b6038c1d0f163754.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/WEB_bd469e4cf77242c8fca688fe91894997",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/WEB_fd19f2ef546e71539a8116f19878dfc6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/WEB_dca3c554ca5f30dc55faf473b0d4b169"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_AX_106_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Sneaky Salamander",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "AX_106",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/JPG/fr_FR/281c1eec38dfa8e7f84afa284ad2befe.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/JPG/en_US/5982115a920b17c4b6038c1d0f163754.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/JPG/it_IT/a0a5f35691932ab3da0ffb8305765a91.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/JPG/es_ES/4bb4dc69bcf2dd9b42c1dd9e93f1341f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_106/JPG/de_DE/d25210564f1b8dfb25036c83ebfcb1aa.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_AX_106_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_AX_106_R2"
+    },
+    {
+      "id": "01K9YWHY8ER40X6MV5SHSTVD3B",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/JPG/en_US/c120e6da47b00606e0b9c32cd88dfd47.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/WEB_9c8a8fdc41fe0ef44ad557afba6f7d6f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/WEB_b9685ee5baa1db4b220d279fcc7c1ea5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/WEB_4d16ba6a1fe351f3a6d00ae53b53c085"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_AX_108_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Corrupted Paju",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "AX_108",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/JPG/fr_FR/8512399aaa2c1290fdc86e55514367f2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/JPG/en_US/c120e6da47b00606e0b9c32cd88dfd47.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/JPG/it_IT/4b78ab46cbc8dee5ef25cade8a539a74.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/JPG/es_ES/c620375123c182aab643265427de7026.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_108/JPG/de_DE/7036f994da6b049ef50373908b9f12b9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_AX_108_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_AX_108_R2"
+    },
+    {
+      "id": "01K9YWHY8GFR0S2WB31C1J6NNN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/JPG/en_US/32be91bcf5718ff497bdad369e8710b2.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/WEB_50d6b0aa57e4b223306a0ebb4dc356d0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/WEB_48866131e3a8aca768bbafeac47916b2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/WEB_fc5ed7cc810c2abecb10382ae58b1728"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_AX_114_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Reka Recycler",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "AX_114",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/JPG/fr_FR/595084dd59aaa025a99c73c070aff135.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/JPG/en_US/32be91bcf5718ff497bdad369e8710b2.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/JPG/it_IT/ae82b4c37f7a287302ce07d69c96e4f8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/JPG/es_ES/98970a2a91c3f23e35716280703ba294.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_AX_114/JPG/de_DE/691342b064c46620065b1a07387ad02a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_AX_114_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_AX_114_R2"
+    },
+    {
+      "id": "01K9YWHY8T9Z0V2SNGW6YEWW10",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/JPG/en_US/c66ec8fc4df511146d88c261b77a7782.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/WEB_e2d2619358c2c9558b9fb90ecdee959a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/WEB_f6f30c6cbf03bb23b6e83ac7a23fbe6b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/WEB_3fbaad70469fe54707324101f7f2f5e8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_BR_112_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Bold Outrider",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "BR_112",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/JPG/fr_FR/e81a3b3f14b3bfb6d10a6852894a47c7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/JPG/en_US/c66ec8fc4df511146d88c261b77a7782.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/JPG/it_IT/67157b4cdbe63eb48f92854cb9c5b129.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/JPG/es_ES/f5c808aeb1c1d4bb6b3a8767459f9782.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_112/JPG/de_DE/4aebb82283c7841bac8704543e66985a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_BR_112_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_BR_112_R2"
+    },
+    {
+      "id": "01K9YWHY907GZNMG5E3ARBVZ8X",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/JPG/en_US/1bf09fa1cc333ae5efe737d001a6d415.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/WEB_b92aa29415a1eda94596bd2470d97286",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/WEB_6c76e28ca5e374c2fdc928c32f2b08e2"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_BR_120_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Galvanize the Troops",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "BR_120",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/JPG/fr_FR/aab37a847d0b3df4ee2cb0bd862a2da8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/JPG/en_US/1bf09fa1cc333ae5efe737d001a6d415.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/JPG/it_IT/6a16a22aca2ec8b0a26c4948e4ca6453.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/JPG/es_ES/bedc7778afea82b7683a92419950ee7f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_BR_120/JPG/de_DE/64c10fe3950293a786d5482ddc78f70b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_BR_120_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_BR_120_R2"
+    },
+    {
+      "id": "01K9YWHY94EH283D581NK7YF8Y",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/JPG/en_US/d0ddeeb29c75809cd0875f55103e928a.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/HERO_THUMB_9a34afb184abcfa1108d774b8280be7d"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/HERO_WIDE_84e27443a0c7a701207bc047d9fd8e60"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/WEB_046c781cbc2cbf5572c27016610a21cd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_105_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Yeong-gi & Ember",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_105",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/JPG/fr_FR/7a50ce2e282dc893f9dc3ece57061e89.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/JPG/en_US/d0ddeeb29c75809cd0875f55103e928a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/JPG/it_IT/f408bdf00fdd208a8384734562611c1b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/JPG/es_ES/8835b60f70a67e411dfd06231b84392d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_105/JPG/de_DE/724b2620658011e8b4b207a491b3f01a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_105_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_105_C"
+    },
+    {
+      "id": "01K9YWHY9AWC0JTT4K6D06Z2MX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/en_US/5d69dc682404303137b099cfa31d60c1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/WEB_5567c232f3eb5ca1df1f91ba1efa940d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/WEB_ab9434cf2d53ab43604e474cfc144c65",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/WEB_517fbee31c281dba410ebcaf6bf02820"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_119_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Lakshmi's Owl",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_119",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/fr_FR/f0a3363177b1fb52c7d0861e0b3c0994.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/en_US/5d69dc682404303137b099cfa31d60c1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/it_IT/1ddf086ed8997fdb68f23981b9d8cf60.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/es_ES/c748a9028e7249122285a1a6d9592cab.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/de_DE/3b98c034e5225e25fe1a9a74ecdab5bd.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_119_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_119_C"
+    },
+    {
+      "id": "01K9YWHY9AWC0JTT4K6D06Z2N0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/en_US/110e2ef8c7f15f5a708eb145fab0436a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/WEB_5567c232f3eb5ca1df1f91ba1efa940d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/WEB_ab9434cf2d53ab43604e474cfc144c65",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/WEB_517fbee31c281dba410ebcaf6bf02820"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_119_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Lakshmi's Owl",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_119",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/fr_FR/0e3cfa406b88c2c2fb483385c4ac96c1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/en_US/110e2ef8c7f15f5a708eb145fab0436a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/it_IT/14b4eb20a0acc36fcf316b99c7ac236a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/es_ES/5f2ef9c2616f1290df2144438f689834.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_119/JPG/de_DE/79704af6cf21e1bfbab3ae4a7ea4b03b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_119_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_119_R1"
+    },
+    {
+      "id": "01K9YWHY95KASD91R1027HQKP2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/en_US/df91bdb3c9a4cea19dd43a1cb92b12ad.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/WEB_f427f6d042af78d527d707676a7ba7ff",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/WEB_2fbb5613fa68330fc9a254217f72dac0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/WEB_df214551c84ba242525b8677ab194970"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_107_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Corrupted Esmeralda",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_107",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/fr_FR/c469cb93b40cf5452210b0889cc358f3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/en_US/df91bdb3c9a4cea19dd43a1cb92b12ad.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/it_IT/280ea8a59848e5a673e2a0851de5413d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/es_ES/76660a8bf989427880bf50ccabaef16b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/de_DE/9d0110705461e10b929309581084dacb.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_107_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_107_C"
+    },
+    {
+      "id": "01K9YWHY95KASD91R1027HQKP5",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/en_US/dd56a085e1533a32bd72b64bbde2dcdd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/WEB_f427f6d042af78d527d707676a7ba7ff",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/WEB_2fbb5613fa68330fc9a254217f72dac0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/WEB_df214551c84ba242525b8677ab194970"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_107_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Corrupted Esmeralda",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_107",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/fr_FR/623a704d0e6bdd9ca8845b9243e0e3d9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/en_US/dd56a085e1533a32bd72b64bbde2dcdd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/it_IT/6e176791b3be35579eb0dcca55ab33a4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/es_ES/5967be0103e756e1b51973f39f5f77fe.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_107/JPG/de_DE/b806720ae098f68ad1ff6ab4a6bf7720.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_107_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_107_R1"
+    },
+    {
+      "id": "01K9YWHY96Y4NEBMY22W0PNWQA",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/en_US/719cbc3fde38fa016fb9bde672775411.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/WEB_97904ea5ac71a29dd62fcd9c72414223",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/WEB_aaf874ff048067c3ac073cd58e7897a7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/WEB_668c74bd78a5d8663d6ce04a6ef9af3a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_109_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Lyra Fifer",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_109",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/fr_FR/35efec9b331c18948670514b64001ca5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/en_US/719cbc3fde38fa016fb9bde672775411.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/it_IT/06f6e64dd17976d10ec1b0839ac1abc6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/es_ES/d9d499dd67d5d6d85ab0083cad50f41f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/de_DE/8b75675fc3aa41e6d86ca978b28562ef.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_109_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_109_C"
+    },
+    {
+      "id": "01K9YWHY96Y4NEBMY22W0PNWQD",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/en_US/c503d66c7c95d7c54a44acf7218e7ab5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/WEB_97904ea5ac71a29dd62fcd9c72414223",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/WEB_aaf874ff048067c3ac073cd58e7897a7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/WEB_668c74bd78a5d8663d6ce04a6ef9af3a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_109_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Lyra Fifer",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_109",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/fr_FR/e99044fa05d004f1dad9a68ed755b59a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/en_US/c503d66c7c95d7c54a44acf7218e7ab5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/it_IT/853e1d451b9ac6b3a6fe60636d82c9ce.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/es_ES/b7caf1355734077862fb041a4383f8dd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_109/JPG/de_DE/9224b497ecad2776622f9cf60f40f607.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_109_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_109_R1"
+    },
+    {
+      "id": "01K9YWHY97HEAH2YAQS6EZ72GF",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/en_US/80c93963c9a03bf0e12a759feb1300d5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/WEB_8c9536076fae1a05070381a9287ed96f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/WEB_e528fb7ae8412ff1071258e36409c4cf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/WEB_1bcab4abf588af19c8475128946098c9"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_112_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Carbunclo",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_112",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/fr_FR/71f178e5ca2e88095952f5554b6c5e0b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/en_US/80c93963c9a03bf0e12a759feb1300d5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/it_IT/efb2204b6bfd624453a7b937d9d8bdef.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/es_ES/d81f85523c7e9d703557e0589ca289c9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/de_DE/c030404c3ea1107b57afab5cd79bf4cd.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_112_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_112_C"
+    },
+    {
+      "id": "01K9YWHY97HEAH2YAQS6EZ72GJ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/en_US/99cf092bea2e0dc7854d0d8343d03a4c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/WEB_8c9536076fae1a05070381a9287ed96f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/WEB_e528fb7ae8412ff1071258e36409c4cf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/WEB_1bcab4abf588af19c8475128946098c9"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_112_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Carbunclo",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_112",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/fr_FR/bec22c6d23786baa553ef00db9d1a24e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/en_US/99cf092bea2e0dc7854d0d8343d03a4c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/it_IT/be385c9aa4ebdf00442ab30f7f18d5fb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/es_ES/1e597cde593a6c4ef1edc8b40bc2cbe7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_112/JPG/de_DE/e9b3ceeb260ebf71a009a37e365bb2ce.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_112_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_112_R1"
+    },
+    {
+      "id": "01K9YWHY97HEAH2YAQS6EZ72GR",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/en_US/c70350b940238d606df90d97a42db3ae.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/WEB_259f76528bce9b845786987ec6595c78",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/WEB_913c7144ce27fe91a1bf037824d06e33",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/WEB_6f388e41723857d32d99951700a6ce29"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_113_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Bestowing Sloth",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_113",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/fr_FR/f96ad31d3d1479ca8920a2dafc7ad571.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/en_US/c70350b940238d606df90d97a42db3ae.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/it_IT/6b3ecbdfa33ee78ff70d3073e62f479c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/es_ES/96cdf01bd4dd90d9a6a1d43dfc66b380.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/de_DE/1cf903f8a242c1ae8c7a3cd0bb999169.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_113_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_113_C"
+    },
+    {
+      "id": "01K9YWHY98VPAHS6P428WFTB68",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/en_US/17e5b1f83fa1f2fb0f5c3732b75c1b07.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/WEB_259f76528bce9b845786987ec6595c78",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/WEB_913c7144ce27fe91a1bf037824d06e33",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/WEB_6f388e41723857d32d99951700a6ce29"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_113_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Bestowing Sloth",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_113",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/fr_FR/734db944495095bd5204ff516a7ba3e5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/en_US/17e5b1f83fa1f2fb0f5c3732b75c1b07.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/it_IT/341e61fb869e8359ee6e3375d373752e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/es_ES/804b27a126c73026397e655f93e8d3ca.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_113/JPG/de_DE/3dfa56de7a64174fc90085ccf2672814.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_113_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_113_R1"
+    },
+    {
+      "id": "01K9YWHY95KASD91R1027HQKPB",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/en_US/377528ec19e086fa042a605c4c985c5f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/WEB_959b5a1fcf8eb996038620f8755d1c48",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/WEB_aa4e76983edab2687707513c5c760525",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/WEB_328e8cd0cfdb9bbd603d426863fff9f5"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_108_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Fragrant Meerkat",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_108",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/fr_FR/43e1ff2ba8a924219da9e8dcc5bf856a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/en_US/377528ec19e086fa042a605c4c985c5f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/it_IT/7a386bbd4e158ae56bbdbab48129d254.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/es_ES/2844447ff6bda23483ab1e091d5ea4d0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/de_DE/7972998ca8c035a12a40a475adb8b5f0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_108_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_108_C"
+    },
+    {
+      "id": "01K9YWHY95KASD91R1027HQKPE",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/en_US/7172a158d5943d6a7cb84aff947d145f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/WEB_959b5a1fcf8eb996038620f8755d1c48",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/WEB_aa4e76983edab2687707513c5c760525",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/WEB_328e8cd0cfdb9bbd603d426863fff9f5"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_108_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Fragrant Meerkat",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_108",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/fr_FR/e743880c60a68f9ea6c0a50add3049b2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/en_US/7172a158d5943d6a7cb84aff947d145f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/it_IT/35346a4fee94c2f8f7721f177ee60731.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/es_ES/944d9c5033a32e71492ca8dcec52126c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_108/JPG/de_DE/6a79913723dd489425c33d5558144eb4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_108_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_108_R1"
+    },
+    {
+      "id": "01K9YWHY96Y4NEBMY22W0PNWQK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/en_US/60731af16cacd780e4f7f47e45a607d7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/WEB_707ccb0e483f48d82b030e1bf130c021",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/WEB_9eb5afab05469008e6910bb1c3769a25",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/WEB_b88157f7e14c8d60ce4b42f1aab34472"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_110_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Reka Ropedancer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_110",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/fr_FR/79a8f216d11255202ce09367b7d88b31.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/en_US/60731af16cacd780e4f7f47e45a607d7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/it_IT/1fc4952978f4b0dc07854d80d61196ee.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/es_ES/fdd9b811d5c3beb91895d782688193dd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/de_DE/b807c01c1d64f65d4f895850919634d8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_110_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_110_C"
+    },
+    {
+      "id": "01K9YWHY96Y4NEBMY22W0PNWQP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/en_US/7f60cf209d9ecd94791564528afb4a38.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/WEB_707ccb0e483f48d82b030e1bf130c021",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/WEB_9eb5afab05469008e6910bb1c3769a25",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/WEB_b88157f7e14c8d60ce4b42f1aab34472"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_110_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Reka Ropedancer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_110",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/fr_FR/ddc56ec679dfebfc788fe4cec3f21f1a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/en_US/7f60cf209d9ecd94791564528afb4a38.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/it_IT/ae3f96292db08b27e4c40b4520e71cd1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/es_ES/08b238813a539e465bd5dca19523bc11.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_110/JPG/de_DE/3f61ea36c9c4a40a254de8405d544aa3.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_110_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_110_R1"
+    },
+    {
+      "id": "01K9YWHY97HEAH2YAQS6EZ72G6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/en_US/7ff75adbacbba5931b843992a9a55a37.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/WEB_48fc95354d74d6156062300e1db912a3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/WEB_d43ab7761b94b8d4e283626c0e60e8c6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/WEB_285c8f0ae99c4a9d3a8debfbfef3a68d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_111_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Bastet",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_111",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/fr_FR/0a048ed66b0ad0999c3809c27113784a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/en_US/7ff75adbacbba5931b843992a9a55a37.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/it_IT/013aaf13351292fc5c7457b38d7abb16.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/es_ES/78c661098cd3ef180dc08251bf49c816.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/de_DE/cc5fad8342b63842270d99a05eac838b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_111_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_111_C"
+    },
+    {
+      "id": "01K9YWHY97HEAH2YAQS6EZ72G9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/en_US/894b63ef165b36591a2b23709e8ca4ff.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/WEB_48fc95354d74d6156062300e1db912a3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/WEB_d43ab7761b94b8d4e283626c0e60e8c6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/WEB_285c8f0ae99c4a9d3a8debfbfef3a68d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_111_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Bastet",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_111",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/fr_FR/b357b821a92c11544c4a611a5467d49c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/en_US/894b63ef165b36591a2b23709e8ca4ff.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/it_IT/8fa474a3f569275a5e18874314827ac8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/es_ES/d8b420a28e4594c6f545ca61964779b7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_111/JPG/de_DE/e4b99587c3b413c159fad6a0b2aed361.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_111_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_111_R1"
+    },
+    {
+      "id": "01K9YWHY95KASD91R1027HQKNS",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/en_US/63fabe05e8562dc44e2e277a6a87d26c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/WEB_a9010838f2d929a42600896de780ff04",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/WEB_92f51b2d268b6f74e995bca47a18e433",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/WEB_747083e90ab9f241e92ba1de0fb79088"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_106_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Smoking Skunk",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_106",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/fr_FR/d1a06cce8b161d35b26e847ce0e30081.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/en_US/63fabe05e8562dc44e2e277a6a87d26c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/it_IT/ec5c593065fbc3ff79626afc261a54a1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/es_ES/5378ae8e9f0ca837eab02b0a62cb5833.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/de_DE/80748142cc956599b695985289351524.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_106_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_106_C"
+    },
+    {
+      "id": "01K9YWHY95KASD91R1027HQKNW",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/en_US/68dd7c760923b256c1803b56775b806f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/WEB_a9010838f2d929a42600896de780ff04",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/WEB_92f51b2d268b6f74e995bca47a18e433",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/WEB_747083e90ab9f241e92ba1de0fb79088"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_106_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Smoking Skunk",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_106",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/fr_FR/06e552f10c6f7e5845834dcc15f47f0e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/en_US/68dd7c760923b256c1803b56775b806f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/it_IT/5f6ed39ba687617ee9446b845d2582d8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/es_ES/1fd53c2f626334657be405c3285b63b5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_106/JPG/de_DE/e703bac252f9abe8aadbd8b7ba49343a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_106_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_106_R1"
+    },
+    {
+      "id": "01K9YWHY98VPAHS6P428WFTB6X",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/en_US/0bf671d04a00fa2f955fb8d0a8023bf4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/WEB_2feb924f263906b2520deb9260e3073c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/WEB_9d16bf869f7c55db0bc8d6063efed7b9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/WEB_712ce186eb662479a0bbdf65bf9be484"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_116_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Reka Thurifer",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_116",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/fr_FR/30814243c2334d31a476b3be9a1df971.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/en_US/0bf671d04a00fa2f955fb8d0a8023bf4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/it_IT/49953cbfb32724576a59d6333ff90f2e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/es_ES/f7d850b24c8b5d602778682da436506a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/de_DE/a01a84c2eb73a2273b03fe10a961548c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_116_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_116_C"
+    },
+    {
+      "id": "01K9YWHY99J59RVK810VGRTPK0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/en_US/6e603bb04d2d415669ec4bd1395a6120.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/WEB_2feb924f263906b2520deb9260e3073c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/WEB_9d16bf869f7c55db0bc8d6063efed7b9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/WEB_712ce186eb662479a0bbdf65bf9be484"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_116_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Reka Thurifer",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_116",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/fr_FR/ecaae22dc24d9062e309a97d25f71100.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/en_US/6e603bb04d2d415669ec4bd1395a6120.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/it_IT/69fedcc895519eb98172ab6c197bf993.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/es_ES/ab32b74829d7703c6b6df8750ee6c61f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_116/JPG/de_DE/9922f80ebca224b191eef3f9bf8ec2c8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_116_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_116_R1"
+    },
+    {
+      "id": "01K9YWHY99J59RVK810VGRTPK9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/502a445a9967c92fca33",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/JPG/en_US/a56e2d02f5e0ed0ffa319c4677fdeb03.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/WEB_de0de896bd978815e0f1a6334d1e3b1a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/WEB_2e0678abe7faf3ac1dd35390691ae5f2"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_117_E",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Plague of Despair",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_117",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/JPG/fr_FR/4de9a79bc26f90e20c0f8ee2e39667da.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/JPG/en_US/a56e2d02f5e0ed0ffa319c4677fdeb03.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/JPG/it_IT/7b2ec348e0f61b04a25ed6a61c340371.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/JPG/es_ES/f7b561963067abce80a0344cadf10571.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_117/JPG/de_DE/f10859dbf56c7716f2291429961ee3c0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_117_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_117_E"
+    },
+    {
+      "id": "01K9YWHY98VPAHS6P428WFTB6E",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/en_US/c9b998be93a6798587fb6940bae7d4f4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/WEB_1924bdb7edb2234ccb5d4ade7de1e1cc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/WEB_d966254539ab0fc735611df82964b1cb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/WEB_a408ddf230c634eb90131dd990cd37a1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_114_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Mia, Prima Ballerina",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_114",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/fr_FR/b939f4e8105c81ca67abc30affc5a6c3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/en_US/c9b998be93a6798587fb6940bae7d4f4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/it_IT/d26fcaa1cabcebe271173f8fe2215b57.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/es_ES/c4e414b54489a6a4b4fa86b4dedda233.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/de_DE/eb5872190dace65bf98515946f693874.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_114_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_114_C"
+    },
+    {
+      "id": "01K9YWHY98VPAHS6P428WFTB6H",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/en_US/406d2d7804b6b26eed9802c405b8d6c4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/WEB_1924bdb7edb2234ccb5d4ade7de1e1cc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/WEB_d966254539ab0fc735611df82964b1cb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/WEB_a408ddf230c634eb90131dd990cd37a1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_114_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Mia, Prima Ballerina",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_114",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/fr_FR/69c57871e7392a741495a352424f6fa4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/en_US/406d2d7804b6b26eed9802c405b8d6c4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/it_IT/00a113812d628dbe67172f80d50e5009.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/es_ES/acb609e0a529e5326455d2906d994e80.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_114/JPG/de_DE/bdfe464fda61021397f6d9b71b351fec.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_114_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_114_R1"
+    },
+    {
+      "id": "01K9YWHY98VPAHS6P428WFTB6Q",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/en_US/b58a94b85ff446757fa2f24a9042b2fa.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/WEB_269de6d09926dba866215bb6250970ed",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/WEB_9e9584737ec3e0900acf6c76fbfaa4c9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/WEB_8c9609339d0af3fbe0374e93ffc25d46"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_115_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Stigma of Havoc",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_115",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/fr_FR/6556bd3666c5d19f759a8c6c8a9e4053.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/en_US/b58a94b85ff446757fa2f24a9042b2fa.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/it_IT/522a7a560e6f37b67165d375aabb1912.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/es_ES/08ed88d96aa3d1cb6daee9efbad5bebb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/de_DE/3dd9ce80eee60c8dfbc6f811d4f3e57e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_115_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_115_C"
+    },
+    {
+      "id": "01K9YWHY98VPAHS6P428WFTB6T",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/en_US/048d2e9a93c4d64e8d1cbafe6c13b9de.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/WEB_269de6d09926dba866215bb6250970ed",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/WEB_9e9584737ec3e0900acf6c76fbfaa4c9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/WEB_8c9609339d0af3fbe0374e93ffc25d46"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_115_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Stigma of Havoc",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_115",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/fr_FR/51c309c42e2a978b3b31d38dc0373d4e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/en_US/048d2e9a93c4d64e8d1cbafe6c13b9de.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/it_IT/1c4b3aa2afba05be055e9aa56a185655.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/es_ES/da4b035628c86209cd2e37e836f4cddc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_115/JPG/de_DE/e6b30ccd90800b8f3e60c82d22881f32.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_115_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_115_R1"
+    },
+    {
+      "id": "01K9YWHY99J59RVK810VGRTPKF",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/en_US/f2d4b870dc8b005c92c8ae177fd40843.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/WEB_d45003beb0ce8af6f3f1740a5907ce86",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/WEB_ef3a5cf46559247ea341df3656ba875f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_118_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Cleanse",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_118",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/fr_FR/d1b8906120840ec8643539c742191e48.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/en_US/f2d4b870dc8b005c92c8ae177fd40843.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/it_IT/2107fcfb164e4e647266a5fb4b6dc106.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/es_ES/e83592f12f54d74d6515cee54aa37c5d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/de_DE/7eb71316faddf5adfe39462d2c7753a1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_118_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_118_C"
+    },
+    {
+      "id": "01K9YWHY99J59RVK810VGRTPKJ",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/en_US/456ca2223bd5f1148f7b8525b79fe8a0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/WEB_d45003beb0ce8af6f3f1740a5907ce86",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/WEB_ef3a5cf46559247ea341df3656ba875f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_118_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Cleanse",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_118",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/fr_FR/d5a98d3ea73a432d67731adb6aa476ce.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/en_US/456ca2223bd5f1148f7b8525b79fe8a0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/it_IT/f820f20061b89a4441eeaac2b7c0f79c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/es_ES/4bcc76c8db403674d57dd2b0f0d33fd1.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_118/JPG/de_DE/2a682155321b1f4cb58f3ed270ba2954.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_118_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_118_R1"
+    },
+    {
+      "id": "01K9YWHY9AWC0JTT4K6D06Z2N6",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/en_US/bc2ac1c24ac38def6fbb4eb46e473c54.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/WEB_f92a61955f14000ae8a2cb5de22c5e56",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/WEB_322181bbfe3d14dcb52b444b472ae686"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_120_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Cat's Cradle",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_120",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/fr_FR/fa51c5d311e5faf75fd54f261d977c3f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/en_US/bc2ac1c24ac38def6fbb4eb46e473c54.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/it_IT/954724807cc156135ef9cc2bcfc7d691.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/es_ES/7ff92b86c1e0ce926af041c7efcbb3af.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/de_DE/c04b4e504c1c1f0b7c996b4a3f61816a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_120_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_120_C"
+    },
+    {
+      "id": "01K9YWHY9AWC0JTT4K6D06Z2N9",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/en_US/f83663569aca9e90a755cc91cb808873.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/WEB_f92a61955f14000ae8a2cb5de22c5e56",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/WEB_322181bbfe3d14dcb52b444b472ae686"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_120_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Cat's Cradle",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_120",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/fr_FR/ef412b24ba95430fbb74944d5ee95015.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/en_US/f83663569aca9e90a755cc91cb808873.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/it_IT/f018b051e2d4f8a3365eaae53eefc472.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/es_ES/33638b89e8cb880aab040946f3447ae0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_120/JPG/de_DE/6b44ffef9753edc403cf9002260d1f6c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_120_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_120_R1"
+    },
+    {
+      "id": "01K9YWHY9BYXCY2EWQ7RT0AGSW",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/502a445a9967c92fca33",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/JPG/en_US/c50ede326eb46eb81fcfaa9cca929c7f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/WEB_87029f6ea5bcd6190339c2b9aeb9a003",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/WEB_f9dbda8062205bcc48dfd2c729199ae8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_122_E",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Give Fate a Twist!",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_122",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/JPG/fr_FR/786b5a7a3f090ab6695ae2ad4591ba04.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/JPG/en_US/c50ede326eb46eb81fcfaa9cca929c7f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/JPG/it_IT/6f254ac2869fe8e4ae7ea79c7ee91c20.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/JPG/es_ES/48a1a4539f41497fcfe869401f368b1e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_122/JPG/de_DE/785d03c70182fa4a888b931e0b1efbac.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_122_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_122_E"
+    },
+    {
+      "id": "01K9YWHY9BYXCY2EWQ7RT0AGSG",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/en_US/f5a7d067a69904305df3e9226c73ce3a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/WEB_dd4c9f2df4493caec1fa3210f278995f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/WEB_363101ffcf306aa6de0e3a1b249ae698"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_121_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Smoke Them Out",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_121",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/fr_FR/a0387dfa59e67c13a962e6545139fe67.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/en_US/f5a7d067a69904305df3e9226c73ce3a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/it_IT/7027d0658dd85ac4c0a9b6d4014b58e8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/es_ES/0d73706f6fe1921ed7e924dc982dc323.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/de_DE/5125b1fcec15c7ecaa82d10cf454bb3e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_121_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_121_C"
+    },
+    {
+      "id": "01K9YWHY9BYXCY2EWQ7RT0AGSK",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/en_US/20dbc7d9d26a941bff22d7910466ff30.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/WEB_dd4c9f2df4493caec1fa3210f278995f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/WEB_363101ffcf306aa6de0e3a1b249ae698"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_LY_121_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Smoke Them Out",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_121",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/fr_FR/53d81402c710cd1a6236a86657ebc503.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/en_US/20dbc7d9d26a941bff22d7910466ff30.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/it_IT/569235c8265957baa71425a482bfebe0.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/es_ES/3eefb1e16a255bc188ce031e90bd156f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_LY_121/JPG/de_DE/7693f74f7947c524381195172b3d385d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_LY_121_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_LY_121_R1"
+    },
+    {
+      "id": "01K9YWHY9FF8256GTE8Y5D3734",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/JPG/en_US/1d69f24a7400baaed33b5ab9af5d06e7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/WEB_fa792316c32084db0f80464e08df8be8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/WEB_575732a1eaea79a889437f8277f00fd4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/WEB_5520de6522bbb14c62a0068bc9d0b043"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_107_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Brave Cub",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "MU_107",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/JPG/fr_FR/93437227522ccfde846321f798d61616.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/JPG/en_US/1d69f24a7400baaed33b5ab9af5d06e7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/JPG/it_IT/9eb3d20ae99b7610616367f1ee23a0ff.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/JPG/es_ES/e56112df294e098c3ae7bf5788dba121.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_107/JPG/de_DE/0aab91cef9a2224aa3db8142b6bea490.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_MU_107_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_MU_107_R2"
+    },
+    {
+      "id": "01K9YWHY9MQF67MKZCA9FZFDA2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/JPG/en_US/be2d1f7aaea07554179b1cd016d78980.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/WEB_ace71e26d24291c988686d371b716e7e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/WEB_7356ac0222f93582807333c379b98dbe",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/WEB_5e2d8e06a35288ce852b11b5e85b1572"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_120_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "The Big Bad Wolf",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "MU_120",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/JPG/fr_FR/4abf5da3a63ca420b4f6fabd3f600d7b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/JPG/en_US/be2d1f7aaea07554179b1cd016d78980.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/JPG/it_IT/979e618df29b9283aadfae2a7eee4deb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/JPG/es_ES/60f351d99d4d7a6dad3fb4d4c31bb640.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_120/JPG/de_DE/616c0bc6c24260d9487e681fb590162a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_MU_120_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_MU_120_R2"
+    },
+    {
+      "id": "01K9YWHY9JW95SPADVXHFSR407",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/JPG/en_US/cbfef52a2b2b97a6c61b9ad33089ef2e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/WEB_3df01c6d3190173889b43a17fc15d73c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/WEB_3368e852fc33bdf862991bb904d0885f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/WEB_3fdba2d6eb2032e45ad59d1034d3caa1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_113_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Karhu, Lord of Bears",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "MU_113",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/JPG/fr_FR/b376e5080deb38e4d683357de9f91e78.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/JPG/en_US/cbfef52a2b2b97a6c61b9ad33089ef2e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/JPG/it_IT/b71b0b355d4f788be6e1bcef9fc54fdc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/JPG/es_ES/95ccaac7d3c0a0ed3d613c4ea1813197.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_113/JPG/de_DE/ee74d9f7396d35f7fe76c04a5ae46fef.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_MU_113_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_MU_113_R2"
+    },
+    {
+      "id": "01K9YWHY9H6K3429ZWJA47ANS6",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/JPG/en_US/a3060d5a7b5457d196eb88d4b7018d9a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/WEB_27ce78eb318f1308d0f2d737102effc8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/WEB_22ff442ebead1d2e40055076d89fb122",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/WEB_78c3ee3a0b54c0e404ad159da6fb3303"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_111_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Dawon",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "MU_111",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/JPG/fr_FR/cd6b3bef501f728f7d437f262e6e1902.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/JPG/en_US/a3060d5a7b5457d196eb88d4b7018d9a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/JPG/it_IT/1373f797b0830f9286ecc84f5c4dd92b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/JPG/es_ES/202259fcb9704fbec2e13e7c26c0e2c2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_111/JPG/de_DE/b5c4b58931c3e2ee11c3630e85b178a8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_MU_111_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_MU_111_R2"
+    },
+    {
+      "id": "01K9YWHY9MQF67MKZCA9FZFD9W",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/en_US/21fd7e15507aecc608fc77feb66eb859.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/WEB_99bf4e48d8412ce010c040df249d3adc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/WEB_7b2e1c797e5347e49ca9766945f40949"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_MU_119_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Running with the Wolves",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "MU_119",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/fr_FR/8723382256fd85f5f2e70093a23235b1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/en_US/21fd7e15507aecc608fc77feb66eb859.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/it_IT/2eca94b25b2fd0f5adf3f4b385adf989.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/es_ES/8afc31f3c171d18aa7188d877e422a35.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_MU_119/JPG/de_DE/a638f66343ec83968f33caf68dc0f9d9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_MU_119_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_MU_119_R2"
+    },
+    {
+      "id": "01K9YWHY9SCHYKM5AFXKQ6WSR2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/JPG/en_US/bd1c4e0d190c9cb8a96c4abd795db5b4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/WEB_c07e8d744b74542f4c40938f870bd6f1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/WEB_66669cdf3e647ac7b452a1d905e3e045",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/WEB_6fa1d8cc26abf64572f3fa94d532a788"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_OR_108_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Paper Envoy",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "OR_108",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/JPG/fr_FR/e3c53f472784a84833f026f95dc1d00b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/JPG/en_US/bd1c4e0d190c9cb8a96c4abd795db5b4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/JPG/it_IT/c5e43b57c5bdf058da4a7e12279e9886.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/JPG/es_ES/3e6c8a7225840884c0d06087f32c4980.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_108/JPG/de_DE/6ad5bf949ea75deb2711f700a894e180.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_OR_108_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_OR_108_R2"
+    },
+    {
+      "id": "01K9YWHY9R8FGB39BG5FECBRHG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/JPG/en_US/f7a6f9d2372edac900b996f7bf6301c5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/WEB_38364bbb729c9d1ea81a789732686edd",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/WEB_a53414060c4aef28fe645bfd1cdcf15b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/WEB_e4fabe24ef0fa478c36df409d63cb62f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_OR_106_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nils Holgersson",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "OR_106",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/JPG/fr_FR/d5186b1cbe297e934c4676440fc1423a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/JPG/en_US/f7a6f9d2372edac900b996f7bf6301c5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/JPG/it_IT/8ebea4e1a5457ba4320ec40b8c95ebf2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/JPG/es_ES/727c080d8d26b4551964d89a1a36e5e8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_OR_106/JPG/de_DE/a0b6c642d3b27486be8d6c4c0c5dd703.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_OR_106_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_OR_106_R2"
+    },
+    {
+      "id": "01K9YWHYA2N3JQA6C71X1C974V",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/JPG/en_US/8bc13e77411093958164a9f7109c0625.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/WEB_bc8a0b481cf49bc98fe643a4844bebe2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/WEB_26bbee8e97479a430d507ce429b2fc4b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/WEB_4ae075134f848caecbdfb8085ca07ee7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_YZ_106_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Qorgan Occultist",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "YZ_106",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/JPG/fr_FR/b7f14a98f8e39c1c4ac9d6436ce8dcf3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/JPG/en_US/8bc13e77411093958164a9f7109c0625.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/JPG/it_IT/8416bedd206a841f8f77dd2dead51349.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/JPG/es_ES/7a5b4fdf537e67627df81b74e93ff437.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_106/JPG/de_DE/383b674f8b6be4d5c1af179140cca8af.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_YZ_106_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_YZ_106_R2"
+    },
+    {
+      "id": "01K9YWHYA7JD7XMA3K0JRMB6RX",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/JPG/en_US/eb70a8ba77183945e239c034553fa60c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/WEB_0eac1a2a61d47df458646cdcdd414d68",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/WEB_b0dfbaa868b0e7912f9e58d086cc3e14",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/WEB_c06c2f15abf69f7ce25c372b789cd6a8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_YZ_118_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Qorgan Phantom",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "YZ_118",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/JPG/fr_FR/f033f159d2859576d19ecec17ef57acb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/JPG/en_US/eb70a8ba77183945e239c034553fa60c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/JPG/it_IT/30402b84515214f86689180dfb852507.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/JPG/es_ES/e44dd17d2828dff18a62999b87c54666.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_118/JPG/de_DE/a31926acb1efffc2b0cebf21d66df182.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_YZ_118_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_YZ_118_R2"
+    },
+    {
+      "id": "01K9YWHYA5P9BDBPQ7M8S2Q1JC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/JPG/en_US/ce7be7895d0a2f86d4892465d5419e81.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/WEB_f058b12ffb6db56c20256ab0ba31c2a8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/WEB_2f2c4613cde91a368c10d43aab201575",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/WEB_fccbe28b231d6030590d7f37812886c8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_B_YZ_113_R2",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Janus",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "YZ_113",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/JPG/fr_FR/c68a3e7c133dafdab89e199231f7af02.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/JPG/en_US/ce7be7895d0a2f86d4892465d5419e81.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/JPG/it_IT/2bfb14ae6d7372b304f4edf96a1dd468.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/JPG/es_ES/09e092325af0b5be0794043e884f88d9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_B_YZ_113/JPG/de_DE/fe2ce8058a965686eab3963e3b8d5f2f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_B_YZ_113_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_B_YZ_113_R2"
+    },
+    {
+      "id": "01KFRQ5ZCZ9JDWG8WQMTQZR8AE",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/JPG/en_US/0f9ac52b7f447a673730911d70216879.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/WEB_2c8e6a350e5b6e1d39b19044534a6992"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_LY_105_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Yeong-gi & Ember",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_105",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/JPG/fr_FR/367a39ca2a0a7aeedc671c211a75a6ab.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/JPG/en_US/0f9ac52b7f447a673730911d70216879.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/JPG/it_IT/c96e6429d4cc9f846ae9db0b6af624c3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/JPG/es_ES/a63f576f884ec7d11acd100c5fd012bb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_105/JPG/de_DE/19779172ec62e971f84bf8233809f77e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_A_LY_105_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_A_LY_105_C"
+    },
+    {
+      "id": "01KFRQ5ZD14G8YRC0W535047MN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/502a445a9967c92fca33",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_117/JPG/en_US/8950696dd18199fec5fbef1fc2bb46a4.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_LY_117_E",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Plague of Despair",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_117",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_117/JPG/fr_FR/92703a548f3aa6e1f37f32a43f7cad97.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_117/JPG/en_US/8950696dd18199fec5fbef1fc2bb46a4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_117/JPG/it_IT/7d12232fcc4bf3a657c0e91b5f76a834.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_117/JPG/es_ES/da4b9e5d3563058df449be54fb4309bc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_117/JPG/de_DE/a8128c4eef2737aa410a4a1c49ad2c87.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_A_LY_117_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_A_LY_117_E"
+    },
+    {
+      "id": "01KFRQ5ZD14G8YRC0W535047MC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/0b424fb679c75fbc2734",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/JPG/en_US/afa1fb9974a30b585c1cdc004d0f6070.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/WEB_e259c1ac06657fd4c843e4b24ba98c15",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/WEB_07ce87e36e6a415284efb7096105b9a7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/WEB_46b9695491f5a48b7085872f2de87fee"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_A_LY_115_R1",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Stigma of Havoc",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "LY_115",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/JPG/fr_FR/dbc5f72b8f95e96fa0f06b1f625d18fc.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/JPG/en_US/afa1fb9974a30b585c1cdc004d0f6070.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/JPG/it_IT/0b0e1c47f165fdffc045616887b2af6d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/JPG/es_ES/f66495d1c6256447354379930c27aa93.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_A_LY_115/JPG/de_DE/bd7b507d8504a0975fa56fbb200e79e2.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_A_LY_115_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_A_LY_115_R1"
+    },
+    {
+      "id": "01KFRQ5ZD03A16Y4YJNPF67ZZ6",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/EOLE",
+        "@type": "CardSet",
+        "id": "01K9YWHXF2T6GJJDWAK333TJGV",
+        "reference": "EOLE",
+        "name": "Roots of Corruption"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/92544a40d567cc1c87ca",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/JPG/en_US/7dadedf7d84aa4a860b0e8653d4b4693.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/WEB_6b1f3b0bd77e08e3777083fa1ca35c7f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_EOLE_P_LY_105_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Yeong-gi & Ember",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_105",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/JPG/fr_FR/3eaed9084997ffa9dbb593e1a68e17a2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/JPG/en_US/7dadedf7d84aa4a860b0e8653d4b4693.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/JPG/it_IT/e48d6128408ef68cd67221d7f00a8965.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/JPG/es_ES/22e9e1ee6de7e68bfe8cdb7327fa5bd8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLE/CARDS/ALT_EOLE_P_LY_105/JPG/de_DE/d170f2c6b8e6b1d4ad3d82801778c350.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_EOLE_P_LY_105_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_EOLE_P_LY_105_C"
+    }
+  ]
+}

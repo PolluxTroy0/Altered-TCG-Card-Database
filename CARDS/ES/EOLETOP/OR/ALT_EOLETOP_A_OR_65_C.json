@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_A_OR_65_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCEP6NBH3FFPRW2HF37",
+  "reference": "ALT_EOLETOP_A_OR_65_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/dfb5256d7b3524d37719",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "reference": "HERO",
+    "name": "Héroe de",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/f744ae6096961fa19682",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [],
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Al mediodía — Si eres el primer jugador, tu expedición del héroe [Asciende]. (Hasta el descanso, puede avanzar aunque los terrenos de su región estén igualados con los de la expedición enfrentada.)  Cuando una o más de tus expediciones [[Ascendidas]] avancen — Si no hay ningún personaje enfrentado a ellas, roba una carta.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/17111f3f696c0a06a55e",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_OR_65/JPG/es_ES/4a644aef0a61aa031f32501662ea42fa.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_OR_65/WEB_0a2018074540dbbbb14a82b4e0ea8fa5"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/75ea407cca9a11313d94",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_A_OR_65_C-ES"
+}

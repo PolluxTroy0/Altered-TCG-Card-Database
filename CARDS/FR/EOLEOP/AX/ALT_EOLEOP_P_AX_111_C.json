@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_AX_111_C",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMBVRADW7N683F8AH2R",
+  "reference": "ALT_EOLEOP_P_AX_111_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/5d018d6b6af8a61c833d",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personnage",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/0ef2e433aee1819d56ab",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Les Racines de la Corruption - Jeu Organisé",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/cdd8d187932299db5da9",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "reference": "ENGINEER",
+      "name": "Ingénieur"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "{H} Vous pouvez mettre une carte de votre main en Réserve pour [Saboter].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/28dbf0272b896c2ebba7",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Commun",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/JPG/fr_FR/c6674d988474daed084c92d577abc4d2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/WEB_43327b5e5ed59cda7e61165506f6335f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/WEB_7b33d24d7f0ea5f550ff176fbcf3653e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_AX_111/WEB_c14327f5ad6f00004447ab96077c7162"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/e7baea6e32355fcef28b",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "reference": "AX",
+    "name": "Axiom",
+    "color": "#8c432a"
+  },
+  "name": "Shiramun, Techno-moine",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_AX_111_C-FR"
+}

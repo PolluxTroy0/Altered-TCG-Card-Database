@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_AX_70_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZBVQSWXBRYESPRPS44W",
+  "reference": "ALT_EOLETOP_P_AX_70_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/8b60d2810da0a35fa67b",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/ea383dfc490edaccb3da",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/99f3d8e70af7c1386ec9",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "reference": "ADVENTURER",
+      "name": "Abenteurer"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "",
+    "ECHO_EFFECT": "{D} : Erschaffe eine [Aerolit]-Marke im Wahrzeichen-Bereich eines Spielers deiner Wahl. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/e9f8d900c1484c99bad3",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/JPG/de_DE/faeb7ec651bf2e6bc45da6309ebbd3f9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/WEB_1149a6ce5b0a8d4c9f8af0a70826961e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/WEB_b9e5afe6d46a2116a203be3a1797f41d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/WEB_ace5ac9b104bbf7eaf5e7b37310e8399"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/34ad0cb4305a370ef275",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "reference": "AX",
+    "name": "Axiom",
+    "color": "#8c432a"
+  },
+  "name": "Paju, Axiom Pilot",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_AX_70_C-DE"
+}

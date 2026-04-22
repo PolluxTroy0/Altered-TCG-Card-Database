@@ -1,0 +1,80 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_BR_57_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZC08QYZPRP1EDSW1J0C",
+  "reference": "ALT_EOLETOP_P_BR_57_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/1f5f36b5f6d572439fb2",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/485c58ed8babc2b0fd20",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/c19c378ffef796080d2d",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "reference": "ELEMENTAL",
+      "name": "Elementar"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "MOUNTAIN_POWER": "5",
+    "OCEAN_POWER": "5",
+    "FOREST_POWER": "5",
+    "MAIN_EFFECT": "[Spähen] {3}. (Du darfst mich für {3} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {J} Du darfst eine Karte aus deiner Reserve als bereitgestellte Manakugel in deine Manazone legen.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/acc93203fa33f1cfc7e7",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/JPG/de_DE/68df00c3dd10b3bd8b2f0433a6b7d99f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/WEB_7b5db83d633b340a8f6e108dd38ddfac",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/WEB_6b1fed12099136b9fd89071739d81bf1",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/WEB_6b28eb18e04b4c4aa4ba97b6ad267126"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/971115cacc4348f034d3",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "reference": "BR",
+    "name": "Bravos",
+    "color": "#c32637"
+  },
+  "name": "Swift Jinn",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_BR_57_R1-DE"
+}

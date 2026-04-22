@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_MU_122_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMNWBQFFTE2KF2MFA87",
+  "reference": "ALT_EOLEOP_P_MU_122_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/033d78a0f2e4ecd7aa9d",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "reference": "LANDMARK_PERMANENT",
+    "name": "Permanent de Repère",
+    "sequence": 2
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/d40ffa585d070b6a0706",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Les Racines de la Corruption - Jeu Organisé",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/95e6dbd8d78e00ca8b44",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "reference": "FEAT",
+      "name": "Prouesse"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Un Personnage ciblé de Coût de Base {4} ou moins gagne [[Ancré]].  Lorsque vous passez — Si au moins trois Animaux dans vos Expéditions ont un Coût de Base différent, accomplissez-moi.",
+    "ECHO_EFFECT": "[[Accomplie]] : Tous les Personnages dans vos Expéditions sont [Coriaces 1]."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/f5f7b2649ceb76d3437e",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_122/JPG/fr_FR/81c7c3c5fb5154ec0d0251da3378e705.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_122/WEB_4a1cc4ef8dda2e95a59d3c78676d10a4",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_MU_122/WEB_d8bf550deae1a1af42b9fbb73a30d731"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/bd563e2ddfc0454bce09",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "Rassembler la Meute",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_MU_122_R1-FR"
+}

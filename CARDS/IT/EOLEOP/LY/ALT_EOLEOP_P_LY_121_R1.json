@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_LY_121_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMJNB0VA1SZSM9WWVWB",
+  "reference": "ALT_EOLEOP_P_LY_121_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/89f211ef9fa48eb6cf97",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "reference": "LANDMARK_PERMANENT",
+    "name": "Permanente Fulcro",
+    "sequence": 2
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/a0a33313f2c885ca3019",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/f2676ce92f0e223f7ea7",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "reference": "FEAT",
+      "name": "Prodezza"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Pesca una carta, poi metti una carta dalla tua mano nella Riserva.  Quando due abilità {D} sono attivate in uno dei tuoi turni — Eseguimi.",
+    "ECHO_EFFECT": "[[Eseguita]], {T}: la prossima volta che un'abilità {D} viene attivata in questo turno, un personaggio bersaglio in gioco o nella Riserva ottiene 1 rinforzo."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/8c0c960c05ce5ac0d7e4",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_121/JPG/it_IT/de7f6c5edbab572f42c8066a11fcf7a7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_121/WEB_49629c2b0c08dfaffef56f2b69ab6688",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_LY_121/WEB_91b361513d6b56858362ffa6f23ff352"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/8e02ca6f609237d15bc0",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "reference": "LY",
+    "name": "Lyra",
+    "color": "#cf4171"
+  },
+  "name": "Stanare col Fumo",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_LY_121_R1-IT"
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01KGWCPAVMGB11YPKG7TEEM00E",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCS26",
+        "@type": "CardSet",
+        "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+        "reference": "WCS26",
+        "name": "World Championship Series 2026"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/892994de25d086af99aa",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/en_US/924bc9f692939642d55452ad127ddc50.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/WEB_43dfdf6b164df5ecf3f4ae76139c477e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/WEB_62c4b21732972f144a8b7f9fb28c1f5f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_MU_96_E",
+      "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+      },
+      "name": "Ploutos, Reka Hexarch",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_96",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/fr_FR/c4d9f99488c0cf85248ee329fbfa00d9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/en_US/924bc9f692939642d55452ad127ddc50.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/it_IT/345c1c4a065d3c9434c41ff2c7e2c938.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/es_ES/c5926bdc3d10a3bb69a9b868db078889.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_MU_96/JPG/de_DE/8b2418da8fa2136cb11f6f69bd7414b4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCS26_P_MU_96_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCS26_P_MU_96_E"
+    }
+  ]
+}

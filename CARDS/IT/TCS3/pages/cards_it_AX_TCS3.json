@@ -1,0 +1,69 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJSCJQPQGS5XGCFF7M2V0HQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/TCS3",
+        "@type": "CardSet",
+        "id": "01JTJS0F8GG1CAXSJ6AEK8495P",
+        "reference": "TCS3",
+        "name": "Tumult Faction Champion - Set 3"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/d812d85aa37f30fc479a",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/en_US/42c62239e31aaad53066ca8f1aa8678d.jpg",
+      "assets": [],
+      "qrUrlDetail": "https://qr.altered.gg/ALT_TCS3_P_AX_53_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "The Grems",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_53",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/fr_FR/98e631b178203a4d74d0f48fa5435d4b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/en_US/42c62239e31aaad53066ca8f1aa8678d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/it_IT/6cd3e5ec966ffe692cdd041c10cef194.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/es_ES/bedbfbdb040995a1e4b90ac24cb4d6bb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/TCS3/CARDS/ALT_TCS3_P_AX_53/JPG/de_DE/92d9265f86a46395773a89b6aa55e1e1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_TCS3_P_AX_53_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_TCS3_P_AX_53_R1"
+    }
+  ]
+}

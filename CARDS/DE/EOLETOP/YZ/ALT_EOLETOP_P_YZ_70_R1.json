@@ -1,0 +1,87 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_YZ_70_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCKMHKMY2E1G23YSSB3",
+  "reference": "ALT_EOLETOP_P_YZ_70_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/3b8edd2d4485df05a741",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Charakter",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/a228a427dd72a08ccc8d",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/06b8005b092fad36ef6f",
+      "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+      "reference": "BUREAUCRAT",
+      "name": "Bürokrat"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/3052e6f97137e546c6a9",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "reference": "MAGE",
+      "name": "Magier"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "0",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "{H} Ich erhalte 2 Verstärkungen.  Wenn ich aus der Expeditionszone in die Reserve gehe — [Sabotage].",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/16d767789283caaa302b",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/JPG/de_DE/cae0da212657f75edc2184e8dc5c8438.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_453c148521290c002307bf47d4af841a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_c155d82abc61a09b7b06a2635f57e815",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_2f628a9cab2ee18c989a03d80ab676ae"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/b09440f3809bfe47d493",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "reference": "YZ",
+    "name": "Yzmir",
+    "color": "#764891"
+  },
+  "name": "Suha, Qorgan Operative",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_YZ_70_R1-DE"
+}

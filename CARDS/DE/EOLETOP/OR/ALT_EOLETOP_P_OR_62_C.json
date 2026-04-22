@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_OR_62_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCFB1P7KC6VD26TMG3D",
+  "reference": "ALT_EOLETOP_P_OR_62_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/ceb0866253119f757d4d",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "reference": "LANDMARK_PERMANENT",
+    "name": "Bleibende Wahrzeichenkarte",
+    "sequence": 2
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/ae877500816ed420f6ce",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/e6123f67a97daa667d22",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "reference": "CONSTRUCTION",
+      "name": "Konstrukt"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in jeder deiner Expeditionen, die hinten liegt oder gleichauf ist.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/bbf7c8fc3aa55c5557aa",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/JPG/de_DE/541c04fb7e59dfe275d7f16b158805ad.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/WEB_2e02e29fafa3a4ac5af1381b7f2971ac",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/WEB_278aa833a4774f234b50e24a0da05d24"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/ae33485f633ed18f7380",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "Mesektet",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_OR_62_C-DE"
+}

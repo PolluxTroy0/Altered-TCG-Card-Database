@@ -1,0 +1,86 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_A_OR_114_R2",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMQRN677YMSW2KHH41C",
+  "reference": "ALT_EOLEOP_A_OR_114_R2",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/f99f7e79d3593c36c2f6",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaggio",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/6764bb377d804d428ab1",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Roots of Corruption - Organized Play",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/55c7c57915fac5e43b0e",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "reference": "SOLDIER",
+      "name": "Soldato"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/b91479b13c88022549d7",
+      "id": "01KA0YFDBT5GF5YYW6RP9VJ0GB",
+      "reference": "CORRUPTION",
+      "name": "Corruzione"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "MOUNTAIN_POWER": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MAIN_EFFECT": "Non puoi giocarmi a meno che non ci sia un altro personaggio in ciascuna delle tue spedizioni.  Quando lascio l'area delle spedizioni — Crea una pedina Animale [Lanuvola 1/1/1] in ciascuna delle tue spedizioni.",
+    "ECHO_EFFECT": "{D}: crea una pedina Animale [Lanuvola 1/1/1] in una spedizione bersaglio."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/d46330cec63e0e1fe7b2",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/JPG/it_IT/2989431c3bd8792ad9e437b2fe413e3b.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_39d5e98bda14fe0dfd3f93a16e55b561",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_A_OR_114/WEB_5b3c78b470be86e41a0b02773341c18c"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/40c711299773f140314a",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "Giovanna Corrotta",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_A_OR_114_R2-IT"
+}

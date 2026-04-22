@@ -6,6 +6,8 @@ This project aims to provide a **community-driven repository** of all **Common a
 The purpose is to reduce unnecessary load on the official Altered API servers.  
 Since repeated API calls may trigger throttling or overload, we recommend using this local JSON database first before sending new HTTP requests to the official API.
 
+Cards images, assets, marketing materials, and other data can be found here: https://cdn.alteredcore.org
+
 ---
 
 ## 📂 Folder Structure

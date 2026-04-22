@@ -1,0 +1,87 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_P_MU_49_R1",
+  "@type": "PublicCard",
+  "id": "01KFBFEZCBRTSP39Y33TT15MA5",
+  "reference": "ALT_EOLETOP_P_MU_49_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/de68682fa4c6449e8d18",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "reference": "CHARACTER",
+    "name": "Personaggio",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/ebd443aec528e76f61e9",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/54165440790e70e96cc9",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "reference": "ANIMAL",
+      "name": "Animale"
+    },
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/837bdbae301c0ea64848",
+      "id": "01HKAGSB49H24XWW17AAY441MT",
+      "reference": "PLANT",
+      "name": "Pianta"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "MOUNTAIN_POWER": "0",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MAIN_EFFECT": "Quando un avversario pesca una o più carte o [Rifornisce] — Ottengo 1 rinforzo.",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/5274981674c99957b6cd",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/JPG/it_IT/f0345a4bf044f9e30015281d93fd6998.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/WEB_03d27bc5935c2e16025fcd3fabf7223f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/WEB_641471913129661a4652f709d23c4f57",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/WEB_1274cdbb62280d83c1123aaa2a91e794"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/f7daa57734dbfd26a6b9",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "reference": "MU",
+    "name": "Muna",
+    "color": "#3d6b42"
+  },
+  "name": "",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_P_MU_49_R1-IT"
+}

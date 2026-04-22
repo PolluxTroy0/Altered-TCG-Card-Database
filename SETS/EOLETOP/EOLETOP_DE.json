@@ -1,0 +1,2434 @@
+[
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_A_AX_65_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBQGMQ5111HCEZJ9KVG",
+    "reference": "ALT_EOLETOP_A_AX_65_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/1be6aa15c809af16394f",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "reference": "HERO",
+      "name": "Held",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/19bb61e0dcfe3905eeff",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [],
+    "elements": {
+      "MAIN_COST": "",
+      "RECALL_COST": "",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "Zum Mittag — Falls du der Startspieler bist, erschaffe eine [Aerolit]-Marke in deinem Wahrzeichen-Bereich.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/dd6de4b96203eeed49ca",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_AX_65/JPG/de_DE/6d7dd1d52e0e96d0d568ff37515933f3.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_AX_65/WEB_2ffa532c008e8b53edc38f0962209f61"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/cfd56cc1454177292ce7",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Isaree & Pebble",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_A_AX_65_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_AX_49_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBSZC9RVTGR743ES7A9",
+    "reference": "ALT_EOLETOP_P_AX_49_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/e0f93d001fb9c034bc2f",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/b88bebf0779d56b6aeb9",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/08c90b00bbced4500019",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "{R} Du darfst eine Karte deiner Wahl im Spiel oder in der Reserve [Erweitern]. (Falls sie Zähler hat, erhält sie 1 weiteren. Heldenkarten sind davon ausgenommen.)",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/3f32cb19af5351ac8538",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_49/JPG/de_DE/37631400f20f6a59d52e46e77bb52f6f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_49/WEB_8af57fa7362b7c9c70c064ff4c4a3521",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_49/WEB_4baa14d8d4ac1339e13c90f296d890b2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_49/WEB_6daf2137a23d2ca07308e42153b48855"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/fb3be81bc60162dd3d93",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Sap Sniffer",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_AX_49_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_AX_53_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBVQSWXBRYESPRPS44S",
+    "reference": "ALT_EOLETOP_P_AX_53_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/7359754fa55aaf17c56d",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/fd0e72fae648532ae9af",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/0b2b6c939527ea1bb92b",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "reference": "ENGINEER",
+        "name": "Ingenieur"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{R} Wähle bis zu eine Aktion:  • Lege eine Bleibende Karte deiner Wahl mit Handkosten {5} oder weniger ab.  • Opfere eine Bleibende Karte. Falls du das tust, erschaffe eine [Blechkäfer 2/2/2]-Robotermarke in einer Expedition deiner Wahl.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/f0225e421624e5ca9ea4",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_53/JPG/de_DE/ec6d0f1531c83c3942de1519cbeb6dd0.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_53/WEB_8da8ccbcd63a301d88982dc1d441a16f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_53/WEB_3844b8b9f03851fde3b2f63a605ab7fc",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_53/WEB_2c085a8e4e9a20d0e319dc91427e119f"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/dfea9fe985d6f7cb9eec",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "The Grems",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_AX_53_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_AX_66_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBW0601C1S7C6G9WHXB",
+    "reference": "ALT_EOLETOP_P_AX_66_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/366b6bccdf42706256b2",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/f9b1cad0cee9e05e7873",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/be90018b53548d2f6cb9",
+        "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+        "reference": "CITIZEN",
+        "name": "Bürger"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "{R} Du darfst eine Bleibende Karte opfern, um eine [Aerolit]-Marke in deinem Wahrzeichen-Bereich zu erschaffen.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/39d55bfc723fdf848e76",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/JPG/de_DE/088c6c07ee407bfac4d9ae95cff26b28.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/WEB_04a23c7142a4ff7411aa78f8b04a60c5",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/WEB_e2930a8ff4d63de243d991f7b1d357b2",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_66/WEB_10824e3066556cffbdaa076cceab52d8"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/f339daf92b08b4056ec1",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Gavroche",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_AX_66_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_AX_70_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBVQSWXBRYESPRPS44W",
+    "reference": "ALT_EOLETOP_P_AX_70_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/8b60d2810da0a35fa67b",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/ea383dfc490edaccb3da",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/99f3d8e70af7c1386ec9",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Abenteurer"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": "{D} : Erschaffe eine [Aerolit]-Marke im Wahrzeichen-Bereich eines Spielers deiner Wahl. (Lege mich aus der Reserve ab, um diese Aktion auszuführen.)"
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/e9f8d900c1484c99bad3",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/JPG/de_DE/faeb7ec651bf2e6bc45da6309ebbd3f9.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/WEB_1149a6ce5b0a8d4c9f8af0a70826961e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/WEB_b9e5afe6d46a2116a203be3a1797f41d",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_AX_70/WEB_ace5ac9b104bbf7eaf5e7b37310e8399"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/34ad0cb4305a370ef275",
+      "id": "01GE7AC9XBG707G19F03A95TH1",
+      "reference": "AX",
+      "name": "Axiom",
+      "color": "#8c432a"
+    },
+    "name": "Paju, Axiom Pilot",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_AX_70_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_A_BR_105_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBZM4HWFT1Q98RTSZ4S",
+    "reference": "ALT_EOLETOP_A_BR_105_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/ab7224eadb6ccdfa8809",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "reference": "HERO",
+      "name": "Held",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/9d4eb0ab8232fcc3aa15",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [],
+    "elements": {
+      "MAIN_COST": "",
+      "RECALL_COST": "",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "(Behalte während der Nacht bis zu drei Karten in deinem Wahrzeichen-Bereich.)  Zum Mittag — Falls du eine Heldentat kontrollierst, erschaffe eine [Rost 0/0/0]-Marke in deiner Gefährten-Expedition. (Sie ist ein Gefährte mit „{J} Ich erhalte 1 Verstärkung pro Heldentat im Status [[Vollbracht]] in deinem Wahrzeichen-Bereich“.)",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/df7a5b171eb753a74f87",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_BR_105/JPG/de_DE/6d67aa0d25e6f286053f542bf9dc207e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_BR_105/WEB_b65ebac9e03cf25118517d7b8556d2f5"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/bd4a3a25b4d26dac8c69",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Gretel & Rust",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_A_BR_105_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_BR_52_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZBZM4HWFT1Q98RTSZ4Y",
+    "reference": "ALT_EOLETOP_P_BR_52_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/dd1c424ba86801385f64",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/143e24833c52a770462d",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/1a8932a09ccbbfc80c69",
+        "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+        "reference": "MESSENGER",
+        "name": "Bote"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "[Spähen] {1}. (Du darfst mich für {1} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {J} Ein Charakter deiner Wahl erhält 1 Verstärkung.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/88b817d9521d5b3a7b78",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_52/JPG/de_DE/d2e25725b8e54c30459200cb6d097dbd.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_52/WEB_19fd51b43612521c8a4f8c2b8364511c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_52/WEB_7cee3baf1bf3e748565b7a970d4c1f63",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_52/WEB_1a86ed720e3d90bd53c922568cbd8d69"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/cd29f349b046f8643db0",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Talarian Skater",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_BR_52_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_BR_57_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC08QYZPRP1EDSW1J0C",
+    "reference": "ALT_EOLETOP_P_BR_57_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/1f5f36b5f6d572439fb2",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/485c58ed8babc2b0fd20",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/c19c378ffef796080d2d",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "reference": "ELEMENTAL",
+        "name": "Elementar"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "6",
+      "RECALL_COST": "6",
+      "MOUNTAIN_POWER": "5",
+      "OCEAN_POWER": "5",
+      "FOREST_POWER": "5",
+      "MAIN_EFFECT": "[Spähen] {3}. (Du darfst mich für {3} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {J} Du darfst eine Karte aus deiner Reserve als bereitgestellte Manakugel in deine Manazone legen.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/acc93203fa33f1cfc7e7",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/JPG/de_DE/68df00c3dd10b3bd8b2f0433a6b7d99f.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/WEB_7b5db83d633b340a8f6e108dd38ddfac",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/WEB_6b1fed12099136b9fd89071739d81bf1",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_57/WEB_6b28eb18e04b4c4aa4ba97b6ad267126"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/971115cacc4348f034d3",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Swift Jinn",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_BR_57_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_BR_69_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC1Q5KXP99GSQEGHQBC",
+    "reference": "ALT_EOLETOP_P_BR_69_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/6dc5ace8eaedc6164ba0",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/f71c7383f04f3082f15b",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/63d65d095c05ec8e929c",
+        "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+        "reference": "MESSENGER",
+        "name": "Bote"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "3",
+      "MAIN_EFFECT": "{R} Du darfst einen Charakter mit Handkosten {4} oder mehr aus deiner Hand aufdecken. Falls du das tust, ziehe eine Karte.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/74fbd3381edf6a828328",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/JPG/de_DE/e2cbf43b44a95e7a86642f8d72d18078.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/WEB_60fcab6b3b5cad0aa36d85efefa62e63",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/WEB_4b3a1ea2a95a00c058273434114cc468",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_69/WEB_83b16e936100e79ade2687408bc75607"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/bea76abfea89854deeea",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Leviathan Spotter",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_BR_69_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_BR_70_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC08QYZPRP1EDSW1J0F",
+    "reference": "ALT_EOLETOP_P_BR_70_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/ae60f24bd561e69f34e1",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/da3d41426b778e9a5432",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/ac2650cf73bb7d3a3005",
+        "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+        "reference": "ADVENTURER",
+        "name": "Abenteurer"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/fcbb9e7ed601fd2c811c",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_70/JPG/de_DE/5425e219cfa1438e9de89ef4ef55ba25.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_70/WEB_d252c5220442819e80b47ac6172e343b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_70/WEB_6b3238902fe40f424f2c946b04aab474",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_BR_70/WEB_148ef793b02a4f141749a5cbca473d52"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/2d2ab8963a3162e1f515",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+      "reference": "BR",
+      "name": "Bravos",
+      "color": "#c32637"
+    },
+    "name": "Tengu",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_BR_70_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_A_LY_105_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC61V6DPZ9NVWJQ0N2G",
+    "reference": "ALT_EOLETOP_A_LY_105_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/eefb83ae2b8e95e9a123",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "reference": "HERO",
+      "name": "Held",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/f974632a1ff2add819f3",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [],
+    "elements": {
+      "MAIN_COST": "",
+      "RECALL_COST": "",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{T} : Wähle einen Charakter, den du kontrollierst, dann würfle einmal. Du darfst dann eine beliebige Anzahl meiner Glückszähler ausgeben, um das Ergebnis zu erhöhen. Bei:  • 4+: Er aktiviert seine {D} Fähigkeit.  • 1–3: Ich erhalte 1 Glückszähler.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/ba38c7329a34dd561254",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_LY_105/JPG/de_DE/93b9c72d911b48bfbd6f5ec598e749df.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_LY_105/WEB_97ed13bae00735db0d41c663e077bfa7"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/9e3908988acf8bc88410",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Yeong-gi & Ember",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_A_LY_105_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_LY_51_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC61V6DPZ9NVWJQ0N2N",
+    "reference": "ALT_EOLETOP_P_LY_51_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/1b25a0d849be50908d7b",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/c1b86a1f28a649ee2955",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/26e755e09f01dedd7e3c",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "reference": "ARTIST",
+        "name": "Künstler"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": "{I} Ich zähle nicht für dein Reserve-Limit."
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/bb9470707307a405f606",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_51/JPG/de_DE/3fd7d7e6c8a5ed07a1c46c65fe4c9f07.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_51/WEB_0bde11ceb71ff74aa7c51d7ae7caf8a4",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_51/WEB_2363794f90737e6af5e5d387f05fe217",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_51/WEB_b0ab9586434ba96269fc0e0de8b26884"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/3847e536a81b19fa118d",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Lyra Contortionist",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_LY_51_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_LY_53_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC61V6DPZ9NVWJQ0N2Y",
+    "reference": "ALT_EOLETOP_P_LY_53_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/bf46287d5468d86c19d6",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/34b0f88882fa43400efb",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/5cffaec9eb2b45831539",
+        "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+        "reference": "ENGINEER",
+        "name": "Ingenieur"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "[Spähen] {1}. (Du darfst mich für {1} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  {J} Wähle einen anderen Charakter im Spiel oder in der Reserve. Würfle dann einmal:  • Bei 4+ erhalten wir beide 1 Verstärkung.  • Bei 1–3 erhält er 1 Verstärkung.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/86c9c315cd33577f1d2a",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_53/JPG/de_DE/0b6c80d5d8ead93a276c5817e2c19235.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_53/WEB_d5787e125201413b547c3082d50c964c",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_53/WEB_08073ecf537a16df2f24a69a955558ff",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_53/WEB_4a85ee2ee295897990d8350a0ac525e5"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/3dedcb64770fc4f6c3e8",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Daedalus",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_LY_53_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_LY_66_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC7VDE31TJC1C9JABYG",
+    "reference": "ALT_EOLETOP_P_LY_66_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/8fec2b2f0098bab931c1",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/d8088f16405879252bc9",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/6bdcf9f625be9ce9362c",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/b7236c8823bd2374c588",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/JPG/de_DE/a2d027857b7aef0a418951bab57da0be.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/WEB_4288b5ad9a18957be81280feaa4cc834",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/WEB_18b8b6024b7fcd01dadf3c0154fd04f3",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_66/WEB_3c192f098c81fcabd4567a8b7ffcec36"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/289a9bebdf94d1ae4cd1",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Mountain Guide",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_LY_66_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_LY_72_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZC7VDE31TJC1C9JABYS",
+    "reference": "ALT_EOLETOP_P_LY_72_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/f1a5aaaef74115a6580b",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/0753cbb5c459a99b239e",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/a9cc14089c7b784321af",
+        "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+        "reference": "ARTIST",
+        "name": "Künstler"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "5",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "Falls mindestens drei Regionen mit einem Geländetyp sichtbar sind, sind meine {V}, {M} und {O} so hoch wie meine höchste Statistik.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/d7681ab649697c29321c",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_72/JPG/de_DE/6af93141db2a16bd4d3bc7953b6db539.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_72/WEB_d7dfe36d7136d3e8303631857a367970",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_72/WEB_081fe68b5d27e0a9e201b119638f6636",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_LY_72/WEB_26807c38d7e755b9c225f74083dc4927"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/918222ae069fcfbd1966",
+      "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+      "reference": "LY",
+      "name": "Lyra",
+      "color": "#cf4171"
+    },
+    "name": "Lyra Aerialist",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_LY_72_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_A_MU_65_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCAXQ42M2GD8MXF0GBQ",
+    "reference": "ALT_EOLETOP_A_MU_65_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/cb9056da558dce0f3d48",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "reference": "HERO",
+      "name": "Held",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/00449759d2a2c26c4dfb",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [],
+    "elements": {
+      "MAIN_COST": "",
+      "RECALL_COST": "",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "Zum Mittag — Falls du der Startspieler bist, erschaffe eine [Wollrücken 1/1/1]-Tiermarke in der Gefährten-Expedition eines Gegners deiner Wahl, ziehe dann eine Karte.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/508eb1e6678be5c331c2",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_MU_65/JPG/de_DE/67181debed23cdbdfcced0a9b54ecc13.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_MU_65/WEB_30eecaba5b63ada2dcc99b05f1eab1de"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/11d1df1de7746a221094",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Kauri & Flausch",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_A_MU_65_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_MU_49_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCBRTSP39Y33TT15MA5",
+    "reference": "ALT_EOLETOP_P_MU_49_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/46235dd8a2b8e171bb9e",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/3914e69af8e6d5b98f1f",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/8cd0bed1dec3c97497fe",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/43be239f07f078496451",
+        "id": "01HKAGSB49H24XWW17AAY441MT",
+        "reference": "PLANT",
+        "name": "Pflanze"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "Wenn ein Gegner eine oder mehrere Karten zieht oder [Nachschub] nutzt — Ich erhalte 1 Verstärkung.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/f048432955fda5b6be4a",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/JPG/de_DE/674f74c16d277ba22c9b0bd6b5dcb996.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/WEB_03d27bc5935c2e16025fcd3fabf7223f",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/WEB_641471913129661a4652f709d23c4f57",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_49/WEB_1274cdbb62280d83c1123aaa2a91e794"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/e29232503f5f5e1f2f91",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Burrowing Noosh",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_MU_49_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_MU_52_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCBRTSP39Y33TT15M9W",
+    "reference": "ALT_EOLETOP_P_MU_52_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/2de6d94617d7ecdea108",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/ccb22810a4e6bfc95b38",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/4143e43b8a120354054d",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "Wenn ein Charakter, den du kontrollierst, [[Verankert]] erhält — Ich erhalte 1 Verstärkung.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/cfdc8ef4b811e4580050",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/JPG/de_DE/f4873fb7e335d8ab4df766308dbe87df.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/WEB_c270fa91c9df61138d2e95d5a1bf61ef",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/WEB_c904084a07a5381a8f5e5060ae4dc1de",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_52/WEB_932fd48d13f904f9a8a440a462a0e854"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/321cc4b4ffc22d6edaea",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Cuddly Corgi",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_MU_52_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_MU_66_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCBRTSP39Y33TT15MA8",
+    "reference": "ALT_EOLETOP_P_MU_66_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/4732ef83ea2dc2d2770a",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/7496f718d787cee92271",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/cb7ac65ecc265d394222",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "1",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{J} Falls ich einem Charakter gegenüberstehe, erhalte ich 1 Verstärkung.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/deeac9a5f77862cd5c97",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_66/JPG/de_DE/aefdc6db7424d475f66f4b430b97e99e.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_66/WEB_db28c0f513a59d9735c67561fbf25712",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_66/WEB_8444681ed684ba536d86b904379ae233",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_66/WEB_936a3e6197be2c629ed65f1345e33f60"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/128e3c4e2e4cf90c1ecf",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Resentful Robin",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_MU_66_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_MU_70_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCCVJRVX10CK6A82K18",
+    "reference": "ALT_EOLETOP_P_MU_70_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/437a15d4245b93e792ad",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/deb2ad0b2132926faf7b",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/1faf986d3457266d7dd4",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "1",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{J} Ich erhalte [[Verankert]].  Wenn sich ein Charakter der mir gegenüberstehenden Expedition anschließt — Ich erhalte 1 Verstärkung.  Wenn ich aus der Expeditionszone in deine Reserve gehe, falls ich mindestens 2 Verstärkungen hätte — Du darfst eine Karte aus deiner Reserve in deine Manazone legen.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/694b528d679cc14ae397",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/JPG/de_DE/765dd0d81f8686e97cbc736f578d7f8a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/WEB_b5db444d2464d3da3a8d72c64a018c58",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/WEB_38a0c704725e713cf3e9e969ea6fb8ba",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_MU_70/WEB_f379051dab5cab13c838a91b3cbdb18c"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/feaf334bb0837dadfab0",
+      "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+      "reference": "MU",
+      "name": "Muna",
+      "color": "#3d6b42"
+    },
+    "name": "Colorful Cuckoo",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_MU_70_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_A_OR_65_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCEP6NBH3FFPRW2HF37",
+    "reference": "ALT_EOLETOP_A_OR_65_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/b71a6efe87386413e827",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "reference": "HERO",
+      "name": "Held",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/e0895909b92b3c539602",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [],
+    "elements": {
+      "MAIN_COST": "",
+      "RECALL_COST": "",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "Zum Mittag — Falls du der Startspieler bist, ist deine Helden-Expedition [Aufsteigend]. (Kann sich bis zur Ruhepause vorwärts bewegen, selbst falls beide über gleich viele Gelände in den Regionen verfügen.)  Wenn sich mindestens eine deiner Expeditionen im Status [[Aufgestiegen]] vorwärts bewegt — Falls es ihr gegenüber keinen Charakter gibt, ziehe eine Karte.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/d44ae3459568baf5362d",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_OR_65/JPG/de_DE/7023dce700e3b9a05c48f98afcec3699.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_OR_65/WEB_0a2018074540dbbbb14a82b4e0ea8fa5"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/c6ac0d9637d12e7fa34d",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Zhen & Zephyr",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_A_OR_65_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_OR_54_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCFB1P7KC6VD26TMG37",
+    "reference": "ALT_EOLETOP_P_OR_54_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/a83c06152e8408519117",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/bee8b552db28a26acaef",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/e34ef4ec72e04e69a1be",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "reference": "SOLDIER",
+        "name": "Soldat"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "3",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "[Spähen] {1}. (Du darfst mich für {1} mit „{h} Schicke mich in die Reserve“ aus der Hand spielen.)  Wenn ich die Expeditionszone verlasse — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in meiner Expedition.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/0115d0d55658426d289d",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/JPG/de_DE/fae2a082d47450b274c5aa665f54847a.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/WEB_acfe9b05cbe2af88e7a95d505dc71378",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/WEB_18363b80fc3d8ccffdba2583e210b263",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_54/WEB_c6b82b2e441862da3354b096eec4fb7c"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/f36fad018e84093f8bef",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Aegis Templar",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_OR_54_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_OR_62_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCFB1P7KC6VD26TMG3D",
+    "reference": "ALT_EOLETOP_P_OR_62_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/ceb0866253119f757d4d",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Bleibende Wahrzeichenkarte",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/ae877500816ed420f6ce",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/e6123f67a97daa667d22",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "reference": "CONSTRUCTION",
+        "name": "Konstrukt"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in jeder deiner Expeditionen, die hinten liegt oder gleichauf ist.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/bbf7c8fc3aa55c5557aa",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/JPG/de_DE/541c04fb7e59dfe275d7f16b158805ad.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/WEB_2e02e29fafa3a4ac5af1381b7f2971ac",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/WEB_278aa833a4774f234b50e24a0da05d24"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/ae33485f633ed18f7380",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Mesektet",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_OR_62_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_OR_62_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCFB1P7KC6VD26TMG3G",
+    "reference": "ALT_EOLETOP_P_OR_62_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/030abaae61684db778da",
+      "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+      "reference": "LANDMARK_PERMANENT",
+      "name": "Bleibende Wahrzeichenkarte",
+      "sequence": 2
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/2a77eae38c0d4acfca5a",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/4fc831a38604fc8ff71b",
+        "id": "01J1SYC159ACKJS202498RAQRR",
+        "reference": "CONSTRUCTION",
+        "name": "Konstrukt"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "4",
+      "RECALL_COST": "4",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{J} Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in jeder deiner Expeditionen, die hinten liegt oder gleichauf ist.  Zum Mittag — Erschaffe eine [Ordis-Rekrut 1/1/1]-Soldatenmarke in jeder deiner Expeditionen, die hinten liegt oder gleichauf ist.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/968059d4b25eca754dc0",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/JPG/de_DE/c3c8653bec8781adc841307023faa8f5.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/WEB_2e02e29fafa3a4ac5af1381b7f2971ac",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_62/WEB_278aa833a4774f234b50e24a0da05d24"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/9f51fc1a954edfbd2552",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Mesektet",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_OR_62_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_OR_67_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCG93T7WEBPJ11Z73KH",
+    "reference": "ALT_EOLETOP_P_OR_67_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/87157f36d686dc1dd05a",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/9bed32ae737ded6ed8c4",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/1202f8489f2058a4e219",
+        "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+        "reference": "SOLDIER",
+        "name": "Soldat"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "2",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{J} Falls ich in einer Aufgestiegenen Expedition bin, erhalte ich 1 Verstärkung. Andernfalls ist meine Expedition [Aufsteigend].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/5e261cc06b379cf8cb20",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_67/JPG/de_DE/0e4ae93433734679be3ce50f36115d1c.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_67/WEB_06df984259ed76bce5b2748645d12d82",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_67/WEB_c85c6fa77aaa9e3ca7349eeb3e6009ee",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_67/WEB_9ed2da8ec3191d0b8fd0a8ee6254da7b"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/53d5a2e4c797d02ac4a0",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Ascended Trooper",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_OR_67_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_OR_71_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCFB1P7KC6VD26TMG3K",
+    "reference": "ALT_EOLETOP_P_OR_71_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/d92670603845f98caacc",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/9851919d88e5beceb280",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/9088683a0d7e9fe315d4",
+        "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+        "reference": "ELEMENTAL",
+        "name": "Elementar"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "2",
+      "MAIN_EFFECT": "{H} Eine Expedition deiner Wahl ist [Aufsteigend]. (Kann sich bis zur Ruhepause vorwärts bewegen, selbst falls beide über gleich viele Gelände in den Regionen verfügen.)",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/177281ab8d068d07c865",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/JPG/de_DE/c6b1522b79e9a57affd51a4b2028e2fd.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_48e9cf25e31201cc0566b5e24de64e4b",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_f68270cf0be5d03a18db54acce2cfed5",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_OR_71/WEB_e589cf761a4ab014744bdf1d7b894544"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/fa7e88f71d955fd15d8d",
+      "id": "01GE7AC9X78DXSNKNB15KCF69X",
+      "reference": "OR",
+      "name": "Ordis",
+      "color": "#0f6593"
+    },
+    "name": "Gargoyle",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_OR_71_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_A_YZ_105_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCJ160BQVSBH09C3X4K",
+    "reference": "ALT_EOLETOP_A_YZ_105_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/44ea81ff7260cbca3274",
+      "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+      "reference": "HERO",
+      "name": "Held",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/77eca718e753dc2a73f8",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [],
+    "elements": {
+      "MAIN_COST": "",
+      "RECALL_COST": "",
+      "MOUNTAIN_POWER": "",
+      "OCEAN_POWER": "",
+      "FOREST_POWER": "",
+      "MAIN_EFFECT": "{T} : Ziehe eine Karte, dann lege eine Karte aus deiner Hand ab. Du kannst dies nur aktivieren, falls du der Startspieler bist.  Wenn sich mindestens sechs Karten auf deinem Ablagestapel befinden, erhalte ich permanent:  „Wenn du eine Karte aus deiner Hand ablegst — Lege sie in deine Reserve zurück.“",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/6bbf0e2ba00fb8f9d496",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_YZ_105/JPG/de_DE/abf2e7f67eace995fb407dbdf4e5a0d3.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_YZ_105/WEB_9fada9f6c087ddeece1612289a39dda2"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/49c1707fa5c38ac6cb83",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Sam & Spook",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_A_YZ_105_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_YZ_52_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCKMHKMY2E1G23YSSAE",
+    "reference": "ALT_EOLETOP_P_YZ_52_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/b742903832501472273c",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/f0186aeca615f8e3b613",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/bc8fe781e3cdc8f3853f",
+        "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+        "reference": "NOBLE",
+        "name": "Adliger"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "2",
+      "RECALL_COST": "2",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "0",
+      "MAIN_EFFECT": "{J} Ich erhalte [[Vergänglich]].  {J} Ich erhalte 1 Verstärkung für jeden Charakter, den ein Gegner deiner Wahl kontrolliert.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/b7a66fe94caea1515cd0",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_52/JPG/de_DE/a1e06a72192fe3155f734417f05459cb.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_52/WEB_781005b7638cbdabba151d953eb3cc46",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_52/WEB_8baf82bfd9ff9183c151485a4f45de7e",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_52/WEB_27b258b7f44ac9390b683c0a54aff48e"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/2d3421ede3fbab17d42d",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Pasiphaë",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_YZ_52_C-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_YZ_56_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCKMHKMY2E1G23YSSAQ",
+    "reference": "ALT_EOLETOP_P_YZ_56_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/35d8863bde474955192c",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/583c151af998f67427ca",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/2e3e881637cdc2bed4c0",
+        "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+        "reference": "SPIRIT",
+        "name": "Geist"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "8",
+      "RECALL_COST": "6",
+      "MOUNTAIN_POWER": "3",
+      "OCEAN_POWER": "3",
+      "FOREST_POWER": "3",
+      "MAIN_EFFECT": "{H} Lege alle anderen Karten im Spiel oder in der Reserve ab.  Wenn eine Karte auf den Ablagestapel gelegt wird — Ich erhalte 1 Verstärkung.  Falls ich [[Vergänglich]] bin, bin ich [Gigantisch].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/03ba26a45a801ea6eff3",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/JPG/de_DE/ce77fa15aa7bae779def831f51a99975.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_cd55e968a48600a9c3e8c245b77e99e5",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_2b0b62c6dd9ba58422382ed56eb0ff90",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_56/WEB_a184adbd144819b290d656fd70da884d"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/d20cbc774fe97e9c0cd2",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "The Hunger",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_YZ_56_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_YZ_70_R1",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCKMHKMY2E1G23YSSB3",
+    "reference": "ALT_EOLETOP_P_YZ_70_R1",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/3b8edd2d4485df05a741",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/a228a427dd72a08ccc8d",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/06b8005b092fad36ef6f",
+        "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+        "reference": "BUREAUCRAT",
+        "name": "Bürokrat"
+      },
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/3052e6f97137e546c6a9",
+        "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+        "reference": "MAGE",
+        "name": "Magier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "0",
+      "OCEAN_POWER": "0",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{H} Ich erhalte 2 Verstärkungen.  Wenn ich aus der Expeditionszone in die Reserve gehe — [Sabotage].",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/16d767789283caaa302b",
+      "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+      "reference": "RARE",
+      "name": "Rare",
+      "sequence": 1
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/JPG/de_DE/cae0da212657f75edc2184e8dc5c8438.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_453c148521290c002307bf47d4af841a",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_c155d82abc61a09b7b06a2635f57e815",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_70/WEB_2f628a9cab2ee18c989a03d80ab676ae"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/b09440f3809bfe47d493",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Suha, Qorgan Operative",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_YZ_70_R1-DE"
+  },
+  {
+    "@context": "/contexts/PublicCard",
+    "@id": "/public/cards/ALT_EOLETOP_P_YZ_72_C",
+    "@type": "PublicCard",
+    "id": "01KFBFEZCKMHKMY2E1G23YSSAT",
+    "reference": "ALT_EOLETOP_P_YZ_72_C",
+    "cardType": {
+      "@type": "CardTypeDTO",
+      "@id": "/.well-known/genid/936cc419e486665b8277",
+      "id": "01H19NWA92A4ERAC4ATMSZNASS",
+      "reference": "CHARACTER",
+      "name": "Charakter",
+      "sequence": 3
+    },
+    "cardSet": {
+      "@type": "CardSetDTO",
+      "@id": "/.well-known/genid/602b4b5210f0c1cbb503",
+      "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+      "reference": "EOLETOP",
+      "name": "Roots of Corruption - Box Topper",
+      "description": null,
+      "code": "ROCTOP",
+      "isActive": false,
+      "isReward": true
+    },
+    "cardSubTypes": [
+      {
+        "@type": "CardSubTypeDTO",
+        "@id": "/.well-known/genid/2742fe68cb3374dd248a",
+        "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+        "reference": "ANIMAL",
+        "name": "Tier"
+      }
+    ],
+    "elements": {
+      "MAIN_COST": "3",
+      "RECALL_COST": "1",
+      "MOUNTAIN_POWER": "1",
+      "OCEAN_POWER": "2",
+      "FOREST_POWER": "1",
+      "MAIN_EFFECT": "{H} Du darfst einen Charakter deiner Wahl mit Handkosten {2} oder weniger in die Reserve schicken.",
+      "ECHO_EFFECT": ""
+    },
+    "rarity": {
+      "@type": "RarityDTO",
+      "@id": "/.well-known/genid/aa6b54389db8c2c3a02c",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+      "reference": "COMMON",
+      "name": "Common",
+      "sequence": 0
+    },
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/JPG/de_DE/caa2d2dbfbda6613baf317f2a0f2c093.jpg",
+    "assets": {
+      "WEB": [
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/WEB_fde2e0f29712254db6b7fc438deb8781",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/WEB_a95f9af7bd846e37082a88d90752bb75",
+        "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_P_YZ_72/WEB_2f0a8bafc2b94f04319b9006c464ff64"
+      ]
+    },
+    "mainFaction": {
+      "@type": "FactionDTO",
+      "@id": "/.well-known/genid/54a3fe87272056052d86",
+      "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+      "reference": "YZ",
+      "name": "Yzmir",
+      "color": "#764891"
+    },
+    "name": "Caladrius",
+    "isSuspended": false,
+    "isSerialized": false,
+    "isParentSerialized": false,
+    "isErrated": false,
+    "isBanned": false,
+    "isOwnerless": false,
+    "inSale": 0,
+    "lowerPrice": 0,
+    "lowerOfferId": "",
+    "isExclusive": true,
+    "collectorNumber": "ALT_EOLETOP_P_YZ_72_C-DE"
+  }
+]

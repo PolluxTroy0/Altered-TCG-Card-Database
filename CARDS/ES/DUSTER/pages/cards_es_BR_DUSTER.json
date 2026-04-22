@@ -1,0 +1,3624 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 54,
+  "hydra:member": [
+    {
+      "id": "01JYP9SVP3C0R8NTNB8RYY6KCY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/en_US/214ea2ace590e72bbd73ed2c4a9beb0f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/WEB_55a0ea3ef3dd38e82ae2577c25a9c6a0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/WEB_4b2dc1e8480e6c1753aad127c5d5c310",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/WEB_5c4da22ecab34aafc59dbb4ad026e9ed"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_88_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Ira, Fair Attendee",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_88",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/fr_FR/f483a6251ed35d7fbf212959c3ea7c55.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/en_US/214ea2ace590e72bbd73ed2c4a9beb0f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/it_IT/52eef7ec566410bee1a64061465b7020.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/es_ES/3dd29b54c1693a55fb48ba3758392d38.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_88/JPG/de_DE/2425111c5eb45f870785a28e5c3c8b6f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_88_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_AX_88_R2"
+    },
+    {
+      "id": "01JYP9SVP713CJSE7HPEW9YPZ7",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/JPG/en_US/252611811a65795e624b51e0a4877da6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/WEB_2d93a4b6acfa6e410653d0dc99a6cad4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/WEB_d8c62bb43030e31ef50839a18dfebcf3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/WEB_6bef307ee3e8890dff98d9b271797e1a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_93_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Magnate",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_93",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/JPG/fr_FR/58a58c45d7f05256b046390e1547673a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/JPG/en_US/252611811a65795e624b51e0a4877da6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/JPG/it_IT/21cf2c64b61e150cc6ac564b200caaa7.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/JPG/es_ES/ddc783432af1643c0bf1e4a26317146b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_93/JPG/de_DE/3e2f83016e3686b72c1d24b0779a0c39.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_93_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_AX_93_R2"
+    },
+    {
+      "id": "01JYP9SVP8T70303X747EJ7SP8",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/JPG/en_US/f43be9986f1e93e8fbbf693c2c8fa635.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/WEB_cebfea32851cca067a90a3098d1fa94e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/WEB_369acfecb84e19cc218aa78148d3067b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/WEB_3c5958343de12e36571cf9973defec04"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_96_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Shell",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_96",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/JPG/fr_FR/047b4ff7a362e35c91fba3ae1509a8cf.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/JPG/en_US/f43be9986f1e93e8fbbf693c2c8fa635.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/JPG/it_IT/65daea2282aaae742a81e72d20e1b086.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/JPG/es_ES/170a53e43f1cc6b8728356a9950c5ad3.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_96/JPG/de_DE/0f9290cf5ba1c82e129f46f6e5adbdee.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_96_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_AX_96_R2"
+    },
+    {
+      "id": "01JYP9SVP43JJ9E7B039H7YAPE",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/en_US/a48ef5758fbb217c255785c6c2d27987.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/WEB_711636d5385cffc258e9f117eadba8ae",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/WEB_46eb9406b6efbb07e5997daccaa59dc0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/WEB_462f2b38150b2071dc5c07d6f0c922e1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_90_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Thomas Edison",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_90",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/fr_FR/b8758884d2caa70a95d0573c12ccbe32.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/en_US/a48ef5758fbb217c255785c6c2d27987.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/it_IT/03befd026cb6cfcc35a7072da1870a36.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/es_ES/9c4a0a8a95b305fe04b7e43cea7f43c8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_90/JPG/de_DE/a6850570ba87acdcd279f8442f172978.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_90_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_AX_90_R2"
+    },
+    {
+      "id": "01JYP9SVP9M4AG8XEDVXXP147W",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/JPG/en_US/e0f5fd1dce22af692d08810cbaa00c26.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/WEB_4ef6df549ce59e63398b90ff0dc34be5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/WEB_837259a1f98bb1731484dd7cb87fa156"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_AX_99_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Fab Lab Unit",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_99",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/JPG/fr_FR/5ba811c100a9dde542ba941e13fa97f9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/JPG/en_US/e0f5fd1dce22af692d08810cbaa00c26.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/JPG/it_IT/100d5e2dd05a059bf613addcee122fb1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/JPG/es_ES/b13b6f3c4898d966a9a91db9bdb23f68.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_AX_99/JPG/de_DE/1eb282974f878415ae57e484ac59f32b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_AX_99_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_AX_99_R2"
+    },
+    {
+      "id": "01JZ3107R29P21MWX0MDXJMSS2",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/en_US/ff2b4327220ce23af3e7462ffb7b1e03.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/HERO_THUMB_88bc09980703c119a947d89833225498"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/HERO_WIDE_6f4abc55097f6a39d1c6d13c7e52b697"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/WEB_9bb2d1370c531d2b1740d06397bde1b3"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_BR_65_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sol & Halua",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_65",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/fr_FR/25cc405c22fbc86eef7f9b32fca24203.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/en_US/ff2b4327220ce23af3e7462ffb7b1e03.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/it_IT/39ba8a8b2d397a6b40c367086fc59801.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/es_ES/a7e058abdaec6d85304d63d2109044b6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_65/JPG/de_DE/06186bac6b5d78b7f6afc8b796e34a0b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_A_BR_65_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_A_BR_65_C"
+    },
+    {
+      "id": "01JZJFYX77E2SJ9DE0AE6H318Z",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/JPG/en_US/756d748ec84031a5f40028eedbf67ea9.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/HERO_THUMB_bd8c5f023cfe80777ca59e1ed9cc9eb5"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/HERO_WIDE_f8be46c69bd6b0856491c94832d10eda"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/WEB_b9c1c0899dc94c996f6ebcda474b34f7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_P_BR_65_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sol & Halua",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_65",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/JPG/fr_FR/da838dc0c19265f0201e676543538cd9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/JPG/en_US/756d748ec84031a5f40028eedbf67ea9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/JPG/it_IT/31b4daef80d70bb77ea79562d175350d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/JPG/es_ES/12699129b4122ef234dfb84fdaf0e56a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_P_BR_65/JPG/de_DE/56cb771285150115b80ddd04ba31cefd.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_P_BR_65_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_P_BR_65_C"
+    },
+    {
+      "id": "01JZJF4N7VS72BZZ89SKSF3XEN",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/JPG/en_US/1d0b1eca59b2d1f13be8a070ac072808.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/HERO_THUMB_585549a301c3424e354e990ed240a5cd"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/HERO_WIDE_a535993d79d91738c774139ed7ada72f"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/WEB_9812baa1f8f9a797e4bc5da9d98314fa"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_65_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sol & Halua",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_65",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/JPG/fr_FR/c0dd7667f2f5c31bceef813676627a73.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/JPG/en_US/1d0b1eca59b2d1f13be8a070ac072808.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/JPG/it_IT/7fa255fca45e627c39b5cc3f8faf91f3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/JPG/es_ES/b1b15faf69d961a2b343f930f436b0bd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_65/JPG/de_DE/bb462cb9f21a595595feed4f3fa6c3f4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_65_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_65_C"
+    },
+    {
+      "id": "01JYP9SVPGJ66ABR30VM5YAZ25",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/en_US/2ee405fea8d2c9f35abbc8988b9def73.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_d44d8942e4d11d7ead00ccd33af8e78b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_b4bc054970c267c4aa258f606d17257d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_1e567a471c44cb18bb230a28285f9035"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_86_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Flying Squirrel",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_86",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/fr_FR/737cc079692a7dd414c5e8998c926542.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/en_US/2ee405fea8d2c9f35abbc8988b9def73.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/it_IT/d9addc38f4130cf511fd7797856bc8e4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/es_ES/c89f6c28620a376424c815b00f2f1475.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/de_DE/47effdcd487244013cc817eec744c70a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_86_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_86_C"
+    },
+    {
+      "id": "01JYP9SVPGJ66ABR30VM5YAZ28",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/en_US/fc4fbfd69812d9f6563375ffa57f1a59.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_d44d8942e4d11d7ead00ccd33af8e78b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_b4bc054970c267c4aa258f606d17257d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/WEB_1e567a471c44cb18bb230a28285f9035"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_86_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Flying Squirrel",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_86",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/fr_FR/604b49bca757493094267fff7e49bb29.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/en_US/fc4fbfd69812d9f6563375ffa57f1a59.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/it_IT/41440163ffb8ef0be75898b2c943031a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/es_ES/476764358e1db18ac39bf9a6899f6799.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_86/JPG/de_DE/11394fd0e06abde8ce9c83f5418d5b44.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_86_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_86_R1"
+    },
+    {
+      "id": "01JYP9SVPH3HCF7N3T783TBGBE",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/en_US/1598e7475b44dc5182f2cd8ed77c09d6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_c3ac9e0b4995b0ee35995ff984b2f0e9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_2347585d28377e507f43486a6ebe7d19",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_1ee8abcc686383c5194b69982f1dda64"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_88_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Helpful Diver",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_88",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/fr_FR/da49b4f9da1263ef92534049d2943284.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/en_US/1598e7475b44dc5182f2cd8ed77c09d6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/it_IT/cd22951991c29f2e60ba1717c128cd5c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/es_ES/d2b7635f598efc52c143e4a5a6bf3b73.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/de_DE/8baf874d793473c518297c541f6358aa.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_88_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_88_C"
+    },
+    {
+      "id": "01JYP9SVPH3HCF7N3T783TBGBH",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/en_US/7fcbf0b3ee5ea7358f80534915ccffb0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_c3ac9e0b4995b0ee35995ff984b2f0e9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_2347585d28377e507f43486a6ebe7d19",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/WEB_1ee8abcc686383c5194b69982f1dda64"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_88_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Helpful Diver",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_88",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/fr_FR/c7978056852957bc8e5167a608776fb5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/en_US/7fcbf0b3ee5ea7358f80534915ccffb0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/it_IT/cfdcf18e9ef8e2722146142599844a2f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/es_ES/e2bb2a58ded9e298e9972b873caf85e4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_88/JPG/de_DE/9794c7eb15b1acdc2db784e84944a236.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_88_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_88_R1"
+    },
+    {
+      "id": "01JYP9SVPJM1BFRD0VTVMMV0W5",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/en_US/eddf412af9ed0490b78c36631f207789.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/WEB_a953628d78730e0b7626066cd75d4a51",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/WEB_302726a029deac47b380b43ecda23cc6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/WEB_3a8623e33792614ac23b1d3831d3ff89"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_93_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Lookout",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_93",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/fr_FR/58e278293634e8393f42825680af4b94.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/en_US/eddf412af9ed0490b78c36631f207789.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/it_IT/e15b8e59f7711f2b4c3f6f3ccd0b468f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/es_ES/4651ee7f857a723bd0ec297cc7ec3991.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/de_DE/2fd6d854701d80ef5075cab2d770628e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_93_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_93_C"
+    },
+    {
+      "id": "01JYP9SVPJM1BFRD0VTVMMV0W8",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/en_US/ddcdc22473b792da44af2766a9183052.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/WEB_a953628d78730e0b7626066cd75d4a51",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/WEB_302726a029deac47b380b43ecda23cc6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/WEB_3a8623e33792614ac23b1d3831d3ff89"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_93_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Lookout",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_93",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/fr_FR/538221d2c43c78be0a8b93926d3c4786.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/en_US/ddcdc22473b792da44af2766a9183052.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/it_IT/aecc600d73ce22f7ecb5d5f8a4934a69.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/es_ES/81cb616428375cfa60f0dc6f53ac3b1d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_93/JPG/de_DE/d02b20c03798ae0c07277b5766840622.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_93_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_93_R1"
+    },
+    {
+      "id": "01JYP9SVPH3HCF7N3T783TBGC0",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/en_US/0da5b846ffea52d9b623435699e781ab.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/WEB_055339ec69b8befb5e6a4954bd0352ca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/WEB_e9dbdf6c62ef6dde4bf86f6528348556",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/WEB_0b3aff91729d0ddc831192d3a4922760"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_90_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Isabel Letham",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_90",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/fr_FR/368703348e692be0d396e7a02b443a31.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/en_US/0da5b846ffea52d9b623435699e781ab.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/it_IT/ad0c0a1253beed8760820115ab47f438.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/es_ES/628f5fec6779735d8135d911e633e5eb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/de_DE/965481680927b44e210c93cb9b6d75a9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_90_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_90_C"
+    },
+    {
+      "id": "01JYP9SVPH3HCF7N3T783TBGC3",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/en_US/bdcccbef2753ce054e35370c2ce36980.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/WEB_055339ec69b8befb5e6a4954bd0352ca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/WEB_e9dbdf6c62ef6dde4bf86f6528348556",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/WEB_0b3aff91729d0ddc831192d3a4922760"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_90_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Isabel Letham",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_90",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/fr_FR/d3574dd5b7c379186c552bc90e26f9f9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/en_US/bdcccbef2753ce054e35370c2ce36980.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/it_IT/cda99199537f9f21b271a31b05288d89.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/es_ES/b6c84e12347ead79bc5d66e3a0204250.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_90/JPG/de_DE/284f227a5f82bbeab32489ea3383f535.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_90_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_90_R1"
+    },
+    {
+      "id": "01JYP9SVPGJ66ABR30VM5YAZ2E",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/en_US/e79adbdf7797d3539e03e777e1a583c8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/WEB_be8cd4accf7c36e21d73e750da9edd91",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/WEB_c18e847143c2c808fbac6fca1be4c18f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/WEB_9728ebd0e1056871bd913274459debf4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_87_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Skipper",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_87",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/fr_FR/c8af975c6c75507ae619b4278aa39226.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/en_US/e79adbdf7797d3539e03e777e1a583c8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/it_IT/b759995557a793e1a6ef5404848bc4d4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/es_ES/46062bc17b15601474414e00af438691.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/de_DE/c454f9c32f8dd06c8e930ac337d6412f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_87_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_87_C"
+    },
+    {
+      "id": "01JYP9SVPGJ66ABR30VM5YAZ2H",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/en_US/c8d343555b5d0034e57f8d2b01964ea9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/WEB_be8cd4accf7c36e21d73e750da9edd91",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/WEB_c18e847143c2c808fbac6fca1be4c18f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/WEB_9728ebd0e1056871bd913274459debf4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_87_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Skipper",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_87",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/fr_FR/4314a70232f21394f741a6e91ee18a8e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/en_US/c8d343555b5d0034e57f8d2b01964ea9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/it_IT/20a9d14c7150cf3b28f6960ed355a559.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/es_ES/feef964d818945427430ee779133b20e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_87/JPG/de_DE/845820c9112e68e1db2ffc56aad95497.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_87_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_87_R1"
+    },
+    {
+      "id": "01JYP9SVPK0ER66G4YGWRBJP6E",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/en_US/4374b353cda04af9f78d64fcc5726be0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/WEB_03c149c7f760ae0fe3fa54fbfeb1fe87",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/WEB_d7f233a3fac620ce2aaaade6e9f0878f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/WEB_dd262c6545946e9cbf8cc978cdea689d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_95_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Deep-Cloud Instructor",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_95",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/fr_FR/1702231f895bf64824f93f8f0428e9f2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/en_US/4374b353cda04af9f78d64fcc5726be0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/it_IT/6b0c7a178c4418f751c0b87699154ebe.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/es_ES/e90ee45a7b58fd3e60d8dfdb2a9bffac.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/de_DE/9722379e85f63016b23843919928fa0d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_95_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_95_C"
+    },
+    {
+      "id": "01JYP9SVPK0ER66G4YGWRBJP6H",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/en_US/9e981521dc70ec9969cfa752ea265386.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/WEB_03c149c7f760ae0fe3fa54fbfeb1fe87",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/WEB_d7f233a3fac620ce2aaaade6e9f0878f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/WEB_dd262c6545946e9cbf8cc978cdea689d"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_95_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Deep-Cloud Instructor",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_95",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/fr_FR/0c0fc692f04c4ba631e9e7a451076086.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/en_US/9e981521dc70ec9969cfa752ea265386.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/it_IT/4676db03943c043f276d09abffe94d1b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/es_ES/6194ec6d6e907f962853eddd11722274.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_95/JPG/de_DE/20dbd82e4cc227b50646c8aeb5d19949.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_95_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_95_R1"
+    },
+    {
+      "id": "01JYP9SVPJM1BFRD0VTVMMV0VK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/en_US/9692b82a8f500175964fdeec7de1776f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_c2c53dc44aa48eb858e51aae4478c08b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_1ca099275c1b3a72907b8ef83dc7f75f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_3c2bb779ec3ebd417f8fd14e6960feef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_91_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Cloudhog",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_91",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/fr_FR/3a4c44a5ca6629a504385a40753dab30.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/en_US/9692b82a8f500175964fdeec7de1776f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/it_IT/041035d18feea6ac76bc8b7f6ef26d45.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/es_ES/36b6c5cf52fc30591bd1e52f52af7d87.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/de_DE/525aa218224089cf2dc88e8fb1a07b96.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_91_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_91_C"
+    },
+    {
+      "id": "01JYP9SVPJM1BFRD0VTVMMV0VP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/en_US/4bc55e5ccd6b9a3037ef387233f62ca3.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_c2c53dc44aa48eb858e51aae4478c08b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_1ca099275c1b3a72907b8ef83dc7f75f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/WEB_3c2bb779ec3ebd417f8fd14e6960feef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_91_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Cloudhog",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_91",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/fr_FR/5a6243bc9062245ec1033603b8067967.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/en_US/4bc55e5ccd6b9a3037ef387233f62ca3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/it_IT/285de866b749324c39a12c11d15476d5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/es_ES/decbaafda41c68525e8750ed152be61b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_91/JPG/de_DE/82d5e9e42a94ca87a145256d96d0559b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_91_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_91_R1"
+    },
+    {
+      "id": "01JYP9SVPJM1BFRD0VTVMMV0VW",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/en_US/3cebad2b6593afa97a5a64965e104ffa.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_ea563317ed5975de1b68df23bb242f85",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_693a832e557f2cada098fd82e685378a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_ee431e6f3e1e066c193b81590bb649b0"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_92_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Peddler",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_92",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/fr_FR/fcb1059255f21c905f44915b46e2f65b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/en_US/3cebad2b6593afa97a5a64965e104ffa.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/it_IT/331d1e7421c82fa94f615e1b6b9009b6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/es_ES/39865a92cf629a84ce070f05de75474c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/de_DE/26b4210e9e81054e6b7da79d713725ac.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_92_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_92_C"
+    },
+    {
+      "id": "01JYP9SVPJM1BFRD0VTVMMV0VZ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/en_US/684a3313233e6286a27e22437f414748.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_ea563317ed5975de1b68df23bb242f85",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_693a832e557f2cada098fd82e685378a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/WEB_ee431e6f3e1e066c193b81590bb649b0"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_92_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Peddler",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_92",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/fr_FR/e222c40212904716f994b1397bef0e60.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/en_US/684a3313233e6286a27e22437f414748.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/it_IT/318e9d95355c0e923165add0ed154513.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/es_ES/4de49ad718854462013835518ae52feb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_92/JPG/de_DE/6819e97b6c77af3eaf0a619523334fc2.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_92_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_92_R1"
+    },
+    {
+      "id": "01JYP9SVPM76ZHZ11ZWCF0564K",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/en_US/855c9ec0808a2f59f1415fd555f85d1f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_05005324da2ae4bdac893431c296efc0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_e2b4842f367090ed49e82d1988eb1e9b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_25d01a2f9d98fe2a8e01c166e6326fe1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_97_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Haven Trainer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_97",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/fr_FR/4d8129e9458bbaba87043702b0901b74.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/en_US/855c9ec0808a2f59f1415fd555f85d1f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/it_IT/2bb5b53b1ff69a38b6a5761ed3e334e7.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/es_ES/d507b755bbdeed729a8ba0903e1e10e0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/de_DE/f38fb769469eb98f43311f2234ac81ed.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_97_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_97_C"
+    },
+    {
+      "id": "01JYP9SVPM76ZHZ11ZWCF0564P",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/en_US/3fa051f0dbfb6208d1f2cff0b436b501.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_05005324da2ae4bdac893431c296efc0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_e2b4842f367090ed49e82d1988eb1e9b",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/WEB_25d01a2f9d98fe2a8e01c166e6326fe1"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_97_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Haven Trainer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_97",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/fr_FR/a0292fe62bcf6fc47567701aa3e91a5d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/en_US/3fa051f0dbfb6208d1f2cff0b436b501.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/it_IT/08519e1afa867ae834012b76f9e439a8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/es_ES/45535bb86495cf0233c94e16bd50d18e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_97/JPG/de_DE/25cc0ec80ed938df43f0c3ca83762162.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_97_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_97_R1"
+    },
+    {
+      "id": "01JYP9SVPH3HCF7N3T783TBGBQ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/en_US/9c134b2efe275a936b39374ae8182814.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/WEB_4e3d5e61f833950b2dc2251b9bc362a4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/WEB_ec41100cefff680dea39ecaa9a7094d9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/WEB_d6d6b2ba583c40236b6830b5430f6ae8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_89_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Kedarm",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_89",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/fr_FR/e78c458e5345cda6e925c746cb9929c4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/en_US/9c134b2efe275a936b39374ae8182814.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/it_IT/231a4ea1a6233d9a8795aed3a2e8d1fe.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/es_ES/7f8ce2afa1695a03bf6361a58eaeff23.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/de_DE/cc6c0c841e3835e8428322022721ea1b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_89_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_89_C"
+    },
+    {
+      "id": "01JYP9SVPH3HCF7N3T783TBGBT",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/en_US/3c7184705532040feaf7852c40225da6.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/WEB_4e3d5e61f833950b2dc2251b9bc362a4",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/WEB_ec41100cefff680dea39ecaa9a7094d9",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/WEB_d6d6b2ba583c40236b6830b5430f6ae8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_89_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Kedarm",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_89",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/fr_FR/4229eae2e56437df099fe679c4860dcf.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/en_US/3c7184705532040feaf7852c40225da6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/it_IT/6bfb2370c787e33e794d524a02642a45.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/es_ES/6e88e794c43c2b1cff65052ee11e5cd8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_89/JPG/de_DE/0122ad8800aa2f5ac0826a8874f4d9dc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_89_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_89_R1"
+    },
+    {
+      "id": "01JYP9SVPNWW5BH3NJWZJTJ4FZ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/en_US/e6b2574c940a4908c3368fe2daf4488c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/WEB_b0da87535c55906593f45e794283134e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/WEB_de87f6df63dce5d57939d6d433d31e9c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/WEB_c1e1eb452c0c7908d35c13790f37f6b4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_101_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Departed Brother",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_101",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/fr_FR/111cf207383843771bcde9b01adcef2a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/en_US/e6b2574c940a4908c3368fe2daf4488c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/it_IT/e71b696f79db870957e6c068c132d79a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/es_ES/201547ad916564484cb69cf237e4d47c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/de_DE/172e567f5cd8ea08e500e47bb8c4617d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_101_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_101_C"
+    },
+    {
+      "id": "01JYP9SVPNWW5BH3NJWZJTJ4G2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/en_US/9b74b65b3af69bd7944e11698230e45a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/WEB_b0da87535c55906593f45e794283134e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/WEB_de87f6df63dce5d57939d6d433d31e9c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/WEB_c1e1eb452c0c7908d35c13790f37f6b4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_101_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Departed Brother",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_101",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/fr_FR/5bcc6e34e9fe593ae01b09030f548a54.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/en_US/9b74b65b3af69bd7944e11698230e45a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/it_IT/911b0a0f92ef2d469fb072df52098421.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/es_ES/dd3ecad85b6da65068cb5a769c5ecfd9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_101/JPG/de_DE/b36afec1635cb7983ff430fc9d1c9f91.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_101_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_101_R1"
+    },
+    {
+      "id": "01JYP9SVPK0ER66G4YGWRBJP65",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/en_US/6f265bd084699f72e2456e17d05a42dd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/WEB_e88d5e5ee1ba1a6682a36e72b714bd06",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/WEB_85320146fd25fb8bacbccb540d1e3eb2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/WEB_c8fb4f31c33c6d3ad6f06194f5a3e081"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_94_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Fisherman",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_94",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/fr_FR/a7c9dfe969f955e00229011ffe3791bd.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/en_US/6f265bd084699f72e2456e17d05a42dd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/it_IT/1c2c128f18c31bf65475f47c417abeb9.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/es_ES/66d56242da133fac4e6a10865b591279.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/de_DE/f0b7eec64623404b5e199846b198e760.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_94_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_94_C"
+    },
+    {
+      "id": "01JYP9SVPK0ER66G4YGWRBJP68",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/en_US/b07118429869883ee51fcf2571de42f8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/WEB_e88d5e5ee1ba1a6682a36e72b714bd06",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/WEB_85320146fd25fb8bacbccb540d1e3eb2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/WEB_c8fb4f31c33c6d3ad6f06194f5a3e081"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_94_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Fisherman",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_94",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/fr_FR/f2717615d58e58f5268b9e3d709c51cb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/en_US/b07118429869883ee51fcf2571de42f8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/it_IT/5357454d9e5a1980d55a8b67f0d1bce2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/es_ES/6e11f83a9953d74b12c45f0911dc6433.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_94/JPG/de_DE/376f4f91e161682acf229345c69e68f0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_94_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_94_R1"
+    },
+    {
+      "id": "01JYP9SVPK0ER66G4YGWRBJP6Q",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/en_US/d2a5f379682e37a5da0fd24ae94a038b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/WEB_47caab160be68f22f0900daddc3fe730",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/WEB_1cd913c470313e4d5dd9c09109401c01",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/WEB_037355361994f97b6e6e5f657a793bfe"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_96_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Nephele",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_96",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/fr_FR/54e1a69acd56882b1a2a36152cf4a7c3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/en_US/d2a5f379682e37a5da0fd24ae94a038b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/it_IT/8975751eff439ff08d4581cb9b1d3c32.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/es_ES/a47cd070643730f3468693fc8fac9f11.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/de_DE/cdf1e12621f271de25f2fccf78be7163.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_96_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_96_C"
+    },
+    {
+      "id": "01JYP9SVPK0ER66G4YGWRBJP6T",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/en_US/0c7d3c5894a1665dacfe1023d7b12623.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/WEB_47caab160be68f22f0900daddc3fe730",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/WEB_1cd913c470313e4d5dd9c09109401c01",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/WEB_037355361994f97b6e6e5f657a793bfe"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_96_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Nephele",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_96",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/fr_FR/496b2ceaf2780f0301e42fd471b0c6a3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/en_US/0c7d3c5894a1665dacfe1023d7b12623.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/it_IT/09bc1d7d5a24a05cf71923a4625b6c82.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/es_ES/42c0980e976ac385fc064e334bc89e77.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_96/JPG/de_DE/99fb4264f11575d025bf5b8964e0c866.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_96_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_96_R1"
+    },
+    {
+      "id": "01JZJCA2K0EWB5ZH78ZDC25430",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/81dddbb50708ceb86cd7",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/JPG/en_US/b3be38ce7e40472be92b74034f3c9288.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/WEB_5895767a3929bfd1eb286c7e09933185",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/WEB_9afd53906718ef4d662fac6c455b0386"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_A_BR_98_E",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Wanax, Reka Hexarch",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "6"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_98",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/JPG/fr_FR/2ad42a2e02edad8ca33697e951d6d006.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/JPG/en_US/b3be38ce7e40472be92b74034f3c9288.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/JPG/it_IT/fba3685586568a9f9fdc9edf9bdf4db2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/JPG/es_ES/94255085cdd90a6677e2ff528df16e05.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_A_BR_98/JPG/de_DE/cd40eca719e007984ac4acb1ddbfc4f9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_A_BR_98_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_A_BR_98_E"
+    },
+    {
+      "id": "01JYP9SVPM76ZHZ11ZWCF0564Z",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/81dddbb50708ceb86cd7",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/JPG/en_US/ce3067d367aad6cbd88240b29ab98d91.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/WEB_f96807ffeecf8263809d792b522b3577",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/WEB_b6ddc78425d85a1379a7d5f0dca5fb78"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_98_E",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Wanax, Reka Hexarch",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "6"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_98",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/JPG/fr_FR/d33469e7d807592241d4369361196de1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/JPG/en_US/ce3067d367aad6cbd88240b29ab98d91.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/JPG/it_IT/3492b01f6ac29ea539230319ad4c3478.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/JPG/es_ES/bf612e498fbd01dff22d927d898c0506.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_98/JPG/de_DE/0cdc16c4f3f203ca6553124d719982e3.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_98_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_98_E"
+    },
+    {
+      "id": "01JYP9SVPM76ZHZ11ZWCF05655",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/en_US/85f5ca698baf5ecf9b7fa80b79e4129d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/WEB_e6779dca2ea258f67e5221d8bd1db50e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/WEB_7c66b9cb297dd1eee3d1a92655623cef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_99_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Market Encounter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_99",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/fr_FR/91ead8fc2e69a56f84523a26b49e321c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/en_US/85f5ca698baf5ecf9b7fa80b79e4129d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/it_IT/f1c324602470d52a42d9dad93932f10a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/es_ES/a6db50810993e6da30ffcfe8153d1d56.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/de_DE/5321df03c5eb750e94063edd4864f271.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_99_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_99_C"
+    },
+    {
+      "id": "01JYP9SVPNWW5BH3NJWZJTJ4FG",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/en_US/fa5dd29a0f145903d70a2f4b15d803c3.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/WEB_e6779dca2ea258f67e5221d8bd1db50e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/WEB_7c66b9cb297dd1eee3d1a92655623cef"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_99_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Market Encounter",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_99",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/fr_FR/c633d4d9a049f8797e7112fa6b2490cc.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/en_US/fa5dd29a0f145903d70a2f4b15d803c3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/it_IT/a8a0421e1528b9ea3a55b94481e8530c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/es_ES/7f5f9f325d4652ae90f69dd9c97ed7ed.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_99/JPG/de_DE/46f6f77e018fb1bb2263664444ecda36.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_99_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_99_R1"
+    },
+    {
+      "id": "01JYP9SVPNWW5BH3NJWZJTJ4FP",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/en_US/1e0ab33a35cb3b8cc0aff08537ba9e17.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/WEB_261489635c76ec7bcd4fd21242453c94",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/WEB_5e6b25311a851f10ca4c2f5849593234"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_100_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Catch of the Day",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_100",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/fr_FR/90370d43d731019d31e5c34bfbcf23b8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/en_US/1e0ab33a35cb3b8cc0aff08537ba9e17.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/it_IT/bab2485dc5eb29f06a8c93faeabd13e9.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/es_ES/1c6724cd74b22460522883f361410c98.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/de_DE/b460c234d9720d49f5ff82e1d513ca68.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_100_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_100_C"
+    },
+    {
+      "id": "01JYP9SVPNWW5BH3NJWZJTJ4FS",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/en_US/db3f473b118fcc0c571d2313172576ea.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/WEB_261489635c76ec7bcd4fd21242453c94",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/WEB_5e6b25311a851f10ca4c2f5849593234"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_100_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Catch of the Day",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_100",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/fr_FR/28dcdaf4309be532fcb208c96d6a3fac.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/en_US/db3f473b118fcc0c571d2313172576ea.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/it_IT/b60f90f127145c37b0a764fee15db808.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/es_ES/e3126e7d1d0ea11820eff37a25f351f5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_100/JPG/de_DE/0f348d6fa3fa91b7401a487748e2ec2f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_100_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_100_R1"
+    },
+    {
+      "id": "01JYP9SVPNWW5BH3NJWZJTJ4G8",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/en_US/a367a417d2321e1ce61bbcb6c90b2b6f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/WEB_49e6934440c6a4e8a083861c6fbe492e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/WEB_7a4b8e60629f340a04bd5e8148e6eba7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_102_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Rider's Mask",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_102",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/fr_FR/b4dbd8929ae69c3652102a97f09aefec.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/en_US/a367a417d2321e1ce61bbcb6c90b2b6f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/it_IT/fa7cc325b6cceeb1f9c51f4f3d382333.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/es_ES/7526afbe2313a9eb27bcbedb0cc8e68b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/de_DE/084bb3e1a31959228216eb72dc88437a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_102_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_102_C"
+    },
+    {
+      "id": "01JYP9SVPP229TJYQ5Y90NJKFG",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/en_US/0694f3838f9d45e37321d69396282d73.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/WEB_49e6934440c6a4e8a083861c6fbe492e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/WEB_7a4b8e60629f340a04bd5e8148e6eba7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_102_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Rider's Mask",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_102",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/fr_FR/9ff47c89774617c8e713bde4cdd9c202.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/en_US/0694f3838f9d45e37321d69396282d73.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/it_IT/79e579d531ef04a620a713e8a2676753.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/es_ES/f5a78ef6d76281f071292563636252f8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_102/JPG/de_DE/3c7cc98b9752e69d9f5eb5a26fbc82fd.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_102_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_102_R1"
+    },
+    {
+      "id": "01JYP9SVPWD8EX089XC51CERST",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/JPG/en_US/617e5e3258fa8dd784814e477a426d41.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/WEB_08c06c56171293d432eccd3e47483c84",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/WEB_92115b7587c95bb8716f9126eeb3ee5e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/WEB_3c852d392b7fcf28d43f296df91c4e23"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_93_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Diocles, Chariot Racer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_93",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/JPG/fr_FR/5b12b7873ee2df9c2ba7aa9f134deef4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/JPG/en_US/617e5e3258fa8dd784814e477a426d41.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/JPG/it_IT/62c298818caf98834249e5ca1d6c8abb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/JPG/es_ES/24bc88020684c165754817602f2e6801.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_93/JPG/de_DE/cbb702de775c167eb9eae80a72ae0dc2.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_LY_93_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_LY_93_R2"
+    },
+    {
+      "id": "01JYP9SVPXTWN7CSV6RBV03C0B",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/JPG/en_US/8b4dfed93e9470268a410fa480c47619.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/WEB_dc1a365977110dbd95d8b0b3191f2a10",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/WEB_9df641506af1c45bb83ffdf065385c39",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/WEB_23c72b74f1a4b6d2d5f4b6c06a5c6698"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_LY_97_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Lyra DJ",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "6"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_97",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/JPG/fr_FR/92179f7781a3ef116082a225d79d553a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/JPG/en_US/8b4dfed93e9470268a410fa480c47619.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/JPG/it_IT/e2440bb25e5aedce3b8273a4796fe8a0.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/JPG/es_ES/aed9caf815c0a3a3dd5edf15a4b300bf.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_LY_97/JPG/de_DE/7543e4ba8a57bd4bccef20bb71593060.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_LY_97_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_LY_97_R2"
+    },
+    {
+      "id": "01JYP9SVQ20ETDCX0K180V4RSE",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/JPG/en_US/87cc869de35a631a75c25ee25c9683a7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/WEB_d55a113b0830f32602e8fe67df3eac46",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/WEB_612f0515b1f175066d8a4ba71f816f74",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/WEB_c8aed49207f844cdddef3e882ae81430"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_86_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Rabbit Farmer",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_86",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/JPG/fr_FR/42f8b405689560a9190fd88a95f39c56.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/JPG/en_US/87cc869de35a631a75c25ee25c9683a7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/JPG/it_IT/8670c2eddd9b215effd5a1465ce7e970.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/JPG/es_ES/3d847f9017b020db28a428558f11015b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_86/JPG/de_DE/d5db4529b43a3f494d3e90b18e64014b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_86_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_MU_86_R2"
+    },
+    {
+      "id": "01JYP9SVQ46NZXBMT2J9PCKEXN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/JPG/en_US/1b6dbeed370dc768dfa415b58285100f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/WEB_47551b236cb8c5a2e5df964419dcbf36",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/WEB_ada41785826a254b18a049db8949ec75",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/WEB_65248c808ca9de58b85a6f3cd5e308bf"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_88_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Muna Botanist",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_88",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/JPG/fr_FR/ad5348221e329e311362529a11ed51fb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/JPG/en_US/1b6dbeed370dc768dfa415b58285100f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/JPG/it_IT/c6eef7c64b21ad2c95fee57a5c909375.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/JPG/es_ES/44f793c379105d71267a299fd8e47dd5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_88/JPG/de_DE/e46c9c21c8c444146ee7aa6053deae34.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_88_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_MU_88_R2"
+    },
+    {
+      "id": "01JYP9SVQ64CQ9P7A1GXC4E2TG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/en_US/df7dc84a377e0d4d5088da2f47e82658.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/WEB_bf2a2e3d6e63b3d665af1da8778d6796",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/WEB_4fe34fb9f771b1bc023ae006292dccc2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/WEB_1000a7be97bd1281d21b6c8227477897"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_93_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Hesperide",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_93",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/fr_FR/ac664744504862ee9c23d34a0b9a40ba.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/en_US/df7dc84a377e0d4d5088da2f47e82658.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/it_IT/4f14e0b9c75d8b56303b95598b368f41.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/es_ES/ee7f173de47b495cb67b8cf706c9b35f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_93/JPG/de_DE/5a5cb1c7c19e88be5469d0ffee6995b8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_93_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_MU_93_R2"
+    },
+    {
+      "id": "01JYP9SVQ522N4PG7PCMG7VMKC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/JPG/en_US/f86c0931f35e6d9f70226232a6daf132.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/WEB_88a90e2d82eff9312ec36e1410c70347",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/WEB_57ece515800d0d421f194321475cbbaa",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/WEB_8d6e9c6af1ec77fff3c4a6f721e0d590"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_91_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Reka Agronomist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_91",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/JPG/fr_FR/cd7fc855dd61a365a1aa8cb7d1f353eb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/JPG/en_US/f86c0931f35e6d9f70226232a6daf132.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/JPG/it_IT/480352c83c3d82a783b6455855f9d74e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/JPG/es_ES/e6da9670eb7962e290af3328cea2bc2b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_91/JPG/de_DE/bb065e73ea069e6f08530f5420cee83a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_91_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_MU_91_R2"
+    },
+    {
+      "id": "01JYP9SVQ79H5F38WX92X3E1ZB",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/JPG/en_US/948bc8286422abfd7aa4b740087152fd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/WEB_e405262a8b7a0c188da12d0699fbf1e7",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/WEB_975fda231a3728ae5ce5f44c3e66e361",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/WEB_3a24e3ed0bf1c35356dabc515d0444cd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_97_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Son of Naos",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_97",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/JPG/fr_FR/5e862b6c339fd2964f72b3ae99dabef4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/JPG/en_US/948bc8286422abfd7aa4b740087152fd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/JPG/it_IT/b08cb04206eaba201c2ce089bd940c34.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/JPG/es_ES/613a7bdd432aeb0f656cfa1819bcb8e3.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_97/JPG/de_DE/38ff4028a8298a39c3fd9e5dacc6c13f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_97_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_MU_97_R2"
+    },
+    {
+      "id": "01JYP9SVQ8Y39Y6K5GCR157VX0",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/JPG/en_US/c1c74f28df7cd13968ad5351b622a72c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/WEB_78d44fd442907cf53ed8df8ef8bfa273",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/WEB_db674511e67dc8a0f55d776f7be2abed"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_MU_99_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Newton's Law",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_99",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/JPG/fr_FR/fac3d1dd4d320651fd1a191df8093c51.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/JPG/en_US/c1c74f28df7cd13968ad5351b622a72c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/JPG/it_IT/7b72426421d45e9b326bc8b40e3b909c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/JPG/es_ES/5acff7ed0d38e08dcecbe7e71a1ab292.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_MU_99/JPG/de_DE/28419b33cd807a7199aea26d68766d2a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_MU_99_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_MU_99_R2"
+    },
+    {
+      "id": "01JYP9SVQFGHE7Y1AE4TFHAJKN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/en_US/1c30d4dca5132a6784f0cc663db3a9c3.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_516b68f901862760970cda732f05fa19",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_20e394620d2d3af48e56454789a18a4d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/WEB_ead981e4b02208a030c3562ee1843396"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_OR_95_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Kikimora",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_95",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/fr_FR/5205f4742c80fffd7daedb965f05c34c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/en_US/1c30d4dca5132a6784f0cc663db3a9c3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/it_IT/99c7be82baae4e545d94caa1528e2b1a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/es_ES/3a591ed43b37bf5f95974c8d427ae237.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_OR_95/JPG/de_DE/0a76b49540bc29ec17272a8d7d59e6cf.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_OR_95_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_OR_95_R2"
+    },
+    {
+      "id": "01JYP9SVQSZC2VV46PJC59X12V",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/en_US/18e81f9a4e4d01d9c877c8708fd36c63.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/WEB_80fc03c3cad19418528272bd6a4b7465",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/WEB_64b9059d8e71e5354a3f6be9fab61932"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_97_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sports Encounter",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_97",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/fr_FR/65cf6423d84b0d538b51d9a42d4f41f9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/en_US/18e81f9a4e4d01d9c877c8708fd36c63.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/it_IT/b7a6514053ed998634fdcb7ffe654cb3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/es_ES/189116e1e3ed2370033146d7ad24dbad.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_97/JPG/de_DE/3be13690ee2bc0f9e39c0665b50c9539.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_97_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_YZ_97_R2"
+    },
+    {
+      "id": "01JYP9SVQRAXHJ05SE0PQHC9ZR",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/fa998030007c752e110d",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/en_US/2831dfae25c80672dfe496eadb51fdce.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/WEB_bf11568b3617f4e6614e05dc2914bfad",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/WEB_94754dfb31f1903ffa639e29749ce907"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_YZ_95_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Time Out!",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_95",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/fr_FR/708b2e2ecd5e27250bde617dbbe43b3a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/en_US/2831dfae25c80672dfe496eadb51fdce.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/it_IT/ccdf26af6d663891860b138136bd136e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/es_ES/10e83f9d165008acbe6818cc4b895ce2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_YZ_95/JPG/de_DE/4c7cd0afef704d88f57386752a60b63d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_YZ_95_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_YZ_95_R2"
+    },
+    {
+      "id": "01JZJF884A8HKQ8E34XME5A4AS",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTER",
+        "@type": "CardSet",
+        "id": "01K56FXHFTGF3DQ8XE8Q8Y5JG8",
+        "reference": "DUSTER",
+        "name": "Seeds of Unity"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/1571660195345e6a4352",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/en_US/7b5fe037597d5e95da5f7048470c7ac5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/WEB_7d2649edc74ba70f492320014f2747c6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTER_B_BR_83_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Halua",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "BR_83",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/fr_FR/5a25862ff7bf91b8017ef4567eb03332.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/en_US/7b5fe037597d5e95da5f7048470c7ac5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/it_IT/d4a8770e1fbd61599fe066e5c4207193.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/es_ES/5dcd22dcd9d0d4843312a5ab5f911662.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTER/CARDS/ALT_DUSTER_B_BR_83/JPG/de_DE/b85bd0cbfc84298ff3eebbe9ab2702a3.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTER_B_BR_83_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTER_B_BR_83_C"
+    }
+  ]
+}

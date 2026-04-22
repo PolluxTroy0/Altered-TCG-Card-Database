@@ -1,0 +1,274 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 4,
+  "hydra:member": [
+    {
+      "id": "01K57206EG55KZTCPBMJPHG3F9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERTOP",
+        "@type": "CardSet",
+        "id": "01K571ZHWV0VPWZX736JAJEGAP",
+        "reference": "DUSTERTOP",
+        "name": "Seeds of Unity - Box Topper"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/e6bc60a9c3cfbd9e0d61",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/en_US/674d666d06e01c8630aafc705fa92bc0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/WEB_09a805d2e00e6ca54061900fd3931bbc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/WEB_a8800aeed23f18c629e071cad4f5ab86",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/WEB_671e5aace4308836d220e6c1bb09f975"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_04_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Kelon Elemental",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_04",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/fr_FR/e818ce8cef3594e61f4d8e83cb61e968.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/en_US/674d666d06e01c8630aafc705fa92bc0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/it_IT/ef62f76254959b68689a8db86af8d8bd.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/es_ES/01602fcb27d191a3d2229489474e6dff.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_04/JPG/de_DE/bd6abd611a9aba5a8840521b562a8d5f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERTOP_P_AX_04_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERTOP_P_AX_04_C"
+    },
+    {
+      "id": "01K57206ERQ3715XTXVT431JA0",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERTOP",
+        "@type": "CardSet",
+        "id": "01K571ZHWV0VPWZX736JAJEGAP",
+        "reference": "DUSTERTOP",
+        "name": "Seeds of Unity - Box Topper"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/2fd02ed9f56da2735412",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/en_US/e1f8d50063b986d456518e65969eebc7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/WEB_efac9e1200dd5aa297c01ae9f51af131",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/WEB_16266ccb66f1c18263a711025e3679c9"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_20_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Hooked",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_20",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/fr_FR/4d912e05344c3e5c86bd2f33fe8b470d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/en_US/e1f8d50063b986d456518e65969eebc7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/it_IT/4530f6fcf164cdafae019027f0fcff00.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/es_ES/8a926502ede225a7b12d3d2c4e61ebae.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_20/JPG/de_DE/39e71ffd1cd6156708effea4d5dfaae3.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERTOP_P_AX_20_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERTOP_P_AX_20_R1"
+    },
+    {
+      "id": "01K57206ERQ3715XTXVT431JA3",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERTOP",
+        "@type": "CardSet",
+        "id": "01K571ZHWV0VPWZX736JAJEGAP",
+        "reference": "DUSTERTOP",
+        "name": "Seeds of Unity - Box Topper"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/e6bc60a9c3cfbd9e0d61",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/en_US/6be73cb3336288e9f02dd286c8b44894.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/WEB_938e48c9c01879051aa11b6507c27a02",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/WEB_221c90f1ce576681a387bc760975b876"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_41_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Frozen Delivery",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_41",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/fr_FR/15d005ea9bf0f9a4919dd59e9aabdc94.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/en_US/6be73cb3336288e9f02dd286c8b44894.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/it_IT/97e8974b35b098b815e429e992ab249e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/es_ES/80dbf979adb55da0fd29ccfa1a8a631d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_41/JPG/de_DE/d0ee5902f47acd33f5c4c9671798707d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERTOP_P_AX_41_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERTOP_P_AX_41_C"
+    },
+    {
+      "id": "01K57206F1M4C4XZE3DK4B8PB9",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/DUSTERTOP",
+        "@type": "CardSet",
+        "id": "01K571ZHWV0VPWZX736JAJEGAP",
+        "reference": "DUSTERTOP",
+        "name": "Seeds of Unity - Box Topper"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/2fd02ed9f56da2735412",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/en_US/cee87577a4945f729f5df4b462f5bf40.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/WEB_f2cd69e22c6faf7dadbac51560a7853e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/WEB_9241cadf2db2d73c799e753ebe110777",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/WEB_aa1ca329e3b3acf192de5a13bd0abd26"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_DUSTERTOP_P_AX_32_R1",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "The Machine in the Ice",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_32",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/fr_FR/2c4663b81a921660b96a9674a64f476a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/en_US/cee87577a4945f729f5df4b462f5bf40.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/it_IT/bc1e2b965dba4a7284eed8e9d1252818.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/es_ES/bdb131cbe456c9d0fe87064004c7c653.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/DUSTERTOP/CARDS/ALT_DUSTERTOP_P_AX_32/JPG/de_DE/230baa5b46fb37eb7daca00148f753d4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_DUSTERTOP_P_AX_32_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_DUSTERTOP_P_AX_32_R1"
+    }
+  ]
+}

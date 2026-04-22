@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJTDPF7DTXK6G6AYG3RZG5X",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCF25",
+        "@type": "CardSet",
+        "id": "01JTJS48D59114PW9E8Z6SQQTN",
+        "reference": "WCF25",
+        "name": "World Championship 2025 - WORLD CHAMPION CARDS"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/9d8caf39540296e4fcb0",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/JPG/en_US/1f62d3341d5ffb7f200df177ad1d6f19.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/HERO_THUMB_9f660718442d5f733040d349414cb0de"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/HERO_WIDE_086f26d8a473f861309ee4f90e714502"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/WEB_a8e6efc60950b369ddf4856a2559c360"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCF25_P_YZ_01_C",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Akesha & Taru",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_01",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/JPG/fr_FR/4c12cbc25d334d9cbc53d5a195c01c21.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/JPG/en_US/1f62d3341d5ffb7f200df177ad1d6f19.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/JPG/it_IT/579652d15fc47b940755d5a2ae4db280.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/JPG/es_ES/19d6cac2e32e4a1c8060d07b10cb5554.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_YZ_01/JPG/de_DE/fe4cdf4c2157a276bef8a0a8f4cf0ec9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCF25_P_YZ_01_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCF25_P_YZ_01_C"
+    }
+  ]
+}

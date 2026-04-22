@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJTC2SC2MSTG5C3JTZ880C7",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCF25",
+        "@type": "CardSet",
+        "id": "01JTJS48D59114PW9E8Z6SQQTN",
+        "reference": "WCF25",
+        "name": "World Championship 2025 - WORLD CHAMPION CARDS"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/96d9ab7a7b6b34534c2d",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/en_US/81196a238f5e8137e9c055cc8e25dd57.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/HERO_THUMB_36df1cdf6c8d717abf91fa53a2fe701f"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/HERO_WIDE_cacba7d59ee58cb28865805eee83f994"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/WEB_3b2083584ebffdb8750a7f60272618cf"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCF25_P_LY_01_C",
+      "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+      },
+      "name": "Nevenka & Blotch",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_01",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/fr_FR/0c58300fcc4e00b162bce01afb4732ad.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/en_US/81196a238f5e8137e9c055cc8e25dd57.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/it_IT/b3b43e991062db43720243cb4a5919e3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/es_ES/194bbae5a4f40d4aa71cb3db95f5981e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCF25/CARDS/ALT_WCF25_P_LY_01/JPG/de_DE/9824cccbeb7119e8f12fa16694829c5b.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCF25_P_LY_01_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCF25_P_LY_01_C"
+    }
+  ]
+}

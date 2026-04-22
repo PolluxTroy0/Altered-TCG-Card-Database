@@ -1,0 +1,79 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLEOP_P_OR_121_R1",
+  "@type": "PublicCard",
+  "id": "01KGH7QTMRANQ36KWRYXNAXJQT",
+  "reference": "ALT_EOLEOP_P_OR_121_R1",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/e8c590e6abc985744f46",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "reference": "LANDMARK_PERMANENT",
+    "name": "Permanent de Repère",
+    "sequence": 2
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/a67afae5bfc4e5201007",
+    "id": "01KGH7QT3S6RRZK2S0BNBVNH3K",
+    "reference": "EOLEOP",
+    "name": "Les Racines de la Corruption - Jeu Organisé",
+    "description": null,
+    "code": "ROCOP",
+    "isActive": true,
+    "isReward": true
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubTypeDTO",
+      "@id": "/.well-known/genid/a7391c14508ce4382936",
+      "id": "01KA0Z8VM97X93CWTMFTM976E4",
+      "reference": "FEAT",
+      "name": "Prouesse"
+    }
+  ],
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "{J} Créez deux jetons Soldat [1/1/1 Recrue Ordis], distribués dans n'importe quel nombre d'Expéditions.  Lorsque vous passez — S'il y a au moins six Personnages dans vos Expéditions, accomplissez-moi.",
+    "ECHO_EFFECT": "[[Accomplie]] : Lorsque vous créez un jeton Personnage — Vous pouvez m'épuiser pour lui donner 1 boost."
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/81161b4b4be869f2bfe2",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "reference": "RARE",
+    "name": "Rare",
+    "sequence": 1
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/JPG/fr_FR/4b3ab0b027f3dba708805315e277c54d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/WEB_d5b86c733e5b28be7adaa5031e1ccfd0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLEOP/CARDS/ALT_EOLEOP_P_OR_121/WEB_6a48d27b699fc15bc3454e4321f2f286"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/fd69c3fbcbf86e1afed5",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "reference": "OR",
+    "name": "Ordis",
+    "color": "#0f6593"
+  },
+  "name": "Couvrir la Retraite",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLEOP_P_OR_121_R1-FR"
+}

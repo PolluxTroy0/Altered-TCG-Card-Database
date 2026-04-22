@@ -1,0 +1,75 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "id": "01JTJT04XPN848S4D3Z0RNRH2W",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCQ25",
+        "@type": "CardSet",
+        "id": "01JTJS33NQTY6A4RPTM11ARJTX",
+        "reference": "WCQ25",
+        "name": "World Championship Qualifier 2025 - FACTION CHAMPIONS CARDS"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/5a368bf2d3a7edddbe98",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/en_US/0cbab5200ada2477bf5f820f03600730.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_5ab3006ee55028ad530aeb08d2799882",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_c7cf263b11dc8bee353de9d1a9918d97",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/WEB_68c6006f18e06f4b2b0049b2f18140b4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCQ25_P_YZ_05_R1",
+      "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+      },
+      "name": "Moonlight Jellyfish",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_05",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/fr_FR/f664b8bd3c4e0a3c13066927b7bd9fdd.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/en_US/0cbab5200ada2477bf5f820f03600730.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/it_IT/d3a460d6d01134a9d046fce02f5a9627.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/es_ES/e43e2ce31eafe86a4590aa136ade1ea0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCQ25/CARDS/ALT_WCQ25_P_YZ_05/JPG/de_DE/db9e1729167a4bce793a9f41fa0f7467.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCQ25_P_YZ_05_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCQ25_P_YZ_05_R1"
+    }
+  ]
+}

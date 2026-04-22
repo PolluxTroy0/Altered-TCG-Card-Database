@@ -1,0 +1,204 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 3,
+  "hydra:member": [
+    {
+      "id": "01KGWCPAV6A3W6WYR6A68PYWMJ",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCS26",
+        "@type": "CardSet",
+        "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+        "reference": "WCS26",
+        "name": "World Championship Series 2026"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/6a9c99a3419b33c9e058",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/en_US/dc9e89003404e4485f4d12cb257fc865.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/WEB_abe0298ebae89f684c5f0c21e669ae20"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_A_AX_31_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_31",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/fr_FR/92a88335f3355ee0f18a0df792eea866.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/en_US/dc9e89003404e4485f4d12cb257fc865.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/it_IT/1c5cb4a1f774d4eaf39b14c33825ae80.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/es_ES/e527bddf6fb313bdd5a59c8d0ff2f56d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_A_AX_31/JPG/de_DE/e4ebcd92ce35aaef862de6d1af202acc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCS26_A_AX_31_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCS26_A_AX_31_C"
+    },
+    {
+      "id": "01KGWCPAV8R1WPHH580YN7JSVZ",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCS26",
+        "@type": "CardSet",
+        "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+        "reference": "WCS26",
+        "name": "World Championship Series 2026"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/6a9c99a3419b33c9e058",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/en_US/a62bf245f8e0fdf43bc3083745ab12e3.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/WEB_81d841717c8c39bffd9e0c624b503395"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_AX_31_C",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Brassbug",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_31",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/fr_FR/26bfd5225de457c4ce830227c53a0b80.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/en_US/a62bf245f8e0fdf43bc3083745ab12e3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/it_IT/7e799cf3ec2845bc56e6ff7c745f83c4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/es_ES/44977410f17e206ac47bf51fafec718c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_31/JPG/de_DE/01138c583e2203695c850fd4ee562adc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCS26_P_AX_31_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCS26_P_AX_31_C"
+    },
+    {
+      "id": "01KGWCPAV2BJKD1ZV08X10MHDK",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/WCS26",
+        "@type": "CardSet",
+        "id": "01KGWCP9XAFCTT89T9VRTED92Z",
+        "reference": "WCS26",
+        "name": "World Championship Series 2026"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/f25c6cf53d5f6306614c",
+        "reference": "EXALTED",
+        "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+        "name": "Exalted"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/en_US/32473176fc4163ee652fcea7808f9ffe.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/WEB_7ff2d0ae4352df051f528ecd50cbb339",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/WEB_6f669d95c0f23b9ac54d0c762b7d09df"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_WCS26_P_AX_95_E",
+      "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+      },
+      "name": "Sphura, Reka Hexarch",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_95",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/fr_FR/a653118eed7313c6204074d505188d14.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/en_US/32473176fc4163ee652fcea7808f9ffe.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/it_IT/039ec2225a460f898ca72436b862461c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/es_ES/28e7422b89cdc12882c08336fa2a8745.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/WCS26/CARDS/ALT_WCS26_P_AX_95/JPG/de_DE/5ce7788119fd1c0dac578e3d516d4abb.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_WCS26_P_AX_95_E",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_WCS26_P_AX_95_E"
+    }
+  ]
+}

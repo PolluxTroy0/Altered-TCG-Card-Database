@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/PublicCard",
+  "@id": "/public/cards/ALT_EOLETOP_A_BR_105_C",
+  "@type": "PublicCard",
+  "id": "01KFBFEZBZM4HWFT1Q98RTSZ4S",
+  "reference": "ALT_EOLETOP_A_BR_105_C",
+  "cardType": {
+    "@type": "CardTypeDTO",
+    "@id": "/.well-known/genid/ab7224eadb6ccdfa8809",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "reference": "HERO",
+    "name": "Held",
+    "sequence": 3
+  },
+  "cardSet": {
+    "@type": "CardSetDTO",
+    "@id": "/.well-known/genid/9d4eb0ab8232fcc3aa15",
+    "id": "01KFBFEYEN6ZQAFJYJPFWMZ1KT",
+    "reference": "EOLETOP",
+    "name": "Roots of Corruption - Box Topper",
+    "description": null,
+    "code": "ROCTOP",
+    "isActive": false,
+    "isReward": true
+  },
+  "cardSubTypes": [],
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "",
+    "MOUNTAIN_POWER": "",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MAIN_EFFECT": "(Behalte während der Nacht bis zu drei Karten in deinem Wahrzeichen-Bereich.)  Zum Mittag — Falls du eine Heldentat kontrollierst, erschaffe eine [Rost 0/0/0]-Marke in deiner Gefährten-Expedition. (Sie ist ein Gefährte mit „{J} Ich erhalte 1 Verstärkung pro Heldentat im Status [[Vollbracht]] in deinem Wahrzeichen-Bereich“.)",
+    "ECHO_EFFECT": ""
+  },
+  "rarity": {
+    "@type": "RarityDTO",
+    "@id": "/.well-known/genid/df7a5b171eb753a74f87",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "reference": "COMMON",
+    "name": "Common",
+    "sequence": 0
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_BR_105/JPG/de_DE/6d67aa0d25e6f286053f542bf9dc207e.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/EOLETOP/CARDS/ALT_EOLETOP_A_BR_105/WEB_b65ebac9e03cf25118517d7b8556d2f5"
+    ]
+  },
+  "mainFaction": {
+    "@type": "FactionDTO",
+    "@id": "/.well-known/genid/bd4a3a25b4d26dac8c69",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "reference": "BR",
+    "name": "Bravos",
+    "color": "#c32637"
+  },
+  "name": "Gretel & Rust",
+  "isSuspended": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isOwnerless": false,
+  "inSale": 0,
+  "lowerPrice": 0,
+  "lowerOfferId": "",
+  "isExclusive": true,
+  "collectorNumber": "ALT_EOLETOP_A_BR_105_C-DE"
+}

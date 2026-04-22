@@ -1,0 +1,3680 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 55,
+  "hydra:member": [
+    {
+      "id": "01J1Q4P4RPMZ8VWX4YR153F1YC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/JPG/en_US/1e6debfd97f7ce54c44a3a29a382790c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/WEB_0048c37061f37d8a77598fd84f62a929",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/WEB_a2dca4b7b0743e4fd6d10207bd7110cc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/WEB_a25f3a9fc1e5f0e6517e2b8718f336af"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_34_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Little Match Girl",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "AX_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/JPG/fr_FR/d1467300ae91fdc00c8491ee33d304c6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/JPG/en_US/1e6debfd97f7ce54c44a3a29a382790c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/JPG/it_IT/39505da92c382022d89f45b3381c7bc3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/JPG/es_ES/39727087d0d0086bf28d54ea7206474b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_34/JPG/de_DE/921cca018bf63b697ebb4b4d673fbdbd.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_AX_34_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_AX_34_R2"
+    },
+    {
+      "id": "01J1Q5GPHAMA0GR0E7ZJA88MKD",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/en_US/c8e4186b7999da603b5362409a82138d.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/HERO_THUMB_43f7020c96eea3c12e22c8c4f87301e2"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/HERO_WIDE_36d6cfc358d533d2bd2fdf719dd2eb23"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/WEB_faa330e336098ded20dec8b3b62198e7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_01_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Kojo & Booda",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_01",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/fr_FR/6590cfa1ecc3b11875d9dba6743340a2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/en_US/c8e4186b7999da603b5362409a82138d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/it_IT/633a322d52c8c809e962bbeb12303af4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/es_ES/009b478c5e89e9d3ecbf92d236d29ec2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_01/JPG/de_DE/4ecec03e1d4e37266f6caee2421ad0dc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_01_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_01_C"
+    },
+    {
+      "id": "01J1Q5HPCJKHA6HASE49JNA2WX",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+        "@type": "CardType",
+        "reference": "HERO",
+        "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+        "name": "Hero"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/en_US/03f9d7221026c68e1a6cab58d3c8d2e2.jpg",
+      "assets": {
+        "HERO_THUMB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/HERO_THUMB_cd4d6d9c838eddd421b2a3b1e1bfd7ca"
+        ],
+        "HERO_WIDE": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/HERO_WIDE_744b619596eb95e9522fea71f77d4faf"
+        ],
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/WEB_f41387cdaa1212b428e38b15cc93cb33"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_03_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Basira & Kaizaimon",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_03",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/fr_FR/12d12587095ceaf5023f74b0181c8819.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/en_US/03f9d7221026c68e1a6cab58d3c8d2e2.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/it_IT/34622479d6064a08d2e979954b78cb3c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/es_ES/0e2c54bd2311aeb6a1430a9104b84e90.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_03/JPG/de_DE/f64e0d0bc73a2c68db856903ecec6126.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_03_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_03_C"
+    },
+    {
+      "id": "01J1Q4P4S0NB0MZ5JKYA2527DN",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/en_US/526ef42a6e401fcdb0d19965d658ef50.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_ecd22757d73477fd48b6bcc15e233f6d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_009a5ebbc48a0c9e221efbfeadd4a138",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_0a6b07195d27235c0c876f928511c6f6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_32_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Fire Rabbit",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_32",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/fr_FR/9a92ece96e74fcb3eab326d5e1e07a14.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/en_US/526ef42a6e401fcdb0d19965d658ef50.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/it_IT/f0f591726551d6a8c519e4fd92858a4c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/es_ES/b696a0ad5a36769841eb28d43f3e52bb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/de_DE/bfe1370bffe2c1872c91dbccc7fa5339.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_32_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_32_C"
+    },
+    {
+      "id": "01J1Q4P4S0NB0MZ5JKYA2527DR",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/en_US/d712c64f610a7a809dc455e4eb6d70be.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_ecd22757d73477fd48b6bcc15e233f6d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_009a5ebbc48a0c9e221efbfeadd4a138",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_0a6b07195d27235c0c876f928511c6f6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_32_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Fire Rabbit",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_32",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/fr_FR/18fbb593e654237cd0292f0ca2bbbac5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/en_US/d712c64f610a7a809dc455e4eb6d70be.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/it_IT/6028b03d8a130ce0ecde71ddb7af6bbf.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/es_ES/b21ebb24987ffb8e2b5833e64439bf07.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/de_DE/8cf3a85740a8ec27822b6d21d47c1bff.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_32_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_32_R1"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HED",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/b903a40572178f04306f76eb3145a20b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d865360de938c343bfd21be56818dca5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_4101215de65acd5aecd43196530dc333",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d6bc73bb04247722faba819da0ae4fe6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_34_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Haven Seiringar",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/fr_FR/a54f4cae4c24866b00fe464894b8f700.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/b903a40572178f04306f76eb3145a20b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/it_IT/d1bf89802cc1ed721b11f22bfd045916.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/es_ES/c11fb68091bee982fcd1d332da34c12d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/de_DE/32add9bea5c0b78a327f8f2d8c809d1d.jpg"
+      },
+      "cardHistoryStatus": "SUSPENDED",
+      "isSuspended": true,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_34_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_34_C"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HEG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/9330d0010cfcc256f02630319c457e1e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d865360de938c343bfd21be56818dca5",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_4101215de65acd5aecd43196530dc333",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/WEB_d6bc73bb04247722faba819da0ae4fe6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_34_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Haven Seiringar",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_34",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/fr_FR/640fb442a55d1b08eff6799df7500c38.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/en_US/9330d0010cfcc256f02630319c457e1e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/it_IT/79fce0969de4bdf24b1aa56680a497a2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/es_ES/158a12080cb9dc30d610d96f42aab4e8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_34/JPG/de_DE/947d243335b2b6444e47af9ba9723bbc.jpg"
+      },
+      "cardHistoryStatus": "SUSPENDED",
+      "isSuspended": true,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_34_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_34_R1"
+    },
+    {
+      "id": "01J1Q4P4S0NB0MZ5JKYA2527DY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/aa2667008830fcd2125cf4fb40d0289d.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_7a3b8b578540a11a0424b8db1e7b3ca1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_4826f87809b72319b9d4debeded29cb8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_ae0e6fdee2145e21bee716f650ff0b14"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_33_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Skadi",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_33",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/fr_FR/d1a1fadf76625388151cc2726a8d9248.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/aa2667008830fcd2125cf4fb40d0289d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/it_IT/0a3289518485cd04cc4a47d6eaf72fc2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/es_ES/4279d7389e01779bc61248bdb624722b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/de_DE/8a79d0ccbb9e817f3ec200adc40fa052.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_33_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_33_C"
+    },
+    {
+      "id": "01J1Q4P4S0NB0MZ5JKYA2527E1",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/b4983ec01973f821633ea3f01e734cb1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_7a3b8b578540a11a0424b8db1e7b3ca1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_4826f87809b72319b9d4debeded29cb8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/WEB_ae0e6fdee2145e21bee716f650ff0b14"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_33_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Skadi",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_33",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/fr_FR/356d07d4ee2d29f90a1dada0fe27f368.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/en_US/b4983ec01973f821633ea3f01e734cb1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/it_IT/1b02f66785826e669f06144a7d1da55e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/es_ES/ea9a00bc30359f0bbfeda1db8fbfeb45.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_33/JPG/de_DE/84d8ef738e7002f6587cbdb645340da1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_33_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_33_R1"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HES",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/86dc85e15e4b2cbf8bb861f650285e8a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_aaa6686002e7acd962fbd6ba1553b83e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_e17e17996b43565b3ff9397cc1defa39",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_5ec0e03b5a1389a867d4128c6c1b0f40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_35_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Trailblazer",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/fr_FR/09ce1c307cead9b9db57b9bb50d24307.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/86dc85e15e4b2cbf8bb861f650285e8a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/it_IT/5f352225e77d0d0c73badd98f8023f91.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/es_ES/e9328f8c4d084aa4482c822b6a3f82c7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/de_DE/fda39d691e923e21d4bc7bc52677bd3a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_35_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_35_R1"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HEZ",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/432a1271454ce8cce641291a34de0ba0.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_36_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Rescuer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/9d4805e10f9d95d239e2f61c2b681f65.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/432a1271454ce8cce641291a34de0ba0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/01fc885300e4e08a9adb129c68e9ebdf.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/d7523a778191eece4a4135d7289cf312.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/56b8d6b284ecd9c95db38d1e5abb5c73.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_36_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_36_C"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HF2",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/492704a7834866604a86eba1be13f57f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_7d12689d4a40063df30beb0bf9ece902",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_939ef3ed4617f3cd30dca7093809cd4e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/WEB_160a421ab9230aae2d52bc2d8422ef17"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_36_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Rescuer",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "1"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/fr_FR/402711750ea09dbd0208ac8daee12c3b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/en_US/492704a7834866604a86eba1be13f57f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/it_IT/859dd85b2507cdca423acd02440de8a1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/es_ES/df35c443144c42b2b8469f977690979d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_36/JPG/de_DE/42872a491127600e57345c87c26073db.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_36_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_36_R1"
+    },
+    {
+      "id": "01J3GQSMDBAHDHFMS7YN4DN63V",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/en_US/7f1450688543f3c07d2e471ec0e4f713.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_3d00216d0ed0cbdde307af3590b55dca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_20599b71ed48f0778f89a7e61d817f29",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_d7e30df8414ad334bd1990f62f9a8878"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_BR_37_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Gericht, Revered Duelist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/fr_FR/35eed8a3a51ac81205d3dd4d3cd0fde7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/en_US/7f1450688543f3c07d2e471ec0e4f713.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/it_IT/169be9c674bed18e7e008b3ecac02a51.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/es_ES/5769d36b2799e293061a5cb1e34a81d9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/de_DE/a4097513ca982992a2857229186a125c.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_BR_37_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_BR_37_C"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HF8",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/985f6fa391304a3e8ab95ee43b6a9ef7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_a477e8714effca6d21e0e4352d77c88c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_3a1fa859f2bc4925d6dfef9e5547b0a1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_b4d1091b60e80de4e02a43fbac01437c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_37_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Gericht, Revered Duelist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/fr_FR/0b5dad69e0d26ed7e7de2a6d0b1429e8.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/985f6fa391304a3e8ab95ee43b6a9ef7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/it_IT/528946981f2210830ce9747eb20157c1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/es_ES/723e0c8a7a62af88385ce2970dd24f00.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/de_DE/df67fa0ad833503490ed03c4be8fcba9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_37_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_37_C"
+    },
+    {
+      "id": "01J1Q4P4S252NTDGDSJ5AV5V58",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/f6a1f42c9aae4e2c0f5272dc07185194.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_a477e8714effca6d21e0e4352d77c88c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_3a1fa859f2bc4925d6dfef9e5547b0a1",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/WEB_b4d1091b60e80de4e02a43fbac01437c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_37_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Gericht, Revered Duelist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/fr_FR/d4fb815ae3f62e675765867ac789e556.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/en_US/f6a1f42c9aae4e2c0f5272dc07185194.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/it_IT/8c5f947b20aba806e4862a7803327170.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/es_ES/cf8c4e5f56f2ad05edae3d4ae807a246.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_37/JPG/de_DE/83e71b7cf339e86fb5cebd826d5b41be.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_37_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_37_R1"
+    },
+    {
+      "id": "01J3GQZMVY7A3W1EK9KAKGFH1B",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/en_US/6e19bf41533ef7c5e24ef25cdbb51a9a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_3d00216d0ed0cbdde307af3590b55dca",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_20599b71ed48f0778f89a7e61d817f29",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/WEB_d7e30df8414ad334bd1990f62f9a8878"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_BR_37_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Gericht, Revered Duelist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/fr_FR/8660dce01fd5bc4052f88f865309fc07.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/en_US/6e19bf41533ef7c5e24ef25cdbb51a9a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/it_IT/406a2973f2692d90271545396afb2e46.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/es_ES/40178d2af06608957df265691f28b658.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_37/JPG/de_DE/b4ea0c174cac22f2156ab49974621553.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_BR_37_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_BR_37_R1"
+    },
+    {
+      "id": "01J1Q4P4S252NTDGDSJ5AV5V5E",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/en_US/83eab8e5753f7dbb357412db2e2414aa.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_f798d55df97d4aade5bc2bbcfc5894b6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_e697573a2210993c9f37f625fb0a79c3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_19f60f2e3c9a49cd754bcd74dba598ca"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_38_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Akhlut",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_38",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/fr_FR/143d1d7161c498c0d63e4af8ea8e07c5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/en_US/83eab8e5753f7dbb357412db2e2414aa.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/it_IT/9b7869527604b21466752d647e8335bc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/es_ES/5fb440db2c5125c37ff06d6b32b7100b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/de_DE/8b1f9ecdb7fee35d2eb33b87c981f015.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_38_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_38_C"
+    },
+    {
+      "id": "01J1Q4P4S252NTDGDSJ5AV5V5H",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/en_US/6696e6bbcef95f70e5a0b027ca2e3853.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_f798d55df97d4aade5bc2bbcfc5894b6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_e697573a2210993c9f37f625fb0a79c3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_19f60f2e3c9a49cd754bcd74dba598ca"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_38_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Akhlut",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_38",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/fr_FR/8703ca8376761a45102ed9e0d9d283ee.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/en_US/6696e6bbcef95f70e5a0b027ca2e3853.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/it_IT/471c0863221dbc6f094646d59f11b522.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/es_ES/b00f67de8ba7c276cfa5d1f470f6aa2c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/JPG/de_DE/e99b843e39296f0992ec1051c106dfe0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_38_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_38_R1"
+    },
+    {
+      "id": "01J1Q4P4S252NTDGDSJ5AV5V5Q",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/en_US/9cf9fa9d4423151052d6b4e7672f6517.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_81ecdeb6e09211ea482c7ea1718052a8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_19c84c0c5be4956b6966563f12605d81",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_8d1d7c0793a51888666687472aa27522"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_39_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Amarok",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_39",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/fr_FR/2bcd2dfaab87dde8895204d83ce7fe4b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/en_US/9cf9fa9d4423151052d6b4e7672f6517.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/it_IT/2c1875b7f3b3913e6d48cbc72915e542.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/es_ES/69abd6cd4ee4094661cac9494cd82255.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/de_DE/8a820b4b560b67c6694cd15743da24c0.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_39_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_39_C"
+    },
+    {
+      "id": "01J1Q4P4S252NTDGDSJ5AV5V5T",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/en_US/737750ad33a01f8d720825dc84a790c5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_81ecdeb6e09211ea482c7ea1718052a8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_19c84c0c5be4956b6966563f12605d81",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/WEB_8d1d7c0793a51888666687472aa27522"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_39_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Amarok",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_39",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/fr_FR/c38b9d5d7bb69c2ad2aca8911438931a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/en_US/737750ad33a01f8d720825dc84a790c5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/it_IT/664d6f0d28fb35edb779e67560ccd62c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/es_ES/5308901bb268fb71ea8405501761cc21.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_39/JPG/de_DE/7e8a7d9f622de3ba905dde5483e99625.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_39_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_39_R1"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM5R",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/en_US/0ac9ad8dcb0d85536935c0e6a83830a2.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_f69710c9195e8989f244b4a338aef698",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_12469b52894652ee0285f23ee03b4011",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_c3c06302bfbb9c9a746aa3af462ebbc6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_40_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Eros",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/fr_FR/bcc2880d1688be78ba4433a0e3f5cac1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/en_US/0ac9ad8dcb0d85536935c0e6a83830a2.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/it_IT/a91e9636966e02259a0e388fedddd3ae.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/es_ES/fc375f745c8d9fdfd297b8a035300844.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/de_DE/39b088916ee4b6cd81a0d1cf537e4ddc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_40_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_40_C"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM5V",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/en_US/39f056ee0308497fa4b3b1cd4c0a8343.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_f69710c9195e8989f244b4a338aef698",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_12469b52894652ee0285f23ee03b4011",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_c3c06302bfbb9c9a746aa3af462ebbc6"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_40_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Eros",
+      "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/fr_FR/c476da34ca739e340f1148ee1a1abf97.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/en_US/39f056ee0308497fa4b3b1cd4c0a8343.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/it_IT/f6bd412da5bbc4dd6d797c76a3f4dd2e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/es_ES/411fb5bba5f1582675cd353ace2227d5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/JPG/de_DE/7cc586760b88ffc5ca74b2ef89c50d33.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_40_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_40_R1"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM6A",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/615cebc0768a0daa395995367d9f4c69.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_a02a6b9dbe2bfe28fe3b1b705408ecd0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_bca9d6588d88cb89e95af16a25e8ea84"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_42_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Geyser",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/fr_FR/ce85e6bfec0c0694fb179be5c52be4f6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/615cebc0768a0daa395995367d9f4c69.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/it_IT/5691eb3706f85edb03d689c254fe28d1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/es_ES/15c01f8f989214d039c7bc4e2babd591.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/de_DE/6024a09bdf1f14c87a98fe9860a01df8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_42_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_42_C"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM6D",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/536517df193c2562e303edff5c7ae7ed.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_a02a6b9dbe2bfe28fe3b1b705408ecd0",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/WEB_bca9d6588d88cb89e95af16a25e8ea84"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_42_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Geyser",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/fr_FR/4c28bf46d8d16d099a24c1363eb1ff53.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/en_US/536517df193c2562e303edff5c7ae7ed.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/it_IT/06ab4e35d67e5436a1282445c4084cde.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/es_ES/026008eab8489d55f429ed1987e8b7e7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_42/JPG/de_DE/27d22244b777fff8f0fe787208ba4d93.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_42_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_42_R1"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM61",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/en_US/6e82fbed3c0d014949f6cb0a207c5d65.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/WEB_4088e5b0878c75dd2ab32c8716884a54",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/WEB_8dc2e2ba263e003c4b425dce57e2e4d7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_41_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Mana Flare",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_41",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/fr_FR/c81bf73453d59ad99bf85e476891575b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/en_US/6e82fbed3c0d014949f6cb0a207c5d65.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/it_IT/51cd047a082746896f07d2440e232e75.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/es_ES/d9e2de66d69ebef87939e9ee21675702.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/de_DE/e94f718b8d9aa712433ee0dda5f68db6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_41_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_41_C"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM64",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/en_US/3b1710c84b679ba5901d7fdbbba121be.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/WEB_4088e5b0878c75dd2ab32c8716884a54",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/WEB_8dc2e2ba263e003c4b425dce57e2e4d7"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_41_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Mana Flare",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_41",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/fr_FR/1b3fdde51b199c7334d3ade065938f2e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/en_US/3b1710c84b679ba5901d7fdbbba121be.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/it_IT/3a72f2a1cab91fb3e823ccbd07eb8867.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/es_ES/c8dccbe9284ebe68c0e5b08894998a9c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_41/JPG/de_DE/f067d716ea6154b8cf643d28299c16df.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_41_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_41_R1"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMWP",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/603157aad263bee871665bb973e40fd1.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_44_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Technical Boots",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/bad321016bf955bab9a9b8d64b7bc084.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/603157aad263bee871665bb973e40fd1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/f90a2489dccf431ac2a8de549b924a42.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/aa0cc6acf9c041f0e366b5521e84ad43.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/202bd21e8e58b179a5f7a5ad2014aef6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_44_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_44_C"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMWS",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/62ecdddb2f8dd61a5a1d352c31a2c97f.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_279571b768bb272a3ff12c59a0520f95",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/WEB_7035156d55cac81037a43930cb962eb4"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_44_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Technical Boots",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/fr_FR/3fe581a3ed2b950e438e443921a63c66.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/en_US/62ecdddb2f8dd61a5a1d352c31a2c97f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/it_IT/d87a0aa3dc316e8032cf7766788ed886.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/es_ES/5cd63ecb5776d241c7e6b87464b5dfc8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_44/JPG/de_DE/72045a1416c0d8a42ff899688ad97f52.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_44_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_44_R1"
+    },
+    {
+      "id": "01J1Q4P4S3CD549S9SSC7PCM6K",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/7fa162ed4c816097f9b015f5ae5fb3fd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_45f8342b1460275baf5510f97cf3d031",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_88dc4094659aabdee36cdce5e6c6ce0f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_43_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Arcolano Milk",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_43",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/fr_FR/6303bf08d427162157e64cbade63cc04.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/7fa162ed4c816097f9b015f5ae5fb3fd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/aacf8c8e411d49639c65515a9c871813.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/es_ES/c1cc19f6a8620d0a5a23ed7e8a0e8df6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/de_DE/e42ac3fc34e29fcfffc87dfa64665518.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_43_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_43_C"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMWG",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/c9d8c4700c49578f8096471d3d073078.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_45f8342b1460275baf5510f97cf3d031",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/WEB_88dc4094659aabdee36cdce5e6c6ce0f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_43_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Arcolano Milk",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_43",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/fr_FR/5f16b9e583fa23175ed5160ee3cebd09.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/en_US/c9d8c4700c49578f8096471d3d073078.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/it_IT/c3c8a785ad1505959b9c3ce54547ad64.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/es_ES/035b1b4b2a0ddfe47f2ec3e73fee076a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_43/JPG/de_DE/9432ebcd8a42a68df56e7b62ccdceaa3.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_43_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_43_R1"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMWZ",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/5ad2ad591bec12d0aebdd401008720ae.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_cb1253ea3f514e5d953a7722481ea999",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_c6bbe0c97c23fac3b09bbc79ca452729"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_45_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Eat Me Energy Bars",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/fr_FR/7d40372297805ceef56f66191f1d836e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/5ad2ad591bec12d0aebdd401008720ae.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/it_IT/bf2ef999c8ab3a1814eb5424aeafd50e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/es_ES/701aabc3fcc27a802328a2e9916965e2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/de_DE/e85f2931c389ace029020dbe8951a110.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_45_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_45_C"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMX2",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/6ad768e6662c88c09a26794990f965c7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_cb1253ea3f514e5d953a7722481ea999",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/WEB_c6bbe0c97c23fac3b09bbc79ca452729"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_45_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Eat Me Energy Bars",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_45",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/fr_FR/0db086935286768088fe0e2bba92947e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/en_US/6ad768e6662c88c09a26794990f965c7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/it_IT/8e6cff509828f39e80a98b2b542b5727.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/es_ES/653fe3fed0ea0f177b036d2e555f2e77.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_45/JPG/de_DE/caf8a13f8927d2d65ee97f71f4f4c4d8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_45_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_45_R1"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMX8",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/6983dfb73ef36db40fbd767993be322c.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_46_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Icebound Peak",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_46",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/0b3512818174b8798890742b9ae9465d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/6983dfb73ef36db40fbd767993be322c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/a2c1a7b66522bd9c9f724483d8cec065.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/b45667b3ec098a2126c3c84465db0041.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/70b773e915bf094e841b95e4dac011c1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_46_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_46_C"
+    },
+    {
+      "id": "01JH1KM57PDMD21SDEKDWTRDS7",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/en_US/40586fb16140a0021a77b6dcc991faf8.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/WEB_de916ef59377d3936543ab9a03d649fc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/WEB_649d4765d2c41e66bee884f97c9bc39c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_BR_46_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Icebound Peak",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_46",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/fr_FR/5ea7522287b3e51f0e91351c221835cb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/en_US/40586fb16140a0021a77b6dcc991faf8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/it_IT/7297a3d9138fd180e8464652f4c4e483.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/es_ES/5704674d7a2bda7b2f20e18aae6e6820.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/de_DE/c0369e997ecef49025cea4197d4230b6.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_BR_46_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_BR_46_C"
+    },
+    {
+      "id": "01J1Q4P4S494FQQRQ8V7F8JMXB",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/f2d1ba5b3aa0a13bec45e3c9d331fce4.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_e307b9e32536a086d1f7b4cbb8fe3cc2",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/WEB_33f3031907bbe6049195e88eeca428f8"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_46_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Icebound Peak",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_46",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/fr_FR/f3ae7f4bb3b42853e567253b8c180769.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/en_US/f2d1ba5b3aa0a13bec45e3c9d331fce4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/it_IT/0f417c23a26664943dc578a4d8564a90.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/es_ES/9b836a6c52874875ff32bbdb88719ec7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_46/JPG/de_DE/ffc18df7596a0779e2f642d43cbc6ba1.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_46_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_46_R1"
+    },
+    {
+      "id": "01JH1KM57PDMD21SDEKDWTRDSA",
+      "cardType": {
+        "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+        "@type": "CardType",
+        "reference": "LANDMARK_PERMANENT",
+        "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+        "name": "Landmark Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/en_US/fcf646c255115203fc5dd1e1625c466b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/WEB_de916ef59377d3936543ab9a03d649fc",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/WEB_649d4765d2c41e66bee884f97c9bc39c"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_BR_46_R1",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Icebound Peak",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_46",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/fr_FR/50ea31a7ea2ad9f612e760ced4e1125f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/en_US/fcf646c255115203fc5dd1e1625c466b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/it_IT/d7f5aebd1e39aa9d71b2ad5c52f59917.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/es_ES/b17c9c3eb47ab9d3b495d404160f52e2.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_BR_46/JPG/de_DE/570594fba1401a57b1257817c71b78a9.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_BR_46_R1",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_BR_46_R1"
+    },
+    {
+      "id": "01J1Q4P4S72ESJDYMMDMPKH5NM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/8db00864fe853fd1730b8bfa736fdb7a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_bf520d8267baf4533eb5dddc4b6f02ce",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_eb5d8eab445464c60b7cf202df8c5196",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/WEB_a1d65e9e3ec766f87c0831df94298836"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_33_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Snowman",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_33",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/fr_FR/09adf15aa092dce3a4e0d71a9e459bfb.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/en_US/8db00864fe853fd1730b8bfa736fdb7a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/it_IT/e9d00cc9a85d9966e8886d04214adf38.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/es_ES/07a917b4dd55f463b64dc4d1d6a74656.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_33/JPG/de_DE/eb751e72cf9b642019a3272b965799b7.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_33_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_33_R2"
+    },
+    {
+      "id": "01J1Q4P4SBPWTN13PW61X9B2AB",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/e5ccfdcf142f2f7d7c06acb08550bd63.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_ccb4575781332b5698ed7c4ec64d6ccf",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/WEB_1345d111af230d95ede0853cd4264082"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_44_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "The Magic Sleigh",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "LY_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/fr_FR/942547fee53076da84d0251c934a83de.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/en_US/e5ccfdcf142f2f7d7c06acb08550bd63.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/it_IT/911008818525bb820f1a5bd6ae5c3601.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/es_ES/d0df3a30e23c03b0aaf0179a34103df4.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_44/JPG/de_DE/99edab1d109364bf5ae87a68a01402bb.jpg"
+      },
+      "cardHistoryStatus": "FUNCTIONAL_ERRATUM",
+      "isSuspended": false,
+      "isErrated": true,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_LY_44_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_LY_44_R2"
+    },
+    {
+      "id": "01J3GTCHTQZV1FQGJKKPN34Z1Y",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/JPG/en_US/fc389b515bc7ce218e8041d534b7de81.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/WEB_a1197ad5602732086f1cc63dcb19c209",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/WEB_0bcbb1835b269b8aae2f85c9f6a04b96",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/WEB_40eb2d5402c91437c21636b5b0211122"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_MU_35_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Saskia, Sly Naturalist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/JPG/fr_FR/8617f846164b828ba3baa2647fd16dec.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/JPG/en_US/fc389b515bc7ce218e8041d534b7de81.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/JPG/it_IT/d2c752bbb952f9d52dedf7f7363e1f97.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/JPG/es_ES/98481d3e7cd743d70c389bb0d307ab63.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_MU_35/JPG/de_DE/8df20f3b8b44c3310662e9e2930903cc.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_MU_35_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_MU_35_R2"
+    },
+    {
+      "id": "01J1Q4P4SEE4HDV4CVAPEW8SVY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/81511e10a236fb5e522bd08b75db24cd.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_b040b9f608f1d4358f66a24a376dfc55",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_6a4a97dbf99ca2a609d6ba481ee4aaec",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/WEB_2efaaa3bc0f433b466505c5a89368524"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_35_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Saskia, Sly Naturalist",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/fr_FR/6ef7298e4c47f034ecee48531bac8887.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/en_US/81511e10a236fb5e522bd08b75db24cd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/it_IT/27873a4c0cac8353b4cd86d073084fc5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/es_ES/804300953f6cc3fa2f32ca7af90bd068.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_35/JPG/de_DE/07d9e5f3b1d21297de12105acb656fe4.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_35_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_35_R2"
+    },
+    {
+      "id": "01J1Q4P4SEE4HDV4CVAPEW8SW7",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/JPG/en_US/20aa17b2fa5794d5b245ede392743c5b.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/WEB_1bf0d63d733a83dfd982fbfd5283089a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/WEB_cb31fceb2d5a2de4d17f68d5b1e0355a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/WEB_c1191acfa3e697315b011de836ffb614"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_36_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Yeti",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/JPG/fr_FR/8e7648bf63fbd719489ea38ae8cbe07c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/JPG/en_US/20aa17b2fa5794d5b245ede392743c5b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/JPG/it_IT/758f7d6fd910f210e3f6a68e5fd8c253.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/JPG/es_ES/a8e66238859571cc09b76c62e839796a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_36/JPG/de_DE/68fd69530eb12352ff103461c1b7d823.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_36_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_36_R2"
+    },
+    {
+      "id": "01J1Q4P4SEE4HDV4CVAPEW8SWG",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/en_US/565854db6b648fe7648e3969ea446482.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_674adf84dd120cbcd1a4ec614e5c0d9f",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_f48a94d83ce4245a18eec32ddad91b0d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/WEB_2cf82da4e60d4f2c5d048a5d03044ae3"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_37_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Mighty Simbi",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_37",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/fr_FR/656280380fd22d62ade67b07a2eab4e0.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/en_US/565854db6b648fe7648e3969ea446482.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/it_IT/6dec51415466abaf9c7ab66523138539.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/es_ES/7c5c1b631f8c4e4faae636b5c3bdad78.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_37/JPG/de_DE/62b81ea376da9d87815270db65065e60.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_37_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_37_R2"
+    },
+    {
+      "id": "01J1Q4P4SFMDQDFFBSWBHC29JC",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/en_US/110e1c1a01e8d77b26ffa20378c5f046.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/WEB_9c1430ac5501999244c4bc6f663f01aa",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/WEB_6cfa87a76cc9a3161e3da16a5147705a",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/WEB_e39f1adf1eb5a98b6f2e8025a498d42b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_38_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Leshy",
+      "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_38",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/fr_FR/456744dfe19a15bb5f8096c81a037b37.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/en_US/110e1c1a01e8d77b26ffa20378c5f046.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/it_IT/2c3387f5dbebfc5e240ddaf0b1056462.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/es_ES/edba2dbc7ffb5a5de27a4cad7b5176a8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_38/JPG/de_DE/58037e1c4f69dda45b78a028e97839bf.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_38_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_38_R2"
+    },
+    {
+      "id": "01J1Q4P4SFMDQDFFBSWBHC29JY",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/912b45f227f13f01957449ee02096d37.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_5a46bc801ba1feddf4d301c91a034f68",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_cc4c7a971ccbcf092cadf5503ba611f8",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/WEB_f8503c17b538ce465719554a53842f5b"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_40_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Demeter",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "6"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/fr_FR/9ca7e57feb0928d05dfaefba6a66ef79.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/en_US/912b45f227f13f01957449ee02096d37.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/it_IT/a18601316b481018b5d92516d28ef342.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/es_ES/4890ae0290f936214fe9651b65f8c959.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_40/JPG/de_DE/4274da599075fcca456c374f071c806a.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_40_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_40_R2"
+    },
+    {
+      "id": "01J1Q4P4SGG6TEVFRSKNDKQK6A",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/JPG/en_US/b592b17ab021ff8b4b80a0140451adc5.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/WEB_51d1e6754b7f620c2b6db0b47450db36",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/WEB_3772e0376e0206afbdbd3af385383203"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_41_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Sow",
+      "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_41",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/JPG/fr_FR/5f594e274316614ff4ce3415cf9e313a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/JPG/en_US/b592b17ab021ff8b4b80a0140451adc5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/JPG/it_IT/86cb7b6d56645ddbcc7e1ebfbd5fb751.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/JPG/es_ES/f32ca01ed26000778660e6bed52f4e7f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_41/JPG/de_DE/7635e22ae45c5face5a9963246397ffa.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_41_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_41_R2"
+    },
+    {
+      "id": "01J1Q4P4SGG6TEVFRSKNDKQK75",
+      "cardType": {
+        "@id": "/card_types/01J1Q7ASAYXTSM3DH772C70PV5",
+        "@type": "CardType",
+        "reference": "EXPEDITION_PERMANENT",
+        "id": "01J1Q7ASAYXTSM3DH772C70PV5",
+        "name": "Expedition Permanent"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/74c534e22800eeb1de7e12179188ae23.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_3d6c78a8e34fa5d87a1a2d351a7fde20",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/WEB_1fc7ad33fd9c8afe4ee29534b2b00b70"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_MU_44_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Floral Tent",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "MU_44",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/fr_FR/0a7f2b152d1bd985336ee6e78323dc81.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/en_US/74c534e22800eeb1de7e12179188ae23.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/it_IT/89fafb99c6ca9b6d3088f0d120fad1fa.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/es_ES/9066133210d91c77cc80b5e7b30392ac.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_MU_44/JPG/de_DE/97bfe3b8cd0d69beb7593d951e43024e.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_MU_44_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_MU_44_R2"
+    },
+    {
+      "id": "01J1Q4P4SMDNZ8MWZ3GHV20JSM",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/en_US/4e37b5011fc08d0e31d88f47d552e857.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/WEB_94c819065061049cfd5faf0e82e65361",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/WEB_74c0eb9daf7a1fe4e6b6fc1c0fbeb02d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/WEB_8027daec10fe3fc399cf558823e1da6a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_39_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Valemon",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_39",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/fr_FR/ea1b353992a8e61ca8d7ab3a5189e638.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/en_US/4e37b5011fc08d0e31d88f47d552e857.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/it_IT/8b13fbcf654128981232a685bf71ce6d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/es_ES/17bc564ee34dbef007bc10ede86a1a7a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_39/JPG/de_DE/a8beb57aa90779c8325b6c715b399542.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_OR_39_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_OR_39_R2"
+    },
+    {
+      "id": "01J1Q4P4SQPNA2YQYR2C1KF8Z4",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/JPG/en_US/5d3df4646be6c30c864bd91ad09cb029.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/WEB_6091d2d77f65dabda8fea74ab5d804fb",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/WEB_463c34eed98b9f9fcd1485c30f417501",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/WEB_7997dc6c022c33f9073d0f327e88d08a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_46_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Benzaiten",
+      "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "6"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_46",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/JPG/fr_FR/9edee4d38b2088436b3febfb8b60b9b3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/JPG/en_US/5d3df4646be6c30c864bd91ad09cb029.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/JPG/it_IT/923689aff0984897891db008f3bf50fc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/JPG/es_ES/bcc1eeffece66a442d7acb05ce267d58.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_46/JPG/de_DE/82ce5ed2820ee68a609df41a830e89f5.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_OR_46_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_OR_46_R2"
+    },
+    {
+      "id": "01J1Q4P4SN8RYANNFV99ET5V4K",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/en_US/5347fbfe72f7d0b798aa1d8e8fcd302a.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/WEB_11fb440c7d2027197b70c3d6e7d5371d",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/WEB_d48f47ad302b9170ae3ef91b889013dd"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_42_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Tiny Jail",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "OR_42",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/fr_FR/9503841118e8261a3f2a04214b7f7851.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/en_US/5347fbfe72f7d0b798aa1d8e8fcd302a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/it_IT/290755fad637c26c6b3bd92eab7e5864.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/es_ES/ad168f215d579e8c205262d4d4c9098f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_42/JPG/de_DE/0178c3e536e45f820329fc57f535c7d8.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_OR_42_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_OR_42_R2"
+    },
+    {
+      "id": "01J1Q4P4STVYKQPX3X8SF0WV9R",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/en_US/62d999790a4a285ce52b5d0670d223e9.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_fb1ba27c02fd9e8111aa0af1f18a8fc3",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_a2a96b8c38629ff4e4c83e06604a1cd6",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/WEB_015765bb612e4beaab09e0c39d950e88"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_35_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Belasenka",
+      "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/fr_FR/696b484e935e7d562431e621d53323df.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/en_US/62d999790a4a285ce52b5d0670d223e9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/it_IT/0c5455f550e3d1089f995d3fe31ecf44.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/es_ES/9f3c1820a40aadb896ef9aca4b14fc8b.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_35/JPG/de_DE/a80969201a3b1985a09fa23ea5870c0d.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_YZ_35_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_YZ_35_R2"
+    },
+    {
+      "id": "01J3GV57Y2A8CYZ51W2P61ASYA",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/JPG/en_US/28e4661bd5c06dff109b380d28b7aca7.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/WEB_53a82ae2856d12de25810a089441e79c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/WEB_b189d83c138d7ea0198a71f01e0bdbba",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/WEB_16028edda7bf811970b8070d484f358a"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_A_YZ_36_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Aroro, Savior of Asgartha",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/JPG/fr_FR/07099277a3e0f2c8be3d03d4145fe34a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/JPG/en_US/28e4661bd5c06dff109b380d28b7aca7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/JPG/it_IT/6fc9644513bfd1ecf20cddc2838aa6c6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/JPG/es_ES/b12d9d3d3b843dd377d7bfb1dadf89cc.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_A_YZ_36/JPG/de_DE/ade110be9e1801ec5279dc7a19381d1f.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_A_YZ_36_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_A_YZ_36_R2"
+    },
+    {
+      "id": "01J1Q4P4STVYKQPX3X8SF0WVA1",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/defb8af4dd4e1a56be8f9dd2eede278e.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_857d5d6cc51a3a623557ebefbd8f6536",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_1350e90561aa21560d4ec35850e26e0c",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/WEB_5e53194f95457f01acfb6a6bff8dea73"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_36_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Aroro, Savior of Asgartha",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_36",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/fr_FR/1cac16b48ebc0a9463e135088c2bef91.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/en_US/defb8af4dd4e1a56be8f9dd2eede278e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/it_IT/da67fbe51a234f99a4d464b12cad9831.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/es_ES/5961f168d789cf38f6249927dd2542a5.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_36/JPG/de_DE/92b3dafba67a81dd767a460d1c1d02de.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_YZ_36_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_YZ_36_R2"
+    },
+    {
+      "id": "01J1Q4P4SVH0BDDPS6F3F8Y5XG",
+      "cardType": {
+        "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+        "@type": "CardType",
+        "reference": "SPELL",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+        "name": "Spell"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/4cabac2375c11f2f5202",
+        "reference": "RARE",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+        "name": "Rare"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/en_US/38e9fe68e3c7acd3203fc41894a33400.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/WEB_966a6b9e56a3e03d39fcac747bfd6182",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/WEB_e99054ecc7cd2b7745193d7eb19e9f64"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_YZ_40_R2",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Freeze",
+      "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "YZ_40",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/fr_FR/7b4aa5a9dc75c058ff8f659432db9b7d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/en_US/38e9fe68e3c7acd3203fc41894a33400.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/it_IT/a50dfd3f1cf29a691224799557d15134.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/es_ES/3b934667b96493b1f62891d8ebf5cce8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_YZ_40/JPG/de_DE/7465d9da92f525cd0f1a679b6c3e4738.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_YZ_40_R2",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_YZ_40_R2"
+    },
+    {
+      "id": "01J1Q4P4S5GQXPH88FFDNZY9WZ",
+      "cardType": {
+        "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+        "@type": "CardType",
+        "reference": "TOKEN",
+        "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+        "name": "Token Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/en_US/ea04f58e3f542143d2638513161032af.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/WEB_54678e6daf296024811985730885799f"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_31_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Booda",
+      "elements": {
+        "MAIN_COST": "0",
+        "RECALL_COST": "0",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": true,
+      "cardFamilyReference": "BR_31",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/fr_FR/f3874ba74aef7a8ba68ac9b1b2ac3b45.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/en_US/ea04f58e3f542143d2638513161032af.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/it_IT/9f355225f02f7e6b4f240134af7bf9af.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/es_ES/ae546d10860123dec9332fab69fec50c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_31/JPG/de_DE/517a21e608fa029f5a5a479fe10800ed.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_31_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_31_C"
+    },
+    {
+      "id": "01J1Q4P4S1E6BR3CRG4TVW2HEP",
+      "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+      },
+      "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+      },
+      "cardSubTypes": [],
+      "rarity": {
+        "@type": "Rarity",
+        "@id": "/.well-known/genid/ebb9269f39479df1517a",
+        "reference": "COMMON",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+        "name": "Common"
+      },
+      "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/b55cf4cc26352dba7c9fcbbe400ab143.jpg",
+      "assets": {
+        "WEB": [
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_aaa6686002e7acd962fbd6ba1553b83e",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_e17e17996b43565b3ff9397cc1defa39",
+          "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/WEB_5ec0e03b5a1389a867d4128c6c1b0f40"
+        ]
+      },
+      "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_35_C",
+      "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+      },
+      "name": "Bravos Trailblazer",
+      "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2"
+      },
+      "isOwnerless": false,
+      "cardFamilyReference": "BR_35",
+      "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/fr_FR/43df0dcf02486349006962ed9f0404da.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/en_US/b55cf4cc26352dba7c9fcbbe400ab143.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/it_IT/562fd9df7a9e8d55d7155edb47b96f33.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/es_ES/d244149e6c541c99ebb6de95187a7afd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_35/JPG/de_DE/a6e1f2aeee361a1d5d087c7f533a0e39.jpg"
+      },
+      "cardHistoryStatus": null,
+      "isSuspended": false,
+      "isErrated": false,
+      "isBanned": false,
+      "reference": "ALT_ALIZE_B_BR_35_C",
+      "isSerialized": false,
+      "isParentSerialized": false,
+      "@id": "/cards/ALT_ALIZE_B_BR_35_C"
+    }
+  ]
+}
