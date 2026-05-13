@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_133_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4M80E5EVX79CCTNXPFNREZZ9QK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A6SVRGD5A3TT4EM65QB9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A6SVRGD5A3TT4EM65QB9",
+          "text": "When all hope is lost, there is often a helping hand to lift us back up."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6TD383RQGBS2MZ94NMD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A6TD383RQGBS2MZ94NMD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6T57F79TN905VT565ZB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A6T57F79TN905VT565ZB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6QX62W2WH942WMDSDRV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A6QX62W2WH942WMDSDRV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6S8F12A3ASQ2MK3GZFH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A6S8F12A3ASQ2MK3GZFH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4M80E5EVX79CCTNXPFNREZZ9QK",
+      "reference": "ALT_FUGUE_B_MU_133_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/35c57b8e8d6e2e09a8ce",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Fairy"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/69f09c9b979fcd43029a",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/JPG/en_US/3cf726ddbe72fcce1ac912f8c0c77010.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/WEB_f870404c4789163fed24e09fc8af9bb5",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/WEB_62631c0e282e9cf0929e14c202d64502",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/WEB_608f711f916a49efa14f6be95316db4c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_133_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_133_C",
+  "id": "71XCWA21RZ9VP9A829ET5P63D6",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/JPG/fr_FR/83974e9803a762b92547b07760c08ea5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/JPG/en_US/3cf726ddbe72fcce1ac912f8c0c77010.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/JPG/it_IT/4f489a4d8b01c91ef4fa6475f63f8ac9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/JPG/es_ES/f1eade635b5fff7dd335ac99acfe3a89.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_133/JPG/de_DE/cf3b8edc3ab6b5e44fe38b70b5d1dacc.jpg"
+  },
+  "name": "Ino",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "2"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-057-C-EN"
+}

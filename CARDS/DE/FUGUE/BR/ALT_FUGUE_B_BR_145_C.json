@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_BR_145_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5FP9QW14AE9YG89ZNSXYJQ219R",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A51T99DDHP0M3KTQQHAQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A51T99DDHP0M3KTQQHAQ",
+          "text": "When will the cycle of hatred end?"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A527592GWFSWSARAKD4W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A527592GWFSWSARAKD4W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5213QWDV9RWY9ZZHR8A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5213QWDV9RWY9ZZHR8A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A511YPXC4R4J6688MJ67",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A511YPXC4R4J6688MJ67",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A51JY2J79YYDTJMR8DS6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A51JY2J79YYDTJMR8DS6",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "5FP9QW14AE9YG89ZNSXYJQ219R",
+      "reference": "ALT_FUGUE_B_BR_145_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Zauber"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/786b5eefeb6d2dc5399f",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Unterbrechung"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7fdc1e9bfc398d7a4675",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_145/JPG/de_DE/1e460f966769fddb24ea80aff028075e.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_BR_145_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_BR_145_C",
+  "id": "5CQ80DWRNY8C5AZJ1GF073ZQAZ",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_145/JPG/fr_FR/66ae3751ac2cdd71cecac4c7476adeac.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_145/JPG/en_US/cc087214affebc6b4def5decd9fe518f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_145/JPG/it_IT/6968208bb6f61cec8bd344241b29cfc1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_145/JPG/es_ES/aee5b7ae371df2651848ad29ef44c7df.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_145/JPG/de_DE/1e460f966769fddb24ea80aff028075e.jpg"
+  },
+  "name": "Clash of Combatants",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Vergänglich]].  Send to Reserve target Character with Base Cost {5} or less."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-035-C-DE"
+}

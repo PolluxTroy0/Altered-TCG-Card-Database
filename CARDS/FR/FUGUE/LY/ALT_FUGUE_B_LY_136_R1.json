@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_136_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6KN83HRPHJ9M8T5DZ44RYKSXYY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A5KNTGSQ300VV2EAZV90",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A5KNTGSQ300VV2EAZV90",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5MEGKVEHXHZKJNF0SR2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A5MEGKVEHXHZKJNF0SR2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5M0F8MCDA0EPHXD0RDT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5M0F8MCDA0EPHXD0RDT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5JBYB800EXQ39SX6H1P",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A5JBYB800EXQ39SX6H1P",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5JJ9CNT3F73D5BW5DFG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A5JJ9CNT3F73D5BW5DFG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6KN83HRPHJ9M8T5DZ44RYKSXYY",
+      "reference": "ALT_FUGUE_B_LY_136_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/aa4f69a390603602a839",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artiste"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3201e6613a959568e907",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/JPG/fr_FR/f4ac44022163ee9c01c4ad7c06774ceb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/WEB_c1b8c1b8d029943de55e90a31cefd82f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/WEB_a41edc6b36ef49ae9c125dd1aa3f0b0b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/WEB_af613f92e07c4d73589d7961d7308ff8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_136_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_136_R1",
+  "id": "6E65FRP27E8M2AFG7R9KPFTPT3",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/JPG/fr_FR/f4ac44022163ee9c01c4ad7c06774ceb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/JPG/en_US/2c8ad3e031e70d9f21c99613ed83c6d1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/JPG/it_IT/010683354644f61711e5bb48e7142ec7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/JPG/es_ES/2f02c4ecd9cded7bced4dedc9d5ed58e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_136/JPG/de_DE/cb4d0159c0208e54182c31c3274c4e65.jpg"
+  },
+  "name": "Démodocus, Tisseur de Récits",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#3#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{H} Lancez un dé. Vous pouvez cibler un Personnage #dont le Coût de Base est inférieur ou égal au résultat.# Il gagne [[Fugace]]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-044-R-FR"
+}

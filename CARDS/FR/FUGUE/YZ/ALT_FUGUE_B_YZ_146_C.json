@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_146_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3NC7Z9AJ0P80T8KDVGCBKFSX2Z",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46AC9QQAJ1SVT65CAZ2S95",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46AC9QQAJ1SVT65CAZ2S95",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ACBY56KW7YPK919V229W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46ACBY56KW7YPK919V229W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ACBDBY5PEG3KSP8M8600",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46ACBDBY5PEG3KSP8M8600",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AC8V0TW5P0X7RM0C4D9W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46AC8V0TW5P0X7RM0C4D9W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AC9AMB9708W4QMSHKMC5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46AC9AMB9708W4QMSHKMC5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "3NC7Z9AJ0P80T8KDVGCBKFSX2Z",
+      "reference": "ALT_FUGUE_B_YZ_146_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanent de Repère"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9785393e7897804d69df",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c8eee22e447797bf203c",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/JPG/fr_FR/d6466b690ce231a9b8e65a76093f1748.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/WEB_89578cdcb9592f893ec7a22b1c0ec492",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/WEB_a1f6ad52033159d606eeaddbd5a4ac4b"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_146_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_146_C",
+  "id": "4Z4K88FP0W8FC8K6J0CZ9XDQBV",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/JPG/fr_FR/d6466b690ce231a9b8e65a76093f1748.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/JPG/en_US/92af893395ba84be03d8fc2881b6e740.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/JPG/it_IT/ab2755b09e20fc926208bf0ade7e12c7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/JPG/es_ES/70e08ef1c16bb36ef07dfd9a2ca7f363.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_146/JPG/de_DE/4831619d1db1e4e4ee1e7ca5eef490f5.jpg"
+  },
+  "name": "Sanctuaire d’Ithaque",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "{J} Je gagne 3 compteurs Mirage.  À Midi — Si vous avez au moins six Orbes de Mana, vous pouvez dépenser 1 de mes compteurs Mirage pour piocher une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-108-C-FR"
+}

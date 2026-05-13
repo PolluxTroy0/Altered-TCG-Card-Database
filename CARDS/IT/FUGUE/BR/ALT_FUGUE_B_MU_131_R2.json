@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_131_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/35TTEG34JT93FRH6M7FA6XTFQA",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A6KJJVXCMVS3RDJ7VCJP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A6KJJVXCMVS3RDJ7VCJP",
+          "text": "He waited, faithful to his master, hoping to hear a single familiar step."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6M5Z66EXD9E4568158G",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A6M5Z66EXD9E4568158G",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6KW7J56F5FB7CYP5FCX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A6KW7J56F5FB7CYP5FCX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6HXF60BXDVNYNGJ5T1A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A6HXF60BXDVNYNGJ5T1A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6JYBQJJNCB1KAX27TPQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A6JYBQJJNCB1KAX27TPQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "35TTEG34JT93FRH6M7FA6XTFQA",
+      "reference": "ALT_FUGUE_B_MU_131_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b6fa7b886c23c9f58a12",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animale"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c5b74cfc7df43a485aac",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Compagno"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/511f20adea39c9f31178",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/JPG/it_IT/988ff0b270148e4e0465178d38e53d70.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/WEB_4f328ea4bce23c14b8435b67a40fb54f",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/WEB_f411c12020441056dcbab94c4c361720",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/WEB_cad78065b9a68c378159d984d082f422"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_131_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_131_R2",
+  "id": "7V5XPYT6NF95E86DF0K0QWNJQY",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/JPG/fr_FR/eeeb50dcf325cfc67b85251879bed77d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/JPG/en_US/82e602ba08b4c69d318cad72f592d365.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/JPG/it_IT/988ff0b270148e4e0465178d38e53d70.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/JPG/es_ES/ab27d6b61c4975c080923d14c7d7621c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_131/JPG/de_DE/203fcf76ad349a9619364e1cbd2db975.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "#1#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#{R} I gain 1 boost and [[Ancorato]].#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-056-F-IT"
+}

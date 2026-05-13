@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_134_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4EZRX9ZZG59GAR74QERZETQGHP",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46AAQBSBWEW0YZWNPHEBBZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46AAQBSBWEW0YZWNPHEBBZ",
+          "text": "C'est en vies humaines qu'on mesure le coût de la guerre."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAS9PY5RZ7GV8TN8NX6A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46AAS9PY5RZ7GV8TN8NX6A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAQPX1HFZMYPNMA4M7A8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46AAQPX1HFZMYPNMA4M7A8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAPJPX9XK26T447EX6AT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46AAPJPX9XK26T447EX6AT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAPZXNFQ5R6KRWGFG27V",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46AAPZXNFQ5R6KRWGFG27V",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4EZRX9ZZG59GAR74QERZETQGHP",
+      "reference": "ALT_FUGUE_B_YZ_134_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e3caf498d041c070e9e5",
+      "reference": "MAGE",
+      "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+      "name": "Mage"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/018a6e1e7d61322c46df",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/JPG/fr_FR/9005d9214c741dea2aec51137814605d.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/WEB_29435bb044d49af018e329d2e1faa2e3",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/WEB_1dc1bc18f7a265e17816c1049104e321",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/WEB_4770d4bbf5c08beaec5187b1a8e41014"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_134_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_134_R2",
+  "id": "6HR0GXCP9W9VJT81J9DNE7JKTA",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/JPG/fr_FR/9005d9214c741dea2aec51137814605d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/JPG/en_US/e6d8c52a25f5a0993bc2172c2b5d67f5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/JPG/it_IT/285f188799ccb1dd4200de391b4e6d24.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/JPG/es_ES/ebbabc23a97f6467d74f152d474c2386.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_134/JPG/de_DE/aadc41505858d7caf61e63a8e9365c56.jpg"
+  },
+  "name": "Polyxène",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "1"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-092-F-FR"
+}

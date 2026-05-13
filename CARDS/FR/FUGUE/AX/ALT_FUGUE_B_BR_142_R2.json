@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_BR_142_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4XCC329NFS8G6S33P52BSH9QMV",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A4WX7SY5VGVNG2JS91WN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A4WX7SY5VGVNG2JS91WN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4XT5BTB6A4ZSE0631EB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A4XT5BTB6A4ZSE0631EB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4X34Z9TAR8XGKXK2BTE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A4X34Z9TAR8XGKXK2BTE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4WJ1JX9ER67806576Z8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A4WJ1JX9ER67806576Z8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4WR2Y194W67NRXV4TKX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A4WR2Y194W67NRXV4TKX",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4XCC329NFS8G6S33P52BSH9QMV",
+      "reference": "ALT_FUGUE_B_BR_142_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/693048d81ac59a7a1b4a",
+      "reference": "TITAN",
+      "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
+      "name": "Titan"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5204a60863bb452dd1b3",
+      "reference": "ROGUE",
+      "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+      "name": "Gredin"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4d3b05d9cc763b2d7f45",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/JPG/fr_FR/5344422b6bee28116cb62354a548d001.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/WEB_71590411c9e8f975c22053d2e456884a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/WEB_04d25fa0d86ab9fa2c02a053bceb5282",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/WEB_4fa322c2c9a02383097b42ad473ba31e"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_BR_142_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_BR_142_R2",
+  "id": "4FRV7NQM0F9YXSRHVDBWNM3GTP",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/JPG/fr_FR/5344422b6bee28116cb62354a548d001.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/JPG/en_US/824f70295d156cad1a6183baef2c0547.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/JPG/it_IT/d18a38c8ef4e00043d00fe70ed9e5d3c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/JPG/es_ES/6fafac5303357589c70ef4679041aa4c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_142/JPG/de_DE/03169988f77fbb19a3028d4fe557b367.jpg"
+  },
+  "name": "Polyphème",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[Gigantesque], #[Coriace 1].#  {J} Vous pouvez défausser un Personnage de votre Réserve pour me donner #3 boosts.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-032-F-FR"
+}

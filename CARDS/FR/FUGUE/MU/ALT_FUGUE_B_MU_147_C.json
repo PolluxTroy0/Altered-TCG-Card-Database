@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_147_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/55NNJX6JM38JK8G8ANRKR3Q38H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A84XFDP291CWZFQC6GY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A84XFDP291CWZFQC6GY8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A85V3XR47MP8P7JYVH9H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A85V3XR47MP8P7JYVH9H",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A85HTB9J0VCASEW3T7DK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A85HTB9J0VCASEW3T7DK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A83B7BTBZT8D9FPEEZXJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A83B7BTBZT8D9FPEEZXJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A83PZFMQXYDWWPMYKQKG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A83PZFMQXYDWWPMYKQKG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "55NNJX6JM38JK8G8ANRKR3Q38H",
+      "reference": "ALT_FUGUE_B_MU_147_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/76850e75648129265c6e",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/f8222f5f5ccf175bf19f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/JPG/fr_FR/11b0c963f8e290c1c677868353720788.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/WEB_a48d1d5e86be64b41f540ce16ddbfc1b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/WEB_49b9cb4d886725e69d0a40014f89d1b4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_147_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_147_C",
+  "id": "67MMMF1RKV9PEBHNEVP7KGNHTY",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/JPG/fr_FR/11b0c963f8e290c1c677868353720788.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/JPG/en_US/71d8f5c68f10d6719b583b34ca69178a.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/JPG/it_IT/732dba3a4e622300f8c3ef4d779ab562.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/JPG/es_ES/a36f78b111733f167443254b7029cf6b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_147/JPG/de_DE/1c735133bdcfa031780c710f04b868d7.jpg"
+  },
+  "name": "La Fuite du Temps",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]].  Piochez une carte.  Puis, un adversaire ciblé devient premier joueur. (Il prend le marqueur Premier Joueur, et le passera au début du prochain Jour.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-069-C-FR"
+}

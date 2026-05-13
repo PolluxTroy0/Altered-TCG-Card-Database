@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_141_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/690MCVN7RB8WES4RV4GNDHE73B",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A47M8VPSMEY4CH9ZEKKC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A47M8VPSMEY4CH9ZEKKC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A47VX5HRF2GXNBS4JY0C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A47VX5HRF2GXNBS4JY0C",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A47R1H2FX9XDSD1YGZSJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A47R1H2FX9XDSD1YGZSJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A47BNDS14BTDPZXFBP5Q",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A47BNDS14BTDPZXFBP5Q",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A47GFGGNADRPD2GA153C",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A47GFGGNADRPD2GA153C",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "690MCVN7RB8WES4RV4GNDHE73B",
+      "reference": "ALT_FUGUE_B_AX_141_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/de809b6dd46a0a3c8120",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construcción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/250bfbec73c79d939d5e",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_141/JPG/es_ES/b71f896c9716652f78147d0459452d02.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_141_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_141_E",
+  "id": "3YVWHZ27FN8SQT4QSM0P1DAAEB",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_141/JPG/fr_FR/21ea03593d8c83faf24496f75e866e2e.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_141/JPG/en_US/d0d231ffe331cf6bb90abda2f6733368.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_141/JPG/it_IT/c54900b03cfbb3972089c4e0b709bc8b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_141/JPG/es_ES/b71f896c9716652f78147d0459452d02.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_141/JPG/de_DE/b213abf5292992c680ac8e31356e68a8.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[Resistencia 1].  At Noon — Draw two cards, then you may put a card from your hand in your Mana zone, as a ready Mana Orb."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-018-E-ES"
+}

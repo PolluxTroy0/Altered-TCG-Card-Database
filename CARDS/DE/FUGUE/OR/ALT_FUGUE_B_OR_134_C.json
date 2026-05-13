@@ -1,0 +1,166 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_134_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2J1WB9X44D85CS4EQEWK32KV85",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A8PBT6HZ532A5YECAR3T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A8PBT6HZ532A5YECAR3T",
+          "text": "“Look sharp, scallywags! I see our next adventure on the horizon!”"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8QYA2BHCE6X97HT34JY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A8QYA2BHCE6X97HT34JY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8QMJKEEARYE7093BCT5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A8QMJKEEARYE7093BCT5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8NR3SJAM2R9A1A8TXMS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A8NR3SJAM2R9A1A8TXMS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8P2EBT0CADKRD337BT7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A8P2EBT0CADKRD337BT7",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "2J1WB9X44D85CS4EQEWK32KV85",
+      "reference": "ALT_FUGUE_B_OR_134_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7562f51dca51b9ad70bd",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7e60c3272e80214acc16",
+      "reference": "TRAINER",
+      "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+      "name": "Trainer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5efed39d3e97f1a25b03",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/JPG/de_DE/2712c76215985f8cbb0282fef0995b8a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/WEB_8c5b9ac360c177cd7c1efee6e2cc38eb",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/WEB_eab52a36840d0335232e9a9946ef770e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/WEB_efdc4d870e3229634a52ac3fb75ccbe4"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_134_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_134_C",
+  "id": "067EW042439H8SK70GP07SQ3XN",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/JPG/fr_FR/b3e611d5b0665edff435b74975dd6973.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/JPG/en_US/d756dbc881890db08d05dc1cab1893a1.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/JPG/it_IT/b329ff5656a3fecfcf4db5608d2b95de.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/JPG/es_ES/51b3aad4ff729b6e8cad483f0da9a258.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_134/JPG/de_DE/2712c76215985f8cbb0282fef0995b8a.jpg"
+  },
+  "name": "Trireme Quartermaster",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "3"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-077-C-DE"
+}

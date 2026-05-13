@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_136_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/331KRDAXJ4812RPGNEJ84NQK3M",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A43SXM00XVEJ1YT5G4QD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A43SXM00XVEJ1YT5G4QD",
+          "text": "Nourrir l'équipage est une préoccupation constante."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A44005ZH4WPFXQ7MFNJG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A44005ZH4WPFXQ7MFNJG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A43W8GK7CGNNCXA39D3B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A43W8GK7CGNNCXA39D3B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A43GVP7GYCZZDPD5CSK5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A43GVP7GYCZZDPD5CSK5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A43NQY1W720YBEGW3W8H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A43NQY1W720YBEGW3W8H",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "331KRDAXJ4812RPGNEJ84NQK3M",
+      "reference": "ALT_FUGUE_B_AX_136_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/fa82e7030f514822a1d1",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/386e455836eba7041c66",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/JPG/fr_FR/b1d3fb64bbea80987dcbde3da958d8b6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/WEB_b2cdb15c930d9dcf5e10c0f96def7ecb",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/WEB_dfcaf17e3366f75fe96ea407e0f7b001",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/WEB_fb035a98d4f76681e98dfb5b76835143"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_136_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_136_R1",
+  "id": "2F5BJ5P40A9Z6VJNP2TSYYNHCC",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/JPG/fr_FR/b1d3fb64bbea80987dcbde3da958d8b6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/JPG/en_US/f65e2da1e0ec9e93836b67b860bef019.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/JPG/it_IT/e18c97b9cc96d28a4cc647b8a996844f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/JPG/es_ES/30746701c75df37bf69c8b866ae26601.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_136/JPG/de_DE/604788f87868f3079ada11cfe8786958.jpg"
+  },
+  "name": "Intendant de Trirème",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#{J}# Un Personnage ciblé dans votre Réserve gagne #2 boosts.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-008-R-FR"
+}

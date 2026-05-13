@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_145_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/42R1DHV1238Y7V8B16YAFDXSBC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A4AT5YTJWGBQKZAC2AAG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A4AT5YTJWGBQKZAC2AAG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4B30Y9237RFS4H3X042",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A4B30Y9237RFS4H3X042",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4AY7BJXF80TTFRX0QG0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A4AY7BJXF80TTFRX0QG0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4AG75C6YNYGERP1617W",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A4AG75C6YNYGERP1617W",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4AN6TB5F7J8P0QG4APG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A4AN6TB5F7J8P0QG4APG",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "42R1DHV1238Y7V8B16YAFDXSBC",
+      "reference": "ALT_FUGUE_B_AX_145_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Bleibende Wahrzeichenkarte"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8e817260eb6554783da4",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Konstrukt"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3dd8b293b4c6c99640b9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/JPG/de_DE/ad1d9897c8c8fa01ed0fe6878db57a2c.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/WEB_84567fa4c77cfd32c3cb54de04c29450",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/WEB_1e518f65456a2204c3ecc795f1ac9ab0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_145_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_145_C",
+  "id": "493Q8VBNKA9D9TFWF2C7CDC5C3",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/JPG/fr_FR/aaf40ef6a3131f77cefcaa50ddc810da.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/JPG/en_US/ee8ca88f9dc21eaae84ea686047ca24b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/JPG/it_IT/d492d7aaeed1f51861c7ed7490db985a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/JPG/es_ES/9c8af22b31d4902418f598020aeeaaaa.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_145/JPG/de_DE/ad1d9897c8c8fa01ed0fe6878db57a2c.jpg"
+  },
+  "name": "The Shipwreck",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "{J} Ich erhalte 3 Kelon-Zähler.  At Noon — You may spend 1 of my Kelon counters to [Nachschub]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-016-C-DE"
+}

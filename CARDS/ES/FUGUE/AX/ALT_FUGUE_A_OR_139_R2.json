@@ -1,0 +1,73 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_A_OR_139_R2",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente hito"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/16d5140c660b570a2fcc",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construcción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/6d156ebc88e7f76c2111",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_OR_139/JPG/es_ES/e3b281f3134d8d166b7d01bacef5b6cc.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_A_OR_139_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_A_OR_139_R2",
+  "id": "2N62625N5V9F6APSFE30EVXVVW",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_OR_139/JPG/fr_FR/d85b5106f6c33cb1c0b16fc8651abae7.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_OR_139/JPG/en_US/630a15cc891695bd40280852be84f805.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_OR_139/JPG/it_IT/8729c59ff270ddf112d6e5dfda191bf8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_OR_139/JPG/es_ES/e3b281f3134d8d166b7d01bacef5b6cc.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_OR_139/JPG/de_DE/c4b3bf149b932bae4118adb22e959f2b.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "#7#",
+    "RECALL_COST": "#7#",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "If you would create a token, create #two# in the same place instead."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-A-089-F-ES"
+}

@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_142_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3P15HEP5FR84RV7RFQPPRFG1S6",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A9J2RQRG0MQW5WWWE44S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A9J2RQRG0MQW5WWWE44S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9KVJ591JCMCP33P9RQM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A9KVJ591JCMCP33P9RQM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9JC3NP68PMH0BMCBN63",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A9JC3NP68PMH0BMCBN63",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9HCCBRVD61NJRFMC5G1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A9HCCBRVD61NJRFMC5G1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9HQT65Z2FF1Y2VSCMZ8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A9HQT65Z2FF1Y2VSCMZ8",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "3P15HEP5FR84RV7RFQPPRFG1S6",
+      "reference": "ALT_FUGUE_B_OR_142_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Spell"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2db3bd34a5f5c947c82a",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disruption"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cef3766817122b00fb3b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/JPG/en_US/47d2e2aa2da5e0efdf659a7b159063b7.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/WEB_a8cf55a99b1c14ea21838a182c3ccfaa",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/WEB_0a2488f3520f2e1b8d44c39995a190f2"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_142_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_142_C",
+  "id": "52QTDTFSY79YWB5TP2X73VK5R8",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/JPG/fr_FR/a0f9033a6847644237841901e022fe2d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/JPG/en_US/47d2e2aa2da5e0efdf659a7b159063b7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/JPG/it_IT/c1a24f42ce882dfe23c91d1473774895.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/JPG/es_ES/4c08ddd19b21cbdda9796230f6d32f73.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_142/JPG/de_DE/08b405d7a420aa633bf275cc4cbdc5c3.jpg"
+  },
+  "name": "Blinding Blow",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Fleeting]].  You may play me for {1} less. If you do, I can only target a [Gigantic] Character.  Send target Character with minimum Base Cost {3} to Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-088-C-EN"
+}

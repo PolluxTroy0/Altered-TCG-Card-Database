@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_140_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1JV9T9V19Q80BT6V55C9SB5ACY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A9BD7ZRPM1CCCS750WFY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A9BD7ZRPM1CCCS750WFY",
+          "text": "Ten years of war, all over the beauty of one individual."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9C1704NH1E27T77Z9W8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A9C1704NH1E27T77Z9W8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9BQVMHSY1P206EK8BTS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A9BQVMHSY1P206EK8BTS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9AQ6QRGWRSRTT73501Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A9AQ6QRGWRSRTT73501Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9B3QK3H0CR014YKZ82R",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A9B3QK3H0CR014YKZ82R",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1JV9T9V19Q80BT6V55C9SB5ACY",
+      "reference": "ALT_FUGUE_B_OR_140_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/54a6c1904f139e3e0556",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Bürger"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e5eeda2e7c651354c71a",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Adliger"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/08112c79b6021063dd04",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/JPG/de_DE/74641771b58ab66920a2e5bbba000323.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/WEB_6ce6713df73c93ffb2f5b519d0b95e17",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/WEB_111f0648db8f2f83fa8d0b218a92e665",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/WEB_fe2707740e3e01abc495bed1c64e9c64"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_140_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_140_R1",
+  "id": "5P7C1QN60X8GYT9V5JY1GGVAMX",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/JPG/fr_FR/839e6f804b4b36e2cba089c528f1f063.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/JPG/en_US/518e591df03aa89ea5a8b3b103bff3d6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/JPG/it_IT/59641ad3d6e671459f13e8afda17dc0f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/JPG/es_ES/d6dd47cfdc33fe9c045229056d25e253.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_140/JPG/de_DE/74641771b58ab66920a2e5bbba000323.jpg"
+  },
+  "name": "Helen of Troy",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "#{H}# Create an [Ordis-Rekrut 1/1/1] Soldier token in each of your Expeditions."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-083-R-DE"
+}

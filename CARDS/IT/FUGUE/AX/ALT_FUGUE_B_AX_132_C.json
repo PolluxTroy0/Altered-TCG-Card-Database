@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_132_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/07RGEA7SYS9DDTD4P4BQM8QZKX",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A415RRFKXEV20431WA8M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A415RRFKXEV20431WA8M",
+          "text": "The journey was anything but easy."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A41BT2BGDXPNNWQK0KJC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A41BT2BGDXPNNWQK0KJC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A418C7TC81E4NFWQE6P3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A418C7TC81E4NFWQE6P3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A40X56JX4XJF5TE11ZPN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A40X56JX4XJF5TE11ZPN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A412TF3F5JD0EDZJ9CBD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A412TF3F5JD0EDZJ9CBD",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "07RGEA7SYS9DDTD4P4BQM8QZKX",
+      "reference": "ALT_FUGUE_B_AX_132_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f485d1809edf558a4ef7",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingegnere"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/40e296461c4aac59bad5",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/JPG/it_IT/1a956c865c4826c16c9b45f844949f71.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/WEB_77199cf51a25e5c609132f68646fc19e",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/WEB_2242b9b055951fe8dd66c59bfc6ba0c0",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/WEB_e26dbb05ddfff2ddd735e9f8f72566fc"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_132_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_132_C",
+  "id": "4QD96ZXZRN82HS17EJH072DASF",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/JPG/fr_FR/23b0858992c20d9a2f3554bbec3d9695.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/JPG/en_US/bdfda933c992c2d646cf478169d7a0ce.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/JPG/it_IT/1a956c865c4826c16c9b45f844949f71.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/JPG/es_ES/88615816a9b6055f60f7258d66d1e832.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_132/JPG/de_DE/07c56d53442f6e202e83affc79ad5deb.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{J} If there are two or more cards in your Reserve, I gain 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-004-C-IT"
+}

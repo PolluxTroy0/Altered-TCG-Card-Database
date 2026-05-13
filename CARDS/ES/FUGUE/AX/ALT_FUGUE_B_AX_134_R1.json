@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_134_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6P6PBTDZEF8E1TCQYQQTA7PYGW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A42E7WG32MABCFJ4WCTG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A42E7WG32MABCFJ4WCTG",
+          "text": "“Do and undo… this must end.”"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42MSXKMX33YX2TDYNSC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A42MSXKMX33YX2TDYNSC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42HBXF1A00XEZ5T66SJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A42HBXF1A00XEZ5T66SJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A426C4C8SM9ZDKMHS2WA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A426C4C8SM9ZDKMHS2WA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42BVZMMD4ZQZ1VE01N4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A42BVZMMD4ZQZ1VE01N4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6P6PBTDZEF8E1TCQYQQTA7PYGW",
+      "reference": "ALT_FUGUE_B_AX_134_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1dccdaf4b7bd38017716",
+      "reference": "ROGUE",
+      "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+      "name": "Pícaro"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/88d8f7e919725e019391",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/JPG/es_ES/6172daa2dbb3e4f477bd8bb6bf7b1212.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/WEB_57b053a24d557b9e270514f92ec76117",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/WEB_7aa54ea500566e422467d232dbfe4422",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/WEB_c99c15971fb1e83cec3db8dc6ae7fe4a"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_134_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_134_R1",
+  "id": "203NPJ05HK8PJT7602X83FDHVQ",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/JPG/fr_FR/b44e93f26b1971ade94dc20b5ef78364.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/JPG/en_US/f2fb8ffc0e89c955e1c7980a4b47fc1c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/JPG/it_IT/c8c76b4be176b609c238ed2685858089.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/JPG/es_ES/6172daa2dbb3e4f477bd8bb6bf7b1212.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_134/JPG/de_DE/8f3b363df777ae43b4640e988a6730e8.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} [Sabotea], #then I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-006-R-ES"
+}

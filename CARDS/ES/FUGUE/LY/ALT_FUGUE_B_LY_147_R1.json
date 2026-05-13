@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_147_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2VZ7WEZ12J9TQT19XMXE69Q8CS",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A6BK9SC5SDCEBVBGX2CN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A6BK9SC5SDCEBVBGX2CN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6CXY1C3AFMVD26RPYXM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A6CXY1C3AFMVD26RPYXM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6CN20Q1E8KYHJQNJDDQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A6CN20Q1E8KYHJQNJDDQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6B3JMMBGVYTJ5NW0YGE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A6B3JMMBGVYTJ5NW0YGE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6BBKC4RR4CVHD0Y7QXS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A6BBKC4RR4CVHD0Y7QXS",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "2VZ7WEZ12J9TQT19XMXE69Q8CS",
+      "reference": "ALT_FUGUE_B_LY_147_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/c2b16e944b29af718fc5",
+      "reference": "ARTIST",
+      "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+      "name": "Artista"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/892e49c9a854278aac1b",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_147/JPG/es_ES/93311ea85a0c1e04808ce7e074ecf0f1.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_147_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_147_R1",
+  "id": "3738ZVJ2AP9GK9QR13ZHBR1KK0",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_147/JPG/fr_FR/83be601c33fb46488fda5358c04b5744.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_147/JPG/en_US/e9af483a1338b0ce1ce82f1220eef1ec.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_147/JPG/it_IT/db2bc8564a5b45ad63a65c92f26c9750.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_147/JPG/es_ES/93311ea85a0c1e04808ce7e074ecf0f1.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_147/JPG/de_DE/607e153a3d03a4f69e0c88e70bb87bd7.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "When you roll one or more dice — #I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-042-R-ES"
+}

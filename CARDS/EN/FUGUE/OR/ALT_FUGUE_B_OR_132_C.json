@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_132_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1YM1M9R69C8ZDTEQN7SJRA97KN",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A8FSRE7J1FEK4VHM89RK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A8FSRE7J1FEK4VHM89RK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8GCC9RK0WDJDVSE844J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A8GCC9RK0WDJDVSE844J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8G350NYE1G0RSX835HW",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A8G350NYE1G0RSX835HW",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8F7RQSJAR4SVR3KTECT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A8F7RQSJAR4SVR3KTECT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8FG2YK5YPHZ8P7V97S5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A8FG2YK5YPHZ8P7V97S5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1YM1M9R69C8ZDTEQN7SJRA97KN",
+      "reference": "ALT_FUGUE_B_OR_132_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e4fb692c6fc65caed65d",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0ba55ac309f77ec51493",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/460f19febf61bf03a28d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/JPG/en_US/ed4ab72a77de6944e98f55b66684d7a2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/WEB_05af22b51d6fd3d7cfd9d8978e0de361",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/WEB_e389c630e3fab5ea01224b6cd45b8d69",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/WEB_ea521c64c5478e2c5aded5ad2a8eee23"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_132_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_132_C",
+  "id": "3YKR8HVERA9G9V8HTZQZVECQ6A",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/JPG/fr_FR/e839561cf0e58ae08e18509a7f9931ad.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/JPG/en_US/ed4ab72a77de6944e98f55b66684d7a2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/JPG/it_IT/d6a72d088b77503b311f308e4c6bc78c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/JPG/es_ES/eb37353d5e70988e048706fe1441a0f4.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_132/JPG/de_DE/365fb5006fec621ea880bcc4f19f489d.jpg"
+  },
+  "name": "Nausicaa",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{H} If there's a Soldier in your Reserve, [Resupply]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-076-C-EN"
+}

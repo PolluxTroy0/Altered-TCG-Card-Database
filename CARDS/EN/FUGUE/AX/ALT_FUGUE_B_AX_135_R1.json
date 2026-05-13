@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_135_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/55EMGN65YY8VETBP8SRFKHCGFR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A4327XP0WCW7D47NJE86",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A4327XP0WCW7D47NJE86",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A43ATSC1W88SRK2VH965",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A43ATSC1W88SRK2VH965",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4365HQ0KYKF31Q3EC35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A4365HQ0KYKF31Q3EC35",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42TYNFHJR2SCSFPQ0ZD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A42TYNFHJR2SCSFPQ0ZD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42ZYJQWJ8MR85GTF2N9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A42ZYJQWJ8MR85GTF2N9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "55EMGN65YY8VETBP8SRFKHCGFR",
+      "reference": "ALT_FUGUE_B_AX_135_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/97317a116bf19955a13b",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Engineer"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d83045e131a223e1b0a3",
+      "reference": "TITAN",
+      "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
+      "name": "Titan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/239d3f7a28e9ad3f0e72",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/en_US/60d3ce99868fcf1c07a845e09f4fb5cc.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/WEB_6fea3bcf9cc9b4202efc5e1138663184",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/WEB_0b59f29bf6b12d23445f8bbaf8307971",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/WEB_8c4dd6a6b3a9b9a6235669531c3834ae"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_135_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_135_R1",
+  "id": "74ZM3D78H9949VS5FJ8GBK26K9",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/fr_FR/7803b91d5bd1acdcaead562635841a56.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/en_US/60d3ce99868fcf1c07a845e09f4fb5cc.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/it_IT/9b84c0680cfd2257596cd7d217be228c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/es_ES/b9e22c7e2ac143a7bc0d960e29d1b5bd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/de_DE/1d5933622290316c5a7c6a5617d4ed4a.jpg"
+  },
+  "name": "Arges",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "#2#",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "[Gigantic], #[Tough 1].#  {J} I gain 1 boost #per card in your Landmarks.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-011-R-EN"
+}

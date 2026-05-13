@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_139_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4NB8QREE709A8SYJ24X5EDAP4Y",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A98B9XWRMNMHEHEAYPET",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A98B9XWRMNMHEHEAYPET",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A98ZACH29H1EHB2MPYZG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A98ZACH29H1EHB2MPYZG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A98N17EYFJA3AZ6FPHQS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A98N17EYFJA3AZ6FPHQS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A97N4XFRHRZEF9V6NXY8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A97N4XFRHRZEF9V6NXY8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A981QF7X9CTDW7MQ7GSH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A981QF7X9CTDW7MQ7GSH",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01J20ZZP61FEFQ4613REH25WRT",
+        "@type": "LoreEntryType",
+        "id": "01J20ZZP61FEFQ4613REH25WRT",
+        "reference": "LANDMARK_PERMANENT",
+        "name": "LANDMARK_PERMANENT"
+      },
+      "id": "4NB8QREE709A8SYJ24X5EDAP4Y",
+      "reference": "ALT_FUGUE_B_OR_139_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanent de Repère"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/6e0b2149016bda3ff7b4",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4ca3eb54676cb8374d0d",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_139/JPG/fr_FR/442bb806ad177297b0ae244b9ceb9acb.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_139_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_139_C",
+  "id": "39G5DXJ8548W39CD4RJSY887Y4",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_139/JPG/fr_FR/442bb806ad177297b0ae244b9ceb9acb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_139/JPG/en_US/9b0aeb83818ec19b83d41c16112dbc2d.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_139/JPG/it_IT/f62d5f74c7c5a33ef0c92de39457fffa.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_139/JPG/es_ES/8fc58c0a5f095672bc2022dbadb17ad6.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_139/JPG/de_DE/f93308d55c54fdaa291c0989defa2c90.jpg"
+  },
+  "name": "Troie",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "Lorsque vous créez un jeton — Vous pouvez m'épuiser pour en créer un de plus au même endroit. (Si vous copiez un jeton créé dans la zone d'Expédition, la copie est créée dans la même Expédition.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-089-C-FR"
+}

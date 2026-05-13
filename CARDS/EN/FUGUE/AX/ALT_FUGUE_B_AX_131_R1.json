@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_131_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6GFQZEGGPW85P90VZPY2JYZX5X",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A40HYNPH71S6YXWS6SN4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A40HYNPH71S6YXWS6SN4",
+          "text": "To navigate these uncharted waters, Sierra placed beacons on the backs of seagulls to triangulate their position."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A40QEVYC3C1SNWFCTCXP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A40QEVYC3C1SNWFCTCXP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A40MDCKX6H05TVDC81Z7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A40MDCKX6H05TVDC81Z7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A408QXK2683HHZVWXT5M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A408QXK2683HHZVWXT5M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A40ED24QK4ZNRHPR2X4E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A40ED24QK4ZNRHPR2X4E",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6GFQZEGGPW85P90VZPY2JYZX5X",
+      "reference": "ALT_FUGUE_B_AX_131_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e6d8aa4f037eb4bf6fd1",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e98137b545b77cf98744",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/JPG/en_US/a6a8f3d867bc133525dfd6e2c4d509ee.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/WEB_a2ee7303ff9266b8167c11ad0627dc0a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/WEB_f53cc4ce20226fd3642ab3d0c7216936",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/WEB_de0df9a607e45512023301f8dae49f42"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_131_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_131_R1",
+  "id": "5KB9KQ558F8B6VGS903HPS5RK4",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/JPG/fr_FR/ffabb7beab30204ee09b9d9040242443.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/JPG/en_US/a6a8f3d867bc133525dfd6e2c4d509ee.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/JPG/it_IT/cf0aef55482db4ab562e233d49ca0e62.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/JPG/es_ES/b9621cd013b9ee0a42505baa8d614b6c.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_131/JPG/de_DE/57daa76f89bfe6725d5fd9271c6818f7.jpg"
+  },
+  "name": "Trailing Seagull",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "#{R} I gain 1 boost.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-002-R-EN"
+}

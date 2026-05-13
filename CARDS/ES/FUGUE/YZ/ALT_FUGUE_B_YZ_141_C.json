@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_141_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4Z1R81NHVP9PCT2VWNSZ5BF6XK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46ABKBS4BPJMSG1ABRJGD6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46ABKBS4BPJMSG1ABRJGD6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABM5YDD9DQJKZKXVR1WH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46ABM5YDD9DQJKZKXVR1WH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABKRC94YV4C9MZKJ6XPM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46ABKRC94YV4C9MZKJ6XPM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABJ89NZSP8J0VTBG2BQ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46ABJ89NZSP8J0VTBG2BQ2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABJXGKSJGT17DEMDVHCA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46ABJXGKSJGT17DEMDVHCA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "4Z1R81NHVP9PCT2VWNSZ5BF6XK",
+      "reference": "ALT_FUGUE_B_YZ_141_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Hechizo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/2ee8c0296852f7db95dc",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Disrupción"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/8424d73db370b347d530",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/es_ES/7b876ab8d3f20e779300622fe4273df5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/WEB_d1bbecc1077ef5366c78f9fe50d411f6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/WEB_00ebe6023b9c6668a7eb564e48050620"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_141_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_141_C",
+  "id": "27BWKGHRVJ83SRDMNCBP3HZQNE",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/fr_FR/acbf1f719af9ffbe697cf5d0fab37ab4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/en_US/7fe8e31f6828d7136be3c211a8dcae73.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/it_IT/b0aafe81aaf0ce3801d51533f4334294.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/es_ES/7b876ab8d3f20e779300622fe4273df5.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/de_DE/3205f2ccc52a4f8e207d4e6e4544f88c.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Fugacidad]].  Target a Character with Base Cost {2} or less. If you have six or more Mana Orbs, discard it, otherwise send it to Reserve."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-102-C-ES"
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_133_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2JQM3G2C8T97R86AEXHSE5SQK9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A8K6DMSM0FCT0SJTNHVV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A8K6DMSM0FCT0SJTNHVV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8N54NVWG2ARQF95DZY2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A8N54NVWG2ARQF95DZY2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8MHWCRK3V3SRJRVY5Q0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A8MHWCRK3V3SRJRVY5Q0",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8JBR0Q3RY1TFH6GZ8AB",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A8JBR0Q3RY1TFH6GZ8AB",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8JSFGVDT4M3HWR6YPJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A8JSFGVDT4M3HWR6YPJ5",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "2JQM3G2C8T97R86AEXHSE5SQK9",
+      "reference": "ALT_FUGUE_B_OR_133_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/9e5866a951920d0cdb08",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fecb956efca96f7c3393",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/JPG/en_US/f170e70235326e164512e46e8939c6c9.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/WEB_ce6fcaf0004ab809f82e3c61e8901b0c",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/WEB_09fa78f48f7e3370279895fc20ede2da",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/WEB_ef660530711a0d6d7b79efef65e4ee46"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_133_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_133_R2",
+  "id": "5VMFEPN4YX88XSDMR4C9FVK8P8",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/JPG/fr_FR/575fb1b11c9fe896744e25d2f7b53506.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/JPG/en_US/f170e70235326e164512e46e8939c6c9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/JPG/it_IT/25fa9e95a6230978ca2d6becc9607e28.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/JPG/es_ES/c9b9c88fd1e5848f0131f59401641316.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_133/JPG/de_DE/1d0b508cf62e43010171c1bb5be11199.jpg"
+  },
+  "name": "Paris",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "#2#",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{R} Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-075-F-EN"
+}

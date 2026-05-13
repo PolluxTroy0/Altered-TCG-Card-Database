@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_141_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4Z1R81NHVP9PCT2VWNSZ5BF6XK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46ABKBS4BPJMSG1ABRJGD6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46ABKBS4BPJMSG1ABRJGD6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABM5YDD9DQJKZKXVR1WH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46ABM5YDD9DQJKZKXVR1WH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABKRC94YV4C9MZKJ6XPM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46ABKRC94YV4C9MZKJ6XPM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABJ89NZSP8J0VTBG2BQ2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46ABJ89NZSP8J0VTBG2BQ2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABJXGKSJGT17DEMDVHCA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46ABJXGKSJGT17DEMDVHCA",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "4Z1R81NHVP9PCT2VWNSZ5BF6XK",
+      "reference": "ALT_FUGUE_B_YZ_141_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/93f17e4eb91235d2a87c",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Interférence"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7aa832dc423c68344715",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/fr_FR/164a98f612d6aa882e8d21d81580adc2.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/WEB_d1bbecc1077ef5366c78f9fe50d411f6",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/WEB_00ebe6023b9c6668a7eb564e48050620"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_141_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_141_R1",
+  "id": "6CKK3M50KB8CGT6FP23XDB5QKN",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/fr_FR/164a98f612d6aa882e8d21d81580adc2.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/en_US/237124391d2f37c47e5aebd7c7e0b223.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/it_IT/e30a7c2b001c493bc1dd3b98dbdc5a15.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/es_ES/e1643a62512e79b53e0aa8e3ef612aad.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_141/JPG/de_DE/2c874fba444b6d1d6612397b1aa3c0c0.jpg"
+  },
+  "name": "Déferlante",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]].  #Défaussez# un Personnage ciblé de Coût de Base #{1} ou moins.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-102-R-FR"
+}

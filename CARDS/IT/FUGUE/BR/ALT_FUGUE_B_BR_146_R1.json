@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_BR_146_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/3TF0QFDX4Y9ENSA07VGK0VXWGK",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A53A29SQX6TST1RY9QDS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A53A29SQX6TST1RY9QDS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A54635AA6QN9KS98RRC4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A54635AA6QN9KS98RRC4",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5406P3QTTHWQKA8TZSM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5406P3QTTHWQKA8TZSM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A52N6NCPF9G8DXVHG15B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A52N6NCPF9G8DXVHG15B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A53147WJP7YSAX75MCJ1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A53147WJP7YSAX75MCJ1",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "3TF0QFDX4Y9ENSA07VGK0VXWGK",
+      "reference": "ALT_FUGUE_B_BR_146_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Incantesimo"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a2d74f7538c103fde9c2",
+      "reference": "DISRUPTION",
+      "id": "01HKAGPH80FC347E2P8841D298",
+      "name": "Impedimento"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cd5284e004a85dcaae39",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/JPG/it_IT/e163c6d9ab27bdb7e3cbdd9af5cea58f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/WEB_8bdb6266b766397d1e9d355dacc8865b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/WEB_cc634ae0026959f1e721c2d0905a9356"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_BR_146_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_BR_146_R1",
+  "id": "2XDXNABAYM9Y5VX6MFJR5X1B6V",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/JPG/fr_FR/1c1e77e26fa0f834c28c4f1610284cbb.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/JPG/en_US/637dd02a2677287fa6e00b294b41b0b9.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/JPG/it_IT/e163c6d9ab27bdb7e3cbdd9af5cea58f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/JPG/es_ES/790b63827adbbbbd8c3db37e40ce7eba.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_146/JPG/de_DE/d31df4d85e3629fc9eb7db4c3e884bea.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]].  Target Character in your Reserve gains #3 boosts.# Then, [Sabota]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-034-R-IT"
+}

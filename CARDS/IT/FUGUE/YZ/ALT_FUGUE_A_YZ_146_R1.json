@@ -1,0 +1,73 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_A_YZ_146_R1",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8945c91b9aa79085560e",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Costruzione"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/06c7880a9e823d0ae151",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_146/JPG/it_IT/00a30faca491f974752d43e64a1ac9fe.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_A_YZ_146_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_A_YZ_146_R1",
+  "id": "480N9NBDD79YVS3BW1QSE75R1V",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_146/JPG/fr_FR/389652eaddda08595156b5dbd312686b.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_146/JPG/en_US/5c675b1a426e3081516a802a17ab1627.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_146/JPG/it_IT/00a30faca491f974752d43e64a1ac9fe.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_146/JPG/es_ES/3ce6e60895e48752584583cb1dcb876d.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_146/JPG/de_DE/0eb1fa872cc8def479ba54cd56245c3a.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "#2#",
+    "RECALL_COST": "#2#",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "{J} I gain #2 Mirage counters.#  At Noon — If you have #five or more# Mana Orbs, you may spend 1 of my Mirage counters to draw a card."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-A-108-R-IT"
+}

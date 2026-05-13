@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_145_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4FEXRAEDYD8NP8BX4CS2GTG0DW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46AC5PTX7M3N6SG601Q8BN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46AC5PTX7M3N6SG601Q8BN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AC6HCMCY5QYJV030WK2F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46AC6HCMCY5QYJV030WK2F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AC640G2KPK8NNK0CR9MV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46AC640G2KPK8NNK0CR9MV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AC3GE058T7FF3MTTRJ46",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46AC3GE058T7FF3MTTRJ46",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AC57ZY8DC0A89Z8Y77S0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46AC57ZY8DC0A89Z8Y77S0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YWDQJMHNXV999HX7V1P",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YWDQJMHNXV999HX7V1P",
+        "reference": "SPELL",
+        "name": "Spell"
+      },
+      "id": "4FEXRAEDYD8NP8BX4CS2GTG0DW",
+      "reference": "ALT_FUGUE_B_YZ_145_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9X35JXEQZJBBD6E4BKX",
+    "@type": "CardType",
+    "reference": "SPELL",
+    "id": "01GE7AC9X35JXEQZJBBD6E4BKX",
+    "name": "Sort"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/33f76072c95591ee0ab0",
+      "reference": "MANEUVER",
+      "id": "01HKAGPGT0M24AWMMF30CN0NT4",
+      "name": "Manœuvre"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2ef68b0152d49df3d64f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/JPG/fr_FR/de139f7694da77e0ca4e010a37de60db.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/WEB_eb87e0dddb14ccd75675597a0bea6f99",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/WEB_5eb6a6966b6a322ffd7b23eacf57e2ea"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_145_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_145_C",
+  "id": "0PB1KH35RS9G6ATNW6MXAFHMST",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/JPG/fr_FR/de139f7694da77e0ca4e010a37de60db.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/JPG/en_US/27cd753a16c9dbb1f1c552734347d71c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/JPG/it_IT/763a2bee4eafaff88616d02bfa99e944.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/JPG/es_ES/e44105900fe8b40c30ae1d93dd058190.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_145/JPG/de_DE/2a8dac3dfa53b1894f7f9191eabd679c.jpg"
+  },
+  "name": "De Charybde en Scylla",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "[[Fugace]].  Un joueur ciblé choisit son Expédition Héros ou Compagnon, puis sacrifie tous les Personnages dans celle-ci."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-106-C-FR"
+}

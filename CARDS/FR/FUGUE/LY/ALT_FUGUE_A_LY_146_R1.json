@@ -1,0 +1,73 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_A_LY_146_R1",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanent de Repère"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/901b2883480c6eb9982d",
+      "reference": "CONSTRUCTION",
+      "id": "01J1SYC159ACKJS202498RAQRR",
+      "name": "Construction"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/163e40793080e51d0a05",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_LY_146/JPG/fr_FR/1292900523a02420a41875f554f6e2d5.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_A_LY_146_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_A_LY_146_R1",
+  "id": "66E78KNHGR97HBKNSHQNTQB7FV",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_LY_146/JPG/fr_FR/1292900523a02420a41875f554f6e2d5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_LY_146/JPG/en_US/0cf4c6615486b67539a2ac1627dc3006.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_LY_146/JPG/it_IT/b32a767a432531c8b52212ad3b5e5da1.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_LY_146/JPG/es_ES/257cd5a5e072e214894312509ffc43e3.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_LY_146/JPG/de_DE/6c00e42bad00dac2bf624569b4f446ef.jpg"
+  },
+  "name": "Sanctuaire de Nausicaa",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "#Vous devez payer {1} de plus pour jouer des cartes de votre main si votre Réserve n'est pas vide.#  #À Midi —# [Ravitaillez]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-A-054-R-FR"
+}

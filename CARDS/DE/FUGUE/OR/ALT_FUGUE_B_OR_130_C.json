@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_130_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6XVGADC6K69X4APE98DSBYF7M7",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A89YK5PFSVG6T3P4V7CH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A89YK5PFSVG6T3P4V7CH",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8BSA3WBZ6FBDSEBAZM8",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A8BSA3WBZ6FBDSEBAZM8",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8B4X8QJGP0T9NDJYF10",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A8B4X8QJGP0T9NDJYF10",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A89B7GDGEYWNF0A3AH18",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A89B7GDGEYWNF0A3AH18",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A89MRS5KC90QH13CYX26",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A89MRS5KC90QH13CYX26",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "6XVGADC6K69X4APE98DSBYF7M7",
+      "reference": "ALT_FUGUE_B_OR_130_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/b302a845746b13b47c3f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/JPG/de_DE/44580897f6bec37007de1257ac311564.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/HERO_THUMB_e5d8a2d0e38a46010d341704320172d8"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/HERO_WIDE_7e392ddd598d8aa4390a88f91976a181"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/WEB_ff12d03ba6be3cf0bbb40d1e911975a0"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_130_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_130_C",
+  "id": "1NTJXB5RK592STS168YFA2VX7C",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/JPG/fr_FR/e8d2bac2c5b2f3874a306cc3bd4c1086.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/JPG/en_US/4478741bb548a921e9e9a2c0cad0d1b5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/JPG/it_IT/2bd2f7fb2d1f9151be35a3e3c9354b4b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/JPG/es_ES/a9c39120ad1e3bdaf86a3d06d839a60e.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_130/JPG/de_DE/44580897f6bec37007de1257ac311564.jpg"
+  },
+  "name": "Eyota",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "At Noon — If you're first player, create my [SIGNATURE_TOKEN]: [ECHO] in your Reserve. (It's a Soldier Companion with Reserve Cost {1} and \"{r} If you control two or more other Soldiers, I gain 1 boost.\")"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-073-H-DE"
+}

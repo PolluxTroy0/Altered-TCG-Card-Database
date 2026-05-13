@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_145_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/071FMF0C1C97GR3VNJRJE78Y4F",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A679S3028Y2GS8A7Q3A9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A679S3028Y2GS8A7Q3A9",
+          "text": "Even seasoned sailors struggle in this treacherous sea."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A67TH6E8ZQMQ4KYVNN0Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A67TH6E8ZQMQ4KYVNN0Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A67JT3RY78XRS6TR4SY5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A67JT3RY78XRS6TR4SY5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A66CAZH8NAS514Y078BV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A66CAZH8NAS514Y078BV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A671WMAP8MQ35T0MQPME",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A671WMAP8MQ35T0MQPME",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "071FMF0C1C97GR3VNJRJE78Y4F",
+      "reference": "ALT_FUGUE_B_LY_145_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/515d342e52d75855c2ef",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Adventurer"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/fb309ab2fcf1b5d1cd12",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/JPG/en_US/25743cb1ce454ac614f9b23504dbb1f6.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/WEB_8df5f3a5de9310cf4b8f1d2eb7e42425",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/WEB_51f6013ad4c6e29807392788c47a3ecd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/WEB_542126e80df25a1e499f4b1b5a0e6d55"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_145_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_145_R2",
+  "id": "4F5YT1RHWT88YT77935ZATYXW0",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/JPG/fr_FR/ec1c41ddf9b1adcc7d4446b4ef07efe4.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/JPG/en_US/25743cb1ce454ac614f9b23504dbb1f6.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/JPG/it_IT/507d738ea2e86ee9403b2efd5abfeb07.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/JPG/es_ES/4d7dab6eea46f77a4a1e3f05fe7aa684.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_145/JPG/de_DE/f65a8158872eb96517b9701bbd6ac416.jpg"
+  },
+  "name": "Iffy Navigator",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#4#",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "#4#",
+    "MAIN_EFFECT": "{J} Roll a die. On a #1-2,# I switch Expeditions."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-040-F-EN"
+}

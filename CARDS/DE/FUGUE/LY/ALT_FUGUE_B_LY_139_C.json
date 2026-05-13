@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_139_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/12J46KGZ5Q8FQ84D0JVG2C49H4",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A5S4CWW61WEC4FXGAFA2",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A5S4CWW61WEC4FXGAFA2",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5TK12D6HM6V2E9DG9N3",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A5TK12D6HM6V2E9DG9N3",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5T1BTS9SYX3ASY0QF6X",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5T1BTS9SYX3ASY0QF6X",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5RNRZK0N2Z676WAMJ6D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A5RNRZK0N2Z676WAMJ6D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5RX09Q6XESWERJEK0R9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A5RX09Q6XESWERJEK0R9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "12J46KGZ5Q8FQ84D0JVG2C49H4",
+      "reference": "ALT_FUGUE_B_LY_139_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/888a1c4aa8f366d71245",
+      "reference": "TITAN",
+      "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
+      "name": "Titan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/714104597781aeb24b9b",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/JPG/de_DE/05cb0ad76ced19695ad3619866b851bb.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/WEB_1a2e9c7082a9e56c9e19f1da90376572",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/WEB_75a3bfd0c7241e10ef21aa45edd53c3d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/WEB_594664543508804ae13727102d486968"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_139_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_139_C",
+  "id": "14ZKW5KX3J9QDRK6JC0EZ66BQ7",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/JPG/fr_FR/58e6091b8682dc7c5f67c1fdf7978f32.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/JPG/en_US/6868823e805c095b078ced91a397b67b.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/JPG/it_IT/4796ddf40fbbc2d9c94879cf3be9291a.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/JPG/es_ES/a40d4854c8d9b6db86f2ca0b05baf5fd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_139/JPG/de_DE/05cb0ad76ced19695ad3619866b851bb.jpg"
+  },
+  "name": "Laestrygonian Queen",
+  "elements": {
+    "MAIN_COST": "5",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "[Gigantisch]. (I'm considered present in each of your Expeditions.)  {J} Roll a die. I gain X boosts, where X is the result."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-050-C-DE"
+}

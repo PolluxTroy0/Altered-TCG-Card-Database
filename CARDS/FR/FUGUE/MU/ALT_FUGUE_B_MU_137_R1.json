@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_137_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/7BFZY74ZXG8HP8DF1R9D3JG077",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A75QDF9P8FYN5WQZZQ5A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A75QDF9P8FYN5WQZZQ5A",
+          "text": "« Il nous reste du chemin à parcourir. »"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A76KJMTVD3APG8RTWH9J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A76KJMTVD3APG8RTWH9J",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A76AZH6KSMZ4DHHYRBTQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A76AZH6KSMZ4DHHYRBTQ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A745N8Y84J8DQJT4PTNC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A745N8Y84J8DQJT4PTNC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A74FXAD2J6J4HZA32955",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A74FXAD2J6J4HZA32955",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "7BFZY74ZXG8HP8DF1R9D3JG077",
+      "reference": "ALT_FUGUE_B_MU_137_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/028a67940ba4cf69c147",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/aa7dba869554b727131a",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/JPG/fr_FR/a6af39620722a47dea4ee2b003832027.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/WEB_5db44466ce036e5ecd0f86ecfbac8213",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/WEB_2ed1f4c0dd62bd737fe45129c9257b06",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/WEB_44c1cf2dafd761db17ddaf5dd683cdb9"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_137_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_137_R1",
+  "id": "5C6N5G7NM494JSJVJGKHKZ988Z",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/JPG/fr_FR/a6af39620722a47dea4ee2b003832027.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/JPG/en_US/4056b2d9623b82e36ce7def6479ea2f7.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/JPG/it_IT/0cba5e0dc0d718132a275c400de5ea43.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/JPG/es_ES/a4488e7ac5d8fc0fd753f212ccc2b7e2.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_137/JPG/de_DE/c0306446a61f9a0b513e3b790f949413.jpg"
+  },
+  "name": "Eumée",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "#2#",
+    "MAIN_EFFECT": "{J} #Chaque# Personnage dans votre Réserve gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-064-R-FR"
+}

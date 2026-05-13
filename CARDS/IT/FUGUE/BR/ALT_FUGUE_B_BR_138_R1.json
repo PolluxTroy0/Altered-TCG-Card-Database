@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_BR_138_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1YG8EBE0B687EBYW8VWVW3CE51",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A4R3AA9AVD9HPMJS3AZZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A4R3AA9AVD9HPMJS3AZZ",
+          "text": "Keeping the flame alive..."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4RDJ2E1J36T84HCJ4PX",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A4RDJ2E1J36T84HCJ4PX",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4R8Q96PZR5QV8NXAGM5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A4R8Q96PZR5QV8NXAGM5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4QF81NSXV3BT9HM57YJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A4QF81NSXV3BT9HM57YJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4QNW5KPFBJ0GE0WFT5Y",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A4QNW5KPFBJ0GE0WFT5Y",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1YG8EBE0B687EBYW8VWVW3CE51",
+      "reference": "ALT_FUGUE_B_BR_138_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/b53587ec96db333f675e",
+      "reference": "ELEMENTAL",
+      "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+      "name": "Elementale"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/cfe292a220ac120e42df",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/JPG/it_IT/29470b582fc13c58e1ac28fad449e8b3.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/WEB_fcb288983788c2c6badd514c51b90b79",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/WEB_c645ca5b331bffc1838b0d0867df33cd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/WEB_a75888b6d8af07cdaa933999500143fe"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_BR_138_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_BR_138_R1",
+  "id": "3E62311DZ781VRDG90WYQ4TDA2",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/JPG/fr_FR/c92b5f0a4c550fc5f296e7557271cd73.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/JPG/en_US/220f5c857e01d5a2a74c4029f8f5face.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/JPG/it_IT/29470b582fc13c58e1ac28fad449e8b3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/JPG/es_ES/8211b412e1cf865eae033c4382f3fdba.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_138/JPG/de_DE/8eafc38609a74d99a65aab1f292c5e42.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "2",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "#2#",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "{R} You may put me in your Mana zone (as an exhausted Mana Orb)."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-029-R-IT"
+}

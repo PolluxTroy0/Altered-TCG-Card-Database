@@ -1,0 +1,73 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_A_YZ_136_E",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5e32c04ba31fbd4ac1d9",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deidad"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/66952ccc2f209fc94aa8",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_136/JPG/es_ES/0dc8db21014681d8ce83d0ac1e98b859.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_A_YZ_136_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_A_YZ_136_E",
+  "id": "0H8DG1N7H193RV0S94SDWATPH7",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_136/JPG/fr_FR/50b3e3df8ad1586f25165542094b33f0.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_136/JPG/en_US/a1dc2f9d82ca1decaf816931dbedf7ab.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_136/JPG/it_IT/2447c8c7a83c783b3ed7b738bdd2cd7d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_136/JPG/es_ES/0dc8db21014681d8ce83d0ac1e98b859.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_YZ_136/JPG/de_DE/ed0cb3600b18b88606abfacc449ebe86.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "4",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[TEMPLE] {2}.  At Noon — If you're not first player, create your Hero's Signature token in your Reserve, then it gains 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-A-100-E-ES"
+}

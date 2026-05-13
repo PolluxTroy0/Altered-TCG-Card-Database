@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_131_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6CHSAHHGDT9T0TBVEMH05EZ3N1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A5AHAC7YGWDXWDPGR7QF",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A5AHAC7YGWDXWDPGR7QF",
+          "text": "« Fasano adore sa nouvelle forme... mais la vie de cochon n’est pas de tout repos. » — Nif‑Nif"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5B9QMAFT9DGESZC1BNP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A5B9QMAFT9DGESZC1BNP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5B2RNH5GZST4JW6DSD5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5B2RNH5GZST4JW6DSD5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A59AC6CDWBN6DGBSBJ6B",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A59AC6CDWBN6DGBSBJ6B",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5ABVWC675BE2BHVW91H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A5ABVWC675BE2BHVW91H",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6CHSAHHGDT9T0TBVEMH05EZ3N1",
+      "reference": "ALT_FUGUE_B_LY_131_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/49536186b495694c87f9",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4d660228c75be13c92c6",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/JPG/fr_FR/f7ea97e469706d97bc125786b319ca15.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/WEB_dadfbfe74785f6dadc14b79ced0e412b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/WEB_7c1e3e9e8e35a94c62763981cd486d25",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/WEB_87c3ac0d8f9d039d55a4764d956317d8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_131_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_131_C",
+  "id": "4Y45SYW9J882DREFWH6898H69J",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/JPG/fr_FR/f7ea97e469706d97bc125786b319ca15.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/JPG/en_US/4c60ff97780961fcb848b7d5f8fc643e.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/JPG/it_IT/6d8e9d92600b2be01d80b8ce7296659f.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/JPG/es_ES/3c0c9815b8b64c99925b6093aae29b67.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_131/JPG/de_DE/8589d9b5a8c75e0a910d79e1707cd72d.jpg"
+  },
+  "name": "Cochon Dissipé",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "0"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-038-C-FR"
+}

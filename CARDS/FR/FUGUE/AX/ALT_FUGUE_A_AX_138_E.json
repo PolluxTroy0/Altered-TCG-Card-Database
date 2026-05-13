@@ -1,0 +1,73 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_A_AX_138_E",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/1470febd0a09c540bbf2",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinité"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/3b2d9f7bb7dea81d8e7d",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalté"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_AX_138/JPG/fr_FR/7c14bfb9006d81b7c54ef1a3bbdcfcaf.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_A_AX_138_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_A_AX_138_E",
+  "id": "50CDANWWKZ8BST2TZT5GY2HPC2",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_AX_138/JPG/fr_FR/7c14bfb9006d81b7c54ef1a3bbdcfcaf.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_AX_138/JPG/en_US/3684b7ec1e19a48428111bb9241c52e3.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_AX_138/JPG/it_IT/b40d289b997a3cb7858da66bae0aafa9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_AX_138/JPG/es_ES/8baa7851e26f843e2ce6db5d030e30fd.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_AX_138/JPG/de_DE/27797eb2c995a0d5c105285bb050ae02.jpg"
+  },
+  "name": "Héphaïstos, Dieu de la Forge",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "4",
+    "MAIN_EFFECT": "[Temple] {2}.  Lorsque vous passez — Vous pouvez payer {1} pour piocher une carte."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-A-009-E-FR"
+}

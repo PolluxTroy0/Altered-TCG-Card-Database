@@ -1,0 +1,161 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_141_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4SQBQXMWXQ8ZRA2M9SSGBMGNG1",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A9EQBA871AYYW8Z96NCA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A9EQBA871AYYW8Z96NCA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9GQGBQEZ2SWTKZDAAAT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A9GQGBQEZ2SWTKZDAAAT",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9F2530AXD3JXSBFDY1F",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A9F2530AXD3JXSBFDY1F",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9DYB9FAJP7WY48Z1ED1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A9DYB9FAJP7WY48Z1ED1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A9ECJ9ASHGXJADD3SM2J",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A9ECJ9ASHGXJADD3SM2J",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4SQBQXMWXQ8ZRA2M9SSGBMGNG1",
+      "reference": "ALT_FUGUE_B_OR_141_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a69228d9a7129fa300f5",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldato"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/7361c1e7603de35fd8e0",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Divinità"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/4d4cc1a3e51dbde021d5",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_141/JPG/it_IT/53d09b00a58334d1644d7d98bb39d69b.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_141_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_141_E",
+  "id": "2MJT38S49G94BVHT6YH5AZSW1K",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_141/JPG/fr_FR/0077593e9cc0e91d0c68b41e676e0e30.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_141/JPG/en_US/78c892ea9b15804151cc7ad284ad95c5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_141/JPG/it_IT/53d09b00a58334d1644d7d98bb39d69b.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_141/JPG/es_ES/bdcd403fbb460021c866818c646de416.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_141/JPG/de_DE/c748f9ba363a65f9661c6c39033c3424.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[TEMPLE] {2}. (You may play me for {2} as a Landmark Permanent - Construction with: \"At Noon — You may send me to Reserve.\")  A mezzogiorno — Crea una pedina Soldato [Recluta Ordis 1/1/1] nella spedizione del tuo compagno."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-082-E-IT"
+}

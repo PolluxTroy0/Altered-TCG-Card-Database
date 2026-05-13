@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_OR_131_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5JET4BCT248HSAHFSB4GRVT628",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A8CY4C2MFNJERHD6EB5Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A8CY4C2MFNJERHD6EB5Z",
+          "text": "It’s time to spread your wings, take flight, and sail toward the horizon."
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8E9J8DK31M22D1SFA59",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A8E9J8DK31M22D1SFA59",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8D77MKKFK9SET12HSWC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A8D77MKKFK9SET12HSWC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8CBYS1PDW9VDGB255BJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A8CBYS1PDW9VDGB255BJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A8CMHE381FVA2THTDAD4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A8CMHE381FVA2THTDAD4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "5JET4BCT248HSAHFSB4GRVT628",
+      "reference": "ALT_FUGUE_B_OR_131_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/332347ac98f72da8562b",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldier"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/4a743fd4b89a4843860f",
+      "reference": "ANIMAL",
+      "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+      "name": "Animal"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/69e546f4b8b5e9355705",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/JPG/en_US/a5240fdaead413b99922e175c5994b6f.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/WEB_712b08d4c11c0583bd4d9fd731dbc838",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/WEB_d8457c394f8f955a74c1163f9155eb7a",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/WEB_ccdf062a0160a2a94eeb581985b85099"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_OR_131_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_OR_131_R2",
+  "id": "00D5D6371D9GDT5WXF9JYPXDSD",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/JPG/fr_FR/f3c1c97990d9a37cc0ee18884d3d01e5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/JPG/en_US/a5240fdaead413b99922e175c5994b6f.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/JPG/it_IT/da8ca656a203cca527e93f890b6bb3c3.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/JPG/es_ES/7b8a40b2ee39628edfd81b72010c2499.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_OR_131/JPG/de_DE/f8c819ea21730f013bd2b6d6145770b5.jpg"
+  },
+  "name": "Majestic Eagle",
+  "elements": {
+    "MAIN_COST": "1",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "#When I go to your Reserve from your Expeditions — Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-074-F-EN"
+}

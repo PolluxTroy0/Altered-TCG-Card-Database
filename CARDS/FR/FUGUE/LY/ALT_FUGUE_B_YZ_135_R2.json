@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_135_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/35VDPTKHRD9WFR5Z6ES6QYJ55H",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46AATN0J4JSZ87HKBDR1DA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46AATN0J4JSZ87HKBDR1DA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAWM3MYNPDQV8K5MPZCR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46AAWM3MYNPDQV8K5MPZCR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AATZHXQ460KKWTRF42KG",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46AATZHXQ460KKWTRF42KG",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AASZZNP07S50DEE3C0S7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46AASZZNP07S50DEE3C0S7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AATAJ0ZZXEADBNGG7DC0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46AATAJ0ZZXEADBNGG7DC0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "35VDPTKHRD9WFR5Z6ES6QYJ55H",
+      "reference": "ALT_FUGUE_B_YZ_135_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ecac8c09b50d8d1cfafc",
+      "reference": "NOBLE",
+      "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+      "name": "Noble"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/183386aa1086b3fc0718",
+      "reference": "ROGUE",
+      "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+      "name": "Gredin"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e05e7ae33acbdbf1515d",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/JPG/fr_FR/f26bcd470a7c4ed03e20fd1e9b6f1a47.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/WEB_b6d6c52fb0d27c1acaabf1793110607b",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/WEB_691ceb360922e9ff33045d43fa87b4da",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/WEB_9f83b78d37eef5fdbb7673ddd0a1bf36"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_135_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_135_R2",
+  "id": "5JCM14YBJ498HRJHK49VSVP3H4",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/JPG/fr_FR/f26bcd470a7c4ed03e20fd1e9b6f1a47.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/JPG/en_US/e6252b9438292cc16586faf8429d90c2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/JPG/it_IT/3128f50f755e9764687a70d471093e3e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/JPG/es_ES/867cf6af6aa32a2dc29b99185b4f0723.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_135/JPG/de_DE/ca7c1151ec7dec734017cd76ef481422.jpg"
+  },
+  "name": "Prétendants de Pénélope",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "1",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{H} #Vous pouvez défausser une carte de votre Réserve pour# [Saboter] une carte de Coût de Réserve {2} ou moins."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-096-F-FR"
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_BR_148_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1CKA1BXGP38ZC87BV63BTSQNVZ",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A56DD3DQWARYCC9A8NRC",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A56DD3DQWARYCC9A8NRC",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A57FQF5ACCF8Q5XSVP9E",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A57FQF5ACCF8Q5XSVP9E",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5788A0NG63XEX5FYCHV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5788A0NG63XEX5FYCHV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A55Z45MJ2B4W9Q4XH2MJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A55Z45MJ2B4W9Q4XH2MJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A566YNX7JAWSNVCBH9VP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A566YNX7JAWSNVCBH9VP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "1CKA1BXGP38ZC87BV63BTSQNVZ",
+      "reference": "ALT_FUGUE_B_BR_148_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Jeton Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/a88fe0076260c6d06522",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Compagnon"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/909c434e6cf68e188808",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/JPG/fr_FR/be6475630b338729b0939f022443369a.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/WEB_071201aff267211fac7844c9aa0f935c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_BR_148_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_BR_148_C",
+  "id": "6GHNXV84XG9JG8RQTKSHZN5RK8",
+  "mainFaction": {
+    "@id": "/factions/BR",
+    "@type": "Faction",
+    "reference": "BR",
+    "color": "#c32637",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+    "name": "Bravos"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/JPG/fr_FR/be6475630b338729b0939f022443369a.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/JPG/en_US/cfe6340ea46ea4b470c4db95b132ee64.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/JPG/it_IT/fae51f5cb4655d10088ab5e20fc2353d.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/JPG/es_ES/778267acd8591b669b855855c16956a0.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_BR_148/JPG/de_DE/21c09871bb26e2d5b89f4808390826f2.jpg"
+  },
+  "name": "Booda Brûlant",
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "(Je suis créé en Réserve. Vous pouvez me jouer en Expédition. Retirez-moi du jeu si je devais aller ailleurs.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-110-T-FR"
+}

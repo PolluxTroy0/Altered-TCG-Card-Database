@@ -1,0 +1,36 @@
+{
+  "ALT_TCS3_P_AX_53_R1": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/96063f21ab744f7a1b19",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/316135b2e30d99be4a56",
+      "id": "749",
+      "fromDate": "2026-02-12T14:08:23+00:00",
+      "type": "SUSPENDED",
+      "name": "Suspension of The Grems (Axiom, Common)",
+      "description": "https://www.altered.gg/en-us/news/seeds-of-unity-season-patch",
+      "answer": "As of February 12, 2026, the Common version of The Grems is suspended in all versions of Constructed Format (1vs1, 2vs2, Free for All, No Unique, Singleton).  It is still legal in the following formats:  Sealed 1vs1  Sealed 2vs2  Sealed Free for All  Draft 1vs1  Draft 2vs2  Draft Free for All.  This does not affect the other versions of The Grems.",
+      "question": "Which versions of The Grems are legal and in which format?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/316135b2e30d99be4a56",
+        "id": "749",
+        "fromDate": "2026-02-12T14:08:23+00:00",
+        "type": "SUSPENDED",
+        "name": "Suspension of The Grems (Axiom, Common)",
+        "description": "https://www.altered.gg/en-us/news/seeds-of-unity-season-patch",
+        "answer": "As of February 12, 2026, the Common version of The Grems is suspended in all versions of Constructed Format (1vs1, 2vs2, Free for All, No Unique, Singleton).  It is still legal in the following formats:  Sealed 1vs1  Sealed 2vs2  Sealed Free for All  Draft 1vs1  Draft 2vs2  Draft Free for All.  This does not affect the other versions of The Grems.",
+        "question": "Which versions of The Grems are legal and in which format?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_138_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0BGAESNZ2T9SPTHBM4EQKS5K5N",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A77R7J4SGNY3CASJ5ZR6",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A77R7J4SGNY3CASJ5ZR6",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A79EDRN11W6C7DXQSRN5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A79EDRN11W6C7DXQSRN5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A78TA80YXAS95S9MYZZR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A78TA80YXAS95S9MYZZR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A775HCE2DPM9SZVDRAZY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A775HCE2DPM9SZVDRAZY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A77EVJB3PXDWDXF7ABHY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A77EVJB3PXDWDXF7ABHY",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "0BGAESNZ2T9SPTHBM4EQKS5K5N",
+      "reference": "ALT_FUGUE_B_MU_138_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/8f96cae9851220176ef3",
+      "reference": "DEITY",
+      "id": "01HKAGPAJFS4YDQVKY6AB16614",
+      "name": "Deity"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a343a6853a37e006b21f",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_138/JPG/en_US/374e1363da81667780862db90a3aa12c.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_138_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_138_E",
+  "id": "0661Z44KF98RWS1MGTVSDTHTSN",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_138/JPG/fr_FR/0d07c254da393bb2842f5da3b09f2e56.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_138/JPG/en_US/374e1363da81667780862db90a3aa12c.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_138/JPG/it_IT/a253cff327895885be370528fffee433.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_138/JPG/es_ES/ba4f536aa85758c66a87dbf65539eaed.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_138/JPG/de_DE/e1b2daabb54aa4e5edb31ed25aa2ac21.jpg"
+  },
+  "name": "Artemis, Goddess of the Hunt",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "3",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "4",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[Temple] {2}. (You may play me for {2} as a Landmark Permanent - Construction with: \"At Noon — You may send me to Reserve.\")  At Noon — Each Character in your Expeditions gain 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-065-E-EN"
+}

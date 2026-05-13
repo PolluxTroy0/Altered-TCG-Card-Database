@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_135_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/55EMGN65YY8VETBP8SRFKHCGFR",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A4327XP0WCW7D47NJE86",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A4327XP0WCW7D47NJE86",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A43ATSC1W88SRK2VH965",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A43ATSC1W88SRK2VH965",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4365HQ0KYKF31Q3EC35",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A4365HQ0KYKF31Q3EC35",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42TYNFHJR2SCSFPQ0ZD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A42TYNFHJR2SCSFPQ0ZD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A42ZYJQWJ8MR85GTF2N9",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A42ZYJQWJ8MR85GTF2N9",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "55EMGN65YY8VETBP8SRFKHCGFR",
+      "reference": "ALT_FUGUE_B_AX_135_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/5835ef61fd63074fc821",
+      "reference": "ENGINEER",
+      "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+      "name": "Ingénieur"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/3f1fe8b2605ebbd75e2c",
+      "reference": "TITAN",
+      "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
+      "name": "Titan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/1cf6e8f543cabe824072",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/fr_FR/f75777b46b55c10a5a94cfd3ad2c3ca5.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/WEB_6fea3bcf9cc9b4202efc5e1138663184",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/WEB_0b59f29bf6b12d23445f8bbaf8307971",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/WEB_8c4dd6a6b3a9b9a6235669531c3834ae"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_135_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_135_C",
+  "id": "6V1YQPNHFH9EFRV1VQ5JR0VV1N",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/fr_FR/f75777b46b55c10a5a94cfd3ad2c3ca5.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/en_US/515b9df320fc6e08c35c6680d26c2638.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/it_IT/42a8a3bcb6996d4ffe2987dc558947a8.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/es_ES/ba3d170d0b95a19e40ddb44f858d27b3.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_135/JPG/de_DE/55b4e95a6f3be9c697d46dc4af575540.jpg"
+  },
+  "name": "Argès",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "6",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[Gigantesque]. (Je suis considéré présent dans chacune de vos Expéditions.)  {J} S'il y a au moins deux cartes dans vos Repères, je gagne 1 boost."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-011-C-FR"
+}

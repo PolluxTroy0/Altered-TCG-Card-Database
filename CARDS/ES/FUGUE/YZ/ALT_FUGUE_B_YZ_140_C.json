@@ -1,0 +1,160 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_140_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4DBXQ6WC7G91N9MB1WRNAEX51R",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46ABFBZWSD8ED52DX0W8HP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46ABFBZWSD8ED52DX0W8HP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABG84DWT1PR1KYGBQW7A",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46ABG84DWT1PR1KYGBQW7A",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABFTN699WEJHGWNFEMJ5",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46ABFTN699WEJHGWNFEMJ5",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABDDAJJ62FQZ3V6FAFAP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46ABDDAJJ62FQZ3V6FAFAP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46ABDSRJV7H68QZ18BK7ZT",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46ABDSRJV7H68QZ18BK7ZT",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4DBXQ6WC7G91N9MB1WRNAEX51R",
+      "reference": "ALT_FUGUE_B_YZ_140_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f2e87caa0c3f95bd481d",
+      "reference": "FAIRY",
+      "id": "01HKAGPBKC6V2RK28EZGHP8VWW",
+      "name": "Hada"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/07cf890ee2ff1853c06f",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/JPG/es_ES/b3812c1757b9abbd142b85af4bfc4908.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/WEB_f4d42d5fb55c6faca8ae286074d57ba2",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/WEB_e169ca4f493885493b44039518d12bfd",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/WEB_eba77efc9e191bbbbfcac421d7516783"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_140_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_140_C",
+  "id": "0R1BXZVJDN8GZRN6V33ZDM6P83",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/JPG/fr_FR/e5f9b9ac90a1f16ec8afbaca0914c503.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/JPG/en_US/26215470a8331f032bbfd805be846881.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/JPG/it_IT/bd2a1712d7cd98891d8ea077e7d1450e.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/JPG/es_ES/b3812c1757b9abbd142b85af4bfc4908.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_140/JPG/de_DE/9dd29d81e33d54e1eb74c201ee44452b.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "6",
+    "RECALL_COST": "1",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "1",
+    "MOUNTAIN_POWER": "1",
+    "MAIN_EFFECT": "{H} Target non-[[Anclaje]] Character defects. (Joining the Expedition facing it.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-101-C-ES"
+}

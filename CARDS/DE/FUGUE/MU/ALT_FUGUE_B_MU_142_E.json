@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_142_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6GDYP5A7GK93HA5P0GH4E0DGS9",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A7N98DC3VQ706PP02E65",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A7N98DC3VQ706PP02E65",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7P9QQR4QAJMW99BZ96T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A7P9QQR4QAJMW99BZ96T",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7NZYJNFDB662ZB0QXY1",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A7NZYJNFDB662ZB0QXY1",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7KP6NK3ZW85PHY7S1FV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A7KP6NK3ZW85PHY7S1FV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7M225QX9BXBTHJHQYA0",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A7M225QX9BXBTHJHQYA0",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "6GDYP5A7GK93HA5P0GH4E0DGS9",
+      "reference": "ALT_FUGUE_B_MU_142_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Charakter"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/54450ecde79100b05e34",
+      "reference": "LEVIATHAN",
+      "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+      "name": "Leviathan"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/7f01c2555803049d6fe8",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/JPG/de_DE/305e9b8a26738491a7c0f13d25d85010.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/WEB_1c70580424506a2fc52702e81de0d59d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/WEB_e7f61f69b36699014431d7f7b4983fc8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_142_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_142_E",
+  "id": "5DTFKSW36D9C3B3EKF4WP1PS6H",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/JPG/fr_FR/f663cf6a677dd8592e184d0b5e882cea.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/JPG/en_US/d2126bea494717c709cf7950875dc1d5.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/JPG/it_IT/ed5031db49f38a096495b9fa383e7c2c.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/JPG/es_ES/2db2161a4c0d7f35c2d711efd7a435ea.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_142/JPG/de_DE/305e9b8a26738491a7c0f13d25d85010.jpg"
+  },
+  "name": "Scylla",
+  "elements": {
+    "MAIN_COST": "7",
+    "RECALL_COST": "5",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "[Gigantisch].  {H} Each player discards their hand, then draws three cards. Then, if the number of cards discarded this way is:  • 4+, I gain 1 boost.  • 6+, [Sabotage].  • 8+, target Expedition moves backwards one region."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-067-E-DE"
+}

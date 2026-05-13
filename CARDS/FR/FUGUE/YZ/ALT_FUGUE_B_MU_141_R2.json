@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_141_R2",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/5GTRQ72XGA9PBAS79BWV8XC5KC",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A7J4HW4VZJFQXYYZHCEH",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A7J4HW4VZJFQXYYZHCEH",
+          "text": "Gare aux morilles !"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7K1G01M1NCFZGS2EPTY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A7K1G01M1NCFZGS2EPTY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7JQF2J38K8JM6R71PNJ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A7JQF2J38K8JM6R71PNJ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7GHMXV59T0EKSZFVERK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A7GHMXV59T0EKSZFVERK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A7GVXWJ813M006VVQRXV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A7GVXWJ813M006VVQRXV",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "5GTRQ72XGA9PBAS79BWV8XC5KC",
+      "reference": "ALT_FUGUE_B_MU_141_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personnage"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/0be226d4486df249e4ad",
+      "reference": "DRUID",
+      "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+      "name": "Druide"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e926cab0fefe5b2b8e80",
+      "reference": "SOLDIER",
+      "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+      "name": "Soldat"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/c845a735f19c8cf43eea",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/JPG/fr_FR/83531d59e448402a5849bf8948423876.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/WEB_90de1132c422c82cd3156c159cba6bf8",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/WEB_b08d73b7b1e1967390dd8468aa2f3a55",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/WEB_bd5a4863a8150653458a26d75334ab57"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_141_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_141_R2",
+  "id": "4KXN9W4RKW828R9G94N26BQD00",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/JPG/fr_FR/83531d59e448402a5849bf8948423876.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/JPG/en_US/c80f91fe5ac35aad7d4d0053c2550665.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/JPG/it_IT/f0b9fe015c309872fc61ce75c60fb437.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/JPG/es_ES/2223ec73d364a846a549b909bfa260eb.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_141/JPG/de_DE/89f1079f1160f8694247082197173189.jpg"
+  },
+  "name": "Célèbre Mycologue",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "3",
+    "MAIN_EFFECT": "#{J}# Vous pouvez sacrifier un jeton #ou défausser un jeton de votre Réserve# pour [Saboter]."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-061-F-FR"
+}

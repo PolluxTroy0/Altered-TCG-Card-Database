@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_YZ_130_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/1VRH1HAZBK982A4MK35ENZYBKW",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46AAA086T4Z0EZE24Z9ADE",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46AAA086T4Z0EZE24Z9ADE",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAAPAAJ17ZEPNE1C9CFM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46AAAPAAJ17ZEPNE1C9CFM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AAABZMZTYNEM2KTYGRAM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46AAABZMZTYNEM2KTYGRAM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AA81EGBFHT8Q2G7NR69D",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46AA81EGBFHT8Q2G7NR69D",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46AA9PND4WNMS8XNQSXJMQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46AA9PND4WNMS8XNQSXJMQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "1VRH1HAZBK982A4MK35ENZYBKW",
+      "reference": "ALT_FUGUE_B_YZ_130_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Held"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/72605e9a2fce92160a7e",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/JPG/de_DE/9a4eb9724edc11970702a4b839fc782d.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/HERO_THUMB_2177d18bc1723132d8c59a3a022a0241"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/HERO_WIDE_d83ae6f3f01bbc62cd397678aa7f8266"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/WEB_3d0f8243b5234f87ff5ab08e8289813c"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_YZ_130_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_YZ_130_C",
+  "id": "2XYXRDMZ1M8GGB9KPZFNSXK523",
+  "mainFaction": {
+    "@id": "/factions/YZ",
+    "@type": "Faction",
+    "reference": "YZ",
+    "color": "#764891",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+    "name": "Yzmir"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/JPG/fr_FR/708a03c7526ca03bc5e08beaf0b40704.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/JPG/en_US/c9ed834f671f76982b8915af3fc88690.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/JPG/it_IT/bc3fed38d38120f3bdf478aeb93c69e9.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/JPG/es_ES/a6a508fbde5328d95f11d2285a60d1ce.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_YZ_130/JPG/de_DE/9a4eb9724edc11970702a4b839fc782d.jpg"
+  },
+  "name": "Gray",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "{T}, Sacrifice a Character: Target Character gains 1 boost.  At Noon — If you're first player, create my [SIGNATURE_TOKEN]: [MOLTED_MAW] in your Reserve (It's a Companion with Reserve Cost {1} and \"When you sacrifice a Character — I gain 1 boost.\")"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-091-H-DE"
+}

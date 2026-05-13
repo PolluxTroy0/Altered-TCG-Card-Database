@@ -1,0 +1,167 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_138_R1",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/4MT8QBWQD78RFA631DCPNBXHVY",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A5QT12TTMW2V3Y4DCK01",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A5QT12TTMW2V3Y4DCK01",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5R9TA5G2G0NR19KBGXN",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A5R9TA5G2G0NR19KBGXN",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5R21DK5YN8TFYS4METR",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5R21DK5YN8TFYS4METR",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5PVHZSVEWQSXVEQX1KK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A5PVHZSVEWQSXVEQX1KK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5QKPSH2BFJ7Z7Y47VN4",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A5QKPSH2BFJ7Z7Y47VN4",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "4MT8QBWQD78RFA631DCPNBXHVY",
+      "reference": "ALT_FUGUE_B_LY_138_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Character"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/ec0175bd29988447f5dc",
+      "reference": "CITIZEN",
+      "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+      "name": "Citizen"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d14103b0aa61196d6c0a",
+      "reference": "ROGUE",
+      "id": "01JZ2K0A1NZSGT69DP1WS2917B",
+      "name": "Rogue"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a3a9a3073f6893304fdf",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/JPG/en_US/b315539ba15ce81662846f76db06b539.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/WEB_36b01264110032ff4ee7e02ad63e9412",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/WEB_aa6f4ca4b4434da1960f513814311b09",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/WEB_8f86fe8db05f95df204ab18841839a2d"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_138_R1",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_138_R1",
+  "id": "6A10XRNE3N9Q8SXYCYN4R808K9",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/JPG/fr_FR/759ef8c05754f6972aa4da8bd7258a5f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/JPG/en_US/b315539ba15ce81662846f76db06b539.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/JPG/it_IT/f2525995d9327f9c7a0a8cfffbd99a75.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/JPG/es_ES/2501232f4b617aa3d04d91f0914a28e9.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_138/JPG/de_DE/4fd8282225fff6df60ed209a0bfec6dc.jpg"
+  },
+  "name": "Lotus-Eater",
+  "elements": {
+    "MAIN_COST": "3",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "3",
+    "FOREST_POWER": "3",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{H} Roll a die, then [Sabotage] a card with Reserve Cost less than or equal to the die's result. #On a 6+, you may also [Sabotage] another card.#"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-045-R-EN"
+}

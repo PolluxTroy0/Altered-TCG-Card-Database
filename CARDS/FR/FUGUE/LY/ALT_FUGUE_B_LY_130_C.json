@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_130_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/6CBNPYHCB791HTA6G8KZF4WTH0",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A58J09JRZ9EWJ82MA55Z",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A58J09JRZ9EWJ82MA55Z",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A58ZZ9VE0K2TC138RH0M",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Histoire"
+          },
+          "id": "01KN46A58ZZ9VE0K2TC138RH0M",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A58S9NXBH8RNTV03MEPK",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A58S9NXBH8RNTV03MEPK",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A585P9AE6YYM7FBYHVR7",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narré par"
+          },
+          "id": "01KN46A585P9AE6YYM7FBYHVR7",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A58CM1MVYP8T5B5K6CCP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A58CM1MVYP8T5B5K6CCP",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "6CBNPYHCB791HTA6G8KZF4WTH0",
+      "reference": "ALT_FUGUE_B_LY_130_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héros"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "La Traversée Éternelle"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/2940760b5b2ce7c715c9",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Commun"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/JPG/fr_FR/aa411152fa8f5d67435cf873ebaf62f6.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/HERO_THUMB_6c96de6c8c73cc28b0f842a59c6bfe7c"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/HERO_WIDE_8e7710672d09778fc0f60aa7f16aa9fe"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/WEB_cd426447e11f897020505705832fabb3"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_130_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_130_C",
+  "id": "28F7AZR7359HSAEJFJVTXGFJ06",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/JPG/fr_FR/aa411152fa8f5d67435cf873ebaf62f6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/JPG/en_US/31f562f841773f277a52eeb8f4f26af0.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/JPG/it_IT/ee510549d68a2c2e83e5316c05eabb01.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/JPG/es_ES/08e08def01770d234ad6759e6ac10674.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_130/JPG/de_DE/43d27a1b57b555e8f567bf3463927bfa.jpg"
+  },
+  "name": "Zoé",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "RESERVE": "2",
+    "PERMANENT": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "Lorsque vous lancez au moins un dé — Sur 6+, vous pouvez m'épuiser pour créer mon jeton Signature dans votre Réserve.  À Midi — Si vous êtes premier joueur, créez mon [Jeton Signature] : [1/1/1 Shift] dans votre Réserve. (C'est un Compagnon avec un Coût de Réserve de {1} et : « {r} Lancez un dé. Sur 4+, je gagne 1 boost. »)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-037-H-FR"
+}

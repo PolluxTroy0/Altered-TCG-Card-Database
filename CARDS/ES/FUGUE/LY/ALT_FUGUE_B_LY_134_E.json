@@ -1,0 +1,159 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_LY_134_E",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/28WF09E5XZ89GSTZ7ZD5PXEG74",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A5FATTDKWJKSY0JJW79H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A5FATTDKWJKSY0JJW79H",
+          "text": "“Let me guide you, I know the end of this journey.”"
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5GHZF9M3R89FK8P57KP",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A5GHZF9M3R89FK8P57KP",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5FHCAQ33HX1PK0P6D31",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A5FHCAQ33HX1PK0P6D31",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5EXZ0V4BAQ9TCPSS1PD",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A5EXZ0V4BAQ9TCPSS1PD",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A5F4VB154ZX0P090P43H",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A5F4VB154ZX0P090P43H",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "28WF09E5XZ89GSTZ7ZD5PXEG74",
+      "reference": "ALT_FUGUE_B_LY_134_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+    "@type": "CardType",
+    "reference": "CHARACTER",
+    "id": "01H19NWA92A4ERAC4ATMSZNASS",
+    "name": "Personaje"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/f779f8fe6625289bf730",
+      "reference": "ADVENTURER",
+      "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+      "name": "Aventurero"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/a77467a6d3649bd51254",
+    "reference": "EXALTED",
+    "id": "01K3GVRQNY6NY3BCRBY53VDZ58",
+    "name": "Exalted"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/JPG/es_ES/fea33d08ebaae8755f94e835a51f8b51.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/WEB_4a722212476e6ff00f3ba64371928d0d",
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/WEB_cd89145b80e72f7cc0b2fa88be8221b8"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_LY_134_E",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_LY_134_E",
+  "id": "1ZVFVVFWT39ZQ8B5NAP16PCTF3",
+  "mainFaction": {
+    "@id": "/factions/LY",
+    "@type": "Faction",
+    "reference": "LY",
+    "color": "#cf4171",
+    "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+    "name": "Lyra"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/JPG/fr_FR/a6f49821eb54db3df4a5cedfefc9ae0f.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/JPG/en_US/43793a0fb17866fb7bc1a361e47d5377.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/JPG/it_IT/ae8ece7db80df859d23e36c4903c4481.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/JPG/es_ES/fea33d08ebaae8755f94e835a51f8b51.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_LY_134/JPG/de_DE/a99cbc1967e5d0280a894316fc2cc9ca.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "4",
+    "RECALL_COST": "4",
+    "OCEAN_POWER": "0",
+    "FOREST_POWER": "0",
+    "MOUNTAIN_POWER": "0",
+    "MAIN_EFFECT": "{H} Put an {V}, {M}, or {O} Terrain Marker on target visible region.  {J} I gain 1 boost per visible single-terrain region."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-049-E-ES"
+}

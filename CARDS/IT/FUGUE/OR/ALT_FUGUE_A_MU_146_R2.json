@@ -1,0 +1,73 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_A_MU_146_R2",
+  "@type": "Card",
+  "loreEntries": [],
+  "cardType": {
+    "@id": "/card_types/01J1Q78N4S1E64PN4T7GB4T59F",
+    "@type": "CardType",
+    "reference": "LANDMARK_PERMANENT",
+    "id": "01J1Q78N4S1E64PN4T7GB4T59F",
+    "name": "Permanente Fulcro"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/e8c0690c0e3242a8c527",
+      "reference": "SITE",
+      "id": "01J1SYC3P1C9H7CT2H8C0WN9CT",
+      "name": "Sito"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/e6dd41d4e7762d3aa44f",
+    "reference": "RARE",
+    "id": "01GE7AC9WY6PK56RADXXD6P1T5",
+    "name": "Rare"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_MU_146/JPG/it_IT/3ab83dadac0b6c682f6cf20945e345a7.jpg",
+  "assets": [],
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_A_MU_146_R2",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_A_MU_146_R2",
+  "id": "28SAFSRYTD8GYV9ZMEC9HSRJY9",
+  "mainFaction": {
+    "@id": "/factions/OR",
+    "@type": "Faction",
+    "reference": "OR",
+    "color": "#0f6593",
+    "id": "01GE7AC9X78DXSNKNB15KCF69X",
+    "name": "Ordis"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_MU_146/JPG/fr_FR/bfcb7f75b4e5f024ec071e2f9a250f84.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_MU_146/JPG/en_US/bb3fc48769f60c70948b46b43fa77fb2.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_MU_146/JPG/it_IT/3ab83dadac0b6c682f6cf20945e345a7.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_MU_146/JPG/es_ES/207db59aea400f251faec0a62947bc42.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_A_MU_146/JPG/de_DE/9555125088f3acfbb178d6feeee6238d.jpg"
+  },
+  "name": "Fane of Calypso",
+  "elements": {
+    "MAIN_COST": "#1#",
+    "RECALL_COST": "#1#",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "{J} #[Rifornisci].#  If an #[[Dormiente]]# Character would leave your Expeditions during the Afternoon, you may #sacrifice me# instead."
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-A-072-F-IT"
+}

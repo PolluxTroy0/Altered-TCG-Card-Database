@@ -1,0 +1,34 @@
+{
+  "ALT_CYCLONE_B_YZ_75_R2": {
+    "@context": {
+      "@vocab": "https://api.altered.gg/?_format=jsonld#",
+      "hydra": "http://www.w3.org/ns/hydra/core#",
+      "news": "CardHistoryData/news",
+      "cardHistories": "CardHistoryData/cardHistories"
+    },
+    "@type": "CardHistoryData",
+    "@id": "/.well-known/genid/6e6c8a3f92300396530b",
+    "news": {
+      "@type": "CardHistory",
+      "@id": "/.well-known/genid/f97f8dc9b433e3a35376",
+      "id": "591",
+      "fromDate": "2025-09-20T12:56:49+00:00",
+      "type": "FUNCTIONAL_ERRATUM",
+      "name": "Misprint of Ordis version Moth Collision",
+      "answer": "The first printing of the Rare, Ordis version of Moth Collision mistakenly read  \"[Fleeting].  If you control a #Soldier#, I cost #{2} less.# Discard target Character #with Hand Cost {3} or less.#\".  The correct version says  \"[Fleeting].  If you control a #Soldier,# I cost {1} less.  Discard target Character.\"",
+      "question": "Did the text of this card change?"
+    },
+    "cardHistories": [
+      {
+        "@type": "CardHistory",
+        "@id": "/.well-known/genid/f97f8dc9b433e3a35376",
+        "id": "591",
+        "fromDate": "2025-09-20T12:56:49+00:00",
+        "type": "FUNCTIONAL_ERRATUM",
+        "name": "Misprint of Ordis version Moth Collision",
+        "answer": "The first printing of the Rare, Ordis version of Moth Collision mistakenly read  \"[Fleeting].  If you control a #Soldier#, I cost #{2} less.# Discard target Character #with Hand Cost {3} or less.#\".  The correct version says  \"[Fleeting].  If you control a #Soldier,# I cost {1} less.  Discard target Character.\"",
+        "question": "Did the text of this card change?"
+      }
+    ]
+  }
+}

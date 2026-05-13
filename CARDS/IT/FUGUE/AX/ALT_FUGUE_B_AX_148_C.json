@@ -1,0 +1,165 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_AX_148_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/0YG49CW13F92B8WSWZ0KX6HXJ8",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A4DPDH1JEK1Z5VGGC9JS",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A4DPDH1JEK1Z5VGGC9JS",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4E9AP9YF2YXF8G10P82",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A4E9AP9YF2YXF8G10P82",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4E45384WBAR3T7RMCHV",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A4E45384WBAR3T7RMCHV",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4DB28BDM0201FM10G2S",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A4DB28BDM0201FM10G2S",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A4DJVKRQGV8E3GSW6VQQ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A4DJVKRQGV8E3GSW6VQQ",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "@type": "LoreEntryType",
+        "id": "01HNGY4YPR0FVZVYWD8YFE0PHP",
+        "reference": "CHARACTER",
+        "name": "Character"
+      },
+      "id": "0YG49CW13F92B8WSWZ0KX6HXJ8",
+      "reference": "ALT_FUGUE_B_AX_148_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01H0FV1VGP26CD3DFE8W3PWTQT",
+    "@type": "CardType",
+    "reference": "TOKEN",
+    "id": "01H0FV1VGP26CD3DFE8W3PWTQT",
+    "name": "Pedina Personaggio"
+  },
+  "cardSubTypes": [
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/d45fc07ae477e44517e4",
+      "reference": "ROBOT",
+      "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+      "name": "Robot"
+    },
+    {
+      "@type": "CardSubType",
+      "@id": "/.well-known/genid/19445fde8acd42b72a40",
+      "reference": "COMPANION",
+      "id": "01HKAGQPYTEKRYT4PRE9HZHTDA",
+      "name": "Compagno"
+    }
+  ],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/14db27b51ce10b4beba0",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/JPG/it_IT/fe5138b3c9e9af6f0f4ac8fcd5612002.jpg",
+  "assets": {
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/WEB_b01b577ce2626205da12a5c13e4bdc23"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_AX_148_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_AX_148_C",
+  "id": "6NFQA5N9D58QHRYD7D3F1ZJKS7",
+  "mainFaction": {
+    "@id": "/factions/AX",
+    "@type": "Faction",
+    "reference": "AX",
+    "color": "#8c432a",
+    "id": "01GE7AC9XBG707G19F03A95TH1",
+    "name": "Axiom"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/JPG/fr_FR/69c80e0ef1b306de913492801efe197d.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/JPG/en_US/1f9045a345f02924198869d8f0d5a148.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/JPG/it_IT/fe5138b3c9e9af6f0f4ac8fcd5612002.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/JPG/es_ES/32d5514ad544cb3aa7f43133ad8f724b.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_AX_148/JPG/de_DE/a38cbeda2c2d53858d177ac60037ec6f.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "",
+    "RECALL_COST": "2",
+    "OCEAN_POWER": "2",
+    "FOREST_POWER": "2",
+    "MOUNTAIN_POWER": "2",
+    "MAIN_EFFECT": "I cost {2} less if you played a Construction this Day.  (I'm created in Reserve. You can play me in an Expedition. Remove me from the game if I would go anywhere else.)"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-109-T-IT"
+}

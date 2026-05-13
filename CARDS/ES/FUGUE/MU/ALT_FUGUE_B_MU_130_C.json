@@ -1,0 +1,158 @@
+{
+  "@context": "/contexts/Card",
+  "@id": "/cards/ALT_FUGUE_B_MU_130_C",
+  "@type": "Card",
+  "loreEntries": [
+    {
+      "@id": "/lore_entries/2HRED5QZXR9BMTGBAYS31Y70DH",
+      "@type": "LoreEntry",
+      "loreEntryElements": [
+        {
+          "@id": "/lore_entry_elements/01KN46A6GYFKQMC3CW4WMP9AKZ",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AENPX6HQP8G16KNV7BNA2",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AENPX6HQP8G16KNV7BNA2",
+            "reference": "FLAVOR_TEXT",
+            "subject": "Flavor Text"
+          },
+          "id": "01KN46A6GYFKQMC3CW4WMP9AKZ",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6HEKBDRTDDB20VSD0NM",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AE2ZSVVYP6SDJXN8Q5DVF",
+            "reference": "STORY",
+            "subject": "Story"
+          },
+          "id": "01KN46A6HEKBDRTDDB20VSD0NM",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6H6CT647RH2ZF1GRNRY",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GR6AFCC93PF6T4EYVTXXYJY9",
+            "@type": "LoreEntryElementType",
+            "id": "01GR6AFCC93PF6T4EYVTXXYJY9",
+            "reference": "INSPIRATION",
+            "subject": "Inspiration"
+          },
+          "id": "01KN46A6H6CT647RH2ZF1GRNRY",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6GDZ5Q304DC0YS6N6KA",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01H19024M31D80P12EJCYX9GB0",
+            "@type": "LoreEntryElementType",
+            "id": "01H19024M31D80P12EJCYX9GB0",
+            "reference": "NARRATOR",
+            "subject": "Narrator"
+          },
+          "id": "01KN46A6GDZ5Q304DC0YS6N6KA",
+          "text": ""
+        },
+        {
+          "@id": "/lore_entry_elements/01KN46A6GP6MKZ10AG2AKN9Q0T",
+          "@type": "LoreEntryElement",
+          "loreEntryElementType": {
+            "@id": "/lore_entry_element_types/01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "@type": "LoreEntryElementType",
+            "id": "01GS7V4ZMD4F2Q0EVQ2GSSJHE2",
+            "reference": "DATE",
+            "subject": "Date"
+          },
+          "id": "01KN46A6GP6MKZ10AG2AKN9Q0T",
+          "text": ""
+        }
+      ],
+      "loreEntryType": {
+        "@id": "/lore_entry_types/01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "@type": "LoreEntryType",
+        "id": "01HNE2ZDSBVNHKJ8P47G3GACVQ",
+        "reference": "HERO",
+        "name": "Hero"
+      },
+      "id": "2HRED5QZXR9BMTGBAYS31Y70DH",
+      "reference": "ALT_FUGUE_B_MU_130_C"
+    }
+  ],
+  "cardType": {
+    "@id": "/card_types/01GE7AC9WGQTNRP28T63FH8TZD",
+    "@type": "CardType",
+    "reference": "HERO",
+    "id": "01GE7AC9WGQTNRP28T63FH8TZD",
+    "name": "Héroe de"
+  },
+  "cardSubTypes": [],
+  "cardSet": {
+    "@id": "/card_sets/FUGUE",
+    "@type": "CardSet",
+    "id": "01KM5YCEK1YMWY30RHG5PV0MFY",
+    "reference": "FUGUE",
+    "name": "Neverending Journey"
+  },
+  "rarity": {
+    "@type": "Rarity",
+    "@id": "/.well-known/genid/5e7ce12ed4c5715726ff",
+    "reference": "COMMON",
+    "id": "01GE7AC9WEQKW1Y1BF8SCY745A",
+    "name": "Common"
+  },
+  "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/JPG/es_ES/6d9055d64cc8f427e0a84cfcdfde0973.jpg",
+  "assets": {
+    "HERO_THUMB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/HERO_THUMB_abab2b41cd5436cc85648bd752057c93"
+    ],
+    "HERO_WIDE": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/HERO_WIDE_eb4351a69a5490a8387930e25f0077bb"
+    ],
+    "WEB": [
+      "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/WEB_e34d2fd23166bad21f8a083aaf8a3eec"
+    ]
+  },
+  "lowerPrice": 0,
+  "qrUrlDetail": "https://qr.altered.gg/ALT_FUGUE_B_MU_130_C",
+  "isOwnerless": true,
+  "reference": "ALT_FUGUE_B_MU_130_C",
+  "id": "7Y5NETK71N8PVV6QF6TCCFGJS9",
+  "mainFaction": {
+    "@id": "/factions/MU",
+    "@type": "Faction",
+    "reference": "MU",
+    "color": "#3d6b42",
+    "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+    "name": "Muna"
+  },
+  "allImagePath": {
+    "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/JPG/fr_FR/add00e863502fea2252d0eb2021a8db6.jpg",
+    "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/JPG/en_US/699c9cc3c60d9c0a7f9caff4b3ea7654.jpg",
+    "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/JPG/it_IT/a2e67437ad95e0ffe7ef71a69e7d06fb.jpg",
+    "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/JPG/es_ES/6d9055d64cc8f427e0a84cfcdfde0973.jpg",
+    "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/FUGUE/CARDS/ALT_FUGUE_B_MU_130/JPG/de_DE/c87017cfcbaccffb9593db9d17263845.jpg"
+  },
+  "name": "",
+  "elements": {
+    "MAIN_COST": "0",
+    "RECALL_COST": "0",
+    "PERMANENT": "2",
+    "RESERVE": "2",
+    "OCEAN_POWER": "",
+    "FOREST_POWER": "",
+    "MOUNTAIN_POWER": "",
+    "MAIN_EFFECT": "At Noon — If you're first player, create my [SIGNATURE_TOKEN]: [TOOT] in your Reserve. (It's a Plant Companion with Reserve Cost {1} and \"{r} I gain Anchored.\")"
+  },
+  "isSuspended": false,
+  "isErrated": false,
+  "isBanned": false,
+  "isSerialized": false,
+  "isParentSerialized": false,
+  "collectorNumber": "NEJ-055-H-ES"
+}
